@@ -1,20 +1,17 @@
 <template>
-    <div>
-      Kleiner Perkins Fellows
-    </div>
-  </template>
-  
-  <style lang="ts" scoped>
-  css({
-    div: {
-      color: '#000000',
-      fontSize: '24px',
-      fontWeight: 'bold',
-      height: 'inherit',
-      '@dark': {
-        color: '{color.white}',
-      },
-    },
-  });
-  </style>
-  
+  <div>
+    <img src="/KP.png" alt="Kleiner Perkins Fellows" class="logo" />
+  </div>
+</template>
+
+<style lang="ts" scoped>
+css({
+  div: {
+    height: 'inherit',
+  },
+  '.logo': {
+    width: '400px', /* Adjust the width as per your preference */
+    height: 'auto', /* Maintain the aspect ratio */
+  },
+});
+</style>

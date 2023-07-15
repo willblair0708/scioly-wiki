@@ -7,7 +7,7 @@ export default defineAppConfig({
       twitter: 'kp_fellows',
       nuxt: {
         label: 'Nuxt',
-        icon: 'fluent:brain-circuit-24-filled',
+        icon: 'ic:round-business-center',
         href: 'https://fellows.kleinerperkins.com/'
       }
     },

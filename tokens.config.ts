@@ -1,18 +1,18 @@
-import { defineTheme } from 'pinceau'
+import { defineTheme } from 'pinceau';
 
 export default defineTheme({
   color: {
     primary: {
-      50: "#FFF6E5",
-      100: "#FFEDCC",
-      200: "#FFDB99",
-      300: "#FFC966",
-      400: "#FFB833",
-      500: "#FFA500",
-      600: "#CC8500",
-      700: "#996300",
-      800: "#664200",
-      900: "#332100"
+      50: '#F5F8FA',
+      100: '#DCE7EE',
+      200: '#0C9FC1',
+      300: '#97AEC5',
+      400: '#7491B1',
+      500: '#0074DB', // Beautiful, professional, excellent shade of blue
+      600: '#0C9FC1',
+      700: '#0C9FC1',
+      800: '#0074DB',
+      900: '#091725'
     }
   }
-})
+});
