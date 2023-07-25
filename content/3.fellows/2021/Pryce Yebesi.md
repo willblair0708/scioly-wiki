@@ -6,10 +6,10 @@ Class of 2021
 Co-Founder And Chief Operations Officer at Utopia Labs
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

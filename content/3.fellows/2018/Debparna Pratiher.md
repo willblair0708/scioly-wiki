@@ -6,10 +6,10 @@ Class of 2018
 Co-Founder at Quest Labs
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

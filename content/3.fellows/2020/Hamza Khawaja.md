@@ -6,10 +6,10 @@ Class of 2020
 Founding Head Of Product at Stealth Mode Startup Company
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

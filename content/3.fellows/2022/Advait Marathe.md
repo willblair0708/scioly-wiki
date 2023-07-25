@@ -6,10 +6,10 @@ Class of 2022
 Associate Product Manager Intern at Duolingo
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

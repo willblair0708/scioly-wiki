@@ -6,10 +6,10 @@ Class of 2017
 Co-Founder And Chief Executive Officer at Parallax MicroSystems
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

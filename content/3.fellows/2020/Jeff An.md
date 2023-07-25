@@ -6,10 +6,10 @@ Class of 2020
 Technical Lead And Senior Software Engineer at Robinhood
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

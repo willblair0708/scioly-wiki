@@ -6,10 +6,10 @@ Class of 2021
 Incoming Associate Product Manager at Uber
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2014
 Partner at GSR Ventures
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

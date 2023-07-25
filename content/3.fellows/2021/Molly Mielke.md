@@ -6,10 +6,10 @@ Class of 2021
 Founding Partner at Moth Fund
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

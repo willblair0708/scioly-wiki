@@ -6,10 +6,10 @@ Class of 2022
 Vice President Of Technology at Blueprint
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

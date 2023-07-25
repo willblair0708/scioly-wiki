@@ -6,10 +6,10 @@ Class of 2022
 Software Engineering Intern at Figma
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

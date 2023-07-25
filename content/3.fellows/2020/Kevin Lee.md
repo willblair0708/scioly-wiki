@@ -6,10 +6,10 @@ Class of 2020
 Chief Of Staff And Product Manager at Untapped Capital
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

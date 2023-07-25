@@ -6,10 +6,10 @@ Class of 2016
 Designer at TBWA\HAKUHODO
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

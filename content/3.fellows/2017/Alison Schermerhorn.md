@@ -6,10 +6,10 @@ Class of 2017
 Senior Product Manager at Ridgeline
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

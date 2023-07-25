@@ -6,10 +6,10 @@ Class of 2016
 Enterprise Investment Partner, Deal Team at Andreessen Horowitz
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

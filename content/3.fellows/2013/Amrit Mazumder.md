@@ -6,10 +6,10 @@ Class of 2013
 Product Designer at Meta
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="info"}
 Current Company: Big Tech
 ::
 

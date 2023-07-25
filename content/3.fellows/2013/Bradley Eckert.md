@@ -6,10 +6,10 @@ Class of 2013
 Chief Operations Officer, Vice President Engineering at Koko Labs
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

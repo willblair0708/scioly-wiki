@@ -6,10 +6,10 @@ Class of 2013
 Co-Founder And Chief Technology Officer at Stelo Labs
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

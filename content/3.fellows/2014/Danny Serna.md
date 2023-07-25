@@ -6,10 +6,10 @@ Class of 2014
 Director Of Product at Zynga
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

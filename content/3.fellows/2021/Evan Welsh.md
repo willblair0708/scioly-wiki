@@ -6,10 +6,10 @@ Class of 2021
 Senior Software Engineer at Modern Health
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

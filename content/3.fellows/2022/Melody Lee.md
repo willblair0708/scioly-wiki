@@ -6,10 +6,10 @@ Class of 2022
 Associate Software Engineer at Slack
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

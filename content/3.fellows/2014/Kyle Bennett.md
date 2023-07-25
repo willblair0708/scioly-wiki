@@ -6,10 +6,10 @@ Class of 2014
 Product Design Manager at TikTok
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2015
 Head Of Product at Mindbloom
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

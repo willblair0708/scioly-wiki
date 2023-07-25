@@ -6,10 +6,10 @@ Class of 2020
 Product Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2021
 Software Engineer Intern at Snap
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2021
 Associate Product Manager Intern at Google
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="info"}
 Current Company: Big Tech
 ::
 

@@ -6,10 +6,10 @@ Class of 2012
 Systems And Ml Engineer at Twitter
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

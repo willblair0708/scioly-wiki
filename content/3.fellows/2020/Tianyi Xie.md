@@ -6,10 +6,10 @@ Class of 2020
 Senior Interaction Designer at Google
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="info"}
 Current Company: Big Tech
 ::
 

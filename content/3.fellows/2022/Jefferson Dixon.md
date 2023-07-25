@@ -6,10 +6,10 @@ Class of 2022
 Graduate Research Assistant at Hoover Institution at Stanford University
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2016
 Founder And Chief Executive Officer at sceniusxyz
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

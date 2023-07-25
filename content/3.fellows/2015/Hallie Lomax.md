@@ -6,10 +6,10 @@ Class of 2015
 Senior Software Engineer at Sorare
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

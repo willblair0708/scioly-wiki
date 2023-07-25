@@ -6,10 +6,10 @@ Class of 2022
 Founding Engineer at Peaze
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2012
 Principal Engineer at Sigma Computing
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

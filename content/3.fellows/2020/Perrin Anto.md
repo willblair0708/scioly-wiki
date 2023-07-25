@@ -6,10 +6,10 @@ Class of 2020
 User Experience Lead, Android Accessibility at Google
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="info"}
 Current Company: Big Tech
 ::
 

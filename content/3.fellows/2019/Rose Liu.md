@@ -6,10 +6,10 @@ Class of 2019
 Senior Product Manager at Reddit
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

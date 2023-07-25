@@ -6,10 +6,10 @@ Class of 2017
 Co-Founder at Pylon Manufacturing
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

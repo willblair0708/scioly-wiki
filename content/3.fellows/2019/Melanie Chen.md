@@ -6,10 +6,10 @@ Class of 2019
 Software Engineer at Plaid
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

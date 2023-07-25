@@ -6,10 +6,10 @@ Class of 2018
 Design Lead at Carbon Direct
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

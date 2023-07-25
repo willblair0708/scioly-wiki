@@ -6,10 +6,10 @@ Class of 2015
 Co-Founder, Chief Executive Officer at Karl Morf
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

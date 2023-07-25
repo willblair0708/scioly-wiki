@@ -6,10 +6,10 @@ Class of 2021
 Software Engineering Intern at Meta
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="info"}
 Current Company: Big Tech
 ::
 

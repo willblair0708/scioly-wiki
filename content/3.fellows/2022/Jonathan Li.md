@@ -6,10 +6,10 @@ Class of 2022
 Senior Principal Scientist at Datadog
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

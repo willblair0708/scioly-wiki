@@ -6,10 +6,10 @@ Class of 2017
 Software Engineer at Uniswap Labs
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

@@ -6,10 +6,10 @@ Class of 2017
 Co-Founder at Bonfire Ventures
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="success"}
 Current Company: Startup
 ::
 

@@ -6,10 +6,10 @@ Class of 2014
 Group Product Manager at Pinterest
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

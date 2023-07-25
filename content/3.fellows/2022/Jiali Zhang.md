@@ -6,10 +6,10 @@ Class of 2022
 Data Science Intern at Neuron23
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: False
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 

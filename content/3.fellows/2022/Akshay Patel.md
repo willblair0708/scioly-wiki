@@ -6,10 +6,10 @@ Class of 2022
 M.E.T @ Berkeley | Pear Vc | Kp Fellow at Pear Vc Bonfire Kleiner Perkins
 ::
 
-::badge{type="warning"}
+::badge{type="success"}
 Founder: True
 ::
-::badge{type="primary"}
+::badge{type="warning"}
 Current Company: Others
 ::
 
