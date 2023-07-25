@@ -1,0 +1,11 @@
+**Name**: Sean Bae
+**Class**: 2016
+**URL**: https://linkedin\.com/in/seanbae
+**Email**: s@seanbae\.net; sean\.bae@samsara\.com; sean@kleinerperkins\.com
+**Company**: Stealth Mode Startup Company
+**Position**: Founder
+**Location**: San Francisco
+**Skills**: Arduino; Java; Computer Science; Mathematica; Project Management; Linux; Prolog; Apache Spark; Mongodb; Ruby; Git; C; Node\.Js; Ocaml; Javascript; Latex; Python; Planet; Php; Programming; Mysql; Machine Learning; Physics; Simulations
+**Past Job Titles**: Technical Product Manager Intern; Director; Software Engineering Intern; Researcher; Founder; Software Engineer; Undergraduate Research Assistant; Research Intern; Software Engineer, Infrastructure; Kpcb Engineering Fellow; Research Engineer
+**Organizations**: Uber <uber\.com>; University of Maryland <umd\.edu>; Nextdoor <nextdoor\.com>; Notion <notion\.so>; Google <google\.com>; Samsara <samsara\.com>; Wolfram Research <wolfram\.com>; Startup Shell <startupshell\.org>; Sean Bae <seanbae\.com>; KPCB <kleinerperkins\.com>; Kleiner Perkins <kleinerperkins\.com>; Stealth Mode Startup Company <appcito\.net>; The National Security Agency <intelligencecareers\.gov>; Meta <meta\.com>; Google <goo\.gle>; Kleiner Perkins Caufield & Byers <kpcb\.com>
+**About**: https://www\.linkedin\.com/in/linnayao linnayao Linna Yao Motion designer https://media\.licdn\.com/dms/image/D4E03AQEk1pSj1\_\_JPQ/profile\-displayphoto\-shrink\_800\_800/0/1686167636334?e=1695859200&v=beta&t=\_tfxK66EpTz20q5h\_yRBty7vWYHTc8qpFbaRYAU5tT8 personal ACoAACx4q3gBPqaeSIpZb2Hu5nJouH6N9gKkTzw 746105720 United States United States False False Chinese NATIVE\_OR\_BILINGUAL English NATIVE\_OR\_BILINGUAL Design 3\-time Grand Prize Winner of the Congressional Art Competition US House of Representatives 2018 National YoungArts Foundation Winner in Visual Arts National YoungArts Foundation 2018 Artist Exhibitioner at the US Capitol, MoMA PS1, Bruce Museum & Pelham Art Center 36213 Kleiner Perkins https://media\.licdn\.com/dms/image/C560BAQG\_LjmNO4HjqA/company\-logo\_400\_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www\.linkedin\.com/company/kleinerperkins/ 11 50 3 2021 3 2021 Kleiner Perkins Design Fellow True 474 470 French LIMITED\_WORKING

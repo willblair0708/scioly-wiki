@@ -1,0 +1,11 @@
+**Name**: Cody Lieu
+**Class**: 2015
+**URL**: https://www\.linkedin\.com/in/codylieu
+**Email**: cody\.a\.lieu@gmail\.com
+**Company**: Coursera
+**Position**: Staff Software Engineer, Tech Lead
+**Location**: Mountain View
+**Skills**: C; Ruby On Rails; Heroku; Yeoman; Mongodb; Angularjs; Intellij Idea; Sml; Css; Numerical Analysis; Javascript; Python; Html; Postgresql; Java; Matlab; Twitter Bootstrap; Eclipse; Ruby; Latex; Computer Science; Git
+**Past Job Titles**: Staff Software Engineer; Tech Lead; Staff Software Engineer, Tech Lead; Software Engineer; Senior Software Engineer, Tech Lead Apprentice; Software Engineer Intern; Software Engineer Ii; 2015 Kpcb Engineering Fellow; Undergraduate Teaching Assistant
+**Organizations**: Indiegogo <indiegogo\.com>; Duke University <duke\.edu>; Guidewire Software <guidewire\.com>; Coursera <coursera\.org>; Kleiner Perkins Caufield & Byers <kpcb\.com>
+**About**: https://www\.linkedin\.com/in/david\-wang\-93088533 david\-wang\-93088533 David Wang Course Assistant at Stanford University personal ACoAAAcR\_vQBW5tVePwfHgbhq1orEuZPu7mvfn8 118619892 United States United States False False Computer Software Psychology One Scholar Award Nominee Awarded to students who complete outstanding Research and Writing projects in Intro to Psychology Stanford Department of Psychology 12 2013 2013 KPCB Engineering Fellow Our KPCB Fellows Program offers outstanding college students from across the United States an opportunity to gain significant experience working on unique and challenging technical, design and product problems, and to develop new relationships that are meaningful to their careers\. http://kpcbfellows\.com/meet\-the\-fellows/ Kleiner Perkins Caufield & Byers 3 2013 AP Scholar with Distinction College Board 2010 National Merit Finalist National Merit Scholarship Corporation 2010 1792 Stanford University https://media\.licdn\.com/dms/image/C560BAQHr9suxyJBXMw/company\-logo\_400\_400/0/1635534378574?e=1698278400&v=beta&t=n9zW0hQ5iti\-5mWACcvhev1jNx1tQmvV\-6eofG1ETX8 https://www\.linkedin\.com/school/stanford\-university/ 10001 1 2015 1 2015 Stanford University CS 107: Computer Organization and Systems CS 109: Introduction to Probability for Computer Scientists CS 110: Principles of Computer Systems Course Assistant Software Engineering Java C\+\+ Research Linux Teaching True 759 500
