@@ -1,195 +1,117 @@
-::block-hero
----
-#title
-Justin Bleuel
----
-
-:badge[2017]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/justin-bleuel-6a403431" blank}
-
-::callout
-#summary
-Email
-#content
-justin.bleuel@gmail.com; jmb2372@columbia.edu; jbleuel@uber.com; justin@noposit.com; justin@useavenue.com
+# Justin Bleuel
+::badge{type="info"}
+Class of 2017
+::
+::badge{type="success"}
+Co-Founder And Chief Executive Officer at Avenue
 ::
 
-::callout
-#summary
-Company
-#content
-Avenue
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder And Chief Executive Officer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/justin-bleuel-6a403431" blank}
+- **Email**: justin.bleuel@gmail.com; jmb2372@columbia.edu; jbleuel@uber.com; justin@noposit.com; justin@useavenue.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Product Management
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Mentoring
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-KPCB Product Fellow
+::code-group
+```bash [Bloomberg]
+bloomberg.com
+```
+```bash [Uber]
+uber.com
+```
+```bash [Tenlegs]
+tenlegs.com
+```
+```bash [Columbia University]
+columbia.edu
+```
+```bash [Google]
+google.com
+```
+```bash [Columbia School of Business]
+gsb.columbia.edu
+```
+```bash [Noposit]
+noposit.com
+```
+```bash [Avenue]
+avenue.so
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Co-Founder
-::
-::card
-#title
-Intern, Operations
-::
-::card
-#title
-Teaching Assistant
-::
-::card
-#title
-Co-Founder And Chief Executive Officer
-::
-::card
-#title
-Associate Product Manager
-::
-::card
-#title
-Associate Product Manager Intern
-::
-::card
-#title
-Independent Tutor
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Product Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Bloomberg
-#description
-[Go to website](bloomberg.com)
-::
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-Tenlegs
-#description
-[Go to website](tenlegs.com)
-::
-::card
-#title
-Columbia University
-#description
-[Go to website](columbia.edu)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Columbia School of Business
-#description
-[Go to website](gsb.columbia.edu)
-::
-::card
-#title
-Noposit
-#description
-[Go to website](noposit.com)
-::
-::card
-#title
-Avenue
-#description
-[Go to website](avenue.so)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **KPCB Product Fellow**
+- **Co-Founder**
+- **Intern, Operations**
+- **Teaching Assistant**
+- **Co-Founder And Chief Executive Officer**
+- **Associate Product Manager**
+- **Associate Product Manager Intern**
+- **Independent Tutor**
+- **Software Engineering Intern**
+- **Product Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/rahulsompuram rahulsompuram Rahul Sompuram Product Manager at Transform https://media.licdn.com/dms/image/C4E03AQEjg3pY41idWQ/profile-displayphoto-shrink_800_800/0/1561266039430?e=1695859200&v=beta&t=CPzV2Clju6isVh6mfNyjFIimu-enNFfg1HfwhtloA4g personal ACoAAB_SZkcBUn0lW-p9kQcUSaTPABMIb-fbqzA 533882439 I'm passionate about building impactful products that people want. United States United States False False English NATIVE_OR_BILINGUAL Spanish ELEMENTARY Computer Software Stay Home 3 2020 4 2020 As logically and morally necessary as social distancing is, added incentives always make a difference. Stay Home is an iOS game that rewards users for safe behavior, and provides a much needed positive focus in such a difficult time. standardizedContributor Rahul Sompuram Product Manager at Transform Horizons Hackathon 7 2018 7 2018 Won 2nd prize for "Best Overall".
-
-Created a React.js web-application called, “VidSearch,” that gives users CTRL-F functionality for videos. standardizedContributor Rahul Sompuram Product Manager at Transform 69157996 Cohere https://media.licdn.com/dms/image/C4D0BAQFQBVWODhLXJw/company-logo_400_400/0/1670432505035?e=1698278400&v=beta&t=AIE_f3xaPFPqR1rLpapyrQdZexvJU56xcuFbAauqt1c https://www.linkedin.com/company/coherehq/ 11 50 2021 6 2023 2021 6 2023 Cohere Acquired by Ramp Investor Product Management Leadership Software Development Research Software Quality Assurance Python Java JavaScript False 811 500 davidcheng-io David Cheng Software Engineer III at Google https://media.licdn.com/dms/image/C5603AQH20YIiK9-L_Q/profile-displayphoto-shrink_800_800/0/1592707261561?e=1695859200&v=beta&t=8L3JLwaPiRTVRrFpztzRBReLlrWwbAE1TBNKiGskn8Q ellieevansunc Ellie Evans Responsible AI + Policy, Cohere For AI https://media.licdn.com/dms/image/D5603AQF0IKJ4QV_pug/profile-displayphoto-shrink_800_800/0/1677532737024?e=1695859200&v=beta&t=g2RwJIGq6AJgz0N76ikTUmHq_P5U0iykJ6K-AT5JobA jackkelly3 Jack Kelly Software Engineer https://media.licdn.com/dms/image/C5603AQGmVGdQyngOGw/profile-displayphoto-shrink_800_800/0/1577940905348?e=1695859200&v=beta&t=6yqtz-OEOhsiLqxFLcQvGs4Jqlv5HTdjuw0L8vPAVlQ paul-yang-b63156118 Paul Yang Co-Founder at Transform - We Are Hiring! luke-zeller Luke Zeller Applied AI at Ramp https://media.licdn.com/dms/image/C5603AQGcjMTgJe7idQ/profile-displayphoto-shrink_800_800/0/1657409098483?e=1695859200&v=beta&t=0nZE3VaSqknfcNsSpdfDqjrr46bcF_VJDvnerPLR7FQ mdamore9 Marco d'Amore Engineering Manager @ dbt labs jasonscharff Jason Scharff Building something new allegraholland Allegra Holland Enterprise Customer Success @ Benchling https://media.licdn.com/dms/image/D5603AQH60-yMqWV35w/profile-displayphoto-shrink_800_800/0/1682783819714?e=1695859200&v=beta&t=icMBsvy4xZtulu5w-tqlyxaRk3bNF-8VnasfednM7xg conglei-shi Conglei Shi Building something new! (Hiring) jason-hf-wang Jason Wang swe in healthcare https://media.licdn.com/dms/image/C4D03AQEfj-uhxQpFpw/profile-displayphoto-shrink_800_800/0/1575321017357?e=1695859200&v=beta&t=TpoV1SD7es4jATFq33SDMovleSXpkiKL-WUR4pnpc-c Telugu LIMITED_WORKING standardizedContributor Trevor Pennypacker Senior TPM at Flock Safety standardizedContributor Michael L. Software Engineer Codestellation: Brandeis University Hackathon 10 2016 10 2016 Won 1st prize for "Best Database Hack" from HP Vertica. standardizedContributor Rahul Sompuram Product Manager at Transform Swift HTML standardizedContributor Aidan O'Day Product and UX Designer standardizedContributor William (Liam) Hash Senior Data Scientist at Gemini Cascading Style Sheets (CSS) Microsoft Office SQL standardizedContributor Anshul Nanda Head of Ops @ Sonr | Product Consultant @ FMC nonStandardizedContributor Vishnu Ravi
+#content
+rahulsompuram. Rahul. Sompuram. Product. Manager at. Transform personal --fbqzA. I'm passionate about building impactful products that people want. United. States. United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. ELEMENTARY. Computer. Software. Stay. Home. As logically and morally necessary as social distancing is, added incentives always make a difference. Stay. Home is an iOS game that rewards users for safe behavior, and provides a much needed positive focus in such a difficult time. Rahul. Sompuram. Product. Manager at. Transform. Horizons. Hackathon. Won prize for "Best. Overall". Created a. React.js web-application called, “VidSearch,” that gives users. CTRL-F functionality for videos. Rahul. Sompuram. Product. Manager at. Transform. Cohere. Cohere. Acquired by. Ramp. Investor. Product. Management. Leadership. Software. Development. Research. Software. Quality. Assurance. Python. Java. JavaScript. False davidcheng-io. David. Cheng. Software. Engineer. III at. Google ellieevansunc. Ellie. Evans. Responsible. AI + Policy, Cohere. For. AI. Jack. Kelly. Software. Engineer paul-yang- Paul. Yang. Co-Founder at. Transform - We. Are. Hiring! luke-zeller. Luke. Zeller. Applied. AI at. Ramp. Marco d'Amore. Engineering. Manager @ dbt labs jasonscharff. Jason. Scharff. Building something new allegraholland. Allegra. Holland. Enterprise. Customer. Success @ Benchling conglei-shi. Conglei. Shi. Building something new! (Hiring) jason-hf-wang. Jason. Wang swe in healthcare. Telugu. LIMITED_WORKING. Trevor. Pennypacker. Senior. TPM at. Flock. Safety. Michael. L. Software. Engineer. Codestellation: Brandeis. University. Hackathon. Won prize for "Best. Database. Hack" from. HP. Vertica. Rahul. Sompuram. Product. Manager at. Transform. Swift. HTML. Aidan. O'Day. Product and. UX. Designer. William (Liam) Hash. Senior. Data. Scientist at. Gemini. Cascading. Style. Sheets (CSS) Microsoft. Office. SQL. Anshul. Nanda. Head of. Ops @ Sonr | Product. Consultant @ FMC nonStandardizedContributor. Vishnu. Ravi
 ::

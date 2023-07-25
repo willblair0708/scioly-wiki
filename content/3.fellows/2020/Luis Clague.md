@@ -1,151 +1,88 @@
-::block-hero
----
-#title
-Luis Clague
----
+# Luis Clague
+::badge{type="info"}
+Class of 2020
+::
+::badge{type="success"}
+Software Engineer at Syndicate Bank
+::
 
-:badge[2020]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/luisclague" blank}
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
+::
 
-::callout
+::badge{type="success"}
+Sector: Tech
+::
+::callout{type="info"}
 #summary
-Email
+Contact Information
 #content
-lc61@rice.edu; lclague9@gmail.com; luis@syndicate.io
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/luisclague" blank}
+- **Email**: lc61@rice.edu; lclague9@gmail.com; luis@syndicate.io
+- **Location**: Houston
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Company
+Skills
 #content
-Syndicate Bank
+::badge{type="info"}
+
+::
 ::
 
-::callout
+::code-group
+```bash [Slack]
+slack.com
+```
+```bash [Rice University]
+rice.edu
+```
+```bash [Pear VC]
+pear.vc
+```
+```bash [Google]
+google.com
+```
+```bash [Contrary]
+contrarycap.com
+```
+```bash [Unshackled]
+unshackled.co
+```
+```bash [Syndicate Bank]
+syndicatebank.in
+```
+```bash [Syndicate]
+syndicateprotocol.org
+```
+```bash [Nearside]
+hatchcard.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+::
+::callout{type="warning"}
 #summary
-Position
+Roles
 #content
-Software Engineer
+- **Engineering Fellow**
+- **Software Engineer Intern**
+- **Engineering Practicum Intern**
+- **Pear Garage Fellow**
+- **Venture Partner**
+- **Unshackled Fellow**
+- **Software Engineer**
+- **Fullstack Developer**
 ::
 
-::callout
+::callout{type="info"}
 #summary
-Location
-#content
-Houston
-::
-
-## Skills
-::card-grid
-::card
-#title
-
-::
-::
-
-## Past Job Titles
-::card-grid
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Engineering Practicum Intern
-::
-::card
-#title
-Pear Garage Fellow
-::
-::card
-#title
-Venture Partner
-::
-::card
-#title
-Unshackled Fellow
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Fullstack Developer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Slack
-#description
-[Go to website](slack.com)
-::
-::card
-#title
-Rice University
-#description
-[Go to website](rice.edu)
-::
-::card
-#title
-Pear VC
-#description
-[Go to website](pear.vc)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Contrary
-#description
-[Go to website](contrarycap.com)
-::
-::card
-#title
-Unshackled
-#description
-[Go to website](unshackled.co)
-::
-::card
-#title
-Syndicate Bank
-#description
-[Go to website](syndicatebank.in)
-::
-::card
-#title
-Syndicate
-#description
-[Go to website](syndicateprotocol.org)
-::
-::card
-#title
-Nearside
-#description
-[Go to website](hatchcard.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
 About
-#description
-https://www.linkedin.com/in/david-thomas-1511a03a david-thomas-1511a03a David Thomas Machine Learning Engineer | Stanford Applied Math Ph.D. | Former HFT Quant https://media.licdn.com/dms/image/C5603AQECjMqaxG3Sgg/profile-displayphoto-shrink_800_800/0/1630473829917?e=1695859200&v=beta&t=GiGao6LfGpsmGCGz0QLpKMddaGoMg80_XqJFxzSlI2c https://media.licdn.com/dms/image/C5616AQFuIPYQSf9LkA/profile-displaybackgroundimage-shrink_350_1400/0/1630474106159?e=1695859200&v=beta&t=uy6XxlRpS38re5KmHLUfKrXPCBi-kta_bqewXc9ut-w personal ACoAAAg21s0B9vtwlGuYLV2XoxZIrAW_fjrZ5y4 137811661 United States Menlo Park, California Menlo Park California Menlo Park, California, United States False False Research 2135371 Stripe https://media.licdn.com/dms/image/C560BAQF1NNJs-2xA5g/company-logo_400_400/0/1594068219050?e=1698278400&v=beta&t=qNwQnxXycfa08X4OSpxwtIiJpPBdcbbAwU5cFUnDeAI https://www.linkedin.com/company/stripe/ 1001 5000 1 2022 1 2022 Stripe Tech lead for 8-person Fraud Actioning team. Senior Machine Learning Engineer Programming Machine Learning Distributed Systems True 896 500 5 2022 Planning Commissioner City of Menlo Park https://media.licdn.com/dms/image/C4D0BAQFGuaEzFYYZGw/company-logo_400_400/0/1519856821478?e=1698278400&v=beta&t=nm6wnhwM8ZSIQC7P446_2Fil-W0vWu967_Ppx_vQ1pc https://www.linkedin.com/company/city-of-menlo-park/ 5 2021 5 2022 Parks and Recreation Commissioner City of Menlo Park https://media.licdn.com/dms/image/C4D0BAQFGuaEzFYYZGw/company-logo_400_400/0/1519856821478?e=1698278400&v=beta&t=nm6wnhwM8ZSIQC7P446_2Fil-W0vWu967_Ppx_vQ1pc https://www.linkedin.com/company/city-of-menlo-park/ Chair
+#content
+david-thomas- David. Thomas. Machine. Learning. Engineer | Stanford. Applied. Math. Ph.D. | Former. HFT. Quant personal. United. States. Menlo. Park, California. Menlo. Park. California. Menlo. Park, California, United. States. False. False. Research. Stripe. Stripe. Tech lead for -person. Fraud. Actioning team. Senior. Machine. Learning. Engineer. Programming. Machine. Learning. Distributed. Systems. True. Planning. Commissioner. City of. Menlo. Park. Parks and. Recreation. Commissioner. City of. Menlo. Park. Chair
 ::

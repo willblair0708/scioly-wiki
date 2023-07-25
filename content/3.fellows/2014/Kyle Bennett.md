@@ -1,315 +1,212 @@
-::block-hero
----
-#title
-Kyle Bennett
----
-
-:badge[2014]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/kylecbennett" blank}
-
-::callout
-#summary
-Email
-#content
-kylechristopherb@gmail.com
+# Kyle Bennett
+::badge{type="info"}
+Class of 2014
+::
+::badge{type="success"}
+Product Design Manager at TikTok
 ::
 
-::callout
-#summary
-Company
-#content
-TikTok
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Healthcare
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Product Design Manager
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/kylecbennett" blank}
+- **Email**: kylechristopherb@gmail.com
+- **Location**: Los Angeles
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Los Angeles
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Packaging
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Typography
 ::
-::card
-#title
+::badge{type="info"}
 Logo Design
 ::
-::card
-#title
+::badge{type="info"}
 User Centered Design
 ::
-::card
-#title
+::badge{type="info"}
 Business Development
 ::
-::card
-#title
+::badge{type="info"}
 Layout
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Video Editing
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Time Management
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Healthcare Management
 ::
-::card
-#title
+::badge{type="info"}
 Branding And Identity
 ::
-::card
-#title
+::badge{type="info"}
 Sketching
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Social Media Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Healthcare Staffing
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Customer Service
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Creative Direction
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Product Design
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Iphone Application Development
 ::
-::card
-#title
+::badge{type="info"}
 User Experience Design
 ::
-::card
-#title
+::badge{type="info"}
 Drawing
 ::
-::card
-#title
+::badge{type="info"}
 Concept Development
 ::
-::card
-#title
+::badge{type="info"}
 Interaction Design
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Direct Marketing
 ::
-::card
-#title
+::badge{type="info"}
 User Interface
 ::
-::card
-#title
+::badge{type="info"}
 C++ Language
 ::
-::card
-#title
+::badge{type="info"}
 Cinema 4D
 ::
-::card
-#title
+::badge{type="info"}
 Graphics
 ::
-::card
-#title
+::badge{type="info"}
 Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Audio Post Production
 ::
-::card
-#title
+::badge{type="info"}
 Photography
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-UX Lead
+::code-group
+```bash [Skyscanner]
+skyscanner.net
+```
+```bash [Flipboard]
+flipboard.com
+```
+```bash [TikTok]
+tiktok.com
+```
+```bash [Google]
+google.com
+```
+```bash [LPK]
+lpk.com
+```
+```bash [Atlantic 57]
+atlantic57.com
+```
+```bash [Long Dash]
+longdash.co
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Brand And Packaging Design Intern
-::
-::card
-#title
-Founder, Design Lead
-::
-::card
-#title
-Product Design Manager
-::
-::card
-#title
-User Interface And User Experience Design Intern
-::
-::card
-#title
-User Experience Design Lead
-::
-::card
-#title
-Design Fellow
-::
-::card
-#title
-Design Lead
-::
-::card
-#title
-Product Manager + Product Designer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Skyscanner
-#description
-[Go to website](skyscanner.net)
-::
-::card
-#title
-Flipboard
-#description
-[Go to website](flipboard.com)
-::
-::card
-#title
-TikTok
-#description
-[Go to website](tiktok.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-LPK
-#description
-[Go to website](lpk.com)
-::
-::card
-#title
-Atlantic 57
-#description
-[Go to website](atlantic57.com)
-::
-::card
-#title
-Long Dash
-#description
-[Go to website](longdash.co)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **UX Lead**
+- **Brand And Packaging Design Intern**
+- **Founder, Design Lead**
+- **Product Design Manager**
+- **User Interface And User Experience Design Intern**
+- **User Experience Design Lead**
+- **Design Fellow**
+- **Design Lead**
+- **Product Manager + Product Designer**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/val-chibisov-1a0b0b14 https://www.linkedin.com/in/val-chibisov-1a0b0b14 Error
+#content
+Error
 ::

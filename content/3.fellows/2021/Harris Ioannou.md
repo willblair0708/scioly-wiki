@@ -1,373 +1,230 @@
-::block-hero
----
-#title
-Harris Ioannou
----
-
-:badge[2021]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/charalamposioannou" blank}
-
-::callout
-#summary
-Email
-#content
-charalampos.ioannou@gmail.com
+# Harris Ioannou
+::badge{type="info"}
+Class of 2021
+::
+::badge{type="success"}
+Product Manager at Google
 ::
 
-::callout
-#summary
-Company
-#content
-Google
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Big Tech
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Product Manager
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/charalamposioannou" blank}
+- **Email**: charalampos.ioannou@gmail.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Eagle Pcb
 ::
-::card
-#title
+::badge{type="info"}
 English
 ::
-::card
-#title
+::badge{type="info"}
 Computer Vision
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Embedded Systems
 ::
-::card
-#title
+::badge{type="info"}
 Data Mining And Pattern Recognition
 ::
-::card
-#title
+::badge{type="info"}
 Robotics
 ::
-::card
-#title
+::badge{type="info"}
 Strategic Planning
 ::
-::card
-#title
+::badge{type="info"}
 Sensors
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Web Applications
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Wearable Systems
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Html 5
 ::
-::card
-#title
+::badge{type="info"}
 Mobile Applications
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Inventor
 ::
-::card
-#title
+::badge{type="info"}
 Solidworks
 ::
-::card
-#title
+::badge{type="info"}
 Microcontrollers
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Business Development
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 3D Printing
 ::
-::card
-#title
+::badge{type="info"}
 Product Management
 ::
-::card
-#title
+::badge{type="info"}
 Global Shapers Athens Hub Member
 ::
-::card
-#title
+::badge{type="info"}
 Automated Control
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Cad
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Arduino
 ::
-::card
-#title
+::badge{type="info"}
 Uix
 ::
-::card
-#title
+::badge{type="info"}
 Artificial Intelligence
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Autocad
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Graduate Teaching Assistant
+::code-group
+```bash [European Commission]
+europa.eu
+```
+```bash [TED]
+ted.com
+```
+```bash [University of Cambridge]
+cam.ac.uk
+```
+```bash [National Technical University of Athens]
+ntua.gr
+```
+```bash [Google]
+google.com
+```
+```bash [Plano Independent School District]
+pisd.edu
+```
+```bash [Columbia School of Business]
+gsb.columbia.edu
+```
+```bash [Open Raven]
+openraven.com
+```
+```bash [Kleiner Perkins]
+kleinerperkins.com
+```
+```bash [Amazon.com]
+amazon.es
+```
+```bash [Public Speaking]
+publicspeaking.se
+```
+```bash [BioAssist S.A.]
+bioassist.gr
+```
+```bash [Codepi]
+codepi.com
+```
+```bash [Google]
+goo.gle
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Guest Speaker
-::
-::card
-#title
-Software And Junior Research Engineer
-::
-::card
-#title
-Engineer And Analyst
-::
-::card
-#title
-Teaching Assistant
-::
-::card
-#title
-Product Manager
-::
-::card
-#title
-Guest And Keynote Speaker
-::
-::card
-#title
-Hangouts On Air Series Host
-::
-::card
-#title
-Co-Founder And Chief Technology Officer
-::
-::card
-#title
-Summer Intern
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Keynote Speaker
-::
-::card
-#title
-Google Science Fair 2013 - Global Finalist
-::
-::card
-#title
-All Things Software And Product
-::
-::card
-#title
-Product Management Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-European Commission
-#description
-[Go to website](europa.eu)
-::
-::card
-#title
-TED
-#description
-[Go to website](ted.com)
-::
-::card
-#title
-University of Cambridge
-#description
-[Go to website](cam.ac.uk)
-::
-::card
-#title
-National Technical University of Athens
-#description
-[Go to website](ntua.gr)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Plano Independent School District
-#description
-[Go to website](pisd.edu)
-::
-::card
-#title
-Columbia School of Business
-#description
-[Go to website](gsb.columbia.edu)
-::
-::card
-#title
-Open Raven
-#description
-[Go to website](openraven.com)
-::
-::card
-#title
-Kleiner Perkins
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Amazon.com
-#description
-[Go to website](amazon.es)
-::
-::card
-#title
-Public Speaking
-#description
-[Go to website](publicspeaking.se)
-::
-::card
-#title
-BioAssist S.A.
-#description
-[Go to website](bioassist.gr)
-::
-::card
-#title
-Codepi
-#description
-[Go to website](codepi.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](goo.gle)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Graduate Teaching Assistant**
+- **Guest Speaker**
+- **Software And Junior Research Engineer**
+- **Engineer And Analyst**
+- **Teaching Assistant**
+- **Product Manager**
+- **Guest And Keynote Speaker**
+- **Hangouts On Air Series Host**
+- **Co-Founder And Chief Technology Officer**
+- **Summer Intern**
+- **Founder**
+- **Keynote Speaker**
+- **Google Science Fair 2013 - Global Finalist**
+- **All Things Software And Product**
+- **Product Management Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/cynthia-sheng cindy-sheng Cindy Sheng Product Design Intern @ Zumper • Kleiner Perkins Fellow https://media.licdn.com/dms/image/C4E03AQGQLqXRGLrPWQ/profile-displayphoto-shrink_800_800/0/1606754885204?e=1695859200&v=beta&t=8wJzVq2IlgFtPN5zuThb_hTBxzVwaBaQxgz8Kt02oSU https://media.licdn.com/dms/image/C4E16AQFpNDTzL_5lvw/profile-displaybackgroundimage-shrink_350_1400/0/1569646556307?e=1695859200&v=beta&t=3ezXKlgISgGoO3_dZ4S7Xq1O317NHfdf1ZAcqPn3yEE personal ACoAACvRy60BY9XjFwCZjQ85DF--8U6Dh2tlJ6I 735169453 Currently looking for new grad Product Design roles!
-
-I am a Cognitive Sciences major and Business minor at Rice University passionate about using design to create communities. United States Houston, Texas Houston Texas Houston, Texas, United States False False Chinese LIMITED_WORKING English NATIVE_OR_BILINGUAL Design Undergraduate Student Organization President of the Year Rice University 5 2021 International Finalist, Cellular and Molecular Biology Intel International Science and Engineering Fair 5 2019 International Finalist, Creative Problem Solving International Health Occupation Students of America 3 2019 36213 Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ 11 50 5 2022 5 2022 Kleiner Perkins 1 of 12 designers chosen from an applicant pool of 2000+ to work with high potential start-ups in the Kleiner Perkins portfolio
-
-https://fellows.kleinerperkins.com/meet-the-fellows/2022 KP Design Fellow Python (Programming Language) Public Speaking Research Leadership Business Communications User Experience Design (UED) User Interface Design Wireframing True 1023 500 kaili-liang Kaili Liang Incoming Software Engineer at Slack | Kleiner Perkins Fellow https://media.licdn.com/dms/image/D4E03AQEysLPqFazb5g/profile-displayphoto-shrink_800_800/0/1684968395700?e=1695859200&v=beta&t=kdX6kww69lXafKRFOzLwtk-QetMxMv-F68d7bgrxpWo linnayao Linna Yao Motion designer https://media.licdn.com/dms/image/D4E03AQEk1pSj1__JPQ/profile-displayphoto-shrink_800_800/0/1686167636334?e=1695859200&v=beta&t=_tfxK66EpTz20q5h_yRBty7vWYHTc8qpFbaRYAU5tT8 sonalkapoor17 Sonal K. Product Designer at Carta | Kleiner Perkins Design Fellow https://media.licdn.com/dms/image/C5603AQEXgPgWgIJ29A/profile-displayphoto-shrink_800_800/0/1623607718547?e=1695859200&v=beta&t=enM1ggp76jS8zG-PTW9VzFQsA4q6pEKKwAkCDBUoNKQ hannah-limary Hannah Limary Incoming UX Designer @ Amazon // UC Irvine ‘23 https://media.licdn.com/dms/image/D5603AQFCDkSZPoY2ag/profile-displayphoto-shrink_800_800/0/1686638047116?e=1695859200&v=beta&t=4gNpDQah0ula9Ii-P10JuX6E6NgPBVFp5IAtMo3QPBU kevinxu2 Kevin Xu CS at UPenn https://media.licdn.com/dms/image/C5603AQF2pVFljmo7bA/profile-displayphoto-shrink_800_800/0/1534310333498?e=1695859200&v=beta&t=Z-zdik74-OxTej_5POhHJzRNgITGiMyHUQdJ3vUDKNU alexandergerrese Alexander Gerrese Product Design @ Cruise | Ex-KP Fellow @ Uber https://media.licdn.com/dms/image/C5603AQGYKpsD4WlOWA/profile-displayphoto-shrink_800_800/0/1517358117631?e=1695859200&v=beta&t=xHNlQzddRs6c1E5k1Dl1JFHWhDLr83qUTG6uSsD5PJk arianelee Ariane Lee CS & History @ Stanford | KP Fellow ‘22 https://media.licdn.com/dms/image/C4D03AQH0bTTvni6iQA/profile-displayphoto-shrink_800_800/0/1638138319867?e=1695859200&v=beta&t=vb8oeCgGZceq39vhCiarbsdl0ZvC_gDgxLEvxsdqYzQ andrewmkimm Andrew Kim Product Design @ Stake | Product & Design @USC's Iovine and Young Academy https://media.licdn.com/dms/image/D5603AQFgLyTqJmWj5w/profile-displayphoto-shrink_800_800/0/1688883796357?e=1695859200&v=beta&t=HwSAktXWbx57F94VhJbPpOWjxIUXvVgdyN8GmQYpBbM ivanna-gomez-q Ivanna Gomez Quiroz Computer Scientist https://media.licdn.com/dms/image/D5603AQEIkfBvbhpXGg/profile-displayphoto-shrink_800_800/0/1678686564518?e=1695859200&v=beta&t=vXVcCqDMEYalR5m-ciFRUch7mrvHq8AlOD9Y3kizpho jade-franson Jade Franson Design @ Salesforce https://media.licdn.com/dms/image/C4E03AQE1G8N5xkNtQg/profile-displayphoto-shrink_800_800/0/1632376447533?e=1695859200&v=beta&t=NgeM9VuqOIe7-bMJMykr-BdF0q7ESb-kJVyR1E0_vI4 User Testing Figma Adobe Creative Suite Balsamiq InVision Design Thinking UX Research ACT 36 2 2018
+#content
+cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow personal -- Currently looking for new grad. Product. Design roles! I am a. Cognitive. Sciences major and. Business minor at. Rice. University passionate about using design to create communities. United. States. Houston, Texas. Houston. Texas. Houston, Texas, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Design. Undergraduate. Student. Organization. President of the. Year. Rice. University. International. Finalist, Cellular and. Molecular. Biology. Intel. International. Science and. Engineering. Fair. International. Finalist, Creative. Problem. Solving. International. Health. Occupation. Students of. America. Kleiner. Perkins. Kleiner. Perkins of designers chosen from an applicant pool of + to work with high potential start-ups in the. Kleiner. Perkins portfolio. KP. Design. Fellow. Python (Programming. Language) Public. Speaking. Research. Leadership. Business. Communications. User. Experience. Design (UED) User. Interface. Design. Wireframing. True kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow linnayao. Linna. Yao. Motion designer. Sonal. K. Product. Designer at. Carta | Kleiner. Perkins. Design. Fellow hannah-limary. Hannah. Limary. Incoming. UX. Designer @ Amazon // UC. Irvine ‘ Kevin. Xu. CS at. UPenn alexandergerrese. Alexander. Gerrese. Product. Design @ Cruise | Ex-KP. Fellow @ Uber arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ andrewmkimm. Andrew. Kim. Product. Design @ Stake | Product & Design @USC's. Iovine and. Young. Academy ivanna-gomez-q. Ivanna. Gomez. Quiroz. Computer. Scientist jade-franson. Jade. Franson. Design @ Salesforce. User. Testing. Figma. Adobe. Creative. Suite. Balsamiq. InVision. Design. Thinking. UX. Research. ACT
 ::

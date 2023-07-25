@@ -1,389 +1,248 @@
-::block-hero
----
-#title
-Neel Saswade
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/neel-saswade" blank}
-
-::callout
-#summary
-Email
-#content
-neelsaswade@gmail.com; neelsaswade@berkeley.edu
+# Neel Saswade
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Incoming Product Designer at Glean
 ::
 
-::callout
-#summary
-Company
-#content
-Glean
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Incoming Product Designer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/neel-saswade" blank}
+- **Email**: neelsaswade@gmail.com; neelsaswade@berkeley.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Xd
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 Figma
 ::
-::card
-#title
+::badge{type="info"}
 Design
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Wireframing
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Human Computer Interaction
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Firebase
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 React Native
 ::
-::card
-#title
+::badge{type="info"}
 Pandas
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Usability Testing
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Contextual Inquiry
 ::
-::card
-#title
+::badge{type="info"}
 Task Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Lightroom
 ::
-::card
-#title
+::badge{type="info"}
 Heuristic Evaluation
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Lightroom
 ::
-::card
-#title
+::badge{type="info"}
 User Research
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Data Structures
 ::
-::card
-#title
+::badge{type="info"}
 Keras
 ::
-::card
-#title
+::badge{type="info"}
 Ux Research
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 User Experience Design
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Photography
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Prototyping
 ::
-::card
-#title
+::badge{type="info"}
 Music
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Html5
 ::
-::card
-#title
+::badge{type="info"}
 Heuristic Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Deep Learning
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Design Fellow
+::code-group
+```bash [Adobe Systems]
+adobe.com
+```
+```bash [Logitech]
+logitech.com
+```
+```bash [Intuitive Surgical]
+intuitivesurgical.com
+```
+```bash [UC Santa Cruz]
+ucsc.edu
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [FIRST]
+firstinspires.org
+```
+```bash [Microsoft]
+microsoft.com
+```
+```bash [Snap]
+snap.com
+```
+```bash [Phonic]
+phonic.ai
+```
+```bash [Berkeley Innovation]
+berkeleyinnovation.org
+```
+```bash [Glean]
+glean.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Creative Design Tech]
+cdtfx.com
+```
 ::
-::card
-#title
-Product Designer
-::
-::card
-#title
-Vice President Of Special Projects And Mechanical Designer
-::
-::card
-#title
-Incoming Product Designer
-::
-::card
-#title
-Designer
-::
-::card
-#title
-Researcher
-::
-::card
-#title
-Team Coach - First Lego League
-::
-::card
-#title
-Hri Lab Research Assistant | People Helping Robots Study Sponsored By Google
-::
-::card
-#title
-Product Design Consultant
-::
-::card
-#title
-User Interface And User Experience Design And Software Engineering Intern
-::
-::card
-#title
-Kleiner Perkins Design Fellow
-::
-::card
-#title
-Project Mentor
-::
-::card
-#title
-Teaching Assistant For Des Inv 98
-::
-::card
-#title
-Interaction Design Intern
-::
-::card
-#title
-Consultant Project Mentor
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Design Fellow**
+- **Product Designer**
+- **Vice President Of Special Projects And Mechanical Designer**
+- **Incoming Product Designer**
+- **Designer**
+- **Researcher**
+- **Team Coach - First Lego League**
+- **Hri Lab Research Assistant | People Helping Robots Study Sponsored By Google**
+- **Product Design Consultant**
+- **User Interface And User Experience Design And Software Engineering Intern**
+- **Kleiner Perkins Design Fellow**
+- **Project Mentor**
+- **Teaching Assistant For Des Inv 98**
+- **Interaction Design Intern**
+- **Consultant Project Mentor**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Adobe Systems
-#description
-[Go to website](adobe.com)
-::
-::card
-#title
-Logitech
-#description
-[Go to website](logitech.com)
-::
-::card
-#title
-Intuitive Surgical
-#description
-[Go to website](intuitivesurgical.com)
-::
-::card
-#title
-UC Santa Cruz
-#description
-[Go to website](ucsc.edu)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-FIRST
-#description
-[Go to website](firstinspires.org)
-::
-::card
-#title
-Microsoft
-#description
-[Go to website](microsoft.com)
-::
-::card
-#title
-Snap
-#description
-[Go to website](snap.com)
-::
-::card
-#title
-Phonic
-#description
-[Go to website](phonic.ai)
-::
-::card
-#title
-Berkeley Innovation
-#description
-[Go to website](berkeleyinnovation.org)
-::
-::card
-#title
-Glean
-#description
-[Go to website](glean.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Creative Design Tech
-#description
-[Go to website](cdtfx.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/claraeverett claraeverett Clara Everett Computer Science and Product Design @ Stanford University https://media.licdn.com/dms/image/C5603AQEPr__NaJ6w4Q/profile-displayphoto-shrink_800_800/0/1659207006612?e=1695859200&v=beta&t=0v07Xlxex8J67TkBySIOO8y02hIiszM8DruTkRHbJvE https://media.licdn.com/dms/image/C5616AQGyfXL9w_lzeg/profile-displaybackgroundimage-shrink_350_1400/0/1659193361822?e=1695859200&v=beta&t=JGXa4CDTGlf5jnowNWvZanNNDm1Qyh7nqJEz-WLoBiU personal ACoAACVhcSMBnNOmNzBih8Ni51KWu7z5Qo0FBKY 627142947 United States Stanford, California Stanford California Stanford, California, United States False False Computer Software Cum Laude Society 5 2018 USRowing Scholastic Honor Roll USRowing 11 2017 National Merit Finalist National Merit Scholarship Program 9 2017 AP Scholar 7 2017 Elizabeth Tate Award for Excellence in Eleventh Grade English Hopkins School 10667 Meta https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_400_400/0/1636138753911?e=1698278400&v=beta&t=3lsuqDQTzZmsCK5MPBSob4BtgAY53HTwR0oslBC5Keg https://www.linkedin.com/company/meta/ 10001 6 2021 9 2021 Remote 6 2021 9 2021 Meta Software Engineer Intern Internship Adobe Photoshop Adobe Illustrator C Python HTML CSS JavaScript Java True 1023 500 raymondcthai Raymond Thai PM @ Google - Generative AI for Developers | Stanford Computer Science https://media.licdn.com/dms/image/C4D03AQFO_O0UcbgBOg/profile-displayphoto-shrink_800_800/0/1592245932244?e=1695859200&v=beta&t=zSeHJZ2v19Pdk7kSxESYbQSB-lUzfYmi50Gb2b1W8-M catherine-yeo Catherine Yeo CS @ Harvard | Book Author, The Creator Revolution https://media.licdn.com/dms/image/D5603AQEU8UUveOruGA/profile-displayphoto-shrink_800_800/0/1689035002314?e=1695859200&v=beta&t=vvxSGPkrjOayRg4H8_ManqbYIxCyh1a3552Of9p2xxo masha-gorkovenko-494852118 Masha Gorkovenko Founder @ Disto AI | Stanford Alum https://media.licdn.com/dms/image/C5603AQHoNdmgJCDgEw/profile-displayphoto-shrink_800_800/0/1586894509428?e=1695859200&v=beta&t=EitTjXvxX85pBWGHYoFMO3-ObuicCiV-FPH3Cd02f-I sophiakazmierowicz Sophia Kazmierowicz Software Engineer at Meta https://media.licdn.com/dms/image/C5603AQECEdhUjDDKOg/profile-displayphoto-shrink_800_800/0/1594793600575?e=1695859200&v=beta&t=FD60LOdee-fxbx1OaBT4xvCTYF63jZlET78cprOaNrY melissaflee02 Melissa Lee Computer Science at Stanford University https://media.licdn.com/dms/image/D5603AQFKyv9jWYU16Q/profile-displayphoto-shrink_800_800/0/1682970543198?e=1695859200&v=beta&t=9wk4KArxs3oFDTyltGDX2r01Fht_wdUbd9KnKuK4sNY emily-redmond Emily Redmond Hi, I'm Emily! || Stanford Computer Science & HCI https://media.licdn.com/dms/image/C5603AQHQthjafAT0-A/profile-displayphoto-shrink_800_800/0/1650557344460?e=1695859200&v=beta&t=Jbx3YW-WeUuqqb6xL9s_AHYGC4utDT1jzamdTiTthSA manuka-stratta Manuka Stratta Computer Science (AI/ML) at Stanford University https://media.licdn.com/dms/image/C5603AQFoyxqKFlhLww/profile-displayphoto-shrink_800_800/0/1656483941203?e=1695859200&v=beta&t=agTbG48lzZtJT65Z33XkO8zChKhUHGd1pCLSeSpOJu8 clinton-kwarteng-0a05b81a1 Clinton Kwarteng SWE Intern @ Figma | Computer Science @ Stanford https://media.licdn.com/dms/image/D5603AQHQ6Twi6lMobw/profile-displayphoto-shrink_800_800/0/1687567940251?e=1695859200&v=beta&t=bjb5-dEXjfC2CW8SuOL3Ha190g9vDztdSjIDJhnbQHc zoevongerlach Zoe von Gerlach MS Management Science and Engineering Student at Stanford University https://media.licdn.com/dms/image/C4E03AQFh02oHEyc0Ag/profile-displayphoto-shrink_800_800/0/1634928775506?e=1695859200&v=beta&t=UU3bnZiA4hDGiy_XZ_KinHkc-LuF3R3ixXfUFzyNnCA leealpert Lee Alpert Computer Science at Stanford https://media.licdn.com/dms/image/D4E03AQHmiMrsrqabtA/profile-displayphoto-shrink_800_800/0/1675743441220?e=1695859200&v=beta&t=tkDbgQkXRNtSyajiNnK_GxjAxousMe_m3QFS6RShxC0 Mary Brewster Thompson Scholar Hopkins School AP BC Calculus AP Computer Science Principles AP Italian AP Physics 1 AP Physics C Mechanics & Electricity/Magnetism SQL
+#content
+claraeverett. Clara. Everett. Computer. Science and. Product. Design @ Stanford. University personal. United. States. Stanford, California. Stanford. California. Stanford, California, United. States. False. False. Computer. Software. Cum. Laude. Society. USRowing. Scholastic. Honor. Roll. USRowing. National. Merit. Finalist. National. Merit. Scholarship. Program. AP. Scholar. Elizabeth. Tate. Award for. Excellence in. Eleventh. Grade. English. Hopkins. School. Meta. Remote. Meta. Software. Engineer. Intern. Internship. Adobe. Photoshop. Adobe. Illustrator. C. Python. HTML. CSS. JavaScript. Java. True raymondcthai. Raymond. Thai. PM @ Google - Generative. AI for. Developers | Stanford. Computer. Science catherine-yeo. Catherine. Yeo. CS @ Harvard | Book. Author, The. Creator. Revolution masha-gorkovenko- Masha. Gorkovenko. Founder @ Disto. AI | Stanford. Alum sophiakazmierowicz. Sophia. Kazmierowicz. Software. Engineer at. Meta. Melissa. Lee. Computer. Science at. Stanford. University emily-redmond. Emily. Redmond. Hi, I'm. Emily! || Stanford. Computer. Science & HCI manuka-stratta. Manuka. Stratta. Computer. Science (AI/ML) at. Stanford. University clinton-kwarteng- Clinton. Kwarteng. SWE. Intern @ Figma | Computer. Science @ Stanford zoevongerlach. Zoe von. Gerlach. MS. Management. Science and. Engineering. Student at. Stanford. University leealpert. Lee. Alpert. Computer. Science at. Stanford. Mary. Brewster. Thompson. Scholar. Hopkins. School. AP. BC. Calculus. AP. Computer. Science. Principles. AP. Italian. AP. Physics. AP. Physics. C. Mechanics & Electricity/Magnetism. SQL
 ::

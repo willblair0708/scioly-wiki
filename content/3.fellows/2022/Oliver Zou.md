@@ -1,115 +1,73 @@
-::block-hero
----
-#title
-Oliver Zou
----
+# Oliver Zou
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Product at Uber
+::
 
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/oliver-zou" blank}
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
+::
 
-::callout
+::badge{type="success"}
+Sector: 
+::
+::callout{type="info"}
 #summary
-Email
+Contact Information
 #content
-ozou@sas.upenn.edu
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/oliver-zou" blank}
+- **Email**: ozou@sas.upenn.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Company
+Skills
 #content
-Uber
+::badge{type="info"}
+
+::
 ::
 
-::callout
+::code-group
+```bash [Uber]
+uber.com
+```
+```bash [University of Pennsylvania]
+upenn.edu
+```
+```bash [McKinsey & Company]
+mckinsey.com
+```
+```bash [Snackpass]
+snackpass.co
+```
+```bash [AMERICAN RESEARCH INSTITUTE IN TURKEY]
+ccat.sas.upenn.edu
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+::
+::callout{type="warning"}
 #summary
-Position
+Roles
 #content
-Product
+- **Associate Product Manager**
+- **Product Management Intern**
+- **Kp Product Fellow**
+- **Summer Business Analyst**
+- **Product**
 ::
 
-::callout
+::callout{type="info"}
 #summary
-Location
-#content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
-
-::
-::
-
-## Past Job Titles
-::card-grid
-::card
-#title
-Associate Product Manager
-::
-::card
-#title
-Product Management Intern
-::
-::card
-#title
-Kp Product Fellow
-::
-::card
-#title
-Summer Business Analyst
-::
-::card
-#title
-Product
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-University of Pennsylvania
-#description
-[Go to website](upenn.edu)
-::
-::card
-#title
-McKinsey & Company
-#description
-[Go to website](mckinsey.com)
-::
-::card
-#title
-Snackpass
-#description
-[Go to website](snackpass.co)
-::
-::card
-#title
-AMERICAN RESEARCH INSTITUTE IN TURKEY
-#description
-[Go to website](ccat.sas.upenn.edu)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
 About
-#description
-https://www.linkedin.com/in/jerry-huang-16a486190 https://www.linkedin.com/in/jerry-huang-16a486190 Error
+#content
+Error
 ::

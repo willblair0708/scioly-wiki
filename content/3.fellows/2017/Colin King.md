@@ -1,347 +1,232 @@
-::block-hero
----
-#title
-Colin King
----
-
-:badge[2017]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://linkedin.com/in/colinking1" blank}
-
-::callout
-#summary
-Email
-#content
-me@colinking.co
+# Colin King
+::badge{type="info"}
+Class of 2017
+::
+::badge{type="success"}
+Software Engineer at LISA Airplanes
 ::
 
-::callout
-#summary
-Company
-#content
-LISA Airplanes
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://linkedin.com/in/colinking1" blank}
+- **Email**: me@colinking.co
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Database Design
 ::
-::card
-#title
+::badge{type="info"}
 Prolog
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 React
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Swift
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Back End Development
 ::
-::card
-#title
+::badge{type="info"}
 .Net
 ::
-::card
-#title
+::badge{type="info"}
 C#
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 R
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Sql Server
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Os X
 ::
-::card
-#title
+::badge{type="info"}
 Statistics
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Objective C
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Artificial Intelligence
 ::
-::card
-#title
+::badge{type="info"}
 Api Development
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Gulp
 ::
-::card
-#title
+::badge{type="info"}
 Ios
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Amazon Web Services
 ::
-::card
-#title
+::badge{type="info"}
 Mongodb
 ::
-::card
-#title
+::badge{type="info"}
 Front End Development
 ::
-::card
-#title
+::badge{type="info"}
 Computer Security
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Full Stack Development
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Cybersecurity
 ::
-::card
-#title
+::badge{type="info"}
 Ocaml
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Latex
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Engineer
+::code-group
+```bash [Gallup]
+gallup.com
+```
+```bash [University of Maryland]
+umd.edu
+```
+```bash [Nextdoor]
+nextdoor.com
+```
+```bash [Segment]
+segment.com
+```
+```bash [Google]
+google.com
+```
+```bash [LISA Airplanes]
+lisa-airplanes.com
+```
+```bash [Contrary]
+contrarycap.com
+```
+```bash [Airplane]
+airplane.dev
+```
+```bash [Project Delta]
+projectdelta.io
+```
+```bash [Airplane Painter]
+airplane.aero
+```
+```bash [Colinking]
+colinking.co
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Senior Software Engineer
-::
-::card
-#title
-Course Founder
-::
-::card
-#title
-System Application Developer Intern And Growth Hacker
-::
-::card
-#title
-Venture Partner + Engineering Lead
-::
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Co-Founder And Project Manager
-::
-::card
-#title
-Software Engineering Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Gallup
-#description
-[Go to website](gallup.com)
-::
-::card
-#title
-University of Maryland
-#description
-[Go to website](umd.edu)
-::
-::card
-#title
-Nextdoor
-#description
-[Go to website](nextdoor.com)
-::
-::card
-#title
-Segment
-#description
-[Go to website](segment.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-LISA Airplanes
-#description
-[Go to website](lisa-airplanes.com)
-::
-::card
-#title
-Contrary
-#description
-[Go to website](contrarycap.com)
-::
-::card
-#title
-Airplane
-#description
-[Go to website](airplane.dev)
-::
-::card
-#title
-Project Delta
-#description
-[Go to website](projectdelta.io)
-::
-::card
-#title
-Airplane Painter
-#description
-[Go to website](airplane.aero)
-::
-::card
-#title
-Colinking
-#description
-[Go to website](colinking.co)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Engineer**
+- **Senior Software Engineer**
+- **Course Founder**
+- **System Application Developer Intern And Growth Hacker**
+- **Venture Partner + Engineering Lead**
+- **Engineering Fellow**
+- **Co-Founder And Project Manager**
+- **Software Engineering Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/elitcohen elitcohen Eli Cohen Software Engineer at Google personal ACoAABeKa0ABIa2S7wvqEN6Z_u-j8IhaRNhejAM 394947392 United States Washington, District of Columbia Washington District of Columbia Washington, District of Columbia, United States False False English NATIVE_OR_BILINGUAL Computer Software 1441 Google https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1698278400&v=beta&t=zIWYJvy8n5zYm6y2LUgMK86mSMJl6prHYZJM_XirKlM https://www.linkedin.com/company/google/ 10001 8 2022 8 2022 Google Software Engineer Full-time True 747 500 knappjordan Jordan Knapp VP of Engineering, MTailor https://media.licdn.com/dms/image/D5635AQGvQaCaphqjcQ/profile-framedphoto-shrink_800_800/0/1689878086751?e=1690761600&v=beta&t=dQbEWJQwROBG0VUk-Zr-WD-s6-kBKeTJjcBpajwLUkI marubin Micah Rubin Software Engineer at Google https://media.licdn.com/dms/image/C5603AQEs9Pytgm3FNQ/profile-displayphoto-shrink_800_800/0/1517046714383?e=1695859200&v=beta&t=Uxm9lnU3gELE2RB2s8QVKTTm-q-QamhShmRVbpa9pIw johnearlfranklin John Franklin Product Manager @ Google https://media.licdn.com/dms/image/D5603AQEd8BnnhOStcw/profile-displayphoto-shrink_800_800/0/1681508583910?e=1695859200&v=beta&t=C4X3-pWLiVV9pJVCSXfxQW8bWrMBDBDU-o4m9JOk5sI alek-descotes-b0298699 Alek Descotes Operations and International Customer Support Manager at MTailor milespenn Miles Penn AI / Deep Learning & Apparel https://media.licdn.com/dms/image/C5603AQG8aoKMDcrRFQ/profile-displayphoto-shrink_800_800/0/1644629424248?e=1695859200&v=beta&t=I8h0Sy_i_FFcwW-wbaYIejDAdC209_5ym0U6T6cBFYM gandhianurag Anurag G. Manager Corporate Strategy at T-Mobile https://media.licdn.com/dms/image/D4D03AQEmqGWFnOMtLw/profile-displayphoto-shrink_800_800/0/1639427695369?e=1695859200&v=beta&t=JpuSmmRfnlrhdnJeebeKUqbIV8Vkbbu_pcLepUrzTpI haynes-winkler Haynes Winkler Head of Product Operations and CRM https://media.licdn.com/dms/image/C4E03AQGaarRPuz2yTQ/profile-displayphoto-shrink_800_800/0/1517465360087?e=1695859200&v=beta&t=8fXYzDuYIpc9C3wIgDiW4sOpx70Ciujp2dVPum7G8Ok cougies Cougar Oswald CEO @ Montage / Freelance Product Designer https://media.licdn.com/dms/image/C5603AQHYrjItCR8bFA/profile-displayphoto-shrink_800_800/0/1606936953314?e=1695859200&v=beta&t=P0zrdayL0365cIFYs_1d2Jnpl_7ZBUjSOwHR9Bj57M8 joe-ferrante-12695798 Joe Ferrante Product Manager ripcord Alex Fielding CEO and Chairman at Privateer Space! Founder at Ripcord. https://media.licdn.com/dms/image/C5603AQEwdmmx3F1QqA/profile-displayphoto-shrink_800_800/0/1646183862639?e=1695859200&v=beta&t=TXH8jF_K1r2UKuxmH99dab2tTui0WZDTxPOt-GNSJwo NURobotics Northwestern Delta Lab Northwestern Formula Racing Team Lead, Electronics
+#content
+elitcohen. Eli. Cohen. Software. Engineer at. Google personal - United. States. Washington, District of. Columbia. Washington. District of. Columbia. Washington, District of. Columbia, United. States. False. False. English. NATIVE_OR_BILINGUAL. Computer. Software. Google. Google. Software. Engineer. Full-time. True knappjordan. Jordan. Knapp. VP of. Engineering, MTailor marubin. Micah. Rubin. Software. Engineer at. Google johnearlfranklin. John. Franklin. Product. Manager @ Google alek-descotes- Alek. Descotes. Operations and. International. Customer. Support. Manager at. MTailor milespenn. Miles. Penn. AI / Deep. Learning & Apparel gandhianurag. Anurag. G. Manager. Corporate. Strategy at. T-Mobile haynes-winkler. Haynes. Winkler. Head of. Product. Operations and. CRM cougies. Cougar. Oswald. CEO @ Montage / Freelance. Product. Designer joe-ferrante- Joe. Ferrante. Product. Manager ripcord. Alex. Fielding. CEO and. Chairman at. Privateer. Space! Founder at. Ripcord. NURobotics. Northwestern. Delta. Lab. Northwestern. Formula. Racing. Team. Lead, Electronics
 ::

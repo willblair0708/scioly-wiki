@@ -1,212 +1,137 @@
-::block-hero
----
-#title
-Cody Lieu
----
-
-:badge[2015]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/codylieu" blank}
-
-::callout
-#summary
-Email
-#content
-cody.a.lieu@gmail.com
+# Cody Lieu
+::badge{type="info"}
+Class of 2015
+::
+::badge{type="success"}
+Staff Software Engineer, Tech Lead at Coursera
 ::
 
-::callout
-#summary
-Company
-#content
-Coursera
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Staff Software Engineer, Tech Lead
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/codylieu" blank}
+- **Email**: cody.a.lieu@gmail.com
+- **Location**: Mountain View
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Mountain View
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Ruby On Rails
 ::
-::card
-#title
+::badge{type="info"}
 Heroku
 ::
-::card
-#title
+::badge{type="info"}
 Yeoman
 ::
-::card
-#title
+::badge{type="info"}
 Mongodb
 ::
-::card
-#title
+::badge{type="info"}
 Angularjs
 ::
-::card
-#title
+::badge{type="info"}
 Intellij Idea
 ::
-::card
-#title
+::badge{type="info"}
 Sml
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Numerical Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Postgresql
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Twitter Bootstrap
 ::
-::card
-#title
+::badge{type="info"}
 Eclipse
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 Latex
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Staff Software Engineer
+::code-group
+```bash [Indiegogo]
+indiegogo.com
+```
+```bash [Duke University]
+duke.edu
+```
+```bash [Guidewire Software]
+guidewire.com
+```
+```bash [Coursera]
+coursera.org
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Tech Lead
-::
-::card
-#title
-Staff Software Engineer, Tech Lead
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Senior Software Engineer, Tech Lead Apprentice
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Software Engineer Ii
-::
-::card
-#title
-2015 Kpcb Engineering Fellow
-::
-::card
-#title
-Undergraduate Teaching Assistant
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Staff Software Engineer**
+- **Tech Lead**
+- **Staff Software Engineer, Tech Lead**
+- **Software Engineer**
+- **Senior Software Engineer, Tech Lead Apprentice**
+- **Software Engineer Intern**
+- **Software Engineer Ii**
+- **2015 Kpcb Engineering Fellow**
+- **Undergraduate Teaching Assistant**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Indiegogo
-#description
-[Go to website](indiegogo.com)
-::
-::card
-#title
-Duke University
-#description
-[Go to website](duke.edu)
-::
-::card
-#title
-Guidewire Software
-#description
-[Go to website](guidewire.com)
-::
-::card
-#title
-Coursera
-#description
-[Go to website](coursera.org)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/david-wang-93088533 david-wang-93088533 David Wang Course Assistant at Stanford University personal ACoAAAcR_vQBW5tVePwfHgbhq1orEuZPu7mvfn8 118619892 United States United States False False Computer Software Psychology One Scholar Award Nominee Awarded to students who complete outstanding Research and Writing projects in Intro to Psychology Stanford Department of Psychology 12 2013 2013 KPCB Engineering Fellow Our KPCB Fellows Program offers outstanding college students from across the United States an opportunity to gain significant experience working on unique and challenging technical, design and product problems, and to develop new relationships that are meaningful to their careers.
-http://kpcbfellows.com/meet-the-fellows/ Kleiner Perkins Caufield & Byers 3 2013 AP Scholar with Distinction College Board 2010 National Merit Finalist National Merit Scholarship Corporation 2010 1792 Stanford University https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1698278400&v=beta&t=n9zW0hQ5iti-5mWACcvhev1jNx1tQmvV-6eofG1ETX8 https://www.linkedin.com/school/stanford-university/ 10001 1 2015 1 2015 Stanford University CS 107: Computer Organization and Systems
-CS 109: Introduction to Probability for Computer Scientists
-CS 110: Principles of Computer Systems Course Assistant Software Engineering Java C++ Research Linux Teaching True 759 500
+#content
+david-wang- David. Wang. Course. Assistant at. Stanford. University personal. United. States. United. States. False. False. Computer. Software. Psychology. One. Scholar. Award. Nominee. Awarded to students who complete outstanding. Research and. Writing projects in. Intro to. Psychology. Stanford. Department of. Psychology. KPCB. Engineering. Fellow. Our. KPCB. Fellows. Program offers outstanding college students from across the. United. States an opportunity to gain significant experience working on unique and challenging technical, design and product problems, and to develop new relationships that are meaningful to their careers. Kleiner. Perkins. Caufield & Byers. AP. Scholar with. Distinction. College. Board. National. Merit. Finalist. National. Merit. Scholarship. Corporation. Stanford. University. Stanford. University. CS : Computer. Organization and. Systems. CS : Introduction to. Probability for. Computer. Scientists. CS : Principles of. Computer. Systems. Course. Assistant. Software. Engineering. Java. C++ Research. Linux. Teaching. True
 ::

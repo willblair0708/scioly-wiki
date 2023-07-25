@@ -1,185 +1,108 @@
-::block-hero
----
-#title
-Shirley Huang
----
-
-:badge[2019]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/shirleyhuang-me" blank}
-
-::callout
-#summary
-Email
-#content
-shiyishua@gmail.com
+# Shirley Huang
+::badge{type="info"}
+Class of 2019
+::
+::badge{type="success"}
+C20 Talent Fellow at Contrary
 ::
 
-::callout
-#summary
-Company
-#content
-Contrary
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-C20 Talent Fellow
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/shirleyhuang-me" blank}
+- **Email**: shiyishua@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Product Design
 ::
-::card
-#title
+::badge{type="info"}
 Branding
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Design Fellow
+::code-group
+```bash [Airbnb]
+airbnb.com
+```
+```bash [University of Southern California]
+usc.edu
+```
+```bash [Zumper]
+zumper.com
+```
+```bash [Wish]
+wish.com
+```
+```bash [Trueey]
+trueey.com
+```
+```bash [Great Indian Nautanki Company]
+kingdomofdreams.in
+```
+```bash [Contrary]
+contrarycap.com
+```
+```bash [Vowel]
+vowel.com
+```
+```bash [Meta]
+meta.com
+```
+```bash [Generation She]
+generationshe.co
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Design Intern
-::
-::card
-#title
-Design Lead
-::
-::card
-#title
-Director Of Strategy And Research
-::
-::card
-#title
-Product Designer
-::
-::card
-#title
-C20 Talent Fellow
-::
-::card
-#title
-Creative And Marketing Team
-::
-::card
-#title
-Experience Design Intern
-::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Communications Designer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Airbnb
-#description
-[Go to website](airbnb.com)
-::
-::card
-#title
-University of Southern California
-#description
-[Go to website](usc.edu)
-::
-::card
-#title
-Zumper
-#description
-[Go to website](zumper.com)
-::
-::card
-#title
-Wish
-#description
-[Go to website](wish.com)
-::
-::card
-#title
-Trueey
-#description
-[Go to website](trueey.com)
-::
-::card
-#title
-Great Indian Nautanki Company
-#description
-[Go to website](kingdomofdreams.in)
-::
-::card
-#title
-Contrary
-#description
-[Go to website](contrarycap.com)
-::
-::card
-#title
-Vowel
-#description
-[Go to website](vowel.com)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::card
-#title
-Generation She
-#description
-[Go to website](generationshe.co)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Design Fellow**
+- **Design Intern**
+- **Design Lead**
+- **Director Of Strategy And Research**
+- **Product Designer**
+- **C20 Talent Fellow**
+- **Creative And Marketing Team**
+- **Experience Design Intern**
+- **Product Design Intern**
+- **Communications Designer**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/shirleyhuang-me https://www.linkedin.com/in/shirleyhuang-me Error
+#content
+Error
 ::

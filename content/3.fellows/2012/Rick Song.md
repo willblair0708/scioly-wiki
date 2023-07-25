@@ -1,213 +1,142 @@
-::block-hero
----
-#title
-Rick Song
----
-
-:badge[2012]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/rick-song-25198b24" blank}
-
-::callout
-#summary
-Email
-#content
-rickcsong@gmail.com; rick@withpersona.com
+# Rick Song
+::badge{type="info"}
+Class of 2012
+::
+::badge{type="success"}
+Co-Founder And Chief Executive Officer at Persona
 ::
 
-::callout
-#summary
-Company
-#content
-Persona
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder And Chief Executive Officer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/rick-song-25198b24" blank}
+- **Email**: rickcsong@gmail.com; rick@withpersona.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Cakephp
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Svn
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 D3.Js
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 Trading
 ::
-::card
-#title
+::badge{type="info"}
 Github
 ::
-::card
-#title
+::badge{type="info"}
 Equities
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Vba
 ::
-::card
-#title
+::badge{type="info"}
 Ruby On Rails
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Sql Server
 ::
-::card
-#title
+::badge{type="info"}
 Options
 ::
-::card
-#title
+::badge{type="info"}
 Objective C
 ::
-::card
-#title
+::badge{type="info"}
 Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Backbone.Js
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Co-Founder
+::code-group
+```bash [Square]
+squareup.com
+```
+```bash [Withpersona]
+withpersona.com
+```
+```bash [Persona]
+withpersona.com
+```
+```bash [Persona]
+withpersona.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-CEO
-::
-::card
-#title
-Engineering Manager
-::
-::card
-#title
-Square Capital
-::
-::card
-#title
-Co-Founder & CEO
-::
-::card
-#title
-Co-Founder And Chief Executive Officer
-::
-::card
-#title
-Engineering Manager, Square Capital
-::
-::card
-#title
-Kpcb Engineering Fellow
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Co-Founder**
+- **CEO**
+- **Engineering Manager**
+- **Square Capital**
+- **Co-Founder & CEO**
+- **Co-Founder And Chief Executive Officer**
+- **Engineering Manager, Square Capital**
+- **Kpcb Engineering Fellow**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Square
-#description
-[Go to website](squareup.com)
-::
-::card
-#title
-Withpersona
-#description
-[Go to website](withpersona.com)
-::
-::card
-#title
-Persona
-#description
-[Go to website](withpersona.com)
-::
-::card
-#title
-Persona
-#description
-[Go to website](withpersona.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/jiali-zhang-74b868141 jiali-zhang-74b868141 Jiali Zhang Ph.D. Candidate, University of Oxford personal ACoAACJ6ECsB6_5l6AxtN6gYBu834a3REOYoWOA 578424875 United Kingdom Oxford, England Oxford England Oxford, England, United Kingdom False False English NATIVE_OR_BILINGUAL Mandarin NATIVE_OR_BILINGUAL Venture Capital & Private Equity National Institutes of Health Graduate Student Research Award 2 2021 Provost's Undergraduate Research Award 11 2019 Rhodes Scholarship Finalist 11 2019 Edmunds F. Maxwell Foundation Scholarship Washington State Honors Award 10704025 Pear VC https://media.licdn.com/dms/image/D560BAQGD19QBOTeNqg/company-logo_400_400/0/1685130354947?e=1698278400&v=beta&t=v_8SKCNiULF0BKp_HoHXNMDptZGq5-sBi82HSKVsRQw https://www.linkedin.com/company/pear-vc/ 11 50 9 2022 UK & EU 9 2022 Pear VC Venture Fellow Public Speaking Community Outreach Python (Programming Language) MATLAB Leadership Teaching True 834 500 9 2016 2 2020 Senior Volunteer, Pediatrics Emergency Department  Johns Hopkins Hospital https://media.licdn.com/dms/image/C560BAQELC8jjZ50j3w/company-logo_400_400/0/1519856077183?e=1698278400&v=beta&t=SJNbieM5MlgsmOa1NwSxTs_Xc0y_FAzKz6SnuKRlxMA https://www.linkedin.com/company/johns-hopkins-hospital/ HEALTH 10 2016 2 2020 Child Protection Team, Pediatrics Emergency Department  Johns Hopkins Hospital https://media.licdn.com/dms/image/C560BAQELC8jjZ50j3w/company-logo_400_400/0/1519856077183?e=1698278400&v=beta&t=SJNbieM5MlgsmOa1NwSxTs_Xc0y_FAzKz6SnuKRlxMA https://www.linkedin.com/company/johns-hopkins-hospital/ CHILDREN Work with child abuse victims during their stay at the hospital. 6 2010 12 2016 Volunteer City Gates Ministries https://media.licdn.com/dms/image/C4D0BAQHYnjU3aaydpA/company-logo_400_400/0/1519905751970?e=1698278400&v=beta&t=UQIvmkjZlvT-xp61uI7YWAfcd90CWZVJCkEGswYEHEg https://www.linkedin.com/company/city-gates-ministries/ POVERTY_ALLEVIATION
+#content
+jiali-zhang- Jiali. Zhang. Ph.D. Candidate, University of. Oxford personal. United. Kingdom. Oxford, England. Oxford. England. Oxford, England, United. Kingdom. False. False. English. NATIVE_OR_BILINGUAL. Mandarin. NATIVE_OR_BILINGUAL. Venture. Capital & Private. Equity. National. Institutes of. Health. Graduate. Student. Research. Award. Provost's. Undergraduate. Research. Award. Rhodes. Scholarship. Finalist. Edmunds. F. Maxwell. Foundation. Scholarship. Washington. State. Honors. Award. Pear. VC. UK & EU. Pear. VC. Venture. Fellow. Public. Speaking. Community. Outreach. Python (Programming. Language) MATLAB. Leadership. Teaching. True. Senior. Volunteer, Pediatrics. Emergency. Department. Johns. Hopkins. Hospital. HEALTH. Child. Protection. Team, Pediatrics. Emergency. Department. Johns. Hopkins. Hospital. CHILDREN. Work with child abuse victims during their stay at the hospital. Volunteer. City. Gates. Ministries. POVERTY_ALLEVIATION
 ::

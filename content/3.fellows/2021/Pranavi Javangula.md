@@ -1,213 +1,135 @@
-::block-hero
----
-#title
-Pranavi Javangula
----
-
-:badge[2021]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/pranavijavangula" blank}
-
-::callout
-#summary
-Email
-#content
-pranavijavangula@berkeley.edu; pranavi.javangula@yahoo.com; pranavi.javangula@quizlet.com
+# Pranavi Javangula
+::badge{type="info"}
+Class of 2021
+::
+::badge{type="success"}
+Product Designer at Quizlet
 ::
 
-::callout
-#summary
-Company
-#content
-Quizlet
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Product Designer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/pranavijavangula" blank}
+- **Email**: pranavijavangula@berkeley.edu; pranavi.javangula@yahoo.com; pranavi.javangula@quizlet.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Premiere Pro
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 User Research
 ::
-::card
-#title
+::badge{type="info"}
 Writing
 ::
-::card
-#title
+::badge{type="info"}
 Digital Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Design Of Experiments
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science Education
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Product Design Intern
+::code-group
+```bash [Kiva]
+kiva.org
+```
+```bash [Quizlet]
+quizlet.com
+```
+```bash [Robinhood]
+robinhood.com
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Juni Learning]
+junilearning.com
+```
+```bash [Berkeley Innovation]
+berkeleyinnovation.org
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-External Vice President
-::
-::card
-#title
-Product Designer
-::
-::card
-#title
-Design Researcher
-::
-::card
-#title
-Computer Science Instructor
-::
-::card
-#title
-Associate Product Designer @ Quizlet
-::
-::card
-#title
-Product Design Consultant
-::
-::card
-#title
-Incoming Product Design Systems Intern
-::
-::card
-#title
-Design Research Intern
-::
-::card
-#title
-Kp Design Fellow
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Product Design Intern**
+- **External Vice President**
+- **Product Designer**
+- **Design Researcher**
+- **Computer Science Instructor**
+- **Associate Product Designer @ Quizlet**
+- **Product Design Consultant**
+- **Incoming Product Design Systems Intern**
+- **Design Research Intern**
+- **Kp Design Fellow**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Kiva
-#description
-[Go to website](kiva.org)
-::
-::card
-#title
-Quizlet
-#description
-[Go to website](quizlet.com)
-::
-::card
-#title
-Robinhood
-#description
-[Go to website](robinhood.com)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Juni Learning
-#description
-[Go to website](junilearning.com)
-::
-::card
-#title
-Berkeley Innovation
-#description
-[Go to website](berkeleyinnovation.org)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/max-seiden-b409a23b https://www.linkedin.com/in/max-seiden-b409a23b Error
+#content
+Error
 ::

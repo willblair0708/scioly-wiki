@@ -1,207 +1,134 @@
-::block-hero
----
-#title
-Tobi Ayeni
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/tobi-ayeni-18b363135" blank}
-
-::callout
-#summary
-Email
-#content
-tobi.ayeni33@gmail.com; opayeni@princeton.edu
+# Tobi Ayeni
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+ at Watershedclimate
 ::
 
-::callout
-#summary
-Company
-#content
-Watershedclimate
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Environment; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/tobi-ayeni-18b363135" blank}
+- **Email**: tobi.ayeni33@gmail.com; opayeni@princeton.edu
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 R
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Youth Development
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Environmental Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Yoruba
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Premiere Pro
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Engineering
+::code-group
+```bash [Princeton University]
+princeton.edu
+```
+```bash [SolarKal]
+solarkal.com
+```
+```bash [EY-Parthenon]
+ey-parthenon.de
+```
+```bash [Watershedclimate]
+watershedclimate.com
+```
+```bash [Reclaim Energies]
+reclaim-energies.com
+```
+```bash [New York Tigertrek]
+nytigertrek.com
+```
 ::
-::card
-#title
-Student
-::
-::card
-#title
-Marketing
-::
-::card
-#title
-Operations Intern
-::
-::card
-#title
-Carbon Data Analyst
-::
-::card
-#title
-Incoming Summer Associate
-::
-::card
-#title
-Summer Associate
-::
-::card
-#title
-Co-Director
-::
-::card
-#title
-Founder
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Engineering**
+- **Student**
+- **Marketing**
+- **Operations Intern**
+- **Carbon Data Analyst**
+- **Incoming Summer Associate**
+- **Summer Associate**
+- **Co-Director**
+- **Founder**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Princeton University
-#description
-[Go to website](princeton.edu)
-::
-::card
-#title
-SolarKal
-#description
-[Go to website](solarkal.com)
-::
-::card
-#title
-EY-Parthenon
-#description
-[Go to website](ey-parthenon.de)
-::
-::card
-#title
-Watershedclimate
-#description
-[Go to website](watershedclimate.com)
-::
-::card
-#title
-Reclaim Energies
-#description
-[Go to website](reclaim-energies.com)
-::
-::card
-#title
-New York Tigertrek
-#description
-[Go to website](nytigertrek.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/krishna-gopal-usc https://www.linkedin.com/in/krishna-gopal-usc Error
+#content
+Error
 ::

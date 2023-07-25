@@ -1,213 +1,136 @@
-::block-hero
----
-#title
-Matt Alston
----
-
-:badge[2017]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/matt-alston/" blank}
-
-::callout
-#summary
-Email
-#content
-malston@uber.com; mattx95@gmail.com
+# Matt Alston
+::badge{type="info"}
+Class of 2017
+::
+::badge{type="success"}
+Co-Founder at Bonfire Ventures
 ::
 
-::callout
-#summary
-Company
-#content
-Bonfire Ventures
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/matt-alston/" blank}
+- **Email**: malston@uber.com; mattx95@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Venture Capital
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Start Ups
 ::
-::card
-#title
+::badge{type="info"}
 Business Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Swift
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Growth Strategies
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Associate Product Manager
+::code-group
+```bash [Goldman Sachs]
+goldmansachs.com
+```
+```bash [Duke University]
+duke.edu
+```
+```bash [Uber]
+uber.com
+```
+```bash [OnDeck]
+ondeck.com
+```
+```bash [Emory University]
+emory.edu
+```
+```bash [Zana]
+zana.io
+```
+```bash [Bonfire Ventures]
+bonfirevc.com
+```
+```bash [Georgia Tech]
+gatech.edu
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Co-Founder
-::
-::card
-#title
-Business Software Engineer
-::
-::card
-#title
-Howard Hughes Summer Research Fellow
-::
-::card
-#title
-Fellowship
-::
-::card
-#title
-Research Assistant
-::
-::card
-#title
-Growth Analyst
-::
-::card
-#title
-Product Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Goldman Sachs
-#description
-[Go to website](goldmansachs.com)
-::
-::card
-#title
-Duke University
-#description
-[Go to website](duke.edu)
-::
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-OnDeck
-#description
-[Go to website](ondeck.com)
-::
-::card
-#title
-Emory University
-#description
-[Go to website](emory.edu)
-::
-::card
-#title
-Zana
-#description
-[Go to website](zana.io)
-::
-::card
-#title
-Bonfire Ventures
-#description
-[Go to website](bonfirevc.com)
-::
-::card
-#title
-Georgia Tech
-#description
-[Go to website](gatech.edu)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Associate Product Manager**
+- **Co-Founder**
+- **Business Software Engineer**
+- **Howard Hughes Summer Research Fellow**
+- **Fellowship**
+- **Research Assistant**
+- **Growth Analyst**
+- **Product Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/luisclague luisclague Luis C. Software Engineer | Rice CS https://media.licdn.com/dms/image/C4E03AQFgDdJ2LF-XLQ/profile-displayphoto-shrink_800_800/0/1573590024922?e=1695859200&v=beta&t=wac71EC11LIL45biz390y5v9TWWf2Ncv4oy8BAQBr_w https://media.licdn.com/dms/image/C4E16AQG8Jf7LmBc1GQ/profile-displaybackgroundimage-shrink_350_1400/0/1534453624346?e=1695859200&v=beta&t=c5oVRrPcbjNqW3JfWbs5r3glWXfjaz4levd_0y_oYD4 personal ACoAAB7HDy8BlBoAQlZRCDSIk3zhser525SJQPc 516362031 Learn more about my experience https://read.cv/luisclague United States San Francisco, California San Francisco California San Francisco, California, United States False False English NATIVE_OR_BILINGUAL Spanish NATIVE_OR_BILINGUAL Computer Software 72585913 Syndicate https://media.licdn.com/dms/image/C560BAQEoMFojJ1ULfA/company-logo_400_400/0/1616749933681?e=1698278400&v=beta&t=E6Iexn3WPj72csvOzr3Ob12Pol6Ab70dJW0prWo8Pig https://www.linkedin.com/company/syndicate-protocol/ 11 50 2 2022 3 2023 San Francisco, California, United States 2 2022 3 2023 Syndicate Fullstack Software Engineer Full-time Apollo GraphQL Full-Stack Development Java Android Development Mobile Applications Research React Native Python True 1379 500 uriel-sejas Uriel Sejas SWE @ Slack | KP Fellow https://media.licdn.com/dms/image/C4D03AQE9JJ7gIKvSMg/profile-displayphoto-shrink_800_800/0/1611704264224?e=1695859200&v=beta&t=Pe_hBDoZ7CW44Gvr-6TR4JRHo4XJGMQlTBO_KEkjUws dnaliu Danna L. Building @ PoplarML (YC W23) https://media.licdn.com/dms/image/C5603AQGcmpP_345oew/profile-displayphoto-shrink_800_800/0/1602019704361?e=1695859200&v=beta&t=Xz-FtP5jCU91DO_ugPtVjAMO3-w9KcNpazVnljChMOY napasu Napas Udomsak Software Engineer at Phantom rtrame Rob Trame Aspiring engineering manager looking for something new https://media.licdn.com/dms/image/D5635AQFp4yZzhQzr3Q/profile-framedphoto-shrink_800_800/0/1689961647545?e=1690765200&v=beta&t=6L8xhoR-G8j9RfbZ16_KIODdxYlxMlosw99Lrxwc5c8 helenamerk Helena Merk Building AI-Powered Grant Writing @ Streamline 🌵🌈☀️ We're hiring! https://media.licdn.com/dms/image/D4E03AQGfXfVgieQ8bw/profile-displayphoto-shrink_800_800/0/1669926271266?e=1695859200&v=beta&t=kNpFWpXzp9SM7HWgCPoy4NAHsXH8vS4pP1Xod2V42SQ aaron-price-321ba4164 Aaron Price Joyous Schooling Advocate || Duke CS ‘24 https://media.licdn.com/dms/image/C5603AQHyiRwuNif3yQ/profile-displayphoto-shrink_800_800/0/1622576629785?e=1695859200&v=beta&t=AjUaRdtZp3x4WTU2jfFe90_YKq7CCvvQCi86KP5fOXk jennifer-yen1 Jennifer Yen Engineer @ Phantom https://media.licdn.com/dms/image/C4D03AQHAry32d-MSlw/profile-displayphoto-shrink_800_800/0/1631216692713?e=1695859200&v=beta&t=3oEFujoOILirSZCIAb7YWuH_i7BItxb9gLb6cKCrSdA cait-powell Cait Powell Senior Software Engineer at Pilot.com https://media.licdn.com/dms/image/C5603AQERFmHWHcjhtQ/profile-displayphoto-shrink_800_800/0/1556416770081?e=1695859200&v=beta&t=GgnALf5jjINB3UP3YwbbdwpLPdfUJq58ULGXwZM5ocM nathan-hausman Nathan Hausman CTO at Syndicate https://media.licdn.com/dms/image/C4E03AQHBeE28v9y0Yw/profile-displayphoto-shrink_800_800/0/1594912679045?e=1695859200&v=beta&t=2QGJEFqemhgltfyacBgERDdoPbl-d9cRPV192YUeLF4 frankm3 Frank Martinez Software Engineer Algorithmic Thinking COMP 182 Business Communications BUSI 296 Computational Thinking COMP 140 Engineering Mechanics MECH 211 Fundamentals of Computer Engineering ELEC 220 Intro Economics ECON 100 Operating Systems & Concurrency COMP 421 Git Powershell Ordinary Differential Equations MATH 211 Software Engineering Senior Design COMP 410 Maven Google Material Design Bootstrap Google Firebase Public Speaking Google App Engine
+#content
+luisclague. Luis. C. Software. Engineer | Rice. CS personal. Learn more about my experience. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. NATIVE_OR_BILINGUAL. Computer. Software. Syndicate. San. Francisco, California, United. States. Syndicate. Fullstack. Software. Engineer. Full-time. Apollo. GraphQL. Full-Stack. Development. Java. Android. Development. Mobile. Applications. Research. React. Native. Python. True uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow dnaliu. Danna. L. Building @ PoplarML (YC ) napasu. Napas. Udomsak. Software. Engineer at. Phantom rtrame. Rob. Trame. Aspiring engineering manager looking for something new helenamerk. Helena. Merk. Building. AI-Powered. Grant. Writing @ Streamline 🌵🌈☀️ We're hiring! aaron-price- Aaron. Price. Joyous. Schooling. Advocate || Duke. CS ‘ jennifer- Jennifer. Yen. Engineer @ Phantom cait-powell. Cait. Powell. Senior. Software. Engineer at nathan-hausman. Nathan. Hausman. CTO at. Syndicate. Frank. Martinez. Software. Engineer. Algorithmic. Thinking. COMP. Business. Communications. BUSI. Computational. Thinking. COMP. Engineering. Mechanics. MECH. Fundamentals of. Computer. Engineering. ELEC. Intro. Economics. ECON. Operating. Systems & Concurrency. COMP. Git. Powershell. Ordinary. Differential. Equations. MATH. Software. Engineering. Senior. Design. COMP. Maven. Google. Material. Design. Bootstrap. Google. Firebase. Public. Speaking. Google. App. Engine
 ::

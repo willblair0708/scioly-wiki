@@ -1,195 +1,126 @@
-::block-hero
----
-#title
-Matt Safian
----
-
-:badge[2013]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/mattsafian" blank}
-
-::callout
-#summary
-Email
-#content
-matt@kpcb.com; mattsafian@gmail.com
+# Matt Safian
+::badge{type="info"}
+Class of 2013
+::
+::badge{type="success"}
+Senior Product Designer at Frame.io
 ::
 
-::callout
-#summary
-Company
-#content
-Frame.io
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: 
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Senior Product Designer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/mattsafian" blank}
+- **Email**: matt@kpcb.com; mattsafian@gmail.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Branding And Identity
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Visual Design
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Posters
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Wordpress
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Product Design Intern
+::code-group
+```bash [Adobe Systems]
+adobe.com
+```
+```bash [Dropbox]
+dropbox.com
+```
+```bash [Flipboard]
+flipboard.com
+```
+```bash [Frog Design]
+frogdesign.com
+```
+```bash [Luvocracy]
+luvocracy.com
+```
+```bash [Frame.io]
+frame.io
+```
+```bash [Kleiner Perkins]
+kleinerperkins.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Product Design Lead
-::
-::card
-#title
-Senior Product Designer
-::
-::card
-#title
-Design Fellow
-::
-::card
-#title
-Visual Design Intern
-::
-::card
-#title
-Product Designer
-::
-::card
-#title
-Visual Design And Knowledge Management Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Adobe Systems
-#description
-[Go to website](adobe.com)
-::
-::card
-#title
-Dropbox
-#description
-[Go to website](dropbox.com)
-::
-::card
-#title
-Flipboard
-#description
-[Go to website](flipboard.com)
-::
-::card
-#title
-Frog Design
-#description
-[Go to website](frogdesign.com)
-::
-::card
-#title
-Luvocracy
-#description
-[Go to website](luvocracy.com)
-::
-::card
-#title
-Frame.io
-#description
-[Go to website](frame.io)
-::
-::card
-#title
-Kleiner Perkins
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Product Design Intern**
+- **Product Design Lead**
+- **Senior Product Designer**
+- **Design Fellow**
+- **Visual Design Intern**
+- **Product Designer**
+- **Visual Design And Knowledge Management Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/kristine-zhang kristine-zhang Kristine Zhang Algorithm Developer at Hudson River Trading | Harvard AB/AM '20 https://media.licdn.com/dms/image/C5603AQHM5ObpwYgZiw/profile-displayphoto-shrink_800_800/0/1536528814906?e=1695859200&v=beta&t=rgdnq8icCdzsYY-5AzIUO40O5Wt6JXp9rWqaUKx0HvI personal ACoAAB2pxOEBJ0XLtkfV2NZopgPva6EN2q1Z2PQ 497665249 United States New York, New York New York New York New York, New York, United States False False Chinese LIMITED_WORKING English NATIVE_OR_BILINGUAL Computer Software 730004 Hudson River Trading https://media.licdn.com/dms/image/D4E0BAQFa5NBAL9ubpw/company-logo_400_400/0/1665496980908?e=1698278400&v=beta&t=0P_nq_R8WA8Ux_bHD0NsCoMaQKCZVISufppn_ACQDdg https://www.linkedin.com/company/hudson-river-trading/ 501 1000 8 2020 New York, New York, United States 8 2020 Hudson River Trading Algorithm Developer Full-time False 370 373 Spanish LIMITED_WORKING Atomically Sharp Crack Tips in Monolayer MoS2 and Their Enhanced Toughness by Vacancy Defects ACS Nano http://pubs.acs.org/doi/pdf/10.1021/acsnano.6b05435 2016 standardizedContributor Kristine Zhang Algorithm Developer at Hudson River Trading | Harvard AB/AM '20 A New Molecular Model for Congo Red-Beta Amyloid Interaction: Implications for Diagnosis and Inhibition of Brain Plaque Formation in Alzheimer’s Disease Proc. SPIE, Biosensing and Nanomedicine 2015 standardizedContributor Kristine Zhang Algorithm Developer at Hudson River Trading | Harvard AB/AM '20 Development of Novel Metal Nanostructures for Efficient and Broadband Solar Energy Conversion International Journal of Spectroscopy 2015 standardizedContributor Kristine Zhang Algorithm Developer at Hudson River Trading | Harvard AB/AM '20
+#content
+kristine-zhang. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. Hudson. River. Trading. New. York, New. York, United. States. Hudson. River. Trading. Algorithm. Developer. Full-time. False. Spanish. LIMITED_WORKING. Atomically. Sharp. Crack. Tips in. Monolayer and. Their. Enhanced. Toughness by. Vacancy. Defects. ACS. Nano. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' A. New. Molecular. Model for. Congo. Red-Beta. Amyloid. Interaction: Implications for. Diagnosis and. Inhibition of. Brain. Plaque. Formation in. Alzheimer’s. Disease. Proc. SPIE, Biosensing and. Nanomedicine. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' Development of. Novel. Metal. Nanostructures for. Efficient and. Broadband. Solar. Energy. Conversion. International. Journal of. Spectroscopy. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM '
 ::

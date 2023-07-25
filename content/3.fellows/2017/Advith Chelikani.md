@@ -1,227 +1,149 @@
-::block-hero
----
-#title
-Advith Chelikani
----
-
-:badge[2017]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/advith" blank}
-
-::callout
-#summary
-Email
-#content
-advith.chelikani@samsara.com; advith.chelikani@gmail.com
+# Advith Chelikani
+::badge{type="info"}
+Class of 2017
+::
+::badge{type="success"}
+Co-Founder at Pylon Manufacturing
 ::
 
-::callout
-#summary
-Company
-#content
-Pylon Manufacturing
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/advith" blank}
+- **Email**: advith.chelikani@samsara.com; advith.chelikani@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Html5
 ::
-::card
-#title
+::badge{type="info"}
 Hackathons
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Drupal
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Underscore.Js
 ::
-::card
-#title
+::badge{type="info"}
 R
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
-::card
-#title
+::badge{type="info"}
 Unity3D
 ::
-::card
-#title
+::badge{type="info"}
 Mathematica
 ::
-::card
-#title
+::badge{type="info"}
 Flask
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Ocaml
 ::
-::card
-#title
+::badge{type="info"}
 Bootstrap
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Backbone.Js
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Head Organizer
+::code-group
+```bash [Slack]
+slack.com
+```
+```bash [Nutanix]
+nutanix.com
+```
+```bash [Coursera]
+coursera.org
+```
+```bash [CityScan]
+cityscan.com
+```
+```bash [NASA Jet Propulsion Laboratory]
+jpl.nasa.gov
+```
+```bash [Samsara]
+samsara.com
+```
+```bash [HackTech]
+gohacktech.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Pylon]
+usepylon.com
+```
+```bash [Pylon Manufacturing]
+pylonhq.com
+```
 ::
-::card
-#title
-Undergraduate Research Fellow
-::
-::card
-#title
-Kpcb Engineering Fellow
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Co-Founder
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Slack
-#description
-[Go to website](slack.com)
-::
-::card
-#title
-Nutanix
-#description
-[Go to website](nutanix.com)
-::
-::card
-#title
-Coursera
-#description
-[Go to website](coursera.org)
-::
-::card
-#title
-CityScan
-#description
-[Go to website](cityscan.com)
-::
-::card
-#title
-NASA Jet Propulsion Laboratory
-#description
-[Go to website](jpl.nasa.gov)
-::
-::card
-#title
-Samsara
-#description
-[Go to website](samsara.com)
-::
-::card
-#title
-HackTech
-#description
-[Go to website](gohacktech.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Pylon
-#description
-[Go to website](usepylon.com)
-::
-::card
-#title
-Pylon Manufacturing
-#description
-[Go to website](pylonhq.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Head Organizer**
+- **Undergraduate Research Fellow**
+- **Kpcb Engineering Fellow**
+- **Software Engineering Intern**
+- **Software Engineer**
+- **Co-Founder**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/byronbenharris byronbenharris Ben Harris Software Engineer @ Nova Credit | Kleiner Perkins Engineering Fellow https://media.licdn.com/dms/image/C4E03AQHh6lGDQRyJ-g/profile-displayphoto-shrink_800_800/0/1542216037825?e=1695859200&v=beta&t=YcHffK76AtKEh_o7RBdeMsHnq_nAXO3VK9hnjAMf7R0 personal ACoAACE_j0kByLONPCrLQfG_fndcfz0aAl6dloU 557813577 United States Brooklyn, New York Brooklyn New York Brooklyn, New York, United States False False Computer Software 10638732 Nova Credit https://media.licdn.com/dms/image/D4E0BAQExWD3lSPBSBA/company-logo_400_400/0/1688661892862?e=1698278400&v=beta&t=fi1o2ggnp7jVIGKsmSG-7HQwxafGW4ciN-3gRVpjrGY https://www.linkedin.com/company/nova-credit-inc./ 51 200 2 2023 2 2023 Nova Credit Software Engineer Full-time Java Python Software Development Web Development LaTeX HTML CSS Creative Problem Solving True 786 500 james-peralta James Peralta Software Engineer at Nova Credit | Kleiner Perkins Fellow https://media.licdn.com/dms/image/C4D03AQFolRLp4PVFVg/profile-displayphoto-shrink_800_800/0/1599157937724?e=1695859200&v=beta&t=L-Ym1jn7QSTdEl2hRRwviJL_W-4bBMFRb1PtV8uLutc dhivyaa-mailvaganam Dhivyaa N Mailvaganam Software Engineer at Nova Credit https://media.licdn.com/dms/image/C5603AQGJbpwMaHW4Kw/profile-displayphoto-shrink_800_800/0/1591376064447?e=1695859200&v=beta&t=zv63Mx0Eld0ZsTYInL5AqM1bsRnkz2E_6DsCcGzKWXM alyssa-nickow Alyssa Nickow Software Engineer at Nova Credit https://media.licdn.com/dms/image/C5603AQETMErYoHc66Q/profile-displayphoto-shrink_800_800/0/1516613085165?e=1695859200&v=beta&t=uE1rWj4tmdM4Cst4K_u7L8neR2BadibWmJRcQwyJMbs priyanakra Priya Nakra Head of Product at Nova Credit https://media.licdn.com/dms/image/C4E03AQEQdbl7bmnVhA/profile-displayphoto-shrink_800_800/0/1548309634408?e=1695859200&v=beta&t=6f62QWNQL3Au49rXxsoSQyE-eGpS6GJVz0leMn8p-h4 mishaesipov Misha Esipov Co-Founder & CEO at Nova Credit [We're Hiring] https://media.licdn.com/dms/image/C5603AQFdX7yTnsIMyA/profile-displayphoto-shrink_800_800/0/1539139808620?e=1695859200&v=beta&t=WEk4VluCSBr4XP6_K4nrrXfTTVXDiqJGVr5b56wir5w francis-chalissery Francis Chalissery EECS @ UC Berkeley | Kleiner Perkins Fellow | SWE Intern @ Retool, Moveworks, Amazon https://media.licdn.com/dms/image/C4E03AQF67cDqn052_g/profile-displayphoto-shrink_800_800/0/1621707112660?e=1695859200&v=beta&t=PT3pirKgdpKMxT7mxUiPc979KjIJfcdqdTDpAyaDvuA kjwu Katherine Wu SWE @ Stripe https://media.licdn.com/dms/image/C4D03AQF-voeKuIUAYA/profile-displayphoto-shrink_800_800/0/1624377063847?e=1695859200&v=beta&t=lg2af6GE0fQs7A61ePzrjzdYgE3pIJuhLmUDzGlCcQ0 alix-cui Alix Cui Glean | KP Engineering fellow | CS @ Stanford https://media.licdn.com/dms/image/D5603AQG1LLVkSn7M3A/profile-displayphoto-shrink_800_800/0/1687459841504?e=1695859200&v=beta&t=iLSYZzG03Je6NCOob-KpVMCVKASAC-sCp7Z36JnSsRM joslinsome Joslin S. Kleiner Perkins Engineering Fellow • Co-Founder @ OmniLens • CSE @ Uiowa 2023 https://media.licdn.com/dms/image/D5603AQH0tom6dzSMjg/profile-displayphoto-shrink_800_800/0/1686336766539?e=1695859200&v=beta&t=VIWrrzks8_jzvO1oNx7Ov9FqSCUKzgjJ3xLysHCShBs annaslee99 Anna Lee Data Science Engineer @ Garner Health | KP Product Fellow 2022 https://media.licdn.com/dms/image/C5603AQH9XF_uXQoTnQ/profile-displayphoto-shrink_800_800/0/1654404027065?e=1695859200&v=beta&t=oUi8_nfRsipom6VM-WkIPwp6svd1BIz61eUbUk5_ehM SolidWorks AutoCAD Graphic Design Video Production Public Speaking SQL Django REST Framework Django Redux.js React.js JavaScript GraphQL
+#content
+byronbenharris. Ben. Harris. Software. Engineer @ Nova. Credit | Kleiner. Perkins. Engineering. Fellow personal. United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. False. False. Computer. Software. Nova. Credit. Nova. Credit. Software. Engineer. Full-time. Java. Python. Software. Development. Web. Development. LaTeX. HTML. CSS. Creative. Problem. Solving. True james-peralta. James. Peralta. Software. Engineer at. Nova. Credit | Kleiner. Perkins. Fellow dhivyaa-mailvaganam. Dhivyaa. N. Mailvaganam. Software. Engineer at. Nova. Credit alyssa-nickow. Alyssa. Nickow. Software. Engineer at. Nova. Credit priyanakra. Priya. Nakra. Head of. Product at. Nova. Credit mishaesipov. Misha. Esipov. Co-Founder & CEO at. Nova. Credit [We're. Hiring] francis-chalissery. Francis. Chalissery. EECS @ UC. Berkeley | Kleiner. Perkins. Fellow | SWE. Intern @ Retool, Moveworks, Amazon kjwu. Katherine. Wu. SWE @ Stripe alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford joslinsome. Joslin. S. Kleiner. Perkins. Engineering. Fellow • Co-Founder @ OmniLens • CSE @ Uiowa. Anna. Lee. Data. Science. Engineer @ Garner. Health | KP. Product. Fellow. SolidWorks. AutoCAD. Graphic. Design. Video. Production. Public. Speaking. SQL. Django. REST. Framework. Django. Redux.js. React.js. JavaScript. GraphQL
 ::

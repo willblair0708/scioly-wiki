@@ -1,220 +1,141 @@
-::block-hero
----
-#title
-Maria Shimizu
----
-
-:badge[2016]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="http://www.linkedin.com/in/mariashimizu" blank}
-
-::callout
-#summary
-Email
-#content
-hello@mariashimizu.com
+# Maria Shimizu
+::badge{type="info"}
+Class of 2016
+::
+::badge{type="success"}
+Designer at TBWA\HAKUHODO
 ::
 
-::callout
-#summary
-Company
-#content
-TBWA\HAKUHODO
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Designer
+:button-link[LinkedIn Profile]{href="http://www.linkedin.com/in/mariashimizu" blank}
+- **Email**: hello@mariashimizu.com
+- **Location**: Tokyo
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Tokyo
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Visual Communication
 ::
-::card
-#title
+::badge{type="info"}
 Painting
 ::
-::card
-#title
+::badge{type="info"}
 Branding And Identity
 ::
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Creative Direction
 ::
-::card
-#title
+::badge{type="info"}
 Drawing
 ::
-::card
-#title
+::badge{type="info"}
 Concept Development
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Packaging
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Layout
 ::
-::card
-#title
+::badge{type="info"}
 Portrait Photography
 ::
-::card
-#title
+::badge{type="info"}
 Book Design
 ::
-::card
-#title
+::badge{type="info"}
 Conceptual Design
 ::
-::card
-#title
+::badge{type="info"}
 Typography
 ::
-::card
-#title
+::badge{type="info"}
 User Experience Design
 ::
-::card
-#title
+::badge{type="info"}
 Logo Design
 ::
-::card
-#title
+::badge{type="info"}
 Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Product Design
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Food + Future Colab Fellow
+::code-group
+```bash [IDEO]
+ideo.com
+```
+```bash [Landor Associates]
+landor.com
+```
+```bash [QUANTUM Japan]
+quantum.ne.jp
+```
+```bash [TBWA\HAKUHODO]
+tbwahakuhodo.co.jp
+```
+```bash [gravis Japan]
+gravisfootwear.com
+```
+```bash [Mariashimizu]
+mariashimizu.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Cocoroé, Inc.]
+cocoroe.co.jp
+```
 ::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Communication Design Intern
-::
-::card
-#title
-Freelance Translator
-::
-::card
-#title
-Design Intern
-::
-::card
-#title
-2016 Design Fellow
-::
-::card
-#title
-Designer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-IDEO
-#description
-[Go to website](ideo.com)
-::
-::card
-#title
-Landor Associates
-#description
-[Go to website](landor.com)
-::
-::card
-#title
-QUANTUM Japan
-#description
-[Go to website](quantum.ne.jp)
-::
-::card
-#title
-TBWA\HAKUHODO
-#description
-[Go to website](tbwahakuhodo.co.jp)
-::
-::card
-#title
-gravis Japan
-#description
-[Go to website](gravisfootwear.com)
-::
-::card
-#title
-Mariashimizu
-#description
-[Go to website](mariashimizu.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Cocoroé, Inc.
-#description
-[Go to website](cocoroe.co.jp)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Food + Future Colab Fellow**
+- **Product Design Intern**
+- **Communication Design Intern**
+- **Freelance Translator**
+- **Design Intern**
+- **2016 Design Fellow**
+- **Designer**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/andrew-kirillov andrew-kirillov Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. https://media.licdn.com/dms/image/C4E03AQHy7xHBVLBXKQ/profile-displayphoto-shrink_800_800/0/1662146956084?e=1695859200&v=beta&t=fy353weu78y8xtymkeasYjISBWrpylWr9pCN0HlfDyY https://media.licdn.com/dms/image/C5616AQH2mROFp5e01g/profile-displaybackgroundimage-shrink_350_1400/0/1547340047174?e=1695859200&v=beta&t=LvgdSGWVlD-HdXZoZFrT4CmH0K6dXI79m2VcqS1-sXQ personal ACoAACAEOfcBBKMHry5MybJT9ih74TxftBNZ1U0 537147895 United States United States False False English NATIVE_OR_BILINGUAL French ELEMENTARY Information Technology & Services Humanizooor 12 2022 12 2022 Framework / SDK enabling Ethereum smart contract developers to create semantic, human-readable "decodings" of the transactions & events from their SCs.
-
-Broken down into 3 repositories:
-https://github.com/samczsun/transaction-decoder
-https://github.com/paradigmxyz/HumanizorPackage
-https://github.com/paradigmxyz/HumanizorWeb standardizedContributor Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. Cosmos without Tendermint: Exploring Narwhal and Bullshark 7 2022 7 2022 Writeup: https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack standardizedContributor Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. 90536233 Renegade https://media.licdn.com/dms/image/C560BAQEDLL0AYADV6Q/company-logo_400_400/0/1676864023899?e=1698278400&v=beta&t=acTWmuPSUPIocoNq0lrczllpvy8a-yxbkvm1nBFEDTw https://www.linkedin.com/company/renegade-fi/ 2 10 4 2023 San Francisco, California, United States 4 2023 Renegade Cryptography & Systems Engineer Full-time Blockchain Public Speaking Full-Stack Development Artificial Intelligence (AI) Web Development User Experience (UX) Web Applications Project Management True 1313 500 joseph-kraut Joey Kraut Building Renegade -- the on-chain dark pool. Hiring! https://media.licdn.com/dms/image/D5603AQGZNDuaq9vDyQ/profile-displayphoto-shrink_800_800/0/1672853469180?e=1695859200&v=beta&t=nhNVrPDZQP59I9IDSnCVeeLNrVjY_AO68Mj8qRfL0x0 ~~~~ Chris Bender Founder of Renegade https://media.licdn.com/dms/image/D5603AQGH-6fuVT3jNQ/profile-displayphoto-shrink_800_800/0/1673938242782?e=1695859200&v=beta&t=oPZvbTkZNtnTXAV8qM4YGM8xLNeALrPK2KO7uPLks9I jahnvid Jahnvi Doshi SWE Intern @ Microsoft / Bloomberg | UC Berkeley MET https://media.licdn.com/dms/image/C5603AQH7ltooXKAh7g/profile-displayphoto-shrink_800_800/0/1643233691412?e=1695859200&v=beta&t=mzdZ5n9k7XuDVtkjKqPh18w2F6lvHSSZonA_d83oBg8 kellyjalinhan Kelly H. Incoming Business Analyst at McKinsey and Company | Berkeley M.E.T. https://media.licdn.com/dms/image/C4E03AQE-JH0LCZRqBg/profile-displayphoto-shrink_800_800/0/1536184375550?e=1695859200&v=beta&t=NHxWeUFwYYV_jpD6oeDLyjBP3VK7qQX22nAh2tcvxjY danieljing Daniel Jing Undergraduate Researcher @ BAIR | EECS + Business @ UC Berkeley M.E.T. https://media.licdn.com/dms/image/C4D03AQHRJ-8n1RY2BA/profile-displayphoto-shrink_800_800/0/1591742306555?e=1695859200&v=beta&t=A46ALwpCHEwa0QFlRT_aaFVAoP8WZa1lbarDave_aJ8 narang-amit Amit Narang Watershed | UC Berkeley M.E.T https://media.licdn.com/dms/image/D5603AQHRShLOr5eS3g/profile-displayphoto-shrink_800_800/0/1684540972721?e=1695859200&v=beta&t=pTV_W3MTw8fjw3jHjg3y70ml-MBTdLlqxGeLqE3fbJY gokceguven Gökçe Güven Building Loyalty 3.0 @ Kalder | Ex-OpenSea, Celo, Robinhood Crypto kevinpang Kevin Pang Trading francisindaheng Francis Indaheng Software Engineer @ Zoox | UC Berkeley M.E.T. ‘22 https://media.licdn.com/dms/image/C5603AQG9cURWICwJOw/profile-displayphoto-shrink_800_800/0/1653152488991?e=1695859200&v=beta&t=5nrL59LZJcK6YU4i8fbwAP41nfmqULr9NpGwnbXec9o amangotchu Aman Gottumukkala Exploring | Previous Engineer at Paradigm | KP/Contrary Fellow https://media.licdn.com/dms/image/C4E03AQGsN9YqlGp99w/profile-displayphoto-shrink_800_800/0/1597951566538?e=1695859200&v=beta&t=gIuNf83RL6gdJnpv_Ngd55fxpA9PC7ITXcSunSfUNPw Russian NATIVE_OR_BILINGUAL standardizedContributor Aman Gottumukkala Exploring | Previous Engineer at Paradigm | KP/Contrary Fellow StableSims 2 2020 1 2022 Research paper: https://arxiv.org/abs/2201.03519 standardizedContributor Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. SnapTab 5 2020 5 2020 standardizedContributor Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. 1 2017 6 2017 Tutor Paper Airplanes, Inc. https://media.licdn.com/dms/image/D4E0BAQHgM7a-lJuLIA/company-logo_400_400/0/1689248985786?e=1698278400&v=beta&t=cZ6Qiv_SuRa1mh7Rk2SZZyaqurlpksV7fS5vrNVUaxo https://www.linkedin.com/company/p-airplanes/ EDUCATION Tutored a Syrian refugee in English once a week for an hour over Skype. Entrepreneurship Social Entrepreneurship standardizedContributor Sehyun Chung President of Blockchain at Berkeley | CS @ UC Berkeley Rental NFT Protocol With Advanced Rewards Splitting IEEE https://ieeexplore.ieee.org/document/10020887 2022 standardizedContributor Andrew Kirillov Cryptography / Systems at Renegade | KP Fellow | UC Berkeley M.E.T. 8 2017 6 2018 Tutor Coordinator Paper Airplanes, Inc. https://media.licdn.com/dms/image/D4E0BAQHgM7a-lJuLIA/company-logo_400_400/0/1689248985786?e=1698278400&v=beta&t=cZ6Qiv_SuRa1mh7Rk2SZZyaqurlpksV7fS5vrNVUaxo https://www.linkedin.com/company/p-airplanes/ HUMANITARIAN_RELIEF Managed tutors participating in the Paper Airplanes Youth Exchange Program. Helped connect them to Syrian refugees in Turkey and helped with the logistics of tutoring. Agile Methodologies Python JavaScript AngularJS Java Educational Technology React.js PyTorch jQuery Node.js standardizedContributor Ayush Aggarwal Engineer standardizedContributor Abrar R. CS & DS @ UC Berkeley
+#content
+andrew-kirillov. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. personal. United. States. United. States. False. False. English. NATIVE_OR_BILINGUAL. French. ELEMENTARY. Information. Technology & Services. Humanizooor. Framework / SDK enabling. Ethereum smart contract developers to create semantic, human-readable "decodings" of the transactions & events from their. SCs. Broken down into repositories: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Cosmos without. Tendermint: Exploring. Narwhal and. Bullshark. Writeup: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Renegade. San. Francisco, California, United. States. Renegade. Cryptography & Systems. Engineer. Full-time. Blockchain. Public. Speaking. Full-Stack. Development. Artificial. Intelligence (AI) Web. Development. User. Experience (UX) Web. Applications. Project. Management. True joseph-kraut. Joey. Kraut. Building. Renegade -- the on-chain dark pool. Hiring! ~~~~ Chris. Bender. Founder of. Renegade jahnvid. Jahnvi. Doshi. SWE. Intern @ Microsoft / Bloomberg | UC. Berkeley. MET kellyjalinhan. Kelly. H. Incoming. Business. Analyst at. McKinsey and. Company | Berkeley. M.E.T. danieljing. Daniel. Jing. Undergraduate. Researcher @ BAIR | EECS + Business @ UC. Berkeley. M.E.T. narang-amit. Amit. Narang. Watershed | UC. Berkeley. M.E.T gokceguven. Gökçe. Güven. Building. Loyalty . @ Kalder | Ex-OpenSea, Celo, Robinhood. Crypto kevinpang. Kevin. Pang. Trading francisindaheng. Francis. Indaheng. Software. Engineer @ Zoox | UC. Berkeley. M.E.T. ‘ amangotchu. Aman. Gottumukkala. Exploring | Previous. Engineer at. Paradigm | KP/Contrary. Fellow. Russian. NATIVE_OR_BILINGUAL. Aman. Gottumukkala. Exploring | Previous. Engineer at. Paradigm | KP/Contrary. Fellow. StableSims. Research paper: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. SnapTab. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Tutor. Paper. Airplanes, Inc. EDUCATION. Tutored a. Syrian refugee in. English once a week for an hour over. Skype. Entrepreneurship. Social. Entrepreneurship. Sehyun. Chung. President of. Blockchain at. Berkeley | CS @ UC. Berkeley. Rental. NFT. Protocol. With. Advanced. Rewards. Splitting. IEEE. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Tutor. Coordinator. Paper. Airplanes, Inc. HUMANITARIAN_RELIEF. Managed tutors participating in the. Paper. Airplanes. Youth. Exchange. Program. Helped connect them to. Syrian refugees in. Turkey and helped with the logistics of tutoring. Agile. Methodologies. Python. JavaScript. AngularJS. Java. Educational. Technology. React.js. PyTorch jQuery. Node.js. Ayush. Aggarwal. Engineer. Abrar. R. CS & DS @ UC. Berkeley
 ::

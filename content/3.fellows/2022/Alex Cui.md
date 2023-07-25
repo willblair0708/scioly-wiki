@@ -1,133 +1,77 @@
-::block-hero
----
-#title
-Alex Cui
----
+# Alex Cui
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Software Engineer Intern at Glean
+::
 
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/alix-cui" blank}
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
+::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Healthcare; AI
+::
+::callout{type="info"}
 #summary
-Email
+Contact Information
 #content
-acui@stanford.edu
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/alix-cui" blank}
+- **Email**: acui@stanford.edu
+- **Location**: Palo Alto
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Company
+Skills
 #content
-Glean
+::badge{type="info"}
+
+::
 ::
 
-::callout
+::code-group
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [Washington Post]
+washingtonpost.com
+```
+```bash [AutoX]
+autox.ai
+```
+```bash [Amazon Web Services]
+amazonaws.com
+```
+```bash [Standford Alumni]
+stanfordalumni.org
+```
+```bash [Glean]
+glean.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+::
+::callout{type="warning"}
 #summary
-Position
+Roles
 #content
-Software Engineer Intern
+- **Research Fellow**
+- **Software Engineer Intern**
+- **Full Stack Engineer Intern @ Csli**
+- **Software Development Intern**
+- **Co-Instructor**
+- **Engineering Fellow**
 ::
 
-::callout
+::callout{type="info"}
 #summary
-Location
-#content
-Palo Alto
-::
-
-## Skills
-::card-grid
-::card
-#title
-
-::
-::
-
-## Past Job Titles
-::card-grid
-::card
-#title
-Research Fellow
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Full Stack Engineer Intern @ Csli
-::
-::card
-#title
-Software Development Intern
-::
-::card
-#title
-Co-Instructor
-::
-::card
-#title
-Engineering Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-Washington Post
-#description
-[Go to website](washingtonpost.com)
-::
-::card
-#title
-AutoX
-#description
-[Go to website](autox.ai)
-::
-::card
-#title
-Amazon Web Services
-#description
-[Go to website](amazonaws.com)
-::
-::card
-#title
-Standford Alumni
-#description
-[Go to website](stanfordalumni.org)
-::
-::card
-#title
-Glean
-#description
-[Go to website](glean.com)
-::
-::card
-#title
-Stanford University School Of Engineering
-::
-::card
-#title
-Stanford University School Of Medicine
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
 About
-#description
-https://www.linkedin.com/in/~harris https://www.linkedin.com/in/~harris Error
+#content
+Error
 ::

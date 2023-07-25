@@ -1,405 +1,287 @@
-::block-hero
----
-#title
-Peter Farejowicz
----
-
-:badge[2016]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/pfarejowicz" blank}
-
-::callout
-#summary
-Email
-#content
-pfarejowicz@gmail.com; peter@kpcb.com
+# Peter Farejowicz
+::badge{type="info"}
+Class of 2016
+::
+::badge{type="success"}
+Software Engineer at Instagram
 ::
 
-::callout
-#summary
-Company
-#content
-Instagram
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Finance; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/pfarejowicz" blank}
+- **Email**: pfarejowicz@gmail.com; peter@kpcb.com
+- **Location**: Redwood City
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Redwood City
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Design Consulting
 ::
-::card
-#title
+::badge{type="info"}
 Love
 ::
-::card
-#title
+::badge{type="info"}
 Hearing
 ::
-::card
-#title
+::badge{type="info"}
 Design
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Hiring
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 Business Technology
 ::
-::card
-#title
+::badge{type="info"}
 Silicon Valley
 ::
-::card
-#title
+::badge{type="info"}
 Drawing
 ::
-::card
-#title
+::badge{type="info"}
 Supports
 ::
-::card
-#title
+::badge{type="info"}
 Simulations
 ::
-::card
-#title
+::badge{type="info"}
 Consideration
 ::
-::card
-#title
+::badge{type="info"}
 Culture
 ::
-::card
-#title
+::badge{type="info"}
 Interviews
 ::
-::card
-#title
+::badge{type="info"}
 Eager
 ::
-::card
-#title
+::badge{type="info"}
 Venture Capital
 ::
-::card
-#title
+::badge{type="info"}
 Students
 ::
-::card
-#title
+::badge{type="info"}
 Presentations
 ::
-::card
-#title
+::badge{type="info"}
 Software
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Qualification
 ::
-::card
-#title
+::badge{type="info"}
 Business Modeling
 ::
-::card
-#title
+::badge{type="info"}
 Economics
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Convenience
 ::
-::card
-#title
+::badge{type="info"}
 Partnerships
 ::
-::card
-#title
+::badge{type="info"}
 Product Development
 ::
-::card
-#title
+::badge{type="info"}
 Writing
 ::
-::card
-#title
+::badge{type="info"}
 Code
 ::
-::card
-#title
+::badge{type="info"}
 Angel Investing
 ::
-::card
-#title
+::badge{type="info"}
 Combination
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Languages
 ::
-::card
-#title
+::badge{type="info"}
 Start Ups
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Haml
 ::
-::card
-#title
+::badge{type="info"}
 Finance
 ::
-::card
-#title
+::badge{type="info"}
 Project
 ::
-::card
-#title
+::badge{type="info"}
 Organizational Abilities
 ::
-::card
-#title
+::badge{type="info"}
 Mobile Applications
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Coffeescript
 ::
-::card
-#title
+::badge{type="info"}
 Deloitte
 ::
-::card
-#title
+::badge{type="info"}
 Efficient
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Ruby On Rails
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 Intellectual
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Positive Change
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Brilliant
 ::
-::card
-#title
+::badge{type="info"}
 Energy
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Applications
 ::
-::card
-#title
+::badge{type="info"}
 Atmosphere
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Group Dynamics
 ::
-::card
-#title
+::badge{type="info"}
 New York
 ::
-::card
-#title
+::badge{type="info"}
 Market Research
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Engineer
+::code-group
+```bash [Spokeo]
+spokeo.com
+```
+```bash [Instagram]
+instagram.com
+```
+```bash [William Megelich]
+pinterest.dk
+```
+```bash [Kleiner Perkins]
+kleinerperkins.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Pinterest]
+pinterest.com.au
+```
 ::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Software Engineer, Video Product
-::
-::card
-#title
-Software Engineer, Creation Product
-::
-::card
-#title
-Software Engineer, Shopping Product
-::
-::card
-#title
-Engineering Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Spokeo
-#description
-[Go to website](spokeo.com)
-::
-::card
-#title
-Instagram
-#description
-[Go to website](instagram.com)
-::
-::card
-#title
-William Megelich
-#description
-[Go to website](pinterest.dk)
-::
-::card
-#title
-Kleiner Perkins
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Pinterest
-#description
-[Go to website](pinterest.com.au)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Engineer**
+- **Software Engineering Intern**
+- **Software Engineer, Video Product**
+- **Software Engineer, Creation Product**
+- **Software Engineer, Shopping Product**
+- **Engineering Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/aashish-jain-8ab164156 aashish-jain-8ab164156 Aashish Jain Engineer @ Retool (we’re hiring!)  https://media.licdn.com/dms/image/C4E03AQHC1uuC8U4_Cw/profile-displayphoto-shrink_800_800/0/1536598630786?e=1695859200&v=beta&t=JSA9Sf0Dsq6qutSYbquDNadvzno7oGhdur2VH4K0uhY personal ACoAACVl8gMBO1tut5MfBnJxrJIDH4eRki9Szz8 627438083 United States Saratoga, California Saratoga California Saratoga, California, United States True False Computer Software 11869260 Retool https://media.licdn.com/dms/image/C560BAQGn7OhLR_czyw/company-logo_400_400/0/1632434379250?e=1698278400&v=beta&t=4LbmHvTKH4L-H8rP9w_KOb8p7i8J5yZNwH8bbCJGnOw https://www.linkedin.com/company/tryretool/ 201 500 1 2021 1 2021 Retool Retool is the fastest way to build internal tools.
-
-https://retool.com/ Software Engineer True 592 500 avimoondra Avinash Moondra Engineering Manager at Retool (we're hiring!) https://media.licdn.com/dms/image/C5603AQGCwEy_mD_iMg/profile-displayphoto-shrink_800_800/0/1519093129798?e=1695859200&v=beta&t=Wo74GGlfaS6Beoi9AHeDbqUoiERx4H9C_plBCtiHWf4 mokshjawa Moksh Jawa Engineer @ Retool (we’re hiring!) | M&T @ Penn emily-field-50b1a555 Emily Field Engineering Leader at Retool https://media.licdn.com/dms/image/C5603AQGkYaHVNx1ONw/profile-displayphoto-shrink_800_800/0/1629473922270?e=1695859200&v=beta&t=VwoiQcAzWBhvNHrH8AcpDgIeFiK8ZuVz2yzsbQiX9RU alexi-christakis Alexi Christakis software @ Retool https://media.licdn.com/dms/image/C5603AQEj97AfzRVBEg/profile-displayphoto-shrink_800_800/0/1598571928833?e=1695859200&v=beta&t=rP1lG3rt-43CdT2rn2D8aMUC6Ty-wuNgyY4qrMmjmP8 siddharth-thakur-39617264 Siddharth Thakur Software Engineer at Retool xiang-li-zju Xiang Li Software Engineer at Retool | Ex-Googler | Venture Scout https://media.licdn.com/dms/image/D5603AQH1XSuGejdnYg/profile-displayphoto-shrink_800_800/0/1676085072558?e=1695859200&v=beta&t=mjm31RhXPIBk2aKP0iM7VZ3RqqjU2uVGltGOeavpWnM braden-anderson-72121479 Braden Anderson Software Engineer at Retool https://media.licdn.com/dms/image/C4E03AQGO42bf6XjPoA/profile-displayphoto-shrink_800_800/0/1516672951412?e=1695859200&v=beta&t=yc31pi4SgyYjXfBNQ2roMio8qaCniwEyIvzrhCTEjI4 yjyao Yujian Yao Software Engineer at Retool https://media.licdn.com/dms/image/C5603AQFrtcxRagdZnw/profile-displayphoto-shrink_800_800/0/1527218528735?e=1695859200&v=beta&t=EFEwKtgz7uPzG2u49FCilLW0dEs026r7FhAVh5JatzA jatin-nanda-617580113 Jatin Nanda swe @ retool joelenelatief Joelene L. Engineer @ Retool
+#content
+aashish-jain- Aashish. Jain. Engineer @ Retool (we’re hiring!) personal. United. States. Saratoga, California. Saratoga. California. Saratoga, California, United. States. True. False. Computer. Software. Retool. Retool. Retool is the fastest way to build internal tools. Software. Engineer. True avimoondra. Avinash. Moondra. Engineering. Manager at. Retool (we're hiring!) mokshjawa. Moksh. Jawa. Engineer @ Retool (we’re hiring!) | M&T @ Penn emily-field- Emily. Field. Engineering. Leader at. Retool alexi-christakis. Alexi. Christakis software @ Retool siddharth-thakur- Siddharth. Thakur. Software. Engineer at. Retool xiang-li-zju. Xiang. Li. Software. Engineer at. Retool | Ex-Googler | Venture. Scout braden-anderson- Braden. Anderson. Software. Engineer at. Retool yjyao. Yujian. Yao. Software. Engineer at. Retool jatin-nanda- Jatin. Nanda swe @ retool joelenelatief. Joelene. L. Engineer @ Retool
 ::

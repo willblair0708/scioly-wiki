@@ -1,384 +1,244 @@
-::block-hero
----
-#title
-Molly Mielke
----
-
-:badge[2021]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://linkedin.com/in/mollymielke" blank}
-
-::callout
-#summary
-Email
-#content
-m@mollymielke.com
+# Molly Mielke
+::badge{type="info"}
+Class of 2021
+::
+::badge{type="success"}
+Founding Partner at Moth Fund
 ::
 
-::callout
-#summary
-Company
-#content
-Moth Fund
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Founding Partner
+:button-link[LinkedIn Profile]{href="https://linkedin.com/in/mollymielke" blank}
+- **Email**: m@mollymielke.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Video Color Grading
 ::
-::card
-#title
+::badge{type="info"}
 Online Social Networking
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Competitive Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Image Editing
 ::
-::card
-#title
+::badge{type="info"}
 Time Management
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Short Films
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 People Skills
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Production Assistance
 ::
-::card
-#title
+::badge{type="info"}
 Camera/Film Equipment
 ::
-::card
-#title
+::badge{type="info"}
 Illustration
 ::
-::card
-#title
+::badge{type="info"}
 Painting
 ::
-::card
-#title
+::badge{type="info"}
 Logo Design
 ::
-::card
-#title
+::badge{type="info"}
 Storytelling
 ::
-::card
-#title
+::badge{type="info"}
 Photography
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Film Production
 ::
-::card
-#title
+::badge{type="info"}
 Film
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Video
 ::
-::card
-#title
+::badge{type="info"}
 Media Production
 ::
-::card
-#title
+::badge{type="info"}
 Set Photographer
 ::
-::card
-#title
+::badge{type="info"}
 Electronics
 ::
-::card
-#title
+::badge{type="info"}
 Video Production
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Movie Posters
 ::
-::card
-#title
+::badge{type="info"}
 Audio Recording
 ::
-::card
-#title
+::badge{type="info"}
 Motion Graphics
 ::
-::card
-#title
+::badge{type="info"}
 Drawing
 ::
-::card
-#title
+::badge{type="info"}
 Organizational Services
 ::
-::card
-#title
+::badge{type="info"}
 Writing
 ::
-::card
-#title
+::badge{type="info"}
 Customer Service
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Advertising
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Online Store
 ::
-::card
-#title
+::badge{type="info"}
 Typography
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Audio Editing
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Studio Recording
 ::
-::card
-#title
+::badge{type="info"}
 Web Content
 ::
-::card
-#title
+::badge{type="info"}
 Written Communication
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Marketing Intern
+::code-group
+```bash [Stripe]
+stripe.com
+```
+```bash [Figma]
+figma.com
+```
+```bash [Notion]
+notion.so
+```
+```bash [Peak Design]
+peakdesign.com
+```
+```bash [Entireworld]
+theentireworld.com
+```
+```bash [Discovery]
+discovery.com
+```
+```bash [The Browser Company]
+thebrowser.company
+```
+```bash [Pogo]
+joinpogo.com
+```
+```bash [Molly Mielke]
+mollymielke.com
+```
+```bash [Mindset Like A Mother]
+lifestylelogiccoaching.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Marketing
-::
-::card
-#title
-Design Fellow
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Fellow
-::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Intern
-::
-::card
-#title
-Product Design And Creative Intern
-::
-::card
-#title
-Freelance Researcher, Writer, And Designer
-::
-::card
-#title
-Founding Partner
-::
-::card
-#title
-Junior Graphic Designer
-::
-::card
-#title
-Graphic Design Intern
-::
-::card
-#title
-Stripe Press Editor
-::
-::card
-#title
-Product Designer
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Marketing Intern**
+- **Marketing**
+- **Design Fellow**
+- **Founder**
+- **Fellow**
+- **Product Design Intern**
+- **Intern**
+- **Product Design And Creative Intern**
+- **Freelance Researcher, Writer, And Designer**
+- **Founding Partner**
+- **Junior Graphic Designer**
+- **Graphic Design Intern**
+- **Stripe Press Editor**
+- **Product Designer**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Stripe
-#description
-[Go to website](stripe.com)
-::
-::card
-#title
-Figma
-#description
-[Go to website](figma.com)
-::
-::card
-#title
-Notion
-#description
-[Go to website](notion.so)
-::
-::card
-#title
-Peak Design
-#description
-[Go to website](peakdesign.com)
-::
-::card
-#title
-Entireworld
-#description
-[Go to website](theentireworld.com)
-::
-::card
-#title
-Discovery
-#description
-[Go to website](discovery.com)
-::
-::card
-#title
-The Browser Company
-#description
-[Go to website](thebrowser.company)
-::
-::card
-#title
-Pogo
-#description
-[Go to website](joinpogo.com)
-::
-::card
-#title
-Molly Mielke
-#description
-[Go to website](mollymielke.com)
-::
-::card
-#title
-Mindset Like A Mother
-#description
-[Go to website](lifestylelogiccoaching.com)
-::
-::card
-#title
-Moth Fund
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/alicehli alicehli Alice L. ubc '23 • prev ☁️📊, 👻, 🏰 personal ACoAAB0pODAB-AiIpc5ryIgw2WHTUHm4FE_f5bU 489240624 dual degree & quadruple major graduate in computer science 👩‍💻, mis and international business 🌎📈 & politics and government ⚖️! 
-
-interested in all things tech, policy, and start-up related (: Canada Canada False False Chinese FULL_PROFESSIONAL English NATIVE_OR_BILINGUAL Computer Software 163056 Citadel https://media.licdn.com/dms/image/D4E0BAQEr0zQ5jE04zA/company-logo_400_400/0/1688575028252?e=1698278400&v=beta&t=2fOJ8kZJPzJUiuxYsbGJJc0pabzhanxW2K6wYiYde20 https://www.linkedin.com/company/citadel-llc/ 1001 5000 6 2022 8 2022 New York City Metropolitan Area 6 2022 8 2022 Citadel Credit Engineering 💳 Quantitative Developer Intern Internship 🥔 👉👈 Public Speaking Leadership 👁👄👁 Event Management Public Relations Logistics Management True 1939 500 dnaliu Danna L. Building @ PoplarML (YC W23) https://media.licdn.com/dms/image/C5603AQGcmpP_345oew/profile-displayphoto-shrink_800_800/0/1602019704361?e=1695859200&v=beta&t=Xz-FtP5jCU91DO_ugPtVjAMO3-w9KcNpazVnljChMOY jonkim99 Jon Kim Product Manager @Microsoft | UBC BUCS Grad '22 https://media.licdn.com/dms/image/C5603AQFBHOjSF9511A/profile-displayphoto-shrink_800_800/0/1569522161070?e=1695859200&v=beta&t=qpBIH9dDLkiuVRNo5G7Ht3RKDnTH6BzFVUIquoo-KA0 samarthgoel1 Samarth Goel Algo Dev Intern @ HRT | UC Berkeley CS, Business, and Stats | Formerly at IMC Trading, Goldman Sachs https://media.licdn.com/dms/image/C4D03AQFWODh93RSzwQ/profile-displayphoto-shrink_800_800/0/1568588207751?e=1695859200&v=beta&t=g1xP7BICU4FmOzU1dn417TU98tXnjDHun2uLo_CVU9s bentorn Ben Torn Software Engineer at Citadel Securities https://media.licdn.com/dms/image/D5603AQEHimo7bKQRGg/profile-displayphoto-shrink_800_800/0/1689732344739?e=1695859200&v=beta&t=CBWAOClS_tynJcTGyH0FvUz8p-DmHI010zqHnPwzuJo philip-yungu-ko Philip K. SDE Intern @ Amazon https://media.licdn.com/dms/image/D5603AQEVp1jpT-0MDw/profile-displayphoto-shrink_800_800/0/1676976415628?e=1695859200&v=beta&t=tqe66eLzcYVQPPjNZ_ffxh-8oJElTsWm2qu-TRsIgO0 audrey-ho Audrey Ho UWaterloo CS https://media.licdn.com/dms/image/C5603AQEQ2rlKXYkoPw/profile-displayphoto-shrink_800_800/0/1653277010645?e=1695859200&v=beta&t=_j6YIjViDEAs3xcR9VInZ4DQOp9aWgewMUs1C50TGf0 jisoo-kang Jisoo Kang VC @ Forum Ventures | ex Microsoft, Intuit https://media.licdn.com/dms/image/C5603AQHM3uUnKun7wA/profile-displayphoto-shrink_800_800/0/1585098956077?e=1695859200&v=beta&t=x5yuAOqGbhMXe9348IuuXaPDuAEOksRIOUrXzHUOLbc edending Eden Ding Quantitative Developer at Citadel https://media.licdn.com/dms/image/C4E03AQE0JxId8U8p-w/profile-displayphoto-shrink_800_800/0/1516888619141?e=1695859200&v=beta&t=M81rzAV5PhmK1YfGdHney5DdznRU8I_pi3z6diKAdsg marco-fortin Marc-Olivier Fortin Incoming SWE @Citadel | CS @UWaterloo https://media.licdn.com/dms/image/C4E03AQHig5SwZzqgtA/profile-displayphoto-shrink_800_800/0/1621031900342?e=1695859200&v=beta&t=hd20mK0_49cjitye9y1xUUW1M4s1WnAyQ1cbyIY8WWw anneguo3 Anne Guo software engineer @ apple https://media.licdn.com/dms/image/C5603AQHdS0eWzWQ5-A/profile-displayphoto-shrink_800_800/0/1546957715715?e=1695859200&v=beta&t=m7NA6C8nSa5j2g7KtzcraW2vV1DrAOi9X2oyiSK8XnI French FULL_PROFESSIONAL 9 2022 Scholar Neo https://media.licdn.com/dms/image/C560BAQGZOQ8pLmLpDQ/company-logo_400_400/0/1589995692628?e=1698278400&v=beta&t=ttzHZsHmlnyhiypL-_oLaP3s1vrucgeGz7xJu50qs_0 https://www.linkedin.com/school/neoventures/ SCIENCE_AND_TECHNOLOGY https://neo.com/ Event Planning Research 5 2022 Engineering Fellow Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ https://fellows.kleinerperkins.com/ 1 2022 4 2022 Data Science Fellow Bluebonnet Data https://media.licdn.com/dms/image/D560BAQFKyBQCw97UBg/company-logo_400_400/0/1667836762881?e=1698278400&v=beta&t=8qsVgMPSnZqvQ4pdLA4TG5BBkI4-GmGPve40ReapJg8 https://www.linkedin.com/company/bluebonnet-data/ POLITICS • Volunteered as a tech fellow with non-profit organization Protect Our Election to impact national progressive causes and improve civic education and accessibility. 9 2020 10 2021 Website Developer, Outreach & Sponsorship Lead UBC Rocket https://media.licdn.com/dms/image/C4E0BAQG-k8THNWIdQQ/company-logo_400_400/0/1519907809617?e=1698278400&v=beta&t=r4pgGj8VvbZum1B3O57tDTXdoHeCRWvdkWxiAkvXbkw https://www.linkedin.com/company/ubc-rocket/ SCIENCE_AND_TECHNOLOGY • Created a sponsorship and outreach plan for one of UBC’s largest design team, dedicated to engineering sounding rockets. 
-• Maintained website for team using HTML, CSS, and JavaScript. Community Outreach Nonprofit Organizations Strategy Photoshop Microsoft Word Microsoft Office Microsoft Excel Clip Studio Paint Java Microsoft Access German ELEMENTARY
+#content
+alicehli. Alice. L. ubc ' • prev ☁️📊, 👻, 🏰 personal - dual degree & quadruple major graduate in computer science 👩‍💻, mis and international business 🌎📈 & politics and government ⚖️! interested in all things tech, policy, and start-up related (: Canada. Canada. False. False. Chinese. FULL_PROFESSIONAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Citadel. New. York. City. Metropolitan. Area. Citadel. Credit. Engineering 💳 Quantitative. Developer. Intern. Internship 🥔 👉👈 Public. Speaking. Leadership 👁👄👁 Event. Management. Public. Relations. Logistics. Management. True dnaliu. Danna. L. Building @ PoplarML (YC ) Jon. Kim. Product. Manager @Microsoft | UBC. BUCS. Grad ' Samarth. Goel. Algo. Dev. Intern @ HRT | UC. Berkeley. CS, Business, and. Stats | Formerly at. IMC. Trading, Goldman. Sachs bentorn. Ben. Torn. Software. Engineer at. Citadel. Securities philip-yungu-ko. Philip. K. SDE. Intern @ Amazon audrey-ho. Audrey. Ho. UWaterloo. CS jisoo-kang. Jisoo. Kang. VC @ Forum. Ventures | ex. Microsoft, Intuit edending. Eden. Ding. Quantitative. Developer at. Citadel marco-fortin. Marc-Olivier. Fortin. Incoming. SWE @Citadel | CS @UWaterloo. Anne. Guo software engineer @ apple. French. FULL_PROFESSIONAL. Scholar. Neo. SCIENCE_AND_TECHNOLOGY. Event. Planning. Research. Engineering. Fellow. Kleiner. Perkins. Data. Science. Fellow. Bluebonnet. Data. POLITICS • Volunteered as a tech fellow with non-profit organization. Protect. Our. Election to impact national progressive causes and improve civic education and accessibility. Website. Developer, Outreach & Sponsorship. Lead. UBC. Rocket. SCIENCE_AND_TECHNOLOGY • Created a sponsorship and outreach plan for one of. UBC’s largest design team, dedicated to engineering sounding rockets. • Maintained website for team using. HTML, CSS, and. JavaScript. Community. Outreach. Nonprofit. Organizations. Strategy. Photoshop. Microsoft. Word. Microsoft. Office. Microsoft. Excel. Clip. Studio. Paint. Java. Microsoft. Access. German. ELEMENTARY
 ::

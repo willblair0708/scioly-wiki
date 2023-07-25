@@ -1,161 +1,99 @@
-::block-hero
----
-#title
-Andy Jiang
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/andybojiang" blank}
-
-::callout
-#summary
-Email
-#content
-andy.jiang@berkeley.edu
+# Andy Jiang
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Investor at Capital.lv
 ::
 
-::callout
-#summary
-Company
-#content
-Capital.lv
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Investor
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/andybojiang" blank}
+- **Email**: andy.jiang@berkeley.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Engineering Fellow
+::code-group
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Truebill]
+truebill.com
+```
+```bash [Microsoft]
+microsoft.com
+```
+```bash [Buck.ai]
+buck.ai
+```
+```bash [Run The World]
+runtheworld.today
+```
+```bash [one]
+a-star.co
+```
+```bash [Stealth Mode Startup Company]
+appcito.net
+```
+```bash [Capital.lv]
+capital.lv
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Investor
-::
-::card
-#title
-Product Manager
-::
-::card
-#title
-Cloud And Virtual Network Researcher
-::
-::card
-#title
-Product
-::
-::card
-#title
-Building
-::
-::card
-#title
-Crypto Research And Education
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Truebill
-#description
-[Go to website](truebill.com)
-::
-::card
-#title
-Microsoft
-#description
-[Go to website](microsoft.com)
-::
-::card
-#title
-Buck.ai
-#description
-[Go to website](buck.ai)
-::
-::card
-#title
-Run The World
-#description
-[Go to website](runtheworld.today)
-::
-::card
-#title
-one
-#description
-[Go to website](a-star.co)
-::
-::card
-#title
-Stealth Mode Startup Company
-#description
-[Go to website](appcito.net)
-::
-::card
-#title
-Capital.lv
-#description
-[Go to website](capital.lv)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Engineering Fellow**
+- **Investor**
+- **Product Manager**
+- **Cloud And Virtual Network Researcher**
+- **Product**
+- **Building**
+- **Crypto Research And Education**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/melodyxlee melodyxlee Melody Lee 👩🏻‍💻 Software Engineer | Kleiner Perkins Fellow https://media.licdn.com/dms/image/C5603AQHbIwpa-Zx-yw/profile-displayphoto-shrink_800_800/0/1654858009089?e=1695859200&v=beta&t=BidIAFOOa0Grl6LTQy5DNhXzTGcGtx4dI7_Q_4JfXXM personal ACoAABogiIEBtAdCCZp5U11IPNJMgBMOlXEeEDA 438339713 United States San Francisco, California San Francisco California San Francisco, California, United States False False Computer Software Google GHC Scholar Google 10 2019 Girls on the Run Core Values Scholarship Recipient GOTR of Montgomery County 5 2017 36213 Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ 11 50 6 2022 San Francisco, California, United States 6 2022 Kleiner Perkins Engineering Fellow Java JavaScript C Amazon Web Services (AWS) React.js Python SQL Git True 825 500 Association for Computing Machinery Executive Board Member Facebook ABCS Fellow Google CodeU Program Participant MongoDB Android 10 2017 9 2019 2 2019 4 2019 HTML Cascading Style Sheets (CSS) PHP 12 2020 11 2019
+#content
+melodyxlee. Melody. Lee 👩🏻‍💻 Software. Engineer | Kleiner. Perkins. Fellow personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Google. GHC. Scholar. Google. Girls on the. Run. Core. Values. Scholarship. Recipient. GOTR of. Montgomery. County. Kleiner. Perkins. San. Francisco, California, United. States. Kleiner. Perkins. Engineering. Fellow. Java. JavaScript. C. Amazon. Web. Services (AWS) React.js. Python. SQL. Git. True. Association for. Computing. Machinery. Executive. Board. Member. Facebook. ABCS. Fellow. Google. CodeU. Program. Participant. MongoDB. Android. HTML. Cascading. Style. Sheets (CSS) PHP
 ::

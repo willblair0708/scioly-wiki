@@ -1,309 +1,211 @@
-::block-hero
----
-#title
-Andres Nieto
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/andres-crucetta" blank}
-
-::callout
-#summary
-Email
-#content
-acrucettanieto@gmail.com
+# Andres Nieto
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Back End Engineer at Waltz Health
 ::
 
-::callout
-#summary
-Company
-#content
-Waltz Health
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Back End Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/andres-crucetta" blank}
+- **Email**: acrucettanieto@gmail.com
+- **Location**: Chicago
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Chicago
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Operations Management
 ::
-::card
-#title
+::badge{type="info"}
 Business Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Data Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Deep Learning
 ::
-::card
-#title
+::badge{type="info"}
 Flask
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Agile Methodologies
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Market Research
 ::
-::card
-#title
+::badge{type="info"}
 Spanish
 ::
-::card
-#title
+::badge{type="info"}
 Numpy
 ::
-::card
-#title
+::badge{type="info"}
 Pandas
 ::
-::card
-#title
+::badge{type="info"}
 Data Science
 ::
-::card
-#title
+::badge{type="info"}
 Transform
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Business Development
 ::
-::card
-#title
+::badge{type="info"}
 Product Management
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Data Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Tableau
 ::
-::card
-#title
+::badge{type="info"}
 Business Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Statistics
 ::
-::card
-#title
+::badge{type="info"}
 Business Insights
 ::
-::card
-#title
+::badge{type="info"}
 Apache Spark
 ::
-::card
-#title
+::badge{type="info"}
 Neural Networks
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Extract
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Artificial Neural Networks
 ::
-::card
-#title
+::badge{type="info"}
 Go
 ::
-::card
-#title
+::badge{type="info"}
 Amazon Web Services
 ::
-::card
-#title
+::badge{type="info"}
 Critical Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Business Intelligence
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Github
 ::
-::card
-#title
+::badge{type="info"}
 Natural Language Processing
 ::
-::card
-#title
+::badge{type="info"}
 Corporate Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Load
 ::
-::card
-#title
+::badge{type="info"}
 R
 ::
-::card
-#title
+::badge{type="info"}
 Business Operations
 ::
-::card
-#title
+::badge{type="info"}
 Forecasting
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Artificial Intelligence
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Data Science Volunteer
+::code-group
+```bash [CTRL]
+ctrl-tv.com
+```
+```bash [University of Chicago]
+uchicago.edu
+```
+```bash [Shelf Engine]
+shelfengine.com
+```
+```bash [U.S. Digital Response]
+usdigitalresponse.org
+```
+```bash [Meta]
+meta.com
+```
+```bash [Waltz Health]
+waltzhealth.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Data Science Intern
-::
-::card
-#title
-Back End Engineer
-::
-::card
-#title
-Co-Founder And Product Manager
-::
-::card
-#title
-Product Growth Intern
-::
-::card
-#title
-Teaching Assistant
-::
-::card
-#title
-Experienced Associate
-::
-::card
-#title
-Engineering Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-CTRL
-#description
-[Go to website](ctrl-tv.com)
-::
-::card
-#title
-University of Chicago
-#description
-[Go to website](uchicago.edu)
-::
-::card
-#title
-Shelf Engine
-#description
-[Go to website](shelfengine.com)
-::
-::card
-#title
-U.S. Digital Response
-#description
-[Go to website](usdigitalresponse.org)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::card
-#title
-Waltz Health
-#description
-[Go to website](waltzhealth.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Data Science Volunteer**
+- **Data Science Intern**
+- **Back End Engineer**
+- **Co-Founder And Product Manager**
+- **Product Growth Intern**
+- **Teaching Assistant**
+- **Experienced Associate**
+- **Engineering Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/angelinerao angelinerao Angeline R. Investor at Costanoa Ventures https://media.licdn.com/dms/image/C4D03AQEPqgXwg3N3vw/profile-displayphoto-shrink_800_800/0/1573539259184?e=1695859200&v=beta&t=IslKb7qi4suSrSXRD5O-L715qWegCleXJUtqkzyAV7c personal ACoAABstyfgBDD29NZ8xCBgNpHsRStf65cLP_m0 455985656 Most active here: https://twitter.com/angeline_rao United States United States True False Chinese PROFESSIONAL_WORKING German LIMITED_WORKING Computer Software 2-time USA Junior Mathematics Olympiad (USAJMO) Qualifier MIT Math Prize for Girls Honorable Mention, Olympiad Qualifier Internationally ranked 26th Regional Finalist, Siemens Competition in Math Science and Technology Research Shing-Tung Yau High School Mathematics Award Finalist One of 7 nationally Summer Program for Applied Rationality and Cognition (SPARC) 3602684 Costanoa Ventures https://media.licdn.com/dms/image/C4E0BAQEDtUkx1CESPQ/company-logo_400_400/0/1519873664356?e=1698278400&v=beta&t=_VKIUEwcG2CxUFdv_hLI_AzGH4YVv_bcHknH_6gRQ2Q https://www.linkedin.com/company/costanoa-ventures/ 11 50 6 2023 6 2023 Costanoa Ventures Investment Team True 1214 500 mckenzie-parks-0b4a4b111 McKenzie Parks Investor at Costanoa Ventures prathika-kasireddy Prathika Kasireddy Product Management at Carfax https://media.licdn.com/dms/image/C4E03AQHDMI8tbh6jrA/profile-displayphoto-shrink_800_800/0/1622222856847?e=1695859200&v=beta&t=YhFIhzJGSPLBhOwxbFDLaE2fvAex28VtyFV7ZQBUC28 taronayroohafzaii Taronay Roohafzaii Product Manager at Bolt tobyttan Toby Tan Product Lead at Bolt https://media.licdn.com/dms/image/C5603AQEwO4O7BSMzPg/profile-displayphoto-shrink_800_800/0/1599611120685?e=1695859200&v=beta&t=wrGDE5DAM-Uvl4k0VRLQinQbl9k-JJfi77JIZSah4R8 andrewlawrencewang Andrew L. Wang Product @ Bolt https://media.licdn.com/dms/image/C5603AQFaJWQDkw4uTw/profile-displayphoto-shrink_800_800/0/1564676034401?e=1695859200&v=beta&t=DK_eSDExTg0B5RykDoquuU5mt0L9digtKuLG8sfTn2E andrewckim1 Andrew Kim Head of Compensation at Bolt ⚡️ liucathy Cathy X. Liu Building something new https://media.licdn.com/dms/image/C5603AQHHPwrWM4Kr0Q/profile-displayphoto-shrink_800_800/0/1517489481242?e=1695859200&v=beta&t=UDWPg-kSRRFXVtihD_gcn2kaHWVXHQJ1oWWtBnIjjCU sera-yang Sera Yang Software Engineer at Bolt https://media.licdn.com/dms/image/D5603AQHhQzFcoFTaAQ/profile-displayphoto-shrink_800_800/0/1663279864455?e=1695859200&v=beta&t=Q7k53Zw5kKHtf7Jm0IxU-Qb3s1RqCJysBz1cQcpEqH0 majukuruvilla Maju Kuruvilla⚡️ CEO @ Bolt https://media.licdn.com/dms/image/D5603AQEsxFq6a1VcIA/profile-displayphoto-shrink_800_800/0/1674151840356?e=1695859200&v=beta&t=nYWmtBkANsvTxT664rhkM97b1LMjY6WtjFP43IzNkF4 greggreiner1 Greg Greiner Chief Product Officer at Bolt https://media.licdn.com/dms/image/C4D03AQFg8kyUIAQM8A/profile-displayphoto-shrink_800_800/0/1516839278607?e=1695859200&v=beta&t=rdLeJO76YTVronpeqbJecR1zBMNPdpT30rQF04y-hNM A Characterization of Oriented Hypergraphic Balance via Signed Weak Walks Linear Algebra and its Applications http://www.sciencedirect.com/science/article/pii/S0024379515004541 2015 standardizedContributor Angeline R. Investor at Costanoa Ventures SAT 2390
+#content
+angelinerao. Angeline. R. Investor at. Costanoa. Ventures personal. Most active here: United. States. United. States. True. False. Chinese. PROFESSIONAL_WORKING. German. LIMITED_WORKING. Computer. Software -time. USA. Junior. Mathematics. Olympiad (USAJMO) Qualifier. MIT. Math. Prize for. Girls. Honorable. Mention, Olympiad. Qualifier. Internationally ranked. Regional. Finalist, Siemens. Competition in. Math. Science and. Technology. Research. Shing-Tung. Yau. High. School. Mathematics. Award. Finalist. One of nationally. Summer. Program for. Applied. Rationality and. Cognition (SPARC) Costanoa. Ventures. Costanoa. Ventures. Investment. Team. True mckenzie-parks- McKenzie. Parks. Investor at. Costanoa. Ventures prathika-kasireddy. Prathika. Kasireddy. Product. Management at. Carfax taronayroohafzaii. Taronay. Roohafzaii. Product. Manager at. Bolt tobyttan. Toby. Tan. Product. Lead at. Bolt andrewlawrencewang. Andrew. L. Wang. Product @ Bolt. Andrew. Kim. Head of. Compensation at. Bolt ⚡️ liucathy. Cathy. X. Liu. Building something new sera-yang. Sera. Yang. Software. Engineer at. Bolt majukuruvilla. Maju. Kuruvilla⚡️ CEO @ Bolt. Greg. Greiner. Chief. Product. Officer at. Bolt. A. Characterization of. Oriented. Hypergraphic. Balance via. Signed. Weak. Walks. Linear. Algebra and its. Applications. Angeline. R. Investor at. Costanoa. Ventures. SAT
 ::

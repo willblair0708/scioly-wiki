@@ -1,265 +1,170 @@
-::block-hero
----
-#title
-Jessie Alvarez
----
-
-:badge[2016]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/jessiealvarez" blank}
-
-::callout
-#summary
-Email
-#content
-jessieppc@gmail.com
+# Jessie Alvarez
+::badge{type="info"}
+Class of 2016
+::
+::badge{type="success"}
+Software Engineer at Figma
 ::
 
-::callout
-#summary
-Company
-#content
-Figma
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/jessiealvarez" blank}
+- **Email**: jessieppc@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Django
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Objective C
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Tutoring
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Google App Engine
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Asyncdisplaykit
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Swift
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Html 5
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Wordpress
 ::
-::card
-#title
+::badge{type="info"}
 Web Applications
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Engineer
+::code-group
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [Figma]
+figma.com
+```
+```bash [Google]
+google.com
+```
+```bash [Startup Shell]
+startupshell.org
+```
+```bash [William Megelich]
+pinterest.dk
+```
+```bash [Plastic Pollutes]
+plasticpollutioncoalition.org
+```
+```bash [AFM & SAG-AFTRA Intellectual Property Rights Distribution Fund]
+afmsagaftrafund.org
+```
+```bash [Mayfair House]
+mayfairhouse.com
+```
+```bash [The Hot Sheet]
+hotsheetpub.com
+```
+```bash [Meta]
+meta.com
+```
+```bash [Pinterest]
+pinterest.com.au
+```
 ::
-::card
-#title
-Cs106 Section Leader
-::
-::card
-#title
-Computer Science Summer Institute Participant
-::
-::card
-#title
-Webmaster
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Data Analyst
-::
-::card
-#title
-Engineering Practicum Intern
-::
-::card
-#title
-Web Director
-::
-::card
-#title
-Ambassador And Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-Figma
-#description
-[Go to website](figma.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Startup Shell
-#description
-[Go to website](startupshell.org)
-::
-::card
-#title
-William Megelich
-#description
-[Go to website](pinterest.dk)
-::
-::card
-#title
-Plastic Pollutes
-#description
-[Go to website](plasticpollutioncoalition.org)
-::
-::card
-#title
-AFM & SAG-AFTRA Intellectual Property Rights Distribution Fund
-#description
-[Go to website](afmsagaftrafund.org)
-::
-::card
-#title
-Mayfair House
-#description
-[Go to website](mayfairhouse.com)
-::
-::card
-#title
-The Hot Sheet
-#description
-[Go to website](hotsheetpub.com)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::card
-#title
-Pinterest
-#description
-[Go to website](pinterest.com.au)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Engineer**
+- **Cs106 Section Leader**
+- **Computer Science Summer Institute Participant**
+- **Webmaster**
+- **Software Engineering Intern**
+- **Data Analyst**
+- **Engineering Practicum Intern**
+- **Web Director**
+- **Ambassador And Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/dnaliu dnaliu Danna L. Building @ PoplarML (YC W23) https://media.licdn.com/dms/image/C5603AQGcmpP_345oew/profile-displayphoto-shrink_800_800/0/1602019704361?e=1695859200&v=beta&t=Xz-FtP5jCU91DO_ugPtVjAMO3-w9KcNpazVnljChMOY personal ACoAACKIBmQBVQ-sbyEM_LmhseVOy3keRtUiw0A 579339876 hi! United States San Francisco, California San Francisco California San Francisco, California, United States True False Computer Software Dean’s Honours List Carleton University 6 2022 Dean’s Honours List 6 2021 Dean’s Honours List 6 2020 Tracey and Siva Ananmalay Scholarship The Tracey and Siva Ananmalay Scholarship in Computer Science is presented annually, on the recommendation of the Director of the School of Computer Science, to an outstanding student in the Computer Science Program proceeding from one year to another, with preference being given to a student who is involved in extracurricular activities. Carleton University 6 2020 88695686 PoplarML (YC W23) https://media.licdn.com/dms/image/C560BAQEzCjWL4HkByA/company-logo_400_400/0/1674683038653?e=1698278400&v=beta&t=zAX9GYLYIR6bSNultV1N-uxOuLqXvI-PwNeAStashX4 https://www.linkedin.com/company/poplarml/ 2 10 1 2023 San Francisco, California, United States 1 2023 PoplarML (YC W23) 🌳 Co-Founder Programming Python (Programming Language) Java Object oriented programming Git JavaFX React Native HTML True 1933 500 Technolgap Rewriting the code Member JavaScript Cascading Style Sheets (CSS) 5 2020 1 2020 Teamwork Leadership Communication French English Mobile Application Development NumPy Dart Cooperation Resiliency
+#content
+dnaliu. Danna. L. Building @ PoplarML (YC ) personal. ACoAACKIBmQBVQ- hi! United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Dean’s. Honours. List. Carleton. University. Dean’s. Honours. List. Dean’s. Honours. List. Tracey and. Siva. Ananmalay. Scholarship. The. Tracey and. Siva. Ananmalay. Scholarship in. Computer. Science is presented annually, on the recommendation of the. Director of the. School of. Computer. Science, to an outstanding student in the. Computer. Science. Program proceeding from one year to another, with preference being given to a student who is involved in extracurricular activities. Carleton. University. PoplarML (YC ) San. Francisco, California, United. States. PoplarML (YC ) 🌳 Co-Founder. Programming. Python (Programming. Language) Java. Object oriented programming. Git. JavaFX. React. Native. HTML. True. Technolgap. Rewriting the code. Member. JavaScript. Cascading. Style. Sheets (CSS) Teamwork. Leadership. Communication. French. English. Mobile. Application. Development. NumPy. Dart. Cooperation. Resiliency
 ::

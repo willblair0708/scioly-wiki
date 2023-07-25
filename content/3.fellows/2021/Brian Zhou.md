@@ -1,253 +1,144 @@
-::block-hero
----
-#title
-Brian Zhou
----
-
-:badge[2021]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/briantzhou" blank}
-
-::callout
-#summary
-Email
-#content
-bzhout23@gmail.com
+# Brian Zhou
+::badge{type="info"}
+Class of 2021
+::
+::badge{type="success"}
+Incoming Associate Product Manager at Uber
 ::
 
-::callout
-#summary
-Company
-#content
-Uber
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Finance; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Incoming Associate Product Manager
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/briantzhou" blank}
+- **Email**: bzhout23@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Imagej
 ::
-::card
-#title
+::badge{type="info"}
 E Commerce
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Financial Accounting
 ::
-::card
-#title
+::badge{type="info"}
 Event Management
 ::
-::card
-#title
+::badge{type="info"}
 Salesforce.Com
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Digital Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Indesign
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Deputy Chief Financial Officer
+::code-group
+```bash [Uber]
+uber.com
+```
+```bash [Postmates]
+postmates.com
+```
+```bash [Associated Students of the University of California]
+asuc.org
+```
+```bash [CollegeVine]
+collegevine.com
+```
+```bash [Cocoweb]
+cocoweb.com
+```
+```bash [KPCB]
+kleinerperkins.com
+```
+```bash [Business Careers in Entertainment Club]
+berkeleybcec.com
+```
+```bash [Product Space]
+productspace.org
+```
+```bash [Salesforce.com]
+fullsecsolutions.com
+```
+```bash [66 Raw]
+66raw.com
+```
+```bash [SBC]
+sbcberkeley.org
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Assistant Elections Auditor
-::
-::card
-#title
-Project Manager
-::
-::card
-#title
-Product Fellow
-::
-::card
-#title
-Undergraduate Representative, Board Of Directors
-::
-::card
-#title
-Incoming Associate Product Manager
-::
-::card
-#title
-Marketing Intern
-::
-::card
-#title
-Associate Product Management Intern
-::
-::card
-#title
-Consultant
-::
-::card
-#title
-Music Committee
-::
-::card
-#title
-Chair, Board Of Directors
-::
-::card
-#title
-Applications And Sat Program Consultant
-::
-::card
-#title
-Vice President Of External Affairs
-::
-::card
-#title
-Spaces Director
-::
-::card
-#title
-Digital Marketing Intern
-::
-::card
-#title
-Product Management Intern
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Deputy Chief Financial Officer**
+- **Assistant Elections Auditor**
+- **Project Manager**
+- **Product Fellow**
+- **Undergraduate Representative, Board Of Directors**
+- **Incoming Associate Product Manager**
+- **Marketing Intern**
+- **Associate Product Management Intern**
+- **Consultant**
+- **Music Committee**
+- **Chair, Board Of Directors**
+- **Applications And Sat Program Consultant**
+- **Vice President Of External Affairs**
+- **Spaces Director**
+- **Digital Marketing Intern**
+- **Product Management Intern**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-Postmates
-#description
-[Go to website](postmates.com)
-::
-::card
-#title
-Associated Students of the University of California
-#description
-[Go to website](asuc.org)
-::
-::card
-#title
-CollegeVine
-#description
-[Go to website](collegevine.com)
-::
-::card
-#title
-Cocoweb
-#description
-[Go to website](cocoweb.com)
-::
-::card
-#title
-KPCB
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Business Careers in Entertainment Club
-#description
-[Go to website](berkeleybcec.com)
-::
-::card
-#title
-Product Space
-#description
-[Go to website](productspace.org)
-::
-::card
-#title
-Salesforce.com
-#description
-[Go to website](fullsecsolutions.com)
-::
-::card
-#title
-66 Raw
-#description
-[Go to website](66raw.com)
-::
-::card
-#title
-SBC
-#description
-[Go to website](sbcberkeley.org)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/elaneycheng elaneycheng Elaney Cheng Software Engineer @ Meta | Kleiner Perkins Engineering Fellow https://media.licdn.com/dms/image/C4D03AQFrUjEDDkK9Dg/profile-displayphoto-shrink_800_800/0/1651190999234?e=1695859200&v=beta&t=d03erSyCqCCNyqewcigxcVLeRL6-RV3F0WszMSTJU3o personal ACoAACSOCzABQ34uaJIJu76WD3nEnfx7V09d828 613288752 Computer Science and Education Studies double major at Wellesley College United States Greater Seattle Area Greater Seattle Area False False English NATIVE_OR_BILINGUAL Italian ELEMENTARY Computer Software 1st Prize at HackMIT My team and I created a device called Pill Safety that only allowed authorized people to access them. We won 1st Prize for best use of IBM Watson's Visual Recognition service. 
-
-https://devpost.com/software/pill-safety HackMIT 9 2019 1st Place at Palantir Puzzle Nights First place at the Palantir Puzzle Night is awarded to the team that solved the three puzzles in the least cumulative time. Palantir 6 2019 Best Team Spirit at Google Tech Challenge The Best Team Spirit award was awarded Google Tech Challenge to the team who had the best positive attitude and displayed resilience throughout the entire event. Google 4 2019 10667 Meta https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_400_400/0/1636138753911?e=1698278400&v=beta&t=3lsuqDQTzZmsCK5MPBSob4BtgAY53HTwR0oslBC5Keg https://www.linkedin.com/company/meta/ 10001 9 2022 Seattle, Washington, United States 9 2022 Meta Software Engineer Full-time Python (Programming Language) Java Data Analysis Data Structures Research Computer Science React Native Microsoft Word True 931 500 Korean LIMITED_WORKING Phi Beta Kappa Rewriting the Code Fellow Microsoft Office JavaScript 5 2022 10 2018 HTML Cascading Style Sheets (CSS) LaTeX Leadership Team Management Time Management Customer Service Atlas.ti
+#content
+elaneycheng. Elaney. Cheng. Software. Engineer @ Meta | Kleiner. Perkins. Engineering. Fellow personal. Computer. Science and. Education. Studies double major at. Wellesley. College. United. States. Greater. Seattle. Area. Greater. Seattle. Area. False. False. English. NATIVE_OR_BILINGUAL. Italian. ELEMENTARY. Computer. Software. Prize at. HackMIT. My team and. I created a device called. Pill. Safety that only allowed authorized people to access them. We won. Prize for best use of. IBM. Watson's. Visual. Recognition service. HackMIT. Place at. Palantir. Puzzle. Nights. First place at the. Palantir. Puzzle. Night is awarded to the team that solved the three puzzles in the least cumulative time. Palantir. Best. Team. Spirit at. Google. Tech. Challenge. The. Best. Team. Spirit award was awarded. Google. Tech. Challenge to the team who had the best positive attitude and displayed resilience throughout the entire event. Google. Meta. Seattle, Washington, United. States. Meta. Software. Engineer. Full-time. Python (Programming. Language) Java. Data. Analysis. Data. Structures. Research. Computer. Science. React. Native. Microsoft. Word. True. Korean. LIMITED_WORKING. Phi. Beta. Kappa. Rewriting the. Code. Fellow. Microsoft. Office. JavaScript. HTML. Cascading. Style. Sheets (CSS) LaTeX. Leadership. Team. Management. Time. Management. Customer. Service. Atlas.ti
 ::

@@ -1,343 +1,220 @@
-::block-hero
----
-#title
-Mayank Makwana
----
-
-:badge[2018]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/mayankmakwana" blank}
-
-::callout
-#summary
-Email
-#content
-mmakwana@sas.upenn.edu; mayank@leanplum.com; mmakwana@psu.edu; mayankmmakwana@gmail.com
+# Mayank Makwana
+::badge{type="info"}
+Class of 2018
+::
+::badge{type="success"}
+Co-Founder at Stealth Mode Startup Company
 ::
 
-::callout
-#summary
-Company
-#content
-Stealth Mode Startup Company
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/mayankmakwana" blank}
+- **Email**: mmakwana@sas.upenn.edu; mayank@leanplum.com; mmakwana@psu.edu; mayankmmakwana@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 React Native
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Mobile Applications
 ::
-::card
-#title
+::badge{type="info"}
 Time Management
 ::
-::card
-#title
+::badge{type="info"}
 Ios Development
 ::
-::card
-#title
+::badge{type="info"}
 Retail
 ::
-::card
-#title
+::badge{type="info"}
 Sales
 ::
-::card
-#title
+::badge{type="info"}
 Team Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Strategic Planning
 ::
-::card
-#title
+::badge{type="info"}
 Swift
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Objective C
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Customer Service
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Social Networking
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Facebook
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Engineering
+::code-group
+```bash [Starbucks]
+starbucks.com
+```
+```bash [Lyft]
+lyft.com
+```
+```bash [Sprout Social]
+sproutsocial.com
+```
+```bash [Leanplum]
+leanplum.com
+```
+```bash [University of Pennsylvania]
+upenn.edu
+```
+```bash [Shape Security]
+shapesecurity.com
+```
+```bash [California Future Business Leaders of America - Phi Beta Lambda]
+fbla-pbl.org
+```
+```bash [FIRST]
+firstinspires.org
+```
+```bash [Penn State Research Foundation]
+research.psu.edu
+```
+```bash [Penn State]
+psu.edu
+```
+```bash [Chelsea Watkins]
+collegeapptraining.com
+```
+```bash [Stealth Mode Startup Company]
+appcito.net
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Hackpsu]
+hackpsu.org
+```
 ::
-::card
-#title
-Associate Product Manager
-::
-::card
-#title
-Local President And National President'S Council Member
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Team 341 Programming Captain
-::
-::card
-#title
-Barista
-::
-::card
-#title
-Co-Founder
-::
-::card
-#title
-Kpcb Engineering Fellow
-::
-::card
-#title
-Founder And Chief Executive Officer And Software Developer
-::
-::card
-#title
-Founder And Chief Executive Officer And Chief Technology Officer
-::
-::card
-#title
-Executive Director
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Starbucks
-#description
-[Go to website](starbucks.com)
-::
-::card
-#title
-Lyft
-#description
-[Go to website](lyft.com)
-::
-::card
-#title
-Sprout Social
-#description
-[Go to website](sproutsocial.com)
-::
-::card
-#title
-Leanplum
-#description
-[Go to website](leanplum.com)
-::
-::card
-#title
-University of Pennsylvania
-#description
-[Go to website](upenn.edu)
-::
-::card
-#title
-Shape Security
-#description
-[Go to website](shapesecurity.com)
-::
-::card
-#title
-California Future Business Leaders of America - Phi Beta Lambda
-#description
-[Go to website](fbla-pbl.org)
-::
-::card
-#title
-FIRST
-#description
-[Go to website](firstinspires.org)
-::
-::card
-#title
-Penn State Research Foundation
-#description
-[Go to website](research.psu.edu)
-::
-::card
-#title
-Penn State
-#description
-[Go to website](psu.edu)
-::
-::card
-#title
-Chelsea Watkins
-#description
-[Go to website](collegeapptraining.com)
-::
-::card
-#title
-Stealth Mode Startup Company
-#description
-[Go to website](appcito.net)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Hackpsu
-#description
-[Go to website](hackpsu.org)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Engineering**
+- **Associate Product Manager**
+- **Local President And National President'S Council Member**
+- **Software Engineering Intern**
+- **Team 341 Programming Captain**
+- **Barista**
+- **Co-Founder**
+- **Kpcb Engineering Fellow**
+- **Founder And Chief Executive Officer And Software Developer**
+- **Founder And Chief Executive Officer And Chief Technology Officer**
+- **Executive Director**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/anni-chai anni-chai Anni Chai Software Engineer @ Stripe https://media.licdn.com/dms/image/C5603AQGZp1-HEQ3BIw/profile-displayphoto-shrink_800_800/0/1664176761139?e=1695859200&v=beta&t=eLvFouH_tIDlu41Ab8McHW5swrMhyoJm3f5uXJ58fB8 personal ACoAAC1kmLgBhzTQaVmSqrXepPONUtoJNfkwhzU 761567416 annichai@berkeley.edu United States Berkeley, California Berkeley California Berkeley, California, United States False False Computer Software 2135371 Stripe https://media.licdn.com/dms/image/C560BAQF1NNJs-2xA5g/company-logo_400_400/0/1594068219050?e=1698278400&v=beta&t=qNwQnxXycfa08X4OSpxwtIiJpPBdcbbAwU5cFUnDeAI https://www.linkedin.com/company/stripe/ 1001 5000 8 2022 San Francisco Bay Area 8 2022 Stripe Software Engineer Full-time Python (Programming Language) True 674 500
+#content
+anni-chai. Anni. Chai. Software. Engineer @ Stripe personal annichai@berkeley.edu. United. States. Berkeley, California. Berkeley. California. Berkeley, California, United. States. False. False. Computer. Software. Stripe. San. Francisco. Bay. Area. Stripe. Software. Engineer. Full-time. Python (Programming. Language) True
 ::

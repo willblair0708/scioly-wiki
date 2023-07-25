@@ -1,260 +1,160 @@
-::block-hero
----
-#title
-Nicole Orsak
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/nicoleorsak" blank}
-
-::callout
-#summary
-Email
-#content
-norsak@stanford.edu
+# Nicole Orsak
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Associate Product Manager at Uber
 ::
 
-::callout
-#summary
-Company
-#content
-Uber
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Finance; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Associate Product Manager
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/nicoleorsak" blank}
+- **Email**: norsak@stanford.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Social Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Decision Analysis
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Fundraising
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Search Engine Optimization
 ::
-::card
-#title
+::badge{type="info"}
 Social Media Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Google Suite
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Venture Capital
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-President
+::code-group
+```bash [Twitter]
+twitter.com
+```
+```bash [Uber]
+uber.com
+```
+```bash [Reach Capital Partners]
+reach-cap.com
+```
+```bash [KPCB]
+kleinerperkins.com
+```
+```bash [Standford Alumni]
+stanfordalumni.org
+```
+```bash [SENSA]
+sensaimpact.com
+```
+```bash [Disney Streaming Services]
+disneystreaming.com
+```
+```bash [View]
+viewglass.com
+```
+```bash [Stanford Women in Design]
+stanfordwomenindesign.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Deutsche Telekom Capital Partners]
+telekom-capital.com
+```
 ::
-::card
-#title
-Product Marketing Intern
-::
-::card
-#title
-Associate Product Manager
-::
-::card
-#title
-Director Of Labs Social Enterprise Seminar | Econ 24 Course Leader
-::
-::card
-#title
-Disney+ Product Management Intern
-::
-::card
-#title
-Teaching Assistant, Hacking For Recovery
-::
-::card
-#title
-Summer Investment Associate
-::
-::card
-#title
-Head Of Incubations
-::
-::card
-#title
-Kleiner Perkins Product Fellow
-::
-::card
-#title
-Lean Launchpad 2020 Cohort
-::
-::card
-#title
-Product Management Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Twitter
-#description
-[Go to website](twitter.com)
-::
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-Reach Capital Partners
-#description
-[Go to website](reach-cap.com)
-::
-::card
-#title
-KPCB
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Standford Alumni
-#description
-[Go to website](stanfordalumni.org)
-::
-::card
-#title
-SENSA
-#description
-[Go to website](sensaimpact.com)
-::
-::card
-#title
-Disney Streaming Services
-#description
-[Go to website](disneystreaming.com)
-::
-::card
-#title
-View
-#description
-[Go to website](viewglass.com)
-::
-::card
-#title
-Stanford Women in Design
-#description
-[Go to website](stanfordwomenindesign.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Deutsche Telekom Capital Partners
-#description
-[Go to website](telekom-capital.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **President**
+- **Product Marketing Intern**
+- **Associate Product Manager**
+- **Director Of Labs Social Enterprise Seminar | Econ 24 Course Leader**
+- **Disney+ Product Management Intern**
+- **Teaching Assistant, Hacking For Recovery**
+- **Summer Investment Associate**
+- **Head Of Incubations**
+- **Kleiner Perkins Product Fellow**
+- **Lean Launchpad 2020 Cohort**
+- **Product Management Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/danielavelez danielavelez Daniela Velez MIT CS ‘23 https://media.licdn.com/dms/image/C4E03AQFfyb3dR-P80w/profile-displayphoto-shrink_800_800/0/1604833214337?e=1695859200&v=beta&t=GXr17GJ5StqdUt5Nb6fGSSjm1dljEYeVtkgHVWAh80M personal ACoAAB-c0JsB2iVOgP4AUfvl-dT1QEw9KS12VMQ 530370715 Driven by a passion for innovation and inspired by a vision of making a positive impact on individuals and communities.
-
-bit.ly/danielavelez United States Cambridge, Massachusetts Cambridge Massachusetts Cambridge, Massachusetts, United States False False English NATIVE_OR_BILINGUAL Spanish NATIVE_OR_BILINGUAL Computer Software Kleiner Perkins Fellows Program Kleiner Perkins 2 2021 HSF National Leadership Conference Scholar Hispanic Scholarship Fund 7 2020 Hispanic Scholarship Fund Scholar Hispanic Scholarship Fund 6 2020 Grace Hopper Google Scholarship Recipient Google 9 2019 HackMIT AWS 2nd Place and Data Usability 3rd Place HackMIT 9 2019 18583501 Stealth Startup https://media.licdn.com/dms/image/C560BAQH03e0VowA5sQ/company-logo_400_400/0/1523260171056?e=1698278400&v=beta&t=zaqVFlaN7QK4gjWPKqkCO5gohtCvSuXdQPfw6aVzXsc https://www.linkedin.com/company/stealth-startup-51/ 11 50 7 2023 New York, New York, United States 7 2023 Stealth Startup Software Engineer Full-time Communication Public Speaking Leadership Project Management Data Analysis Research Graphic Design Social Media True 2943 500 kabirjolly Kabir Jolly CS @ Stanford https://media.licdn.com/dms/image/D5603AQG97gzXM9GImg/profile-displayphoto-shrink_800_800/0/1687902695593?e=1695859200&v=beta&t=7CFAI-4TTIrimmY_94cVVNAZZ_5OVL2N8XsXyghik8g madelinehpark Madeline Park SWE Intern @ Uber | CS @ Columbia | Pear VC Fellow https://media.licdn.com/dms/image/D5603AQHpqGi9XeS7Rg/profile-displayphoto-shrink_800_800/0/1688110986442?e=1695859200&v=beta&t=m8-orlDFG_zLw6G2ezSR7-e3iHSKXx-TJFcENHiGUZY maryyzhu Mary Zhu Founder @ Develop for Good https://media.licdn.com/dms/image/D5603AQF7CRyaMCmheQ/profile-displayphoto-shrink_800_800/0/1673993558312?e=1695859200&v=beta&t=5kIWeWVpQQyubREkk39RPTFw0hwtLCHIH-EgWjOQK94 jothiramaswamy Jothi R. SWE Intern @ Persona | Fellow @ Pear | CS @ Harvard | Founder of ThinkSTEAM + Lightbulb Moment https://media.licdn.com/dms/image/C4D03AQGJAVth1Me-DA/profile-displayphoto-shrink_800_800/0/1638050845486?e=1695859200&v=beta&t=Y8J0MRvDjzXB0B31-n9waX2GMaWweQ8yNQpGxKdaCBE yimingchen9 Yiming Chen Math & CS @ MIT https://media.licdn.com/dms/image/C4D03AQGfEvTiTMJLkQ/profile-displayphoto-shrink_800_800/0/1640816103843?e=1695859200&v=beta&t=nv2JZP8Gu8amGLgRuA6w7KLB12RMUoGuQpHt3pHTct4 lukas-haas Lukas Haas VC @ Redalpine | APM @ Google | Stanford CS https://media.licdn.com/dms/image/D5603AQGWS0I4N8JMxA/profile-displayphoto-shrink_800_800/0/1676132035205?e=1695859200&v=beta&t=RNkXcMRpA4tFtI9ivNRqhf4PFhEaC88oJsrflOb82F0 connor-hogan-282709195 Connor Hogan APM at Google | Stanford CS https://media.licdn.com/dms/image/C5603AQFg0Bp1pv9J9g/profile-displayphoto-shrink_800_800/0/1654053544251?e=1695859200&v=beta&t=JDjcSAPvcDaa7uOi9R5N2f1PbjZD6SwvfWegmIU3FRo noakorneev Noa Korneev SWE @ Microsoft | CS & Neuro @ MIT https://media.licdn.com/dms/image/D4E03AQE8x6pvOFwPcQ/profile-displayphoto-shrink_800_800/0/1687394131219?e=1695859200&v=beta&t=MM7vLhOBEXyHBURgRv9wAcLBAdI-8jcLGu_qVL3wuDk robertross04 Robert Ross Co-Founder @ Lume || Ex Product @ Google || CS @ Stanford https://media.licdn.com/dms/image/C5603AQHBTe79fCUfyw/profile-displayphoto-shrink_800_800/0/1599672752505?e=1695859200&v=beta&t=LCcy8gLgbXUqu6KnumfSCdljFVERIC_gu2RovteuC3w raina-thomas-061a78199 Raina Thomas CS & Bio @ MIT https://media.licdn.com/dms/image/D4E03AQGWEQ1NjzTvXw/profile-displayphoto-shrink_800_800/0/1685048325740?e=1695859200&v=beta&t=1n8AR0EV2wkMeWmwN6GPH1ITr0_zV8nN6dIi49E2wnA Emerson Piano Scholar MIT Emerson Program 8 2019 Society of Hispanic Professional Engineers Co-Corporate Liaison MIT Symphony Orchestra Violin I Society of Women Engineers Freshman Representative of External Relations Carnegie Mellon University SAMS Programming in Python Computation Structures 6.004 Elements of Software Construction 6.031 Fundamentals of Progamming 6.009 IMACS University Computer Science I IMACS University Computer Science II Intro to EECS via Interconnected Embedded Systems 6.08 4 2020 Co-Head of Outreach CovEducation https://media.licdn.com/dms/image/C4E0BAQEUMk_VCr7_ug/company-logo_400_400/0/1611262659647?e=1698278400&v=beta&t=qXIdQj_BnoqlZNC5HF-6sNTbSd6mpsFdLe-f20ohvzI https://www.linkedin.com/company/coveducation-inc/ EDUCATION • Led a 100+ person outreach team to match 3500+ K-12 students across the nation with college mentors during COVID-19
-• As part of founding team, designed matching process, organized team structure, and collaborated with 20+ other organizations Writing Music Google Generation Scholar Google 6 2019 Silver Knights Vocational Technical Honorable Mention Miami Herald Silver Knights Awards 5 2019 Coca-Cola Scholar Coca-Cola Scholars Foundation 3 2019 8 2019 8 2019 9 2019 12 2019 TedxMIT Catalyst Team Introduction to Algorithms 6.006 Introduction to Basic Data Mining Introduction to Deep Learning 6.S191 Introduction to Machine Learning 6.036 New Tools for New Technologies 9.A17 Quantum Complexity 6.845 Quantum Computation 18.435 Stanford Pre-Collegiate Studies: Web Technologies Theory of Computation 6.84 9 2019 12 2019 Mentor CodeIt EDUCATION • Mentored 20 middle school girls in Scratch every week and inspired them to pursue careers in Computer Science 6 2015 6 2018 Programming Teacher Nuestra Señora de Las Mercedes EDUCATION 6 2017 7 2017 Counselor Campamento Divertido EDUCATION Computer Science Engineering Data Mining Python CSS Bootstrap HTML MongoDB Javascript Microsoft Excel Cornelius Vanderbilt Scholar Vanderbilt University 3 2019 12 2019 9 2019 12 2019 GEMS (Girls in Engineering, Math, and Science) Co-President 8 2015 5 2019 Loafing Around Town Vice President 6 2017 5 2019 Rice University Trustee Scholar Rice University 3 2019 State Science Fair Recognition Award Winner State Science and Engineering Fair 3 2019 WHO Plenary Speaker at the United Nations Model United Nations 3 2019 Carnegie Mellon EQT Fellow Carnegie Mellon University 7 2018 American Heritage Patriot Award American Heritage School 5 2018 Three time Literary Fair Place Winner American Heritage School 2 2018 Albricias November 2017 Issue Publication Poetry Publication National Spanish Honor Society 8 2017 Piano Solo Straight Superiors for 9 Years Florida Federation of Music Clubs 6 2017
+#content
+danielavelez. Daniela. Velez. MIT. CS ‘ personal. ACoAAB-- Driven by a passion for innovation and inspired by a vision of making a positive impact on individuals and communities. bit.ly/danielavelez. United. States. Cambridge, Massachusetts. Cambridge. Massachusetts. Cambridge, Massachusetts, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. NATIVE_OR_BILINGUAL. Computer. Software. Kleiner. Perkins. Fellows. Program. Kleiner. Perkins. HSF. National. Leadership. Conference. Scholar. Hispanic. Scholarship. Fund. Hispanic. Scholarship. Fund. Scholar. Hispanic. Scholarship. Fund. Grace. Hopper. Google. Scholarship. Recipient. Google. HackMIT. AWS. Place and. Data. Usability. Place. HackMIT. Stealth. Startup. New. York, New. York, United. States. Stealth. Startup. Software. Engineer. Full-time. Communication. Public. Speaking. Leadership. Project. Management. Data. Analysis. Research. Graphic. Design. Social. Media. True kabirjolly. Kabir. Jolly. CS @ Stanford madelinehpark. Madeline. Park. SWE. Intern @ Uber | CS @ Columbia | Pear. VC. Fellow maryyzhu. Mary. Zhu. Founder @ Develop for. Good jothiramaswamy. Jothi. R. SWE. Intern @ Persona | Fellow @ Pear | CS @ Harvard | Founder of. ThinkSTEAM + Lightbulb. Moment. Yiming. Chen. Math & CS @ MIT lukas-haas. Lukas. Haas. VC @ Redalpine | APM @ Google | Stanford. CS connor-hogan- Connor. Hogan. APM at. Google | Stanford. CS noakorneev. Noa. Korneev. SWE @ Microsoft | CS & Neuro @ MIT. Robert. Ross. Co-Founder @ Lume || Ex. Product @ Google || CS @ Stanford raina-thomas- Raina. Thomas. CS & Bio @ MIT. Emerson. Piano. Scholar. MIT. Emerson. Program. Society of. Hispanic. Professional. Engineers. Co-Corporate. Liaison. MIT. Symphony. Orchestra. Violin. I. Society of. Women. Engineers. Freshman. Representative of. External. Relations. Carnegie. Mellon. University. SAMS. Programming in. Python. Computation. Structures . Elements of. Software. Construction . Fundamentals of. Progamming . IMACS. University. Computer. Science. I. IMACS. University. Computer. Science. II. Intro to. EECS via. Interconnected. Embedded. Systems . Co-Head of. Outreach. CovEducation. EDUCATION • Led a + person outreach team to match + K- students across the nation with college mentors during. COVID- • As part of founding team, designed matching process, organized team structure, and collaborated with + other organizations. Writing. Music. Google. Generation. Scholar. Google. Silver. Knights. Vocational. Technical. Honorable. Mention. Miami. Herald. Silver. Knights. Awards. Coca-Cola. Scholar. Coca-Cola. Scholars. Foundation. TedxMIT. Catalyst. Team. Introduction to. Algorithms . Introduction to. Basic. Data. Mining. Introduction to. Deep. Learning . Introduction to. Machine. Learning . New. Tools for. New. Technologies . Quantum. Complexity . Quantum. Computation . Stanford. Pre-Collegiate. Studies: Web. Technologies. Theory of. Computation . Mentor. CodeIt. EDUCATION • Mentored middle school girls in. Scratch every week and inspired them to pursue careers in. Computer. Science. Programming. Teacher. Nuestra. Señora de. Las. Mercedes. EDUCATION. Counselor. Campamento. Divertido. EDUCATION. Computer. Science. Engineering. Data. Mining. Python. CSS. Bootstrap. HTML. MongoDB. Javascript. Microsoft. Excel. Cornelius. Vanderbilt. Scholar. Vanderbilt. University. GEMS (Girls in. Engineering, Math, and. Science) Co-President. Loafing. Around. Town. Vice. President. Rice. University. Trustee. Scholar. Rice. University. State. Science. Fair. Recognition. Award. Winner. State. Science and. Engineering. Fair. WHO. Plenary. Speaker at the. United. Nations. Model. United. Nations. Carnegie. Mellon. EQT. Fellow. Carnegie. Mellon. University. American. Heritage. Patriot. Award. American. Heritage. School. Three time. Literary. Fair. Place. Winner. American. Heritage. School. Albricias. November. Issue. Publication. Poetry. Publication. National. Spanish. Honor. Society. Piano. Solo. Straight. Superiors for. Years. Florida. Federation of. Music. Clubs
 ::

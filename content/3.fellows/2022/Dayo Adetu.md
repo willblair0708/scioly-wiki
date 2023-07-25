@@ -1,75 +1,57 @@
-::block-hero
----
-#title
-Dayo Adetu
----
+# Dayo Adetu
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+ at University of Pennsylvania
+::
 
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/dayoadetu" blank}
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
+::
 
-::callout
+::badge{type="success"}
+Sector: 
+::
+::callout{type="info"}
 #summary
-Email
+Contact Information
 #content
-dadetu@alumni.upenn.edu
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/dayoadetu" blank}
+- **Email**: dadetu@alumni.upenn.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Company
+Skills
 #content
-University of Pennsylvania
+::badge{type="info"}
+
+::
 ::
 
-::callout
+::code-group
+```bash [University of Pennsylvania]
+upenn.edu
+```
+```bash [AMERICAN RESEARCH INSTITUTE IN TURKEY]
+ccat.sas.upenn.edu
+```
+::
+::callout{type="warning"}
 #summary
-Position
+Roles
 #content
-
+- **Strategic Projects**
 ::
 
-::callout
+::callout{type="info"}
 #summary
-Location
-#content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
-
-::
-::
-
-## Past Job Titles
-::card-grid
-::card
-#title
-Strategic Projects
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-University of Pennsylvania
-#description
-[Go to website](upenn.edu)
-::
-::card
-#title
-AMERICAN RESEARCH INSTITUTE IN TURKEY
-#description
-[Go to website](ccat.sas.upenn.edu)
-::
-::
-
-::card
-#title
 About
-#description
-https://www.linkedin.com/in/yolandayeh yolandayeh Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor personal ACoAAAq65FwBL9UfZwLxfnk4oPzoW-I1YYlGO4U 180020316 United States New York City Metropolitan Area New York City Metropolitan Area True False English NATIVE_OR_BILINGUAL Mandarin Chinese NATIVE_OR_BILINGUAL Internet 18197001 Facet.ai https://media.licdn.com/dms/image/C560BAQE5qMvj-OiUxQ/company-logo_400_400/0/1611019531005?e=1698278400&v=beta&t=YilFaayS6o3ApNEcCiQLS1b-a2BU69DxycZqJcyCFB8 https://www.linkedin.com/company/facetai/ 11 50 6 2023 6 2023 Facet.ai Head of Product Product Management Leadership True 1603 500 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Generating content to be shared between users 11226716 1 18 2022 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Generating and maintaining group messaging threads for ephemeral content 11206232 12 21 2021 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Display screen or portion thereof with a graphical user interface D938463 12 14 2021 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Display screen or portion thereof with a graphical user interface D938462 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Display screen or portion thereof with a graphical user interface D937863 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Presenting endorsements using analytics and insights 11113738 Yolanda Yeh Head of Product @ Facet | ex Instagram, LinkedIn | Angel Investor Generating content to be shared between users 11095584
+#content
+yolandayeh. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor personal - United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. True. False. English. NATIVE_OR_BILINGUAL. Mandarin. Chinese. NATIVE_OR_BILINGUAL. Internet. Facet.ai. Facet.ai. Head of. Product. Product. Management. Leadership. True. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating content to be shared between users. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating and maintaining group messaging threads for ephemeral content. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Presenting endorsements using analytics and insights. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating content to be shared between users
 ::

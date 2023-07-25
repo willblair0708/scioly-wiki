@@ -1,389 +1,248 @@
-::block-hero
----
-#title
-Aidan Pratt
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/aidan-pratt" blank}
-
-::callout
-#summary
-Email
-#content
-aap.44ap@gmail.com
+# Aidan Pratt
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Swe at Fusen
 ::
 
-::callout
-#summary
-Company
-#content
-Fusen
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Finance; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Swe
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/aidan-pratt" blank}
+- **Email**: aap.44ap@gmail.com
+- **Location**: Atlanta
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Atlanta
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Django
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Community Outreach
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Privacy Law
 ::
-::card
-#title
+::badge{type="info"}
 Digital Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Longterm Vision
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Budgeting
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Team Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Social Media Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Project Planning
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Github
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Strategic Planning
 ::
-::card
-#title
+::badge{type="info"}
 Fundraising
 ::
-::card
-#title
+::badge{type="info"}
 Web Design
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 Determination
 ::
-::card
-#title
+::badge{type="info"}
 Idea Machine
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 Frc
 ::
-::card
-#title
+::badge{type="info"}
 Disruptive Technologies
 ::
-::card
-#title
+::badge{type="info"}
 First
 ::
-::card
-#title
+::badge{type="info"}
 Data Privacy
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Ionic Framework
 ::
-::card
-#title
+::badge{type="info"}
 Scouting
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Robotics
 ::
-::card
-#title
+::badge{type="info"}
 Educational Outreach
 ::
-::card
-#title
+::badge{type="info"}
 Arduino
 ::
-::card
-#title
+::badge{type="info"}
 Boy Scouts
 ::
-::card
-#title
+::badge{type="info"}
 Team Building
 ::
-::card
-#title
+::badge{type="info"}
 Program Management
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Time Blocking
 ::
-::card
-#title
+::badge{type="info"}
 Heroku
 ::
-::card
-#title
+::badge{type="info"}
 Cooking Ramen At 3Am
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Co-Founder
+::code-group
+```bash [ATDC]
+atdc.org
+```
+```bash [Atlanta Tech Village]
+atlantatechvillage.com
+```
+```bash [Atlanta Ventures]
+atlantaventures.com
+```
+```bash [Commissiontrac]
+commissiontrac.com
+```
+```bash [FIRST]
+firstinspires.org
+```
+```bash [Boy Scouts of America]
+scouting.org
+```
+```bash [Amazon Web Services]
+amazonaws.com
+```
+```bash [Cherry]
+withcherry.com
+```
+```bash [Startup Exchange]
+startup.exchange
+```
+```bash [Hitsnag]
+hitsnag.com
+```
+```bash [Fusen]
+fusen.world
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Upakka, Llc]
+upakka.com
+```
 ::
-::card
-#title
-Vc Analyst Intern
-::
-::card
-#title
-Data Scientist And Analytics Engineer
-::
-::card
-#title
-Investment Relations
-::
-::card
-#title
-Microsoft Scholarship Holder
-::
-::card
-#title
-Eagle Scout
-::
-::card
-#title
-Programmer And Electrical Engineer
-::
-::card
-#title
-Outreach Lead
-::
-::card
-#title
-Member And Scholar
-::
-::card
-#title
-Sx Fellowship Team
-::
-::card
-#title
-Kleiner Perkins Fellow
-::
-::card
-#title
-Chief Executive Officer And Co-Founder
-::
-::card
-#title
-Independent Coder Intern
-::
-::card
-#title
-Aws Activate Scholarship For Startups
-::
-::card
-#title
-Swe
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Co-Founder**
+- **Vc Analyst Intern**
+- **Data Scientist And Analytics Engineer**
+- **Investment Relations**
+- **Microsoft Scholarship Holder**
+- **Eagle Scout**
+- **Programmer And Electrical Engineer**
+- **Outreach Lead**
+- **Member And Scholar**
+- **Sx Fellowship Team**
+- **Kleiner Perkins Fellow**
+- **Chief Executive Officer And Co-Founder**
+- **Independent Coder Intern**
+- **Aws Activate Scholarship For Startups**
+- **Swe**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-ATDC
-#description
-[Go to website](atdc.org)
-::
-::card
-#title
-Atlanta Tech Village
-#description
-[Go to website](atlantatechvillage.com)
-::
-::card
-#title
-Atlanta Ventures
-#description
-[Go to website](atlantaventures.com)
-::
-::card
-#title
-Commissiontrac
-#description
-[Go to website](commissiontrac.com)
-::
-::card
-#title
-FIRST
-#description
-[Go to website](firstinspires.org)
-::
-::card
-#title
-Boy Scouts of America
-#description
-[Go to website](scouting.org)
-::
-::card
-#title
-Amazon Web Services
-#description
-[Go to website](amazonaws.com)
-::
-::card
-#title
-Cherry
-#description
-[Go to website](withcherry.com)
-::
-::card
-#title
-Startup Exchange
-#description
-[Go to website](startup.exchange)
-::
-::card
-#title
-Hitsnag
-#description
-[Go to website](hitsnag.com)
-::
-::card
-#title
-Fusen
-#description
-[Go to website](fusen.world)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Upakka, Llc
-#description
-[Go to website](upakka.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/pranavijavangula pranavijavangula Pranavi Javangula Product Designer @ Quizlet https://media.licdn.com/dms/image/C5603AQEOI6ugzT3cVw/profile-displayphoto-shrink_800_800/0/1621471239697?e=1695859200&v=beta&t=bLZUm8MGCIQCfpmh1FlyzceD_VWYMigewuT8Zrkkahc https://media.licdn.com/dms/image/C5616AQHXBgMS3M_tXw/profile-displaybackgroundimage-shrink_350_1400/0/1621447163647?e=1695859200&v=beta&t=gCuSsHMBZIzIqSw2TUnpknSRla_4ZQv9zE5ew6nChiI personal ACoAACGB1vkB81t5YjqRRdbJ1DA6KFNB-JKyqXk 562157305 Hi, I'm Pranavi! I'm a product designer excited about making an impact at the intersection of the human psyche and human-centered design ✨ United States San Francisco Bay Area San Francisco Bay Area True False Design Speech & Debate Top 60 in the Nation Placed top 60 in the nation in Duo Interpretation at the 2017 National Speech and Debate Tournament hosted in Birmingham, Alabama National Speech and Debate Association 6 2017 Speech & Debate Berkeley Finalist Placed 2nd out of 84 competing teams in Duo Interpretation at the prestigious UC Berkeley National Invitational Tournament 2017 Speech & Debate State Champion Won 1st place in Duo Interpretation at the 2017 California Speech State Championships hosted in Arcadia, California - became the first ever Duo State Champion from Archbishop Mitty High School. California High School Speech Association 2017 Undergraduate Award in Visual Arts Teacher nominated award for work in animation and graphic design using Adobe Illustrator. Nicole Limoges 2015 807920 Quizlet https://media.licdn.com/dms/image/D4E0BAQHzZCTpB5HHUw/company-logo_400_400/0/1688315517131?e=1698278400&v=beta&t=Naf45rDeoTAsaaDQs37Fa2P8mzGCg9CY7RYXzAh4R0A https://www.linkedin.com/company/quizlet/ 201 500 11 2021 San Francisco Bay Area 8 2022 Quizlet Currently designing machine-learning driven study experiences for Quizlet's free and premium Study products. Previously designed expert-authored solutions for Quizlet's premium Expert Solutions product. Product Designer Full-time Leadership Public Speaking Research Writing Adobe Illustrator Adobe Photoshop Social Media Teamwork True 1157 500 duo-xu-6436b7b4 Duo Xu Product designer at Quizlet stephanysoto Stephany Soto Senior Manager of Product Operations at Quizlet https://media.licdn.com/dms/image/C4E03AQG5WNQDm3lpdw/profile-displayphoto-shrink_800_800/0/1596323823539?e=1695859200&v=beta&t=mG8sCZC6c6_U-ynuqHfT3Ucbo2gg5UdxPoEZr_AFWYc sethany Sethany Kaing Design & Research @ Quizlet | Adobe Ambassador | Student @ UC Berkeley https://media.licdn.com/dms/image/D5603AQFF0qNhdKlnRg/profile-displayphoto-shrink_800_800/0/1685653813435?e=1695859200&v=beta&t=87C7bHmws2kyGJp5wnSFUBGlFgBWXmS39n8iWiKPKGI vickiec Vickie Chiang Head of UX & Design at Quizlet | Previously NerdWallet & GoFundMe https://media.licdn.com/dms/image/C5603AQH38h0pMQGu3g/profile-displayphoto-shrink_800_800/0/1578331202310?e=1695859200&v=beta&t=q7z5hhfkL0bk3WyiMY9L21VpRJ8QdXvVwC3NpT_kQgw anna-khazenzon-35048125 Anna Khazenzon Data Scientist https://media.licdn.com/dms/image/C5603AQHURwS5qZTgAw/profile-displayphoto-shrink_800_800/0/1551903361849?e=1695859200&v=beta&t=jGsojRu5eu63egsAhEzjVJdLIvgW1XEPk4Pb7X59wkE samcclement Sam Clement Applied Mathematics and ORMS @ UC Berkeley https://media.licdn.com/dms/image/D5603AQEsINtiEKbSBw/profile-displayphoto-shrink_800_800/0/1674154518149?e=1695859200&v=beta&t=x9Ojn49zj_HwPpbVVp54iVO1H1YcJuZZfUCvnrqMirc jasoncaragan Jason Caragan Senior Product Designer at Quizlet salvatorebertucci Salvatore Bertucci Senior Product Design Manager at Quizlet https://media.licdn.com/dms/image/D5603AQEperC8WLAdjw/profile-displayphoto-shrink_800_800/0/1675304314787?e=1695859200&v=beta&t=lZmZlJKz7YQi9SLFqGhLVYqXxdSUm4CHlScRL4uFYOY lizzie-arnett-06160 Lizzie Arnett UX Researcher and Research Operations Specialist at Quizlet https://media.licdn.com/dms/image/C5603AQF0b8JRtUH4JA/profile-displayphoto-shrink_800_800/0/1637476179959?e=1695859200&v=beta&t=Lpw7xbFe_sWRDIabZEoSMov4KvEXdGXiRQN4tai70JM jordan-barton-88350b159 Jordan Barton Full Stack Software Engineer @ Quizlet https://media.licdn.com/dms/image/C4E03AQEPrtKWqhOALw/profile-displayphoto-shrink_800_800/0/1644858940958?e=1695859200&v=beta&t=Kdf7Wluk8fyg9piI8QmgPKfY1FCS9D-Obp-OSq0Y1vM Berkeley Innovation Design Consultant BLUM Center Research Assistant Judgement and Decision Making Lab Research Apprentive Teaching Design of Experiments (DOE) 9 2019 6 2019 1 2019 CalTV Entertainment Producer Communication Sketch Adobe Premiere Pro Digital Marketing Graphic Design Computer Science Education User Experience (UX) User Research Design Thinking 8 2018 12 2018 San Francisco, California, United States 11 2021 10 2022 Quizlet Designed search and courses experiences to help connect students to the most relevant study materials for them. Associate Product Designer Full-time
+#content
+pranavijavangula. Pranavi. Javangula. Product. Designer @ Quizlet personal -JKyqXk. Hi, I'm. Pranavi! I'm a product designer excited about making an impact at the intersection of the human psyche and human-centered design ✨ United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. Design. Speech & Debate. Top in the. Nation. Placed top in the nation in. Duo. Interpretation at the. National. Speech and. Debate. Tournament hosted in. Birmingham, Alabama. National. Speech and. Debate. Association. Speech & Debate. Berkeley. Finalist. Placed out of competing teams in. Duo. Interpretation at the prestigious. UC. Berkeley. National. Invitational. Tournament. Speech & Debate. State. Champion. Won place in. Duo. Interpretation at the. California. Speech. State. Championships hosted in. Arcadia, California - became the first ever. Duo. State. Champion from. Archbishop. Mitty. High. School. California. High. School. Speech. Association. Undergraduate. Award in. Visual. Arts. Teacher nominated award for work in animation and graphic design using. Adobe. Illustrator. Nicole. Limoges. Quizlet. San. Francisco. Bay. Area. Quizlet. Currently designing machine-learning driven study experiences for. Quizlet's free and premium. Study products. Previously designed expert-authored solutions for. Quizlet's premium. Expert. Solutions product. Product. Designer. Full-time. Leadership. Public. Speaking. Research. Writing. Adobe. Illustrator. Adobe. Photoshop. Social. Media. Teamwork. True duo-xu- Duo. Xu. Product designer at. Quizlet stephanysoto. Stephany. Soto. Senior. Manager of. Product. Operations at. Quizlet sethany. Sethany. Kaing. Design & Research @ Quizlet | Adobe. Ambassador | Student @ UC. Berkeley vickiec. Vickie. Chiang. Head of. UX & Design at. Quizlet | Previously. NerdWallet & GoFundMe anna-khazenzon- Anna. Khazenzon. Data. Scientist samcclement. Sam. Clement. Applied. Mathematics and. ORMS @ UC. Berkeley jasoncaragan. Jason. Caragan. Senior. Product. Designer at. Quizlet salvatorebertucci. Salvatore. Bertucci. Senior. Product. Design. Manager at. Quizlet lizzie-arnett- Lizzie. Arnett. UX. Researcher and. Research. Operations. Specialist at. Quizlet jordan-barton- Jordan. Barton. Full. Stack. Software. Engineer @ Quizlet. Berkeley. Innovation. Design. Consultant. BLUM. Center. Research. Assistant. Judgement and. Decision. Making. Lab. Research. Apprentive. Teaching. Design of. Experiments (DOE) CalTV. Entertainment. Producer. Communication. Sketch. Adobe. Premiere. Pro. Digital. Marketing. Graphic. Design. Computer. Science. Education. User. Experience (UX) User. Research. Design. Thinking. San. Francisco, California, United. States. Quizlet. Designed search and courses experiences to help connect students to the most relevant study materials for them. Associate. Product. Designer. Full-time
 ::

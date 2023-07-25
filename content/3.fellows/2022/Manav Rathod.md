@@ -1,368 +1,224 @@
-::block-hero
----
-#title
-Manav Rathod
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/manavrathod" blank}
-
-::callout
-#summary
-Email
-#content
-manav.rathod@berkeley.edu
+# Manav Rathod
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Software Engineer at Glean
 ::
 
-::callout
-#summary
-Company
-#content
-Glean
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/manavrathod" blank}
+- **Email**: manav.rathod@berkeley.edu
+- **Location**: Palo Alto
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Palo Alto
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Strategic Planning
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Hack
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Opencv
 ::
-::card
-#title
+::badge{type="info"}
 Agile Methodologies
 ::
-::card
-#title
+::badge{type="info"}
 Windows
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Numpy
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Scikit Learn
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 Mercurial
 ::
-::card
-#title
+::badge{type="info"}
 Flask
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Scheme
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Scrum
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 R
 ::
-::card
-#title
+::badge{type="info"}
 Graphql
 ::
-::card
-#title
+::badge{type="info"}
 Json
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Tutoring
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Tensorflow
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Time Management
 ::
-::card
-#title
+::badge{type="info"}
 Agile Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Community Outreach
 ::
-::card
-#title
+::badge{type="info"}
 Writing
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Undergraduate Student Instructor
+::code-group
+```bash [AppLovin]
+applovin.com
+```
+```bash [Reveal]
+revealdata.com
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Zippity]
+zippitycars.com
+```
+```bash [Michigan State University]
+msu.edu
+```
+```bash [Mathnasium]
+mathnasium.com
+```
+```bash [Glean]
+glean.com
+```
+```bash [Meta]
+meta.com
+```
 ::
-::card
-#title
-Hci Researcher
-::
-::card
-#title
-Research Assistant, Benning Lab
-::
-::card
-#title
-Content Developer Cs 169
-::
-::card
-#title
-Instructor
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Software Team Engineer Structure And Interpretation Of Computer Programs
-::
-::card
-#title
-Course Tutor Cs 189
-::
-::card
-#title
-Nlp Researcher
-::
-::card
-#title
-Undergraduate Student Instructor Eecs 16B
-::
-::card
-#title
-Nlp Intern
-::
-::card
-#title
-Researcher, Edger Lab
-::
-::card
-#title
-Lab Teaching Assistant Ee 16A
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Lead Researcher
-::
-::card
-#title
-Academic Intern Cs 61A
-::
-::card
-#title
-Machine Learning Engineering Intern
-::
-::card
-#title
-President
-::
-::card
-#title
-Teaching Assistant Info 159
-::
-::card
-#title
-Vice President Social Relations
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Undergraduate Student Instructor**
+- **Hci Researcher**
+- **Research Assistant, Benning Lab**
+- **Content Developer Cs 169**
+- **Instructor**
+- **Software Engineer**
+- **Software Engineering Intern**
+- **Software Team Engineer Structure And Interpretation Of Computer Programs**
+- **Course Tutor Cs 189**
+- **Nlp Researcher**
+- **Undergraduate Student Instructor Eecs 16B**
+- **Nlp Intern**
+- **Researcher, Edger Lab**
+- **Lab Teaching Assistant Ee 16A**
+- **Founder**
+- **Lead Researcher**
+- **Academic Intern Cs 61A**
+- **Machine Learning Engineering Intern**
+- **President**
+- **Teaching Assistant Info 159**
+- **Vice President Social Relations**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-AppLovin
-#description
-[Go to website](applovin.com)
-::
-::card
-#title
-Reveal
-#description
-[Go to website](revealdata.com)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Zippity
-#description
-[Go to website](zippitycars.com)
-::
-::card
-#title
-Michigan State University
-#description
-[Go to website](msu.edu)
-::
-::card
-#title
-Mathnasium
-#description
-[Go to website](mathnasium.com)
-::
-::card
-#title
-Glean
-#description
-[Go to website](glean.com)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/ivanzhao8 ivanzhao8 Ivan Zhao drawing shapes https://media.licdn.com/dms/image/C5616AQG2kBs02Ib0vg/profile-displaybackgroundimage-shrink_350_1400/0/1557258705666?e=1695859200&v=beta&t=JyBh-ivRNU46sXkCPY5UHZF8WQ49CoLxCeNLU0QNt60 personal ACoAACWBkK0BI9QAQBD6vTfoV9B-PSG83zsG5DA 629248173 literally here just because i need to be on linkedin
-
-don't text, i'm:
-- baking bread or croissants
-- petting nearby dogs
-- catching up on my backlog of books United States San Francisco, California San Francisco California San Francisco, California, United States False False Chinese LIMITED_WORKING English NATIVE_OR_BILINGUAL Computer Software 90483458 Galileo AI https://media.licdn.com/dms/image/C560BAQHwBGQP1NHYLA/company-logo_400_400/0/1675842194782?e=1698278400&v=beta&t=Uibnhxz6jZQJaNjzhDKYPBurdoBKGUh-CEP-gA71jdA https://www.linkedin.com/company/galileoai/ 2 10 6 2023 6 2023 Galileo AI Design Engineer Full-time Research Public Speaking Graphic Design Social Media Entrepreneurship Baking Social Media Marketing User Experience (UX) True 1583 500 helenzh Helen Zhou Co-Founder of Galileo AI drgould Derek Gould Software Engineer https://media.licdn.com/dms/image/D5603AQHwUKWujzXmMg/profile-displayphoto-shrink_800_800/0/1688173504670?e=1695859200&v=beta&t=8999M_NQH4MuHgwMEtK5XraB1t0SZlteMtXE_hatHJM benkolde Ben Kolde Founding Designer • I design products, brands, & more https://media.licdn.com/dms/image/D5603AQEjAImoG33u8A/profile-displayphoto-shrink_800_800/0/1682696188369?e=1695859200&v=beta&t=h5RSs0Uasy_L2PJYWcxWPvGroeqlYEo9TqaaSCdEuGU photonmz Markus Zhang LLMs/Dev | Stanford ‘29 | 18y | Looking for NLP research arnaudbenard Arnaud Benard Co-Founder at Galileo AI | Hiring founding engineers | Ex-Google AI, Faire https://media.licdn.com/dms/image/D5603AQFfbfqP4RS8hQ/profile-displayphoto-shrink_800_800/0/1675847240108?e=1695859200&v=beta&t=DRrgg_Sd0Q-OfpvkrqNLW9FcusL_n6xBiepEC8BWVIk anh-hathu-pham Anh Pham Software Engineer @ Mastercard | #a11y | Prev @  Apple | Writer https://media.licdn.com/dms/image/C5603AQH3vBOTCE9ObA/profile-displayphoto-shrink_800_800/0/1655083586886?e=1695859200&v=beta&t=iEB9lZTFi6sqKJLY1KR3dByjAhtMsKBsnqb9oC_PZ0E akshay-patel- Akshay Patel M.E.T @ Berkeley | Pear VC | KP Fellow https://media.licdn.com/dms/image/D5603AQGEdbQylStW7g/profile-displayphoto-shrink_800_800/0/1668474067696?e=1695859200&v=beta&t=eyvzh0gfjXVhPzKtZ6qDit6PVgbxR7Yfxw2Nh-Fsgr8 iristfu Iris Fu CS + History @ Stanford cyrus-from-taiwan 驊軒 Cyrus Chuang Product Design @ Simple HealthKit | 22' KP Fellows https://media.licdn.com/dms/image/C4D03AQFG2qtYQ45FRw/profile-displayphoto-shrink_800_800/0/1642356891324?e=1695859200&v=beta&t=g7Lm6A1MoxyQFlAakJsEO4G2mmlNaU0P03lq6Mx9W8w dbessonov Daniel Bessonov Engineer at Wispr https://media.licdn.com/dms/image/D4E03AQFMh4lvU4YtgQ/profile-displayphoto-shrink_800_800/0/1685345197291?e=1695859200&v=beta&t=xOrAq3vyPgowno299WkOUdfcTVMcL1X-s95T0cBnRjs Microsoft Office Python Java HTML JavaScript Scala Cascading Style Sheets (CSS) React Ruby jQuery React Native C (Programming Language)
+#content
+Ivan. Zhao drawing shapes personal - literally here just because i need to be on linkedin don't text, i'm: - baking bread or croissants - petting nearby dogs - catching up on my backlog of books. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. Galileo. AI. Galileo. AI. Design. Engineer. Full-time. Research. Public. Speaking. Graphic. Design. Social. Media. Entrepreneurship. Baking. Social. Media. Marketing. User. Experience (UX) True helenzh. Helen. Zhou. Co-Founder of. Galileo. AI drgould. Derek. Gould. Software. Engineer benkolde. Ben. Kolde. Founding. Designer • I design products, brands, & more photonmz. Markus. Zhang. LLMs/Dev | Stanford ‘ | | Looking for. NLP research arnaudbenard. Arnaud. Benard. Co-Founder at. Galileo. AI | Hiring founding engineers | Ex-Google. AI, Faire anh-hathu-pham. Anh. Pham. Software. Engineer @ Mastercard | # | Prev @  Apple | Writer akshay-patel- Akshay. Patel. M.E.T @ Berkeley | Pear. VC | KP. Fellow iristfu. Iris. Fu. CS + History @ Stanford cyrus-from-taiwan 驊軒. Cyrus. Chuang. Product. Design @ Simple. HealthKit | ' KP. Fellows dbessonov. Daniel. Bessonov. Engineer at. Wispr. Microsoft. Office. Python. Java. HTML. JavaScript. Scala. Cascading. Style. Sheets (CSS) React. Ruby jQuery. React. Native. C (Programming. Language)
 ::

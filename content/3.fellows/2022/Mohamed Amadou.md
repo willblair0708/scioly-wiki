@@ -1,185 +1,125 @@
-::block-hero
----
-#title
-Mohamed Amadou
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/moeamadou" blank}
-
-::callout
-#summary
-Email
-#content
-mohamed.amadou159@gmail.com
+# Mohamed Amadou
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Software Engineering Intern at Figma
 ::
 
-::callout
-#summary
-Company
-#content
-Figma
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineering Intern
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/moeamadou" blank}
+- **Email**: mohamed.amadou159@gmail.com
+- **Location**: Brooklyn
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Brooklyn
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Android
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Elixir
 ::
-::card
-#title
+::badge{type="info"}
 Flask
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Html/Css
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Amazon Web Services
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Blockchain
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Engineering Intern
+::code-group
+```bash [LinkedIn]
+linkedin.com
+```
+```bash [Accenture]
+accenture.com
+```
+```bash [PagerDuty]
+pagerduty.com
+```
+```bash [Stripe]
+stripe.com
+```
+```bash [Figma]
+figma.com
+```
+```bash [TD]
+td.com
+```
+```bash [Hack the North]
+hackthenorth.com
+```
+```bash [Ashby]
+ashbyhq.com
+```
 ::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Workshops And Mentorship Director
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-LinkedIn
-#description
-[Go to website](linkedin.com)
-::
-::card
-#title
-Accenture
-#description
-[Go to website](accenture.com)
-::
-::card
-#title
-PagerDuty
-#description
-[Go to website](pagerduty.com)
-::
-::card
-#title
-Stripe
-#description
-[Go to website](stripe.com)
-::
-::card
-#title
-Figma
-#description
-[Go to website](figma.com)
-::
-::card
-#title
-TD
-#description
-[Go to website](td.com)
-::
-::card
-#title
-Hack the North
-#description
-[Go to website](hackthenorth.com)
-::
-::card
-#title
-Ashby
-#description
-[Go to website](ashbyhq.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Engineering Intern**
+- **Software Engineer Intern**
+- **Workshops And Mentorship Director**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/amy-zhang-b8320a125 amy-zhang-b8320a125 Amy Zhang personal ACoAAB7SMhMBi-6-54jev0U-iv_a7C9-gyRiYHU 517091859 Passionate about designing human-centered AI products. 
-
-Check out my work -> https://www.amyzhang.me United States Sherborn, Massachusetts Sherborn Massachusetts Sherborn, Massachusetts, United States True False Computer Software 36213 Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ 11 50 6 2022 9 2022 6 2022 9 2022 Kleiner Perkins Kleiner Perkins Engineering Fellow True 597 500 tiffany-liu-13b236ab Tiffany Liu Symbolic Systems, English, CS @ Stanford https://media.licdn.com/dms/image/D5603AQFMzqr0zibJ3A/profile-displayphoto-shrink_800_800/0/1683276289978?e=1695859200&v=beta&t=b-yv2oBNUI1xJRqBi08XRonVgB8tvj0ecAf-GNHYbKU finndayton Finn Dayton CS Student At Stanford https://media.licdn.com/dms/image/C5603AQFPZOEy-Jkg7w/profile-displayphoto-shrink_800_800/0/1654117489799?e=1695859200&v=beta&t=n9rU8xj4qcCbmvQkTv9wK941nB19d1qYAN46Zk-dGAk kaili-wang Kaili Wang Research and Engineer @ Circle | Ex-Stanford CS + Blockchain Research https://media.licdn.com/dms/image/C4D03AQGlYVy1PCSbeQ/profile-displayphoto-shrink_800_800/0/1622177550271?e=1695859200&v=beta&t=UW6hsDPsK8lB2JNwEt4A-WP-p_X53Fonx1Y1P1Raw28 henryc111 Henry C. prev @Google, Snap arianelee Ariane Lee CS & History @ Stanford | KP Fellow ‘22 https://media.licdn.com/dms/image/C4D03AQH0bTTvni6iQA/profile-displayphoto-shrink_800_800/0/1638138319867?e=1695859200&v=beta&t=vb8oeCgGZceq39vhCiarbsdl0ZvC_gDgxLEvxsdqYzQ jialin-zhuo Jialin Zhuo SWE @ Pinterest | CS @ Stanford University https://media.licdn.com/dms/image/D5603AQHAJdE5F0Shzw/profile-displayphoto-shrink_800_800/0/1689137498089?e=1695859200&v=beta&t=y028OwMLlxVsYNtCXzBOdC0um1PlFP6QlxPhrEhwrYk kevia-mccomb-531418168 Kevia McComb McKinsey | Stanford 2023 https://media.licdn.com/dms/image/C4E03AQGOeGtLy8OHUg/profile-displayphoto-shrink_800_800/0/1652215716577?e=1695859200&v=beta&t=TOFzp7y_se8jX9cWZAXWQiDkqdOn2Is71xjdrobjX8A alix-cui Alix Cui Glean | KP Engineering fellow | CS @ Stanford https://media.licdn.com/dms/image/D5603AQG1LLVkSn7M3A/profile-displayphoto-shrink_800_800/0/1687459841504?e=1695859200&v=beta&t=iLSYZzG03Je6NCOob-KpVMCVKASAC-sCp7Z36JnSsRM chloepae Chloe Pae Undergraduate at Stanford University https://media.licdn.com/dms/image/C4E03AQGu6ncFxQvfYA/profile-displayphoto-shrink_800_800/0/1658850431326?e=1695859200&v=beta&t=avnaR9fAQLdJxjoYDTjDFaKiIdwKVOkfsqdOu-M-SqY kristina-inouye Kristina Inouye UXR @ Duolingo https://media.licdn.com/dms/image/D4E03AQE0nMugwe1Bbg/profile-displayphoto-shrink_800_800/0/1671300824181?e=1695859200&v=beta&t=mlblmeLoUnZ7puFmshkkblZEMl8n7quKjDId-bdMY7U
+#content
+amy-zhang- Amy. Zhang personal ----gyRiYHU. Passionate about designing human-centered. AI products. Check out my work -> United. States. Sherborn, Massachusetts. Sherborn. Massachusetts. Sherborn, Massachusetts, United. States. True. False. Computer. Software. Kleiner. Perkins. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. True tiffany-liu- Tiffany. Liu. Symbolic. Systems, English, CS @ Stanford finndayton. Finn. Dayton. CS. Student. At. Stanford kaili-wang. Kaili. Wang. Research and. Engineer @ Circle | Ex-Stanford. CS + Blockchain. Research. Henry. C. prev @Google, Snap arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ jialin-zhuo. Jialin. Zhuo. SWE @ Pinterest | CS @ Stanford. University kevia-mccomb- Kevia. McComb. McKinsey | Stanford alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford chloepae. Chloe. Pae. Undergraduate at. Stanford. University kristina-inouye. Kristina. Inouye. UXR @ Duolingo
 ::

@@ -1,313 +1,212 @@
-::block-hero
----
-#title
-Nick Dupoux
----
-
-:badge[2015]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/nicholasdupoux" blank}
-
-::callout
-#summary
-Email
-#content
-njdupoux@stanford.edu; njdupp@gmail.com
+# Nick Dupoux
+::badge{type="info"}
+Class of 2015
+::
+::badge{type="success"}
+Senior Software Engineer at Attentive
 ::
 
-::callout
-#summary
-Company
-#content
-Attentive
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Senior Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/nicholasdupoux" blank}
+- **Email**: njdupoux@stanford.edu; njdupp@gmail.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 English
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Os X
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Go
 ::
-::card
-#title
+::badge{type="info"}
 Databases
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
-::card
-#title
+::badge{type="info"}
 Json
 ::
-::card
-#title
+::badge{type="info"}
 Django
 ::
-::card
-#title
+::badge{type="info"}
 Haskell
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 University Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Agile Methodologies
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 Rust
 ::
-::card
-#title
+::badge{type="info"}
 Team Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Mongodb
 ::
-::card
-#title
+::badge{type="info"}
 Open Source
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Postgresql
 ::
-::card
-#title
+::badge{type="info"}
 Debugging
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Windows
 ::
-::card
-#title
+::badge{type="info"}
 Web Applications
 ::
-::card
-#title
+::badge{type="info"}
 Computer Security
 ::
-::card
-#title
+::badge{type="info"}
 Algorithms
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Software Design
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Latex
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Developer
+::code-group
+```bash [Addepar]
+addepar.com
+```
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [Shape Security]
+shapesecurity.com
+```
+```bash [iD Tech Camps]
+idtech.com
+```
+```bash [Attentive]
+attentivemobile.com
+```
+```bash [Standford Alumni]
+stanfordalumni.org
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Cs106 Section Leader
-::
-::card
-#title
-Senior Software Engineer
-::
-::card
-#title
-Software Development Research Assistant @ Virtual Human Interaction Lab
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Instructor
-::
-::card
-#title
-Core Developer
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Developer**
+- **Engineering Fellow**
+- **Software Engineer**
+- **Cs106 Section Leader**
+- **Senior Software Engineer**
+- **Software Development Research Assistant @ Virtual Human Interaction Lab**
+- **Software Engineering Intern**
+- **Instructor**
+- **Core Developer**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Addepar
-#description
-[Go to website](addepar.com)
-::
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-Shape Security
-#description
-[Go to website](shapesecurity.com)
-::
-::card
-#title
-iD Tech Camps
-#description
-[Go to website](idtech.com)
-::
-::card
-#title
-Attentive
-#description
-[Go to website](attentivemobile.com)
-::
-::card
-#title
-Standford Alumni
-#description
-[Go to website](stanfordalumni.org)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/jordanethomas jordanethomas Jordane T. Software Engineer at Uber https://media.licdn.com/dms/image/D5603AQH43uPIku97MA/profile-displayphoto-shrink_800_800/0/1655698448098?e=1695859200&v=beta&t=yhXInMdplDTQ6g7MeTJosF17ctWSj2OyCjvgdnw0Djo https://media.licdn.com/dms/image/C4E16AQGIIleiIrPRtA/profile-displaybackgroundimage-shrink_350_1400/0/1518485269215?e=1695859200&v=beta&t=0_g5EFx9DzVv7H8-D--QFthggD7_2MpB3UxEqGKmUpw personal ACoAABoIDM0B1znK1LZQHAxAHeCZZjPn0xzIEkI 436735181 I'm an engineer. I currently work in tech. I'm always looking to improve businesses and lives through engineering and design. United States San Francisco, California San Francisco California San Francisco, California, United States False False English Computer Software 1815218 Uber https://media.licdn.com/dms/image/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/0/1538169321193?e=1698278400&v=beta&t=x44Gcn7GMjvOPTnxLfHQd8FBIND-4mTmTcJxUazW2Es https://www.linkedin.com/company/uber-com/ 10001 7 2022 San Francisco Bay Area 7 2022 Uber DOTCOM team Software Engineer Full-time Go (Programming Language) Python Data Analysis Web Development iOS Development Data Structures Java JavaScript True 1633 500 shiyunhuang Shiyun H. Software Engineer at Uber https://media.licdn.com/dms/image/C4D03AQEFod-JYMizVw/profile-displayphoto-shrink_800_800/0/1654138742993?e=1695859200&v=beta&t=shyU8u-14hAJ5Am4mX-Y8qxx3lLP1MLOLAHu9KPRZBg quadri-b-55026213b Quadri B. Software Engineer at Uber https://media.licdn.com/dms/image/D4E03AQHdmw45HvEQLA/profile-displayphoto-shrink_800_800/0/1681622281638?e=1695859200&v=beta&t=Q90a_0iHRcoawAEuiawyHZyQQgjU9ftdVvgJWBFC1U4 jaryd-saevitzon Jaryd Saevitzon Senior Software Engineer at Uber https://media.licdn.com/dms/image/C4D03AQG8iiMKYYGpGg/profile-displayphoto-shrink_800_800/0/1606190392876?e=1695859200&v=beta&t=LxtXQc_H3Xz0grjr4r4sUdU4FI_9qOTbSEZVZqPyKqw jeremygoh1 Jeremy Goh Engineering Leadership, Uber https://media.licdn.com/dms/image/D5603AQEI5j3V0uEBAw/profile-displayphoto-shrink_800_800/0/1638482525091?e=1695859200&v=beta&t=Ec52gfV7iv7fGa1Szdv9we6EeVdMzDidZvz-KGtsQ4o navita-dandotiya Navita Dandotiya ex-Apple | Sr. Software Engineer at Uber https://media.licdn.com/dms/image/C4D03AQFxGkK-gxbrZg/profile-displayphoto-shrink_800_800/0/1517442803225?e=1695859200&v=beta&t=E_MYBGvl7EfpwgJZKCCJHykxznyzN8f1rap6tzMGVNg maniniamin Manini Amin Software Engineer at Uber https://media.licdn.com/dms/image/D5603AQH_DBMSNi5ZhA/profile-displayphoto-shrink_800_800/0/1669579007840?e=1695859200&v=beta&t=tAVRF8USUvxxVcaMUnTYAL8gjRaLixhva3iBoSLUE9c chasesriprajittichai Chase Sriprajittichai Software Engineer at Uber https://media.licdn.com/dms/image/C5603AQHvjMX4mSs0Yw/profile-displayphoto-shrink_800_800/0/1569213818518?e=1695859200&v=beta&t=IQTFmpzxdQNqSnp2dOG-HYIubjg7auN778hrhRLlF_o russelldevera Russell De Vera Software Engineer I at Uber https://media.licdn.com/dms/image/C5603AQH-be5xKdIoeg/profile-displayphoto-shrink_800_800/0/1600823439251?e=1695859200&v=beta&t=gXgpvBM1P1wLJt6lRvEyRNWdf01MyB-1XeamJ0Q79ag christopherkonglam Christopher L. Senior Software Engineer at Uber https://media.licdn.com/dms/image/C5603AQFM5aFg9hD7jQ/profile-displayphoto-shrink_800_800/0/1517616384873?e=1695859200&v=beta&t=YHqXKvaxZq-4_L5YGektXM3M5MgRt3dMzF7gIa0QFhs theresacay Theresa Cay Senior Software Engineer at Uber https://media.licdn.com/dms/image/C5603AQHPLAdOX7IDEw/profile-displayphoto-shrink_800_800/0/1583546835753?e=1695859200&v=beta&t=KtOmMUtNiL1V6V3kdumTdAzUo61quyaixzRABcVd-KE Kleiner Perkins Engineering Fellow hackNY Fellow Code2040 Fellow C++ React.js 3 2022 5 2021 5 2020 T Howard Foundation Fellow React Native MATLAB Pandas (Software) Swift (Programming Language) Cascading Style Sheets (CSS) HTML C (Programming Language) Ruby Ruby on Rails Redux.js 1 2019 All Star Code Scholars 7 2016
+#content
+jordanethomas. Jordane. T. Software. Engineer at. Uber personal. I'm an engineer. I currently work in tech. I'm always looking to improve businesses and lives through engineering and design. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. Computer. Software. Uber. San. Francisco. Bay. Area. Uber. DOTCOM team. Software. Engineer. Full-time. Go (Programming. Language) Python. Data. Analysis. Web. Development iOS. Development. Data. Structures. Java. JavaScript. True shiyunhuang. Shiyun. H. Software. Engineer at. Uber quadri-b- Quadri. B. Software. Engineer at. Uber jaryd-saevitzon. Jaryd. Saevitzon. Senior. Software. Engineer at. Uber. Jeremy. Goh. Engineering. Leadership, Uber navita-dandotiya. Navita. Dandotiya ex-Apple | Sr. Software. Engineer at. Uber maniniamin. Manini. Amin. Software. Engineer at. Uber chasesriprajittichai. Chase. Sriprajittichai. Software. Engineer at. Uber russelldevera. Russell. De. Vera. Software. Engineer. I at. Uber christopherkonglam. Christopher. L. Senior. Software. Engineer at. Uber theresacay. Theresa. Cay. Senior. Software. Engineer at. Uber. Kleiner. Perkins. Engineering. Fellow hackNY. Fellow. Fellow. C++ React.js. T. Howard. Foundation. Fellow. React. Native. MATLAB. Pandas (Software) Swift (Programming. Language) Cascading. Style. Sheets (CSS) HTML. C (Programming. Language) Ruby. Ruby on. Rails. Redux.js. All. Star. Code. Scholars
 ::

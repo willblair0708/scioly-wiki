@@ -1,227 +1,127 @@
-::block-hero
----
-#title
-Gokce Guven
----
-
-:badge[2021]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/gokceguven/" blank}
-
-::callout
-#summary
-Email
-#content
-guvgok99@gmail.com; gokceguven@berkeley.edu; gokce.guven@robinhood.com; gokce@kalder.xyz
+# Gokce Guven
+::badge{type="info"}
+Class of 2021
+::
+::badge{type="success"}
+Fellow at Paradigm
 ::
 
-::callout
-#summary
-Company
-#content
-Paradigm
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Fellow
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/gokceguven/" blank}
+- **Email**: guvgok99@gmail.com; gokceguven@berkeley.edu; gokce.guven@robinhood.com; gokce@kalder.xyz
+- **Location**: Berkeley
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Berkeley
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 P2P
 ::
-::card
-#title
+::badge{type="info"}
 Circular Economy
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Social Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Team Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Product Development
 ::
-::card
-#title
+::badge{type="info"}
 Networking
 ::
-::card
-#title
+::badge{type="info"}
 Sustainable Design
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Design Circle Scholar
+::code-group
+```bash [Accel]
+accel.com
+```
+```bash [Adobe Systems]
+adobe.com
+```
+```bash [OpenSearchServer]
+open-search-server.com
+```
+```bash [Robinhood]
+robinhood.com
+```
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Celonis]
+celonis.com
+```
+```bash [OpenSea]
+opensea.io
+```
+```bash [Paradigm]
+paradigm.xyz
+```
+```bash [IDEO CoLab Ventures]
+ideocolab.com
+```
+```bash [Kalder]
+kalder.xyz
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Kızlar Sahada Akademi (Girls On The Field Academy)]
+kizlarsahadaakademi.com
+```
 ::
-::card
-#title
-Researcher, Carol Dweck'S Growth Mindset Lab
-::
-::card
-#title
-Project Developer
-::
-::card
-#title
-Product Lead
-::
-::card
-#title
-Fellow
-::
-::card
-#title
-Experience + Design Intern
-::
-::card
-#title
-Kleiner Perkins Fellow
-::
-::card
-#title
-Product Designer | Crypto
-::
-::card
-#title
-Accel Scholar
-::
-::card
-#title
-Summer User Experience Fellow And Makeathon Technologist | Crypto
-::
-::card
-#title
-Product Designer
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Product Design
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Accel
-#description
-[Go to website](accel.com)
-::
-::card
-#title
-Adobe Systems
-#description
-[Go to website](adobe.com)
-::
-::card
-#title
-OpenSearchServer
-#description
-[Go to website](open-search-server.com)
-::
-::card
-#title
-Robinhood
-#description
-[Go to website](robinhood.com)
-::
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Celonis
-#description
-[Go to website](celonis.com)
-::
-::card
-#title
-OpenSea
-#description
-[Go to website](opensea.io)
-::
-::card
-#title
-Paradigm
-#description
-[Go to website](paradigm.xyz)
-::
-::card
-#title
-IDEO CoLab Ventures
-#description
-[Go to website](ideocolab.com)
-::
-::card
-#title
-Kalder
-#description
-[Go to website](kalder.xyz)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Kızlar Sahada Akademi (Girls On The Field Academy)
-#description
-[Go to website](kizlarsahadaakademi.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Design Circle Scholar**
+- **Researcher, Carol Dweck'S Growth Mindset Lab**
+- **Project Developer**
+- **Product Lead**
+- **Fellow**
+- **Experience + Design Intern**
+- **Kleiner Perkins Fellow**
+- **Product Designer | Crypto**
+- **Accel Scholar**
+- **Summer User Experience Fellow And Makeathon Technologist | Crypto**
+- **Product Designer**
+- **Founder**
+- **Product Design Intern**
+- **Product Design**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/dfinzer dfinzer Devin Finzer Co-founder and CEO at OpenSea (YC W18). We're hiring! https://media.licdn.com/dms/image/C5603AQHxWzT9ST8yHA/profile-displayphoto-shrink_800_800/0/1625234175110?e=1695859200&v=beta&t=nxm1lbLhacw7jby-S6rmOxd_s89fHpmHHOm0ZMNjZ9U personal ACoAAANPP-kB-PUA-y4WHt_ocPEym35tgaQCkMc 55525353 United States New York, New York New York New York New York, New York, United States False False English NATIVE_OR_BILINGUAL Spanish PROFESSIONAL_WORKING Computer Software KPCB Fellow The Kleiner Perkins Caufield & Byers Fellowship Program offers top U.S. college and graduate students a chance to work inside innovative Silicon Valley startups. Kleiner Perkins Caufield & Byers 6 2012 1st Place, LinkedIn Hackday 2011 1st Place at LinkedIn Hackday
-
-https://blog.linkedin.com/2011/08/03/linkedin-open-hackday LinkedIn 8 2011 Eye Chart Pro 3 2015 3 2015 A suite of mobile apps (Eye Chart Pro) for vision testing that have been installed over 1.2 million times and are in wide use in the medical community. Technology has been independently validated in American Journal of Ophthalmology and deployed in a variety of long-term clinical studies. standardizedContributor Devin Finzer Co-founder and CEO at OpenSea (YC W18). We're hiring! 18544108 OpenSea https://media.licdn.com/dms/image/D4D0BAQGuZgZ07yZ8zw/company-logo_400_400/0/1684252110502?e=1698278400&v=beta&t=TXsVGsv5qdKnTo8D6R4VO7uH1K7oEeC3KwcQRUHUHMo https://www.linkedin.com/company/opensea-io/ 201 500 12 2017 Greater New York City Area 12 2017 OpenSea Co-founded OpenSea, the first peer-to-peer marketplace for blockchain-based assets. We're funded by YCombinator, Founders Fund, Coinbase Ventures, 1Confirmation, and Blockchain Capital, and are currently the largest general marketplace for user-owned digital items. The team has backgrounds from Google, Facebook, Pinterest, Palantir, and Stanford. Co-Founder and CEO Full-time Python MapReduce Java JavaScript Hadoop Ruby C++ Machine Learning True 11751 500 jrfine Jeremy Fine Head of Partnerships and Corporate Development at OpenSea mikomatsumura Miko Matsumura Managing Partner, gCC (gumi Cryptos Capital) https://media.licdn.com/dms/image/C4E03AQEf6Q7kChkrfQ/profile-displayphoto-shrink_800_800/0/1516158540192?e=1695859200&v=beta&t=6Prbt92AN8oV6OSAfmn4tVfuz9vs3OjHYLV7d3I2Lkw parth-chopra Parth Chopra Product at OpenSea https://media.licdn.com/dms/image/C5603AQFDeBq1slUfmA/profile-displayphoto-shrink_800_800/0/1572248355882?e=1695859200&v=beta&t=HI_-85xyK0nSggrTqTEoTNxJET9YleVwIsNaZKd2Jwo sophiahuard Sophia Huard Strategy & Operations @ OpenSea https://media.licdn.com/dms/image/C5603AQHFu09pDs52Hg/profile-displayphoto-shrink_800_800/0/1583625845800?e=1695859200&v=beta&t=Y1M9QBsjZlbdYa9MGtlAe-0GM0Z4i3GQCucmHCubaeg calderzwerling Calder Zwerling Head of Recruiting at OpenSea | Strategic Advisor at Variant https://media.licdn.com/dms/image/C5603AQGZNLuqFbiyEQ/profile-displayphoto-shrink_800_800/0/1615780020813?e=1695859200&v=beta&t=N-c7wWTQSFvQj0dBMuWxAxWMMnxnrMcG_eTdmYx2J-4 lorenshuculak Lorens Huculak Co-Founder of Gem https://media.licdn.com/dms/image/C4D03AQGgIeOgMD6lEw/profile-displayphoto-shrink_800_800/0/1590338829136?e=1695859200&v=beta&t=AU4geSVt2tg1BqEIkWbfQjtjgnkxK6y964Bdlxa8ZWA brendan-forster-3704143a Brendan Forster Strategist @ OpenSea; fmr co-founder & COO @ Dharma mitchellkogan Mitchell Kogan Product at OpenSea https://media.licdn.com/dms/image/C5603AQFhdbREzmQbew/profile-displayphoto-shrink_800_800/0/1614143184690?e=1695859200&v=beta&t=G9-DGozInycDI1e6ZonCiiuYRNAlQF8OM7lxgsou23g shivar Shiva Rajaraman OpenSea, formerly Google, Meta, Spotify | Board Director | Investor https://media.licdn.com/dms/image/C4E03AQGnra164wBpYA/profile-displayphoto-shrink_800_800/0/1516177514595?e=1695859200&v=beta&t=qdNdR9A0RN1fzbv0Q2ZgEfETbuUVHbeQRghy6aE6M3g nadav-hollander-8268585a Nadav Hollander CTO @ OpenSea https://media.licdn.com/dms/image/C5103AQGNi03VyRvd1Q/profile-displayphoto-shrink_800_800/0/1517407305740?e=1695859200&v=beta&t=3lg0Nf5C25HipPoQeM96TB_qRapeEZR3x4XiMdN3tsE Scalability User Interface Design Swift Objective-C MySQL
+#content
+dfinzer. Devin. Finzer. Co-founder and. CEO at. OpenSea (YC ). We're hiring! personal. ACoAAANPP-kB-PUA- United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. PROFESSIONAL_WORKING. Computer. Software. KPCB. Fellow. The. Kleiner. Perkins. Caufield & Byers. Fellowship. Program offers top. U.S. college and graduate students a chance to work inside innovative. Silicon. Valley startups. Kleiner. Perkins. Caufield & Byers. Place, LinkedIn. Hackday. Place at. LinkedIn. Hackday. LinkedIn. Eye. Chart. Pro. A suite of mobile apps (Eye. Chart. Pro) for vision testing that have been installed over . million times and are in wide use in the medical community. Technology has been independently validated in. American. Journal of. Ophthalmology and deployed in a variety of long-term clinical studies. Devin. Finzer. Co-founder and. CEO at. OpenSea (YC ). We're hiring! OpenSea. Greater. New. York. City. Area. OpenSea. Co-founded. OpenSea, the first peer-to-peer marketplace for blockchain-based assets. We're funded by. YCombinator, Founders. Fund, Coinbase. Ventures, , and. Blockchain. Capital, and are currently the largest general marketplace for user-owned digital items. The team has backgrounds from. Google, Facebook, Pinterest, Palantir, and. Stanford. Co-Founder and. CEO. Full-time. Python. MapReduce. Java. JavaScript. Hadoop. Ruby. C++ Machine. Learning. True jrfine. Jeremy. Fine. Head of. Partnerships and. Corporate. Development at. OpenSea mikomatsumura. Miko. Matsumura. Managing. Partner, gCC (gumi. Cryptos. Capital) parth-chopra. Parth. Chopra. Product at. OpenSea sophiahuard. Sophia. Huard. Strategy & Operations @ OpenSea calderzwerling. Calder. Zwerling. Head of. Recruiting at. OpenSea | Strategic. Advisor at. Variant lorenshuculak. Lorens. Huculak. Co-Founder of. Gem brendan-forster- Brendan. Forster. Strategist @ OpenSea; fmr co-founder & COO @ Dharma mitchellkogan. Mitchell. Kogan. Product at. OpenSea shivar. Shiva. Rajaraman. OpenSea, formerly. Google, Meta, Spotify | Board. Director | Investor nadav-hollander- Nadav. Hollander. CTO @ OpenSea. Scalability. User. Interface. Design. Swift. Objective-C. MySQL
 ::

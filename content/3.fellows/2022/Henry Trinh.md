@@ -1,262 +1,178 @@
-::block-hero
----
-#title
-Henry Trinh
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/thenry3" blank}
-
-::callout
-#summary
-Email
-#content
-henrymtrinh14@gmail.com
+# Henry Trinh
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Software Engineer at Watershedclimate
 ::
 
-::callout
-#summary
-Company
-#content
-Watershedclimate
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Environment; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/thenry3" blank}
+- **Email**: henrymtrinh14@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Problem Solving
 ::
-::card
-#title
+::badge{type="info"}
 Front End Development
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Design
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Diversity
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 C (Programming Language
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Tutoring
 ::
-::card
-#title
+::badge{type="info"}
 Algorithms
 ::
-::card
-#title
+::badge{type="info"}
 Full Stack Development
 ::
-::card
-#title
+::badge{type="info"}
 Android
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Android Development
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Reliability
 ::
-::card
-#title
+::badge{type="info"}
 Gatsbyjs
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Continuous Integration
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Spreadsheets
 ::
-::card
-#title
+::badge{type="info"}
 Typescript
 ::
-::card
-#title
+::badge{type="info"}
 Django
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 English
 ::
-::card
-#title
+::badge{type="info"}
 Github
 ::
-::card
-#title
+::badge{type="info"}
 Back End Web Development
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Development Engineer Intern
+::code-group
+```bash [Two Sigma]
+twosigma.com
+```
+```bash [Google]
+google.com
+```
+```bash [Nuro]
+nuro.ai
+```
+```bash [Amazon Web Services]
+amazonaws.com
+```
+```bash [Tesla]
+tesla.com
+```
+```bash [Snap]
+snap.com
+```
+```bash [Watershedclimate]
+watershedclimate.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Undergraduate Student Researcher
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Engineering Fellow
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Two Sigma
-#description
-[Go to website](twosigma.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Nuro
-#description
-[Go to website](nuro.ai)
-::
-::card
-#title
-Amazon Web Services
-#description
-[Go to website](amazonaws.com)
-::
-::card
-#title
-Tesla
-#description
-[Go to website](tesla.com)
-::
-::card
-#title
-Snap
-#description
-[Go to website](snap.com)
-::
-::card
-#title
-Watershedclimate
-#description
-[Go to website](watershedclimate.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Development Engineer Intern**
+- **Undergraduate Student Researcher**
+- **Software Engineer Intern**
+- **Software Engineer**
+- **Engineering Fellow**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/joao-batalha joao-batalha Joao Batalha Founder @ Amplemarket & Fermat's Library (hiring! amplemarket.com/careers) https://media.licdn.com/dms/image/D5603AQGDNhV2_iBlRQ/profile-displayphoto-shrink_800_800/0/1674846842755?e=1695859200&v=beta&t=9JUfyvASD4hC9svFhpB8IzuFAaYm837dHOyXZrDiOKE https://media.licdn.com/dms/image/C5616AQELfY6V2gTkXQ/profile-displaybackgroundimage-shrink_350_1400/0/1626369493533?e=1695859200&v=beta&t=eu2mTeUpQKNg719n68rYMxnN2W3QuPo7z9LLvGTMheI personal ACoAAAYaNDgBrPybHUeARaMXDvbZ-6PL1ufdRrA 102380600 Studied Computer Science & Engineering at MIT. Interested in physics, mathematics and computer science. 
-
-Founded Amplemarket with the premise that b2b sales teams should have one main system that manages the different sales flows that generate qualified meetings. 
-Co-founder of Fermat's Library, an annotation platform for scientific papers. United States San Francisco, California San Francisco California San Francisco, California, United States True False Computer Software Kleiner Perkins Caufield Byers Fellow http://kpcbfellows.com Kleiner Perkins Caufield Byers 5 2012 17940980 Amplemarket https://media.licdn.com/dms/image/C560BAQGlV2RjN3pxvg/company-logo_400_400/0/1558054273427?e=1698278400&v=beta&t=0xXltSfCgNrBvrWkuVu3J0d6C3xQMMnFhJCml20J_YM https://www.linkedin.com/company/amplemarket/ 51 200 2018 San Francisco Bay Area 2018 Amplemarket We believe that b2b sales teams should have one main system that manages the different sales flows that generate qualified meetings. Co-Founder & CEO Full-time Python Java C++ HTML JavaScript PHP SQL Photoshop True 6749 500 Computer Networks 6.829 Computer Systems Security 6.858 Machine Learning 6.S064 Network and Computer Security 6.857 Operating System Engineering 6.828 Matlab Linux Computer Science MySQL Programming Machine Learning
+#content
+joao-batalha. Joao. Batalha. Founder @ Amplemarket & Fermat's. Library (hiring! personal. ACoAAAYaNDgBrPybHUeARaMXDvbZ- Studied. Computer. Science & Engineering at. MIT. Interested in physics, mathematics and computer science. Founded. Amplemarket with the premise that sales teams should have one main system that manages the different sales flows that generate qualified meetings. Co-founder of. Fermat's. Library, an annotation platform for scientific papers. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Kleiner. Perkins. Caufield. Byers. Fellow. Kleiner. Perkins. Caufield. Byers. Amplemarket. San. Francisco. Bay. Area. Amplemarket. We believe that sales teams should have one main system that manages the different sales flows that generate qualified meetings. Co-Founder & CEO. Full-time. Python. Java. C++ HTML. JavaScript. PHP. SQL. Photoshop. True. Computer. Networks . Computer. Systems. Security . Machine. Learning . Network and. Computer. Security . Operating. System. Engineering . Matlab. Linux. Computer. Science. MySQL. Programming. Machine. Learning
 ::

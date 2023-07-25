@@ -1,161 +1,113 @@
-::block-hero
----
-#title
-Steve Jiang
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/sjiang647" blank}
-
-::callout
-#summary
-Email
-#content
-sjiang647@gmail.com
+# Steve Jiang
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Dod at Glean
 ::
 
-::callout
-#summary
-Company
-#content
-Glean
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Dod
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/sjiang647" blank}
+- **Email**: sjiang647@gmail.com
+- **Location**: San Francisco Bay Area
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco Bay Area
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Graphql
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Tensorflow
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Swift
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 C (Programming Language
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Dod
+::code-group
+```bash [PayPal]
+paypal.com
+```
+```bash [Databricks]
+databricks.com
+```
+```bash [Glean]
+glean.com
+```
+```bash [Meta]
+meta.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Software Engineering Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-PayPal
-#description
-[Go to website](paypal.com)
-::
-::card
-#title
-Databricks
-#description
-[Go to website](databricks.com)
-::
-::card
-#title
-Glean
-#description
-[Go to website](glean.com)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Dod**
+- **Engineering Fellow**
+- **Software Engineering Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/annalinwang annalinwang Anna Wang CS/DMD @ Penn https://media.licdn.com/dms/image/D4E03AQEcQfmpKkbmCA/profile-displayphoto-shrink_800_800/0/1684290868494?e=1695859200&v=beta&t=kxK4LPotAPYq4cgm8GBhubWmv80m1VgFnbtF7lA6Hso personal ACoAAB6HeGcBAIcC0F8G7aYWO-__v8Vm6DO3alg 512194663 United States San Francisco Bay Area San Francisco Bay Area False False Chinese NATIVE_OR_BILINGUAL English NATIVE_OR_BILINGUAL Higher Education 36213 Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ 11 50 6 2022 6 2022 Kleiner Perkins KP Fellow Computer Science Human Computer Interaction Motion Graphics Graphic Design Java Adobe Creative Suite True 1045 500 Latin LIMITED_WORKING
+#content
+annalinwang. Anna. Wang. CS/DMD @ Penn personal - United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Higher. Education. Kleiner. Perkins. Kleiner. Perkins. KP. Fellow. Computer. Science. Human. Computer. Interaction. Motion. Graphics. Graphic. Design. Java. Adobe. Creative. Suite. True. Latin. LIMITED_WORKING
 ::

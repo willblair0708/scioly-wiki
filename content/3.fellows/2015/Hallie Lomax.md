@@ -1,245 +1,141 @@
-::block-hero
----
-#title
-Hallie Lomax
----
-
-:badge[2015]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/hallielomax" blank}
-
-::callout
-#summary
-Email
-#content
-hallie@lyft.com
+# Hallie Lomax
+::badge{type="info"}
+Class of 2015
+::
+::badge{type="success"}
+Senior Software Engineer at Sorare
 ::
 
-::callout
-#summary
-Company
-#content
-Sorare
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Senior Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/hallielomax" blank}
+- **Email**: hallie@lyft.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Hugs
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Artistic Abilities
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Senior Software Engineer
+::code-group
+```bash [Spark Capital]
+sparkcapital.com
+```
+```bash [Lyft]
+lyft.com
+```
+```bash [Opower]
+opower.com
+```
+```bash [LendUp]
+lendup.com
+```
+```bash [Agnes Scott College]
+agnesscott.edu
+```
+```bash [Google]
+google.com
+```
+```bash [Howard University]
+howard.edu
+```
+```bash [United Negro College Fund]
+uncf.org
+```
+```bash [Synergy Software Design]
+synergysoftwaredesign.com
+```
+```bash [William Megelich]
+pinterest.dk
+```
+```bash [Sorare]
+sorare.com
+```
+```bash [VotePlz]
+voteplz.org
+```
+```bash [ResumeLife]
+resumelifenow.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+```bash [Pinterest]
+pinterest.com.au
+```
 ::
-::card
-#title
-Engineering Practicum Intern
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Associate Software Engineer
-::
-::card
-#title
-Web Application Development Intern
-::
-::card
-#title
-Residence Assistant
-::
-::card
-#title
-Engineering Intern
-::
-::card
-#title
-Research Assistant And Tutor
-::
-::card
-#title
-Computer Science Tutor
-::
-::card
-#title
-Volunteer Software Engineer
-::
-::card
-#title
-Intern
-::
-::card
-#title
-Kpcb Engineering Fellow
-::
-::card
-#title
-Tutor
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Spark Capital
-#description
-[Go to website](sparkcapital.com)
-::
-::card
-#title
-Lyft
-#description
-[Go to website](lyft.com)
-::
-::card
-#title
-Opower
-#description
-[Go to website](opower.com)
-::
-::card
-#title
-LendUp
-#description
-[Go to website](lendup.com)
-::
-::card
-#title
-Agnes Scott College
-#description
-[Go to website](agnesscott.edu)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Howard University
-#description
-[Go to website](howard.edu)
-::
-::card
-#title
-United Negro College Fund
-#description
-[Go to website](uncf.org)
-::
-::card
-#title
-Synergy Software Design
-#description
-[Go to website](synergysoftwaredesign.com)
-::
-::card
-#title
-William Megelich
-#description
-[Go to website](pinterest.dk)
-::
-::card
-#title
-Sorare
-#description
-[Go to website](sorare.com)
-::
-::card
-#title
-VotePlz
-#description
-[Go to website](voteplz.org)
-::
-::card
-#title
-ResumeLife
-#description
-[Go to website](resumelifenow.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::card
-#title
-Pinterest
-#description
-[Go to website](pinterest.com.au)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Senior Software Engineer**
+- **Engineering Practicum Intern**
+- **Founder**
+- **Associate Software Engineer**
+- **Web Application Development Intern**
+- **Residence Assistant**
+- **Engineering Intern**
+- **Research Assistant And Tutor**
+- **Computer Science Tutor**
+- **Volunteer Software Engineer**
+- **Intern**
+- **Kpcb Engineering Fellow**
+- **Tutor**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/selamawit-moges-a52b3413b https://www.linkedin.com/in/selamawit-moges-a52b3413b Error
+#content
+Error
 ::

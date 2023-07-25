@@ -1,319 +1,216 @@
-::block-hero
----
-#title
-Dylan Field
----
-
-:badge[2012]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/dylanfield" blank}
-
-::callout
-#summary
-Email
-#content
-dylan@figma.com
+# Dylan Field
+::badge{type="info"}
+Class of 2012
+::
+::badge{type="success"}
+Chief Executive Officer And Co-Founder Of Figma at Figma
 ::
 
-::callout
-#summary
-Company
-#content
-Figma
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Chief Executive Officer And Co-Founder Of Figma
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/dylanfield" blank}
+- **Email**: dylan@figma.com
+- **Location**: Providence
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Providence
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Big Data
 ::
-::card
-#title
+::badge{type="info"}
 Human Computer Interaction
 ::
-::card
-#title
+::badge{type="info"}
 Recommender Systems
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Ajax
 ::
-::card
-#title
+::badge{type="info"}
 Product Management
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Html5
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Unix
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Django
 ::
-::card
-#title
+::badge{type="info"}
 Pig
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Apache
 ::
-::card
-#title
+::badge{type="info"}
 Rapid Prototyping
 ::
-::card
-#title
+::badge{type="info"}
 Mapreduce
 ::
-::card
-#title
+::badge{type="info"}
 Data Mining
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Hadoop
 ::
-::card
-#title
+::badge{type="info"}
 Product Development
 ::
-::card
-#title
+::badge{type="info"}
 Data Visualization
 ::
-::card
-#title
+::badge{type="info"}
 Hive
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Web Applications
 ::
-::card
-#title
+::badge{type="info"}
 Hbase
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Zombies
 ::
-::card
-#title
+::badge{type="info"}
 Mobile Applications
 ::
-::card
-#title
+::badge{type="info"}
 Computer Security
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Sql
 ::
-::card
-#title
+::badge{type="info"}
 Big Data Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Distributed Systems
 ::
-::card
-#title
+::badge{type="info"}
 People Skills
 ::
-::card
-#title
+::badge{type="info"}
 Html 5
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-CEO
+::code-group
+```bash [LinkedIn]
+linkedin.com
+```
+```bash [O'Reilly Media]
+oreilly.com
+```
+```bash [inDinero]
+indinero.com
+```
+```bash [Flipboard]
+flipboard.com
+```
+```bash [Figma]
+figma.com
+```
+```bash [Microsoft]
+microsoft.com
+```
 ::
-::card
-#title
-Co-Founder
-::
-::card
-#title
-Co-Founder & CEO
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Research Assistant
-::
-::card
-#title
-Chief Executive Officer And Co-Founder Of Figma
-::
-::card
-#title
-Online Marketing Intern
-::
-::card
-#title
-Data Analytics Intern
-::
-::card
-#title
-Developer
-::
-::card
-#title
-Product Design Intern
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **CEO**
+- **Co-Founder**
+- **Co-Founder & CEO**
+- **Software Engineering Intern**
+- **Research Assistant**
+- **Chief Executive Officer And Co-Founder Of Figma**
+- **Online Marketing Intern**
+- **Data Analytics Intern**
+- **Developer**
+- **Product Design Intern**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-LinkedIn
-#description
-[Go to website](linkedin.com)
-::
-::card
-#title
-O'Reilly Media
-#description
-[Go to website](oreilly.com)
-::
-::card
-#title
-inDinero
-#description
-[Go to website](indinero.com)
-::
-::card
-#title
-Flipboard
-#description
-[Go to website](flipboard.com)
-::
-::card
-#title
-Figma
-#description
-[Go to website](figma.com)
-::
-::card
-#title
-Microsoft
-#description
-[Go to website](microsoft.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/mattsafian mattsafian Matt Safian Staff Product Designer at Frame.io (Adobe) https://media.licdn.com/dms/image/C4E03AQGxo5tJzKJ46g/profile-displayphoto-shrink_800_800/0/1632262569674?e=1695859200&v=beta&t=nrOkkDr_88xdp7idNKex7kg8ybOc0r0hU2dFojmsABE https://media.licdn.com/dms/image/C4E16AQEQEN98IU5M4Q/profile-displaybackgroundimage-shrink_350_1400/0/1632262543624?e=1695859200&v=beta&t=UEu3x7Qx5BVcxDuuYv1BRUFQiJHg4iW4swd0rsbTJL8 personal ACoAAA65u4IBB4bvAMSy0jasbsuBVqZCP2zaCrs 247053186 United States New York, New York New York New York New York, New York, United States False False Design 5273045 Frame.io https://media.licdn.com/dms/image/D560BAQEO_CBeLcq_7g/company-logo_400_400/0/1665682691066?e=1698278400&v=beta&t=pX9j9pOr2XpNIO1yFEuOvxLRNVmPDYa76X3spVcvR30 https://www.linkedin.com/company/frame-io/ 201 500 9 2021 7 2023 Frame.io Staff Product Designer Full-time Graphic Design Web Design Branding & Identity HTML CSS JavaScript PHP MySQL True 386 373 alexisgallisa Alexis Gallisá Director of Design Systems at Frame.io https://media.licdn.com/dms/image/C5603AQGu64PeDpl-Nw/profile-displayphoto-shrink_800_800/0/1638820910306?e=1695859200&v=beta&t=dhycwj1x9zO8tlmj7HF0jMiAXCDnBSbjH99J_Izm6a0 sisi-yu Sisi Yu Product Designer @ frame.io (Adobe) https://media.licdn.com/dms/image/C4E03AQEGHsQQbEefcA/profile-displayphoto-shrink_800_800/0/1564084791542?e=1695859200&v=beta&t=Cuz5F-BFdzXD9inb7S046AGT9HcH9AUHx9hCPDzoU2o julia-rickles Julia Rickles Product designer & human. https://media.licdn.com/dms/image/C5603AQGm2WNJLA8AZg/profile-displayphoto-shrink_800_800/0/1554579194598?e=1695859200&v=beta&t=eTaLDWHRVqwm6WLCM130SPzVvYD5j-omeTDT1U13__A jessheisme Jessica He Product at Frame.io (acquired by Adobe) https://media.licdn.com/dms/image/C4D03AQF9r68QI-r3Dw/profile-displayphoto-shrink_800_800/0/1583465271907?e=1695859200&v=beta&t=J3eEZMzurdzKXo7UfovFwUkjwVSIi1xVZWALfiF48FY michaellloffredo Michael Loffredo Staff Product Designer at Frame.io • Formerly at Uber & IBM https://media.licdn.com/dms/image/C4E03AQGkM9FK7FwtwA/profile-displayphoto-shrink_800_800/0/1639536401724?e=1695859200&v=beta&t=HiMr4qu1KDgjmduecGWJ5fS1PULk1Kz-S2JUhAqvZy8 bwaddington Brian Waddington Lead Product Designer at Frame.io https://media.licdn.com/dms/image/C4D03AQHYENwtO3PWiw/profile-displayphoto-shrink_800_800/0/1516277924558?e=1695859200&v=beta&t=AIImKEaj05bgW7u1I8GM-vlXHeN8WGYMuVHQwvKMIKk acreno Wojciech Zieliński Staff Product Designer @Adobe https://media.licdn.com/dms/image/C4E03AQFX7wY71qhF6A/profile-displayphoto-shrink_800_800/0/1605190948174?e=1695859200&v=beta&t=LbSGKHwygHwSm3i-XMaL4s3-e8BXMElL6CSl90sYM0I francoisdenavaut François Denavaut Software Designer & Engineer https://media.licdn.com/dms/image/C4E03AQERwmszOYraUA/profile-displayphoto-shrink_800_800/0/1581848982104?e=1695859200&v=beta&t=6Drj-xYKB3C5rBZJOWXks-2MEbzqJn6QDc3xofKEgQc joemontanino Joe M. Senior Product Designer https://media.licdn.com/dms/image/D5603AQHGeKqoYaxyFw/profile-displayphoto-shrink_800_800/0/1678241468514?e=1695859200&v=beta&t=qS53RziaAO5VPcusgRZKklejMoMgfsbJxr0wwXA42Wk wgsomerville Walter Somerville Product Designer @ Dropbox https://media.licdn.com/dms/image/C4D03AQEn_CVlF6GzsA/profile-displayphoto-shrink_800_800/0/1516951543485?e=1695859200&v=beta&t=2QfK-nBwRv8Mlipq_G1awbO_ezkaDDJxfIVIqMgIYRw Photoshop Illustrator InDesign WordPress User Interface Design Adobe Creative Suite Posters Visual Design New York City 9 2021 7 2023 Frame.io Senior Product Designer Full-time
+#content
+mattsafian. Matt. Safian. Staff. Product. Designer at. Frame.io (Adobe) personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Design. Frame.io. Frame.io. Staff. Product. Designer. Full-time. Graphic. Design. Web. Design. Branding & Identity. HTML. CSS. JavaScript. PHP. MySQL. True alexisgallisa. Alexis. Gallisá. Director of. Design. Systems at. Frame.io sisi-yu. Sisi. Yu. Product. Designer @ frame.io (Adobe) julia-rickles. Julia. Rickles. Product designer & human. jessheisme. Jessica. He. Product at. Frame.io (acquired by. Adobe) michaellloffredo. Michael. Loffredo. Staff. Product. Designer at. Frame.io • Formerly at. Uber & IBM bwaddington. Brian. Waddington. Lead. Product. Designer at. Frame.io acreno. Wojciech. Zieliński. Staff. Product. Designer @Adobe francoisdenavaut. François. Denavaut. Software. Designer & Engineer joemontanino. Joe. M. Senior. Product. Designer wgsomerville. Walter. Somerville. Product. Designer @ Dropbox. Photoshop. Illustrator. InDesign. WordPress. User. Interface. Design. Adobe. Creative. Suite. Posters. Visual. Design. New. York. City. Frame.io. Senior. Product. Designer. Full-time
 ::

@@ -1,281 +1,179 @@
-::block-hero
----
-#title
-Nikhil Patel
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/patel-nikhil" blank}
-
-::callout
-#summary
-Email
-#content
-nikp29@gmail.com
+# Nikhil Patel
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Engineering Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::callout
-#summary
-Company
-#content
-Kleiner Perkins Caufield & Byers
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Engineering Fellow
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/patel-nikhil" blank}
+- **Email**: nikp29@gmail.com
+- **Location**: Los Angeles
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Los Angeles
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Android Development
 ::
-::card
-#title
+::badge{type="info"}
 Digital Fabrication
 ::
-::card
-#title
+::badge{type="info"}
 Robotics
 ::
-::card
-#title
+::badge{type="info"}
 Tableau
 ::
-::card
-#title
+::badge{type="info"}
 Agile Web Development
 ::
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Recurrent Neural Networks
 ::
-::card
-#title
+::badge{type="info"}
 Solidworks
 ::
-::card
-#title
+::badge{type="info"}
 3D Rendering
 ::
-::card
-#title
+::badge{type="info"}
 Apache Cordova
 ::
-::card
-#title
+::badge{type="info"}
 Pandas
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 3D Printing
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Gitflow
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Revit
 ::
-::card
-#title
+::badge{type="info"}
 Web Development
 ::
-::card
-#title
+::badge{type="info"}
 React
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Jupyter Notebook
 ::
-::card
-#title
+::badge{type="info"}
 Clustering Algorithms
 ::
-::card
-#title
+::badge{type="info"}
 Ios Development
 ::
-::card
-#title
+::badge{type="info"}
 Dynamic Programming
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Convolutional Neural Networks
 ::
-::card
-#title
+::badge{type="info"}
 Neural Networks
 ::
-::card
-#title
+::badge{type="info"}
 Building Information Modeling
 ::
-::card
-#title
+::badge{type="info"}
 Rhino 3D
 ::
-::card
-#title
+::badge{type="info"}
 Data Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Full Stack Engineering Intern
+::code-group
+```bash [Avail Health]
+availhealth.com
+```
+```bash [University of Southern California]
+usc.edu
+```
+```bash [Stripe]
+stripe.com
+```
+```bash [LavaLab USC]
+usclavalab.org
+```
+```bash [Tribute]
+tribute.co
+```
+```bash [Arity]
+arity.com
+```
+```bash [KPCB]
+kleinerperkins.com
+```
+```bash [Cloud Arch Studio]
+cloud-arch.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Front-End Engineering And Data Analyst Intern
-::
-::card
-#title
-Data Science Lab Undergraduate Research Fellow
-::
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Machine Learning And Data Analytics Intern
-::
-::card
-#title
-Director Of Development
-::
-::card
-#title
-President
-::
-::card
-#title
-Architectural Intern
-::
-::card
-#title
-Machine Learning Intern
-::
-::card
-#title
-Melady Lab Undergraduate Research Fellow
-::
-::card
-#title
-Software Developer
-::
-::card
-#title
-Software Engineering Intern
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Full Stack Engineering Intern**
+- **Front-End Engineering And Data Analyst Intern**
+- **Data Science Lab Undergraduate Research Fellow**
+- **Engineering Fellow**
+- **Machine Learning And Data Analytics Intern**
+- **Director Of Development**
+- **President**
+- **Architectural Intern**
+- **Machine Learning Intern**
+- **Melady Lab Undergraduate Research Fellow**
+- **Software Developer**
+- **Software Engineering Intern**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Avail Health
-#description
-[Go to website](availhealth.com)
-::
-::card
-#title
-University of Southern California
-#description
-[Go to website](usc.edu)
-::
-::card
-#title
-Stripe
-#description
-[Go to website](stripe.com)
-::
-::card
-#title
-LavaLab USC
-#description
-[Go to website](usclavalab.org)
-::
-::card
-#title
-Tribute
-#description
-[Go to website](tribute.co)
-::
-::card
-#title
-Arity
-#description
-[Go to website](arity.com)
-::
-::card
-#title
-KPCB
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Cloud Arch Studio
-#description
-[Go to website](cloud-arch.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/veronicanutting/ veronicanutting Veronica Nutting Engineer @ Stripe | Harvard '22 https://media.licdn.com/dms/image/C4E03AQF0hPdSC7xS4Q/profile-displayphoto-shrink_800_800/0/1580920012676?e=1695859200&v=beta&t=QibsH7ueFSEfo7VQYqS07o9FA6HPTtd_iv6WusBOMiw https://media.licdn.com/dms/image/C4D16AQE3VpbpKAHl_g/profile-displaybackgroundimage-shrink_350_1400/0/1643997070553?e=1695859200&v=beta&t=mtVbP1KlZY64zvzM0k3p-aYGShB1WVp4nc-nRGxl958 personal ACoAABm-844BT0a3lnbL7b_0C56G_1A1oAR4_gE 431944590 United States San Francisco, California San Francisco California San Francisco, California, United States False False English NATIVE_OR_BILINGUAL French LIMITED_WORKING Computer Software Harvard Certificate of Distinction in Teaching 12 2019 Technovation: Global Technology Entrepreneurship Competition - 2nd Place, Global Semifinalist Technovation Girls: Technology and Entrepreneurship for Girls 5 2015 2135371 Stripe https://media.licdn.com/dms/image/C560BAQF1NNJs-2xA5g/company-logo_400_400/0/1594068219050?e=1698278400&v=beta&t=qNwQnxXycfa08X4OSpxwtIiJpPBdcbbAwU5cFUnDeAI https://www.linkedin.com/company/stripe/ 1001 5000 10 2022 San Francisco, California, United States 10 2022 Stripe API Events team - Webhooks & Events Software Engineer Full-time Python (Programming Language) C++ Spanish Natural Language Processing (NLP) Data Visualization False 867 500 Italian LIMITED_WORKING Spanish NATIVE_OR_BILINGUAL
+#content
+veronicanutting. Veronica. Nutting. Engineer @ Stripe | Harvard ' personal. ACoAABm- United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. French. LIMITED_WORKING. Computer. Software. Harvard. Certificate of. Distinction in. Teaching. Technovation: Global. Technology. Entrepreneurship. Competition - Place, Global. Semifinalist. Technovation. Girls: Technology and. Entrepreneurship for. Girls. Stripe. San. Francisco, California, United. States. Stripe. API. Events team - Webhooks & Events. Software. Engineer. Full-time. Python (Programming. Language) C++ Spanish. Natural. Language. Processing (NLP) Data. Visualization. False. Italian. LIMITED_WORKING. Spanish. NATIVE_OR_BILINGUAL
 ::

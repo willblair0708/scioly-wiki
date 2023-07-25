@@ -1,137 +1,87 @@
-::block-hero
----
-#title
-Christopher So
----
-
-:badge[2014]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/chrso" blank}
-
-::callout
-#summary
-Email
-#content
-christopherso92@gmail.com
+# Christopher So
+::badge{type="info"}
+Class of 2014
+::
+::badge{type="success"}
+Software Engineer at Ambrook
 ::
 
-::callout
-#summary
-Company
-#content
-Ambrook
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Software Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/chrso" blank}
+- **Email**: christopherso92@gmail.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Matlab
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Html 5
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Software Engineer
+::code-group
+```bash [Goldman Sachs]
+goldmansachs.com
+```
+```bash [Flipboard]
+flipboard.com
+```
+```bash [Google]
+google.com
+```
+```bash [Verily]
+verily.com
+```
+```bash [Ambrook]
+ambrook.com
+```
 ::
-::card
-#title
-Technology Summer Analyst
-::
-::card
-#title
-Senior Software Engineer At Verily
-::
-::card
-#title
-Senior Software Engineer
-::
-::card
-#title
-Undergraduate Research Assistant
-::
-::card
-#title
-Engineering Intern
-::
-::card
-#title
-Director, Crew Chief
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Software Engineer**
+- **Technology Summer Analyst**
+- **Senior Software Engineer At Verily**
+- **Senior Software Engineer**
+- **Undergraduate Research Assistant**
+- **Engineering Intern**
+- **Director, Crew Chief**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Goldman Sachs
-#description
-[Go to website](goldmansachs.com)
-::
-::card
-#title
-Flipboard
-#description
-[Go to website](flipboard.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Verily
-#description
-[Go to website](verily.com)
-::
-::card
-#title
-Ambrook
-#description
-[Go to website](ambrook.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/davidbxu davidbxu David X. exploring something new https://media.licdn.com/dms/image/C5603AQGYhJL2kplpIA/profile-displayphoto-shrink_800_800/0/1649461403618?e=1695859200&v=beta&t=w4zwJ4UWH0d0EzKU9wZsV4gQjB1L60kBOmm4pgVGlSI personal ACoAAARXaU8BckieMXW0qdDbxjy0CUK73hm1pl4 72837455 i like creating things United States San Francisco, California San Francisco California San Francisco, California, United States False False Computer Software Soldier from The Surface 2 2016 a small game design blog as part of an experimental passion project exploring my interests beyond code. it was featured on the front page of hacker news, gamasutra community blogs, metafilter, and /r/gamedev standardizedContributor David X. exploring something new Other Stuff 8 2010 Other Stuff, including experimental game stuff, game design, screenwriting, creative writing, web apps, mobile apps, game jams, and other random ventures standardizedContributor David X. exploring something new 96148536 studio doobu https://media.licdn.com/dms/image/D560BAQH0iWGSfIIzDg/company-logo_400_400/0/1689739167740?e=1698278400&v=beta&t=__za8kO-cxlCIlin_UBWsHRkwt7tk1Sulz-iuXjFv1A https://www.linkedin.com/company/studio-doobu/ 0 1 7 2023 7 2023 studio doobu a creative studio exploring new systems for human experience - reach out to collaborate! Founder Full-time Stuff C# Unity JavaScript TypeScript Figma (Software) API Development Node.js False 811 500 zkhalapyan Zorayr Khalapyan Builder, Entrepreneur, Investor. abhinavvora Abhinav V. Co-Founder @ Async Labs | Ex-Lyft/Facebook/Microsoft anthonygarvan Anthony Garvan Founder/CEO at SheetRocks, Inc https://media.licdn.com/dms/image/C5603AQGKOENCodNUng/profile-displayphoto-shrink_800_800/0/1618009465356?e=1695859200&v=beta&t=hb3sta_-JK4P_43hcdOWfMaWjbU5UhF6PkeJ2rO7osc boyang-niu Boyang Niu Founder @ Stylized.ai | ex-Dropbox/Block/Hive https://media.licdn.com/dms/image/C5603AQEZtSKztaWP9A/profile-displayphoto-shrink_800_800/0/1605246298213?e=1695859200&v=beta&t=yVn7u_0R3oi9AZCwWcSePeiXsgEIOm1b00ti2OluatI williamwilliams William Williams Working on capturing and persisting our family stories. jnfang Jiayun Fang building something new https://media.licdn.com/dms/image/C5603AQF4xRvks5ptpQ/profile-displayphoto-shrink_800_800/0/1548872147178?e=1695859200&v=beta&t=wxx9YNKhnwyMN4ar6wBQ4QW-IVtM0bXzSudeIg7MxRM armanjaffer Arman Jaffer Founder at Brisk Teaching (Hiring Engineers) https://media.licdn.com/dms/image/C5603AQF0mJMcjV8toA/profile-displayphoto-shrink_800_800/0/1565245551101?e=1695859200&v=beta&t=slOGtWLtkeu7DepDIe4iZaIprxJ5wVr3-IQiyqzmOp4 beckyhu Bec H. Building Channeled. Previously Uber & LinkedIn. steven-syverud-9b77539 Steven Syverud Something New https://media.licdn.com/dms/image/C5603AQFa15vzDHQhog/profile-displayphoto-shrink_800_800/0/1517664877254?e=1695859200&v=beta&t=yf5YSfGvdcF_mmETzZ8zFZA_AXB-k8L5DEpDQGBcKBk sjwhitmore Samantha Whitmore Building something new Adobe Illustrator Unreal Engine 4 Godot pico8 Virtual Reality (VR)
+#content
+davidbxu. David. X. exploring something new personal i like creating things. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Soldier from. The. Surface a small game design blog as part of an experimental passion project exploring my interests beyond code. it was featured on the front page of hacker news, gamasutra community blogs, metafilter, and /r/gamedev. David. X. exploring something new. Other. Stuff. Other. Stuff, including experimental game stuff, game design, screenwriting, creative writing, web apps, mobile apps, game jams, and other random ventures. David. X. exploring something new studio doobu studio doobu a creative studio exploring new systems for human experience - reach out to collaborate! Founder. Full-time. Stuff. C# Unity. JavaScript. TypeScript. Figma (Software) API. Development. Node.js. False zkhalapyan. Zorayr. Khalapyan. Builder, Entrepreneur, Investor. abhinavvora. Abhinav. V. Co-Founder @ Async. Labs | Ex-Lyft/Facebook/Microsoft anthonygarvan. Anthony. Garvan. Founder/CEO at. SheetRocks, Inc boyang-niu. Boyang. Niu. Founder @ Stylized.ai | ex-Dropbox/Block/Hive williamwilliams. William. Williams. Working on capturing and persisting our family stories. jnfang. Jiayun. Fang building something new armanjaffer. Arman. Jaffer. Founder at. Brisk. Teaching (Hiring. Engineers) beckyhu. Bec. H. Building. Channeled. Previously. Uber & LinkedIn. steven-syverud- Steven. Syverud. Something. New sjwhitmore. Samantha. Whitmore. Building something new. Adobe. Illustrator. Unreal. Engine. Godot. Virtual. Reality (VR)
 ::

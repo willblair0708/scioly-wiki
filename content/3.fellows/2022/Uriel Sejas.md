@@ -1,143 +1,83 @@
-::block-hero
----
-#title
-Uriel Sejas
----
+# Uriel Sejas
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Software Engineer Intern at Slack
+::
 
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/uriel-sejas/" blank}
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
+::
 
-::callout
+::badge{type="success"}
+Sector: Tech
+::
+::callout{type="info"}
 #summary
-Email
+Contact Information
 #content
-usejas@gmu.edu; urielsejas@gmail.com
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/uriel-sejas/" blank}
+- **Email**: usejas@gmu.edu; urielsejas@gmail.com
+- **Location**: Baltimore
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Company
+Skills
 #content
-Slack
+::badge{type="info"}
+
+::
 ::
 
-::callout
+::code-group
+```bash [Goldman Sachs]
+goldmansachs.com
+```
+```bash [Slack]
+slack.com
+```
+```bash [Uber]
+uber.com
+```
+```bash [George Mason University]
+gmu.edu
+```
+```bash [Capital One]
+capitalone.com
+```
+```bash [Amazon Web Services]
+amazonaws.com
+```
+```bash [JPMorgan Chase & Co.]
+jpmorganchase.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
+::
+::callout{type="warning"}
 #summary
-Position
+Roles
 #content
-Software Engineer Intern
+- **Sophomore Edge Software Engineering**
+- **Associate Product Manager Summit**
+- **Software Engineering Summit**
+- **Kp Engineering Fellow**
+- **Software Engineer Intern**
+- **Software Development Engineer Intern**
+- **Engineering Essentials**
+- **Mason**
+- **School of Engineering**
 ::
 
-::callout
+::callout{type="info"}
 #summary
-Location
-#content
-Baltimore
-::
-
-## Skills
-::card-grid
-::card
-#title
-
-::
-::
-
-## Past Job Titles
-::card-grid
-::card
-#title
-Sophomore Edge Software Engineering
-::
-::card
-#title
-Associate Product Manager Summit
-::
-::card
-#title
-Software Engineering Summit
-::
-::card
-#title
-Kp Engineering Fellow
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Software Development Engineer Intern
-::
-::card
-#title
-Engineering Essentials
-::
-::card
-#title
-Mason
-::
-::card
-#title
-School of Engineering
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Goldman Sachs
-#description
-[Go to website](goldmansachs.com)
-::
-::card
-#title
-Slack
-#description
-[Go to website](slack.com)
-::
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-George Mason University
-#description
-[Go to website](gmu.edu)
-::
-::card
-#title
-Capital One
-#description
-[Go to website](capitalone.com)
-::
-::card
-#title
-Amazon Web Services
-#description
-[Go to website](amazonaws.com)
-::
-::card
-#title
-JPMorgan Chase & Co.
-#description
-[Go to website](jpmorganchase.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
 About
-#description
-https://www.linkedin.com/in/samaynathani https://www.linkedin.com/in/samaynathani Error
+#content
+Error
 ::

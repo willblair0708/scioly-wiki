@@ -1,170 +1,102 @@
-::block-hero
----
-#title
-Kevin Li
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="linkedin.com/in/kevintli" blank}
-
-::callout
-#summary
-Email
-#content
-kevintli@berkeley.edu
+# Kevin Li
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Engineering at Applied Intuition
 ::
 
-::callout
-#summary
-Company
-#content
-Applied Intuition
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Engineering
+:button-link[LinkedIn Profile]{href="linkedin.com/in/kevintli" blank}
+- **Email**: kevintli@berkeley.edu
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Cocos2D
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Redux
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Ruby On Rails
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 React.Js
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-PhD Candidate
+::code-group
+```bash [Stripe]
+stripe.com
+```
+```bash [Kodable]
+kodable.com
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Cruise]
+getcruise.com
+```
+```bash [Waymo]
+waymo.com
+```
+```bash [Applied Intuition]
+appliedintuition.com
+```
+```bash [Blueprint]
+calblueprint.org
+```
 ::
-::card
-#title
-Researcher, Robotic Ai And Learning Lab
-::
-::card
-#title
-Project Developer
-::
-::card
-#title
-Software Developer Intern
-::
-::card
-#title
-Researcher, Autolab
-::
-::card
-#title
-Software Engineer Intern
-::
-::card
-#title
-Project Leader, Rocky Mountain Institute
-::
-::card
-#title
-Head Ta, Cs 189
-::
-::card
-#title
-Engineering
-::
-::card
-#title
-Vice President Of Technology
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **PhD Candidate**
+- **Researcher, Robotic Ai And Learning Lab**
+- **Project Developer**
+- **Software Developer Intern**
+- **Researcher, Autolab**
+- **Software Engineer Intern**
+- **Project Leader, Rocky Mountain Institute**
+- **Head Ta, Cs 189**
+- **Engineering**
+- **Vice President Of Technology**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Stripe
-#description
-[Go to website](stripe.com)
-::
-::card
-#title
-Kodable
-#description
-[Go to website](kodable.com)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Cruise
-#description
-[Go to website](getcruise.com)
-::
-::card
-#title
-Waymo
-#description
-[Go to website](waymo.com)
-::
-::card
-#title
-Applied Intuition
-#description
-[Go to website](appliedintuition.com)
-::
-::card
-#title
-Blueprint
-#description
-[Go to website](calblueprint.org)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/soyeepark soyeepark Soyee P. Product Designer personal ACoAACl3O9wBDEFBvCK-MwpPKDusNlBpzI_zPUo 695679964 https://soyeepark.com/
- United States United States False False English NATIVE_OR_BILINGUAL Korean NATIVE_OR_BILINGUAL Information Technology & Services National Speech and Debate Association, Parliamentary Debate Team Second Place, Second Place Best Speaker Varsity Track and Field 100m Girls Hurdles Finalist, 4x100 Girls Third Place Central Eastern Europe Sports Association 2973736 Duolingo https://media.licdn.com/dms/image/C560BAQHd72JkEVaFHw/company-logo_400_400/0/1657189019428?e=1698278400&v=beta&t=a2GgsnLJDk_63T9qNEhSxEvBQbiFolzfAyI9wGc01dY https://www.linkedin.com/company/duolingo/ 501 1000 8 2022 Pittsburgh, Pennsylvania, United States 8 2022 Duolingo Product Designer Full-time False 824 500
+#content
+soyeepark. Soyee. P. Product. Designer personal -MwpPKDusNlBpzI_zPUo. United. States. United. States. False. False. English. NATIVE_OR_BILINGUAL. Korean. NATIVE_OR_BILINGUAL. Information. Technology & Services. National. Speech and. Debate. Association, Parliamentary. Debate. Team. Second. Place, Second. Place. Best. Speaker. Varsity. Track and. Field. Girls. Hurdles. Finalist, Girls. Third. Place. Central. Eastern. Europe. Sports. Association. Duolingo. Pittsburgh, Pennsylvania, United. States. Duolingo. Product. Designer. Full-time. False
 ::

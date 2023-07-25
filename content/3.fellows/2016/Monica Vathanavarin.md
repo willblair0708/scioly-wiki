@@ -1,239 +1,171 @@
-::block-hero
----
-#title
-Monica Vathanavarin
----
-
-:badge[2016]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="http://linkedin.com/in/monicavarin" blank}
-
-::callout
-#summary
-Email
-#content
-nvat@berkeley.edu; monica.varin@gmail.com
+# Monica Vathanavarin
+::badge{type="info"}
+Class of 2016
+::
+::badge{type="success"}
+Senior Product Designer at Addepar
 ::
 
-::callout
-#summary
-Company
-#content
-Addepar
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Senior Product Designer
+:button-link[LinkedIn Profile]{href="http://linkedin.com/in/monicavarin" blank}
+- **Email**: nvat@berkeley.edu; monica.varin@gmail.com
+- **Location**: New York
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-New York
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Talent Management
 ::
-::card
-#title
+::badge{type="info"}
 App Store Optimization
 ::
-::card
-#title
+::badge{type="info"}
 Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Copywriting
 ::
-::card
-#title
+::badge{type="info"}
 C#
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Jquery
 ::
-::card
-#title
+::badge{type="info"}
 Community Management
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Indesign
 ::
-::card
-#title
+::badge{type="info"}
 Content Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Digital Production
 ::
-::card
-#title
+::badge{type="info"}
 Thai
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Customer Service
 ::
-::card
-#title
+::badge{type="info"}
 Great Personality
 ::
-::card
-#title
+::badge{type="info"}
 Photography
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Public Relations
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Marketing Intern
+::code-group
+```bash [TaskRabbit]
+taskrabbit.com
+```
+```bash [Addepar]
+addepar.com
+```
+```bash [UC Berkeley]
+berkeley.edu
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-2016 Design Fellow
-::
-::card
-#title
-Senior Product Designer
-::
-::card
-#title
-Marketing And Copywriting
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-TaskRabbit
-#description
-[Go to website](taskrabbit.com)
-::
-::card
-#title
-Addepar
-#description
-[Go to website](addepar.com)
-::
-::card
-#title
-UC Berkeley
-#description
-[Go to website](berkeley.edu)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Marketing Intern**
+- **2016 Design Fellow**
+- **Senior Product Designer**
+- **Marketing And Copywriting**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/roneilr roneilr Roneil Rumburg Co-Founder & CEO at Audius https://media.licdn.com/dms/image/C5603AQHxIcqC3zFfcw/profile-displayphoto-shrink_800_800/0/1516641074174?e=1695859200&v=beta&t=zCiZZzxkVcZteKcc1jEF1E4xhKxmUh-uGS38zTZPTx8 personal ACoAAAedRX8BjAtGy8HIDQrBVgL6CfhJbI4ipzM 127747455 United States United States False False Spanish Internet 2013 KPCB Engineering Fellow http://kpcbfellows.com/meet-the-fellows/ Kleiner Perkins Caufield & Byers 3 2013 Eagle Scout Boy Scouts of America 10 2010 18756775 Audius https://media.licdn.com/dms/image/C560BAQHo_Q7C6D-teQ/company-logo_400_400/0/1533704703846?e=1698278400&v=beta&t=cU0sGq_5Wm3aY4yuhYEAHT6R7g8dMxvDUEu9ejrk8v0 https://www.linkedin.com/company/audius-project/ 11 50 2 2018 www 2 2018 Audius Co-Founder & CEO Python Java PHP Programming C HTML JavaScript Linux True 2163 500 isaacsolo Isaac Solo Software Engineer at Audius forrestbrowning Forrest Browning Co-Founder & Chief Product Officer at Audius | Forbes 30 Under 30 https://media.licdn.com/dms/image/C5603AQEpcKlAErGnAQ/profile-displayphoto-shrink_800_800/0/1533705532318?e=1695859200&v=beta&t=PzVJLBtODVrMLiTfZepr9vNGYkJndjTDslhlVqAtdFc sabrina-kiamilev-b4a209a7 Sabrina Kiamilev Software Engineer at Audius raymond-lee-quivr Raymond Lee Co-founder of Quivr - where you can authenticate your #digitalsoul https://media.licdn.com/dms/image/C4E03AQFIbzlmgoK4Ag/profile-displayphoto-shrink_800_800/0/1661546367977?e=1695859200&v=beta&t=4BTZRj8JOj_Gvkq-8ctehbq5hv3bUWAXrTkwTqZ_6EQ josephwhan Joseph Lee Engineer at Audius dylan-jeffers-44b839214 Dylan Jeffers Engineering Manager at Audius https://media.licdn.com/dms/image/C5603AQFkQfIz8bXRRQ/profile-displayphoto-shrink_800_800/0/1651100960634?e=1695859200&v=beta&t=KRoL347DEXNqo6RYgR-WQLPuhiwvJpUyZpMuxmeEiRc tilie Theo Ilie Software Engineer @ Audius | ex-Amazon https://media.licdn.com/dms/image/D4E03AQHx3MT93RaVGg/profile-displayphoto-shrink_800_800/0/1668983292119?e=1695859200&v=beta&t=srCbJoqmR9iS2tp4yUjCuch0z3lB0QqVFz1ZybeX2yU nicoback Nikki Kang Engineer at Audius https://media.licdn.com/dms/image/C4D03AQH3tsC6Dl6efw/profile-displayphoto-shrink_800_800/0/1645336939237?e=1695859200&v=beta&t=v1aFxJ7LzbHt9C7ymMTTFmmNfgU-IY3XNlw2zzSF7Dk michael-piazza-87525061 Michael Piazza Engineering Manager @ Audius. Swarthmore & CalArts grad. jacobsonraymond Raymond Jacobson VP of Engineering @ Audius | We're Hiring! https://media.licdn.com/dms/image/D5603AQGjl1SKCUbIuQ/profile-displayphoto-shrink_800_800/0/1689099290159?e=1695859200&v=beta&t=1wlEGurt9-GU4Ae_1Sm8XswgBizMjuLr95YZRPD4JNQ MySQL CSS SQL Web Development System Administration Unix Software Development Hardware Git Analysis Statistics Computer Repair
+#content
+roneilr. Roneil. Rumburg. Co-Founder & CEO at. Audius personal. United. States. United. States. False. False. Spanish. Internet. KPCB. Engineering. Fellow. Kleiner. Perkins. Caufield & Byers. Eagle. Scout. Boy. Scouts of. America. Audius. Audius. Co-Founder & CEO. Python. Java. PHP. Programming. C. HTML. JavaScript. Linux. True isaacsolo. Isaac. Solo. Software. Engineer at. Audius forrestbrowning. Forrest. Browning. Co-Founder & Chief. Product. Officer at. Audius | Forbes. Under sabrina-kiamilev- Sabrina. Kiamilev. Software. Engineer at. Audius raymond-lee-quivr. Raymond. Lee. Co-founder of. Quivr - where you can authenticate your #digitalsoul josephwhan. Joseph. Lee. Engineer at. Audius dylan-jeffers- Dylan. Jeffers. Engineering. Manager at. Audius tilie. Theo. Ilie. Software. Engineer @ Audius | ex-Amazon nicoback. Nikki. Kang. Engineer at. Audius michael-piazza- Michael. Piazza. Engineering. Manager @ Audius. Swarthmore & CalArts grad. jacobsonraymond. Raymond. Jacobson. VP of. Engineering @ Audius | We're. Hiring! MySQL. CSS. SQL. Web. Development. System. Administration. Unix. Software. Development. Hardware. Git. Analysis. Statistics. Computer. Repair
 ::

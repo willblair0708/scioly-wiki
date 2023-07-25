@@ -1,171 +1,120 @@
-::block-hero
----
-#title
-Vijay Rajaram
----
-
-:badge[2012]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/vijayrajaram" blank}
-
-::callout
-#summary
-Email
-#content
-vtrajaram@gmail.com
+# Vijay Rajaram
+::badge{type="info"}
+Class of 2012
+::
+::badge{type="success"}
+Systems And Ml Engineer at Twitter
 ::
 
-::callout
-#summary
-Company
-#content
-Twitter
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Systems And Ml Engineer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/vijayrajaram" blank}
+- **Email**: vtrajaram@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Hadoop
 ::
-::card
-#title
+::badge{type="info"}
 Data Mining
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Software Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Mapreduce
 ::
-::card
-#title
+::badge{type="info"}
 Public Policy
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Scalability
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Data Analytics
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Database Design
 ::
-::card
-#title
+::badge{type="info"}
 Data Analytic
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Object Oriented Design
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Development Economics
 ::
-::card
-#title
+::badge{type="info"}
 Databases
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Data Engineer
+::code-group
+```bash [Twitter]
+twitter.com
+```
+```bash [Shopkick]
+shopkick.com
+```
+```bash [Google]
+google.com
+```
+```bash [GuestAssistant]
+guestassistant.com
+```
 ::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Software Consultant
-::
-::card
-#title
-Systems And Ml Engineer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Twitter
-#description
-[Go to website](twitter.com)
-::
-::card
-#title
-Shopkick
-#description
-[Go to website](shopkick.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-GuestAssistant
-#description
-[Go to website](guestassistant.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Data Engineer**
+- **Software Engineering Intern**
+- **Software Consultant**
+- **Systems And Ml Engineer**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/adam-khakhar https://www.linkedin.com/in/adam-khakhar Error
+#content
+Error
 ::

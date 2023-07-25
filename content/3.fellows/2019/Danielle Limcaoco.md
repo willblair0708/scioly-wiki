@@ -1,363 +1,229 @@
-::block-hero
----
-#title
-Danielle Limcaoco
----
-
-:badge[2019]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/danielle-limcaoco-053404a1" blank}
-
-::callout
-#summary
-Email
-#content
-dblim@stanford.edu; daniellelimcaoco@gmail.com; danielle.limcaoco@gmail.com
+# Danielle Limcaoco
+::badge{type="info"}
+Class of 2019
+::
+::badge{type="success"}
+ at 
 ::
 
-::callout
-#summary
-Company
-#content
-
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/danielle-limcaoco-053404a1" blank}
+- **Email**: dblim@stanford.edu; daniellelimcaoco@gmail.com; danielle.limcaoco@gmail.com
+- **Location**: Stanford
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Stanford
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Autodesk Fusion 360
 ::
-::card
-#title
+::badge{type="info"}
 Startups
 ::
-::card
-#title
+::badge{type="info"}
 Journalism
 ::
-::card
-#title
+::badge{type="info"}
 Social Media
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Invision
 ::
-::card
-#title
+::badge{type="info"}
 Ethnographic Research
 ::
-::card
-#title
+::badge{type="info"}
 Social Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Laser Cutting
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Silversmithing
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Heuristic Evaluation
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 User Research
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Rapid Prototyping
 ::
-::card
-#title
+::badge{type="info"}
 Early Stage Startups
 ::
-::card
-#title
+::badge{type="info"}
 Fundraising
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 Solidworks
 ::
-::card
-#title
+::badge{type="info"}
 3D Printing
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Excel
 ::
-::card
-#title
+::badge{type="info"}
 Wireframing
 ::
-::card
-#title
+::badge{type="info"}
 Storyboarding
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Nonprofits
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Program Management
 ::
-::card
-#title
+::badge{type="info"}
 Business Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Interaction Design
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Product Designer
+::code-group
+```bash [Unilever]
+unilever.com
+```
+```bash [Nextdoor]
+nextdoor.com
+```
+```bash [Robinhood]
+robinhood.com
+```
+```bash [Rappler]
+rappler.com
+```
+```bash [Stanford Biodesign Alumni Association]
+biodesignalumni.com
+```
+```bash [CollegeVine]
+collegevine.com
+```
+```bash [Olelo]
+olelohq.com
+```
+```bash [CYNGN]
+cyngn.com
+```
+```bash [Stanford Graduate School of Business]
+gsb.stanford.edu
+```
+```bash [Standford Alumni]
+stanfordalumni.org
+```
+```bash [AIC Education]
+jq-edu.com
+```
+```bash [rapidhirerecruiting]
+rapidhirerecruiting.com
+```
+```bash [Hasso Plattner Institute of Design at Stanford ( d.school )]
+dschool.stanford.edu
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Kleiner Perkins Design Fellow
-::
-::card
-#title
-Brand Building Intern For Unilever Premium Beauty Products
-::
-::card
-#title
-User Interface And User Experience Design Consultant
-::
-::card
-#title
-Events Intern
-::
-::card
-#title
-Product Development Intern
-::
-::card
-#title
-Presidential Campaign Intern
-::
-::card
-#title
-Design For Extreme Affordability Product Designer
-::
-::card
-#title
-Intern For The Balikbayan Section
-::
-::card
-#title
-Brand Strategist @ Topt
-::
-::card
-#title
-Reunion Homecoming Team Leader
-::
-::card
-#title
-Product Design Intern, Cyngn
-::
-::card
-#title
-D.School K12 Design Research Intern
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Unilever
-#description
-[Go to website](unilever.com)
-::
-::card
-#title
-Nextdoor
-#description
-[Go to website](nextdoor.com)
-::
-::card
-#title
-Robinhood
-#description
-[Go to website](robinhood.com)
-::
-::card
-#title
-Rappler
-#description
-[Go to website](rappler.com)
-::
-::card
-#title
-Stanford Biodesign Alumni Association
-#description
-[Go to website](biodesignalumni.com)
-::
-::card
-#title
-CollegeVine
-#description
-[Go to website](collegevine.com)
-::
-::card
-#title
-Olelo
-#description
-[Go to website](olelohq.com)
-::
-::card
-#title
-CYNGN
-#description
-[Go to website](cyngn.com)
-::
-::card
-#title
-Stanford Graduate School of Business
-#description
-[Go to website](gsb.stanford.edu)
-::
-::card
-#title
-Standford Alumni
-#description
-[Go to website](stanfordalumni.org)
-::
-::card
-#title
-AIC Education
-#description
-[Go to website](jq-edu.com)
-::
-::card
-#title
-rapidhirerecruiting
-#description
-[Go to website](rapidhirerecruiting.com)
-::
-::card
-#title
-Hasso Plattner Institute of Design at Stanford ( d.school )
-#description
-[Go to website](dschool.stanford.edu)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Product Designer**
+- **Product Design Intern**
+- **Kleiner Perkins Design Fellow**
+- **Brand Building Intern For Unilever Premium Beauty Products**
+- **User Interface And User Experience Design Consultant**
+- **Events Intern**
+- **Product Development Intern**
+- **Presidential Campaign Intern**
+- **Design For Extreme Affordability Product Designer**
+- **Intern For The Balikbayan Section**
+- **Brand Strategist @ Topt**
+- **Reunion Homecoming Team Leader**
+- **Product Design Intern, Cyngn**
+- **D.School K12 Design Research Intern**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/leytonho leytonho Leyton Ho CS & Applied Math @ Brown | KP Fellow https://media.licdn.com/dms/image/C5603AQGcC90s2NA_9Q/profile-displayphoto-shrink_800_800/0/1558586742364?e=1695859200&v=beta&t=VPiPWue5LP_GyPU36jp_WSL8ZuqjRhnu_LIEjLz87bw personal ACoAACvttQYBpXvRe49Y9Tk9Dd0kw2UBTAtAomc 736998662 United States San Francisco Bay Area San Francisco Bay Area False False Computer Software 1st Place at HackMIT: IBM Best Solution Addressing the Community Response for COVID-19 9 2020 National AP Scholar 7 2019 U.S. Presidential Scholar Candidate U.S. Department of Education 1 2019 California State Blitz Chess High School Champion (2018) 4 2018 68631655 Watershed https://media.licdn.com/dms/image/C560BAQFQAitJ8Lkdhw/company-logo_400_400/0/1670266114491?e=1698278400&v=beta&t=-ggXqiU5XmWNNNsGEOt6eOeZcFMbrx2QsOFKIichof4 https://www.linkedin.com/company/watershedclimate/ 201 500 6 2023 6 2023 Watershed Software Engineer Intern True 1046 500 john-diorio John Diorio Investor at Stripes https://media.licdn.com/dms/image/D4E03AQF8zHuzxL69zQ/profile-displayphoto-shrink_800_800/0/1637351063906?e=1695859200&v=beta&t=HlEvWUUXKYCNNDN6wDLtJZO8HNwXYHEnl7A-u20uF94 hgu Henry Gu CS @ USC, prev Stripe | KP Fellow zhao-catherine Catherine Zhao CS & Business @ UC Berkeley https://media.licdn.com/dms/image/C5603AQFiRLjEBfHmPQ/profile-displayphoto-shrink_800_800/0/1661914735501?e=1695859200&v=beta&t=JsvOQUKoaUgyGi9bMEAUEG4pszq0z2jwjdrP9du5A-Y tejasmehta14 Tejas Mehta Venture Partner @ Contrary | Engineering Fellow @ Kleiner Perkins https://media.licdn.com/dms/image/C4E03AQFrlZe8At_aUA/profile-displayphoto-shrink_800_800/0/1590206001181?e=1695859200&v=beta&t=AMOOlV5RuLbE-PUE4H2csI8JoDagYNrkkcAmXk6TfKI arianelee Ariane Lee CS & History @ Stanford | KP Fellow ‘22 https://media.licdn.com/dms/image/C4D03AQH0bTTvni6iQA/profile-displayphoto-shrink_800_800/0/1638138319867?e=1695859200&v=beta&t=vb8oeCgGZceq39vhCiarbsdl0ZvC_gDgxLEvxsdqYzQ ~samay Samay Nathani Software Engineer at Robinhood https://media.licdn.com/dms/image/D5603AQGzRodCSG_GNA/profile-displayphoto-shrink_800_800/0/1679509506132?e=1695859200&v=beta&t=fIzFq0lfhf_o3sRuYcDbCGMO1NfhoR2Q4Hd1ov2_7J4 onlyhamza Hamza Khawaja Founding team at Atlas, formerly Hadith, KP Product, Google, Microsoft, Salesforce, Tesla. Berkeley CS, Data Science https://media.licdn.com/dms/image/C5603AQFttkXVFv-6gQ/profile-displayphoto-shrink_800_800/0/1519461999652?e=1695859200&v=beta&t=vSY40f2SHbHq3_jDFu1ULnSEcKayMi4bwv0iD-DznfA alix-cui Alix Cui Glean | KP Engineering fellow | CS @ Stanford https://media.licdn.com/dms/image/D5603AQG1LLVkSn7M3A/profile-displayphoto-shrink_800_800/0/1687459841504?e=1695859200&v=beta&t=iLSYZzG03Je6NCOob-KpVMCVKASAC-sCp7Z36JnSsRM uriel-sejas Uriel Sejas SWE @ Slack | KP Fellow https://media.licdn.com/dms/image/C4D03AQE9JJ7gIKvSMg/profile-displayphoto-shrink_800_800/0/1611704264224?e=1695859200&v=beta&t=Pe_hBDoZ7CW44Gvr-6TR4JRHo4XJGMQlTBO_KEkjUws kaili-liang Kaili Liang Incoming Software Engineer at Slack | Kleiner Perkins Fellow https://media.licdn.com/dms/image/D4E03AQEysLPqFazb5g/profile-displayphoto-shrink_800_800/0/1684968395700?e=1695859200&v=beta&t=kdX6kww69lXafKRFOzLwtk-QetMxMv-F68d7bgrxpWo Fully Automated GrowCut-based Segmentation of Melanoma in Dermoscopic Images JYI https://www.jyi.org/2019-febuary/2019/2/1/b8u3yjblvsywcu7sdy7orw4tctxs2g?rq=leyton 2019 standardizedContributor Leyton Ho CS & Applied Math @ Brown | KP Fellow
+#content
+leytonho. Leyton. Ho. CS & Applied. Math @ Brown | KP. Fellow personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Computer. Software. Place at. HackMIT: IBM. Best. Solution. Addressing the. Community. Response for. COVID- National. AP. Scholar. U.S. Presidential. Scholar. Candidate. U.S. Department of. Education. California. State. Blitz. Chess. High. School. Champion () Watershed. Watershed. Software. Engineer. Intern. True john-diorio. John. Diorio. Investor at. Stripes hgu. Henry. Gu. CS @ USC, prev. Stripe | KP. Fellow zhao-catherine. Catherine. Zhao. CS & Business @ UC. Berkeley. Tejas. Mehta. Venture. Partner @ Contrary | Engineering. Fellow @ Kleiner. Perkins arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ ~samay. Samay. Nathani. Software. Engineer at. Robinhood onlyhamza. Hamza. Khawaja. Founding team at. Atlas, formerly. Hadith, KP. Product, Google, Microsoft, Salesforce, Tesla. Berkeley. CS, Data. Science alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow. Fully. Automated. GrowCut-based. Segmentation of. Melanoma in. Dermoscopic. Images. JYI. Leyton. Ho. CS & Applied. Math @ Brown | KP. Fellow
 ::

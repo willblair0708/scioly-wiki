@@ -1,243 +1,141 @@
-::block-hero
----
-#title
-Elaine Zhou
----
-
-:badge[2015]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/elainexzhou" blank}
-
-::callout
-#summary
-Email
-#content
-elainee.zhou@gmail.com
+# Elaine Zhou
+::badge{type="info"}
+Class of 2015
+::
+::badge{type="success"}
+Product Designer at Airtable
 ::
 
-::callout
-#summary
-Company
-#content
-Airtable
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Product Designer
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/elainexzhou" blank}
+- **Email**: elainee.zhou@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Keynote
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Rapid Prototyping
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Product Design Lead
+::code-group
+```bash [Quora]
+quora.com
+```
+```bash [Uber]
+uber.com
+```
+```bash [Frog Design]
+frogdesign.com
+```
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [Airtable]
+airtable.com
+```
+```bash [University of Central Florida]
+ucf.edu
+```
+```bash [Ivy Insiders]
+ivyinsiders.com
+```
+```bash [Shoe Land]
+shoeland.com
+```
+```bash [Hasso Plattner Institute of Design at Stanford ( d.school )]
+dschool.stanford.edu
+```
+```bash [Remind]
+remind.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Manager
-::
-::card
-#title
-Engineering Fellow
-::
-::card
-#title
-Course Assistant
-::
-::card
-#title
-Research Intern
-::
-::card
-#title
-Section Facilitator For Me104B: Designing Your Life
-::
-::card
-#title
-Branch Manager
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Research Assistant
-::
-::card
-#title
-Graphic Design Intern
-::
-::card
-#title
-Product Designer
-::
-::card
-#title
-Design Technologist Intern
-::
-::card
-#title
-Engineering Intern
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Product Design Lead**
+- **Manager**
+- **Engineering Fellow**
+- **Course Assistant**
+- **Research Intern**
+- **Section Facilitator For Me104B: Designing Your Life**
+- **Branch Manager**
+- **Software Engineering Intern**
+- **Research Assistant**
+- **Graphic Design Intern**
+- **Product Designer**
+- **Design Technologist Intern**
+- **Engineering Intern**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Quora
-#description
-[Go to website](quora.com)
-::
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-Frog Design
-#description
-[Go to website](frogdesign.com)
-::
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-Airtable
-#description
-[Go to website](airtable.com)
-::
-::card
-#title
-University of Central Florida
-#description
-[Go to website](ucf.edu)
-::
-::card
-#title
-Ivy Insiders
-#description
-[Go to website](ivyinsiders.com)
-::
-::card
-#title
-Shoe Land
-#description
-[Go to website](shoeland.com)
-::
-::card
-#title
-Hasso Plattner Institute of Design at Stanford ( d.school )
-#description
-[Go to website](dschool.stanford.edu)
-::
-::card
-#title
-Remind
-#description
-[Go to website](remind.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/cheng-lin cheng-lin Cheng Lin personal ACoAACA_P6YBe8yR0DY-ilzsyUA0cPkeFwKkAaM 541015974 United States San Francisco, California San Francisco California San Francisco, California, United States False False Computer Software 2021 Google GHC Travel Grant Recipient 8 2021 2019 Google GHC Travel Grant Recipient Scholarship to attend the 2019 Grace Hopper Celebration for Women in Computing. 8 2019 Hatch Scholarship Valued at $30,000, this scholarship is awarded to undergraduate students on the basis of high academic standing and overall contribution to university life by the Faculty of Engineering. McGill University 7 2018 Greville Smith Scholarship The $48,000 scholarship recognizes leadership, participation in community affairs, and athletic involvement. It is awarded to five students from McGill's incoming undergraduate class who have shown promise of future success and responsible citizenship. McGill University 6 2017 Loran Scholarship National Finalist The Loran Award is Canada's most prestigious undergraduate scholarship. Through a rigorous interview process, the foundation seeks high school students with leadership, character, and integrity. In 2017, 84 National Finalists were selected from 4,438 applicants across Canada. Loran Foundation 2 2017 68631655 Watershed https://media.licdn.com/dms/image/C560BAQFQAitJ8Lkdhw/company-logo_400_400/0/1670266114491?e=1698278400&v=beta&t=-ggXqiU5XmWNNNsGEOt6eOeZcFMbrx2QsOFKIichof4 https://www.linkedin.com/company/watershedclimate/ 201 500 7 2022 San Francisco Bay Area 7 2022 Watershed Helping companies cut carbon -- we're hiring!
-
-https://watershed.com/jobs Software Engineer Full-time Public Speaking Leadership Teamwork Java Python (Programming Language) True 630 500 4 2019 4 2021 President McGill Artificial Intelligence Society https://media.licdn.com/dms/image/C4D0BAQFyv3WO8q9MjQ/company-logo_400_400/0/1519922077178?e=1698278400&v=beta&t=9FMPwKDsfuOQskp9HYB8udT8z3-GTQfswaOHJEvK1gM https://www.linkedin.com/company/mcgill-artificial-intelligence-society/ EDUCATION Previous: Technical Project Manager
-
-Helped build the AI community at McGill through technical, industry, and social events. Previously ran ML bootcamps and workshops for McGill students.
-
-For more information: www.mcgillai.com
+#content
+cheng-lin. Cheng. Lin personal - United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Google. GHC. Travel. Grant. Recipient. Google. GHC. Travel. Grant. Recipient. Scholarship to attend the. Grace. Hopper. Celebration for. Women in. Computing. Hatch. Scholarship. Valued at $,, this scholarship is awarded to undergraduate students on the basis of high academic standing and overall contribution to university life by the. Faculty of. Engineering. McGill. University. Greville. Smith. Scholarship. The $, scholarship recognizes leadership, participation in community affairs, and athletic involvement. It is awarded to five students from. McGill's incoming undergraduate class who have shown promise of future success and responsible citizenship. McGill. University. Loran. Scholarship. National. Finalist. The. Loran. Award is. Canada's most prestigious undergraduate scholarship. Through a rigorous interview process, the foundation seeks high school students with leadership, character, and integrity. In , National. Finalists were selected from , applicants across. Canada. Loran. Foundation. Watershed. San. Francisco. Bay. Area. Watershed. Helping companies cut carbon -- we're hiring! Software. Engineer. Full-time. Public. Speaking. Leadership. Teamwork. Java. Python (Programming. Language) True. President. McGill. Artificial. Intelligence. Society. EDUCATION. Previous: Technical. Project. Manager. Helped build the. AI community at. McGill through technical, industry, and social events. Previously ran. ML bootcamps and workshops for. McGill students. For more information:
 ::

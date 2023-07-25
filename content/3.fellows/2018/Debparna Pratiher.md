@@ -1,333 +1,219 @@
-::block-hero
----
-#title
-Debparna Pratiher
----
-
-:badge[2018]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/debparna-pratiher" blank}
-
-::callout
-#summary
-Email
-#content
-dpratiher@ucdavis.edu; dpratiher@gmail.com
+# Debparna Pratiher
+::badge{type="info"}
+Class of 2018
+::
+::badge{type="success"}
+Co-Founder at Quest Labs
 ::
 
-::callout
-#summary
-Company
-#content
-Quest Labs
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI; Data Science
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Co-Founder
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/debparna-pratiher" blank}
+- **Email**: dpratiher@ucdavis.edu; dpratiher@gmail.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Engineering
 ::
-::card
-#title
+::badge{type="info"}
 Product Design
 ::
-::card
-#title
+::badge{type="info"}
 Event Planning
 ::
-::card
-#title
+::badge{type="info"}
 Data Science
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Computer Vision
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Entrepreneurship
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Data Structures
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Software Development
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Start Ups
 ::
-::card
-#title
+::badge{type="info"}
 Start Up Ventures
 ::
-::card
-#title
+::badge{type="info"}
 Strategy
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Marketing
 ::
-::card
-#title
+::badge{type="info"}
 Research
 ::
-::card
-#title
+::badge{type="info"}
 Css
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Algorithms
 ::
-::card
-#title
+::badge{type="info"}
 Management
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Graphic Design
 ::
-::card
-#title
+::badge{type="info"}
 Deep Learning
 ::
-::card
-#title
+::badge{type="info"}
 Agile Methodologies
 ::
-::card
-#title
+::badge{type="info"}
 Data Analysis
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Artificial Intelligence
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Program Management
 ::
-::card
-#title
+::badge{type="info"}
 Networking
 ::
-::card
-#title
+::badge{type="info"}
 Team Management
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Product Management
 ::
-::card
-#title
+::badge{type="info"}
 Problem Solving
 ::
-::card
-#title
+::badge{type="info"}
 Photography
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Engineering
+::code-group
+```bash [NVIDIA]
+nvidia.com
+```
+```bash [Ripcord]
+ripcord.com
+```
+```bash [Contrary]
+contrarycap.com
+```
+```bash [Visa]
+visa.com
+```
+```bash [Tesla]
+tesla.com
+```
+```bash [UC Davis Health System]
+ucdmc.ucdavis.edu
+```
+```bash [UC Davis]
+ucdavis.edu
+```
+```bash [Stealth Mode Startup Company]
+appcito.net
+```
+```bash [Quest Labs]
+questuniverse.org
+```
+```bash [Questa]
+questadata.com
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Contrary Talent Fellow
-::
-::card
-#title
-Kleiner Perkins Engineering Fellow
-::
-::card
-#title
-Web3
-::
-::card
-#title
-Deep Learning Product Manager
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Software Engineering Intern | Kp Fellow
-::
-::card
-#title
-Associate Product Manager
-::
-::card
-#title
-Product And Partnerships
-::
-::card
-#title
-Co-Founder
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-NVIDIA
-#description
-[Go to website](nvidia.com)
-::
-::card
-#title
-Ripcord
-#description
-[Go to website](ripcord.com)
-::
-::card
-#title
-Contrary
-#description
-[Go to website](contrarycap.com)
-::
-::card
-#title
-Visa
-#description
-[Go to website](visa.com)
-::
-::card
-#title
-Tesla
-#description
-[Go to website](tesla.com)
-::
-::card
-#title
-UC Davis Health System
-#description
-[Go to website](ucdmc.ucdavis.edu)
-::
-::card
-#title
-UC Davis
-#description
-[Go to website](ucdavis.edu)
-::
-::card
-#title
-Stealth Mode Startup Company
-#description
-[Go to website](appcito.net)
-::
-::card
-#title
-Quest Labs
-#description
-[Go to website](questuniverse.org)
-::
-::card
-#title
-Questa
-#description
-[Go to website](questadata.com)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Engineering**
+- **Contrary Talent Fellow**
+- **Kleiner Perkins Engineering Fellow**
+- **Web3**
+- **Deep Learning Product Manager**
+- **Software Engineering Intern**
+- **Software Engineering Intern | Kp Fellow**
+- **Associate Product Manager**
+- **Product And Partnerships**
+- **Co-Founder**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/austinmoninger austin~ Austin _. * personal ACoAACKrpvsBNfzE0Rqbaf7k6JpWOLgcUe0Nefw 581674747 United States United States False False Computer Software Marble racing Cat herding False 1146 500 noahspringwater Noah Springwater Account Executive at Retool https://media.licdn.com/dms/image/C5603AQF2CKB8B-W50Q/profile-displayphoto-shrink_800_800/0/1558984706221?e=1695859200&v=beta&t=S_lWy-m4tc6mliFJMh9MdXmwbRLO2wwv9VMQUHrkHJE rebeccablee1 Rebecca Lee Something New · Prev YC founder, Ex-Retool, Ex-Affirm https://media.licdn.com/dms/image/C5603AQEVrEi1Sdi41w/profile-displayphoto-shrink_800_800/0/1635453700501?e=1695859200&v=beta&t=Zn2-T6GlK37bpCeQeZgODzmtaiEiD1KTzxU7ySR7up4 wileycwjones Wiley Jones (we're hiring!!!) Co-Founder at Doss https://media.licdn.com/dms/image/C5603AQGCqpMwwMceXQ/profile-displayphoto-shrink_800_800/0/1590727912496?e=1695859200&v=beta&t=GuJHfyaeI_7ibEuptJWw5PxQMtrzaHHzyHLQwIII6Eo mokshjawa Moksh Jawa Engineer @ Retool (we’re hiring!) | M&T @ Penn yvonne-chen Yvonne Chen Building at Pavilion https://media.licdn.com/dms/image/C5603AQEYU-H15JopmQ/profile-displayphoto-shrink_800_800/0/1620399119629?e=1695859200&v=beta&t=qQUGucXZPMLOpIIZxUwcVhGBFit0h6aslzx7w01HipE jpreilly1 JP Reilly Engineering & Growth @ dbt Labs mayline-zhong Mayline Zhong Software Engineer at Retool jason-gao-7806a788 Jason Gao Software Engineer at Retool, Inc. yjyao Yujian Yao Software Engineer at Retool https://media.licdn.com/dms/image/C5603AQFrtcxRagdZnw/profile-displayphoto-shrink_800_800/0/1527218528735?e=1695859200&v=beta&t=EFEwKtgz7uPzG2u49FCilLW0dEs026r7FhAVh5JatzA philipgerstoft Philip Gerstoft Software Engineer at Retool https://media.licdn.com/dms/image/C5103AQH3n2So6_eyeg/profile-displayphoto-shrink_800_800/0/1517075720201?e=1695859200&v=beta&t=qDmIfkTiFUNQ-xUw08pboC51zM5Emarz8dU5ay5_cEI
+#content
+austin~ Austin _. * personal. United. States. United. States. False. False. Computer. Software. Marble racing. Cat herding. False noahspringwater. Noah. Springwater. Account. Executive at. Retool. Rebecca. Lee. Something. New · Prev. YC founder, Ex-Retool, Ex-Affirm wileycwjones. Wiley. Jones (we're hiring!!!) Co-Founder at. Doss mokshjawa. Moksh. Jawa. Engineer @ Retool (we’re hiring!) | M&T @ Penn yvonne-chen. Yvonne. Chen. Building at. Pavilion. JP. Reilly. Engineering & Growth @ dbt. Labs mayline-zhong. Mayline. Zhong. Software. Engineer at. Retool jason-gao- Jason. Gao. Software. Engineer at. Retool, Inc. yjyao. Yujian. Yao. Software. Engineer at. Retool philipgerstoft. Philip. Gerstoft. Software. Engineer at. Retool
 ::

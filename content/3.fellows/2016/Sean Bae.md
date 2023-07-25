@@ -1,291 +1,178 @@
-::block-hero
----
-#title
-Sean Bae
----
-
-:badge[2016]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://linkedin.com/in/seanbae" blank}
-
-::callout
-#summary
-Email
-#content
-s@seanbae.net; sean.bae@samsara.com; sean@kleinerperkins.com
+# Sean Bae
+::badge{type="info"}
+Class of 2016
+::
+::badge{type="success"}
+Founder at Stealth Mode Startup Company
 ::
 
-::callout
-#summary
-Company
-#content
-Stealth Mode Startup Company
+::badge{type="warning"}
+Founder: True
+::
+::badge{type="primary"}
+Current Company: Startup
 ::
 
-::callout
+::badge{type="success"}
+Sector: Tech; Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Founder
+:button-link[LinkedIn Profile]{href="https://linkedin.com/in/seanbae" blank}
+- **Email**: s@seanbae.net; sean.bae@samsara.com; sean@kleinerperkins.com
+- **Location**: San Francisco
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-San Francisco
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Arduino
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Computer Science
 ::
-::card
-#title
+::badge{type="info"}
 Mathematica
 ::
-::card
-#title
+::badge{type="info"}
 Project Management
 ::
-::card
-#title
+::badge{type="info"}
 Linux
 ::
-::card
-#title
+::badge{type="info"}
 Prolog
 ::
-::card
-#title
+::badge{type="info"}
 Apache Spark
 ::
-::card
-#title
+::badge{type="info"}
 Mongodb
 ::
-::card
-#title
+::badge{type="info"}
 Ruby
 ::
-::card
-#title
+::badge{type="info"}
 Git
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Node.Js
 ::
-::card
-#title
+::badge{type="info"}
 Ocaml
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Latex
 ::
-::card
-#title
+::badge{type="info"}
 Python
 ::
-::card
-#title
+::badge{type="info"}
 Planet
 ::
-::card
-#title
+::badge{type="info"}
 Php
 ::
-::card
-#title
+::badge{type="info"}
 Programming
 ::
-::card
-#title
+::badge{type="info"}
 Mysql
 ::
-::card
-#title
+::badge{type="info"}
 Machine Learning
 ::
-::card
-#title
+::badge{type="info"}
 Physics
 ::
-::card
-#title
+::badge{type="info"}
 Simulations
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Technical Product Manager Intern
+::code-group
+```bash [Uber]
+uber.com
+```
+```bash [University of Maryland]
+umd.edu
+```
+```bash [Nextdoor]
+nextdoor.com
+```
+```bash [Notion]
+notion.so
+```
+```bash [Google]
+google.com
+```
+```bash [Samsara]
+samsara.com
+```
+```bash [Wolfram Research]
+wolfram.com
+```
+```bash [Startup Shell]
+startupshell.org
+```
+```bash [Sean Bae]
+seanbae.com
+```
+```bash [KPCB]
+kleinerperkins.com
+```
+```bash [Kleiner Perkins]
+kleinerperkins.com
+```
+```bash [Stealth Mode Startup Company]
+appcito.net
+```
+```bash [The National Security Agency]
+intelligencecareers.gov
+```
+```bash [Meta]
+meta.com
+```
+```bash [Google]
+goo.gle
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Director
-::
-::card
-#title
-Software Engineering Intern
-::
-::card
-#title
-Researcher
-::
-::card
-#title
-Founder
-::
-::card
-#title
-Software Engineer
-::
-::card
-#title
-Undergraduate Research Assistant
-::
-::card
-#title
-Research Intern
-::
-::card
-#title
-Software Engineer, Infrastructure
-::
-::card
-#title
-Kpcb Engineering Fellow
-::
-::card
-#title
-Research Engineer
-::
-::
-
-## Organizations
-::card-grid
-::card
-#title
-Uber
-#description
-[Go to website](uber.com)
-::
-::card
-#title
-University of Maryland
-#description
-[Go to website](umd.edu)
-::
-::card
-#title
-Nextdoor
-#description
-[Go to website](nextdoor.com)
-::
-::card
-#title
-Notion
-#description
-[Go to website](notion.so)
-::
-::card
-#title
-Google
-#description
-[Go to website](google.com)
-::
-::card
-#title
-Samsara
-#description
-[Go to website](samsara.com)
-::
-::card
-#title
-Wolfram Research
-#description
-[Go to website](wolfram.com)
-::
-::card
-#title
-Startup Shell
-#description
-[Go to website](startupshell.org)
-::
-::card
-#title
-Sean Bae
-#description
-[Go to website](seanbae.com)
-::
-::card
-#title
-KPCB
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Kleiner Perkins
-#description
-[Go to website](kleinerperkins.com)
-::
-::card
-#title
-Stealth Mode Startup Company
-#description
-[Go to website](appcito.net)
-::
-::card
-#title
-The National Security Agency
-#description
-[Go to website](intelligencecareers.gov)
-::
-::card
-#title
-Meta
-#description
-[Go to website](meta.com)
-::
-::card
-#title
-Google
-#description
-[Go to website](goo.gle)
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Technical Product Manager Intern**
+- **Director**
+- **Software Engineering Intern**
+- **Researcher**
+- **Founder**
+- **Software Engineer**
+- **Undergraduate Research Assistant**
+- **Research Intern**
+- **Software Engineer, Infrastructure**
+- **Kpcb Engineering Fellow**
+- **Research Engineer**
 ::
 
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/linnayao linnayao Linna Yao Motion designer https://media.licdn.com/dms/image/D4E03AQEk1pSj1__JPQ/profile-displayphoto-shrink_800_800/0/1686167636334?e=1695859200&v=beta&t=_tfxK66EpTz20q5h_yRBty7vWYHTc8qpFbaRYAU5tT8 personal ACoAACx4q3gBPqaeSIpZb2Hu5nJouH6N9gKkTzw 746105720 United States United States False False Chinese NATIVE_OR_BILINGUAL English NATIVE_OR_BILINGUAL Design 3-time Grand Prize Winner of the Congressional Art Competition US House of Representatives 2018 National YoungArts Foundation Winner in Visual Arts National YoungArts Foundation 2018 Artist Exhibitioner at the US Capitol, MoMA PS1, Bruce Museum & Pelham Art Center 36213 Kleiner Perkins https://media.licdn.com/dms/image/C560BAQG_LjmNO4HjqA/company-logo_400_400/0/1536172203480?e=1698278400&v=beta&t=YSHLwNjws2QouI4nx3s6UBq7znNnRHYE3uY7yk1Gb2o https://www.linkedin.com/company/kleinerperkins/ 11 50 3 2021 3 2021 Kleiner Perkins Design Fellow True 474 470 French LIMITED_WORKING
+#content
+linnayao. Linna. Yao. Motion designer personal. United. States. United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Design -time. Grand. Prize. Winner of the. Congressional. Art. Competition. US. House of. Representatives. National. YoungArts. Foundation. Winner in. Visual. Arts. National. YoungArts. Foundation. Artist. Exhibitioner at the. US. Capitol, MoMA , Bruce. Museum & Pelham. Art. Center. Kleiner. Perkins. Kleiner. Perkins. Design. Fellow. True. French. LIMITED_WORKING
 ::

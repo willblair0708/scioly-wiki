@@ -1,373 +1,237 @@
-::block-hero
----
-#title
-Kristina Inouye
----
-
-:badge[2022]{type="success"}
-:button-link[LinkedIn Profile]{icon="IconLinkedIn" href="https://www.linkedin.com/in/kristina-inouye" blank}
-
-::callout
-#summary
-Email
-#content
-kinouye3@stanford.edu
+# Kristina Inouye
+::badge{type="info"}
+Class of 2022
+::
+::badge{type="success"}
+Associate User Experience Researcher at Duolingo
 ::
 
-::callout
-#summary
-Company
-#content
-Duolingo
+::badge{type="warning"}
+Founder: False
+::
+::badge{type="primary"}
+Current Company: Others
 ::
 
-::callout
+::badge{type="success"}
+Sector: Education; AI
+::
+::callout{type="info"}
 #summary
-Position
+Contact Information
 #content
-Associate User Experience Researcher
+:button-link[LinkedIn Profile]{href="https://www.linkedin.com/in/kristina-inouye" blank}
+- **Email**: kinouye3@stanford.edu
+- **Location**: Huntington Beach
 ::
 
-::callout
+::callout{type="success"}
 #summary
-Location
+Skills
 #content
-Huntington Beach
-::
-
-## Skills
-::card-grid
-::card
-#title
+::badge{type="info"}
 Design
 ::
-::card
-#title
+::badge{type="info"}
 Figma
 ::
-::card
-#title
+::badge{type="info"}
 C++
 ::
-::card
-#title
+::badge{type="info"}
 Html
 ::
-::card
-#title
+::badge{type="info"}
 Sketchup
 ::
-::card
-#title
+::badge{type="info"}
 Public Speaking
 ::
-::card
-#title
+::badge{type="info"}
 Laser Cutting
 ::
-::card
-#title
+::badge{type="info"}
 Ux Research
 ::
-::card
-#title
+::badge{type="info"}
 Javascript
 ::
-::card
-#title
+::badge{type="info"}
 Experience Design
 ::
-::card
-#title
+::badge{type="info"}
 Android Development
 ::
-::card
-#title
+::badge{type="info"}
 Java
 ::
-::card
-#title
+::badge{type="info"}
 Milling
 ::
-::card
-#title
+::badge{type="info"}
 C
 ::
-::card
-#title
+::badge{type="info"}
 Rapid Prototyping
 ::
-::card
-#title
+::badge{type="info"}
 Wireframing
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Word
 ::
-::card
-#title
+::badge{type="info"}
 Powerpoint
 ::
-::card
-#title
+::badge{type="info"}
 User Centered Design
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Creative Suite
 ::
-::card
-#title
+::badge{type="info"}
 Computer Aided Design
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Photoshop
 ::
-::card
-#title
+::badge{type="info"}
 Photoshop Elements
 ::
-::card
-#title
+::badge{type="info"}
 Leadership
 ::
-::card
-#title
+::badge{type="info"}
 Sketching
 ::
-::card
-#title
+::badge{type="info"}
 Rite Testing
 ::
-::card
-#title
+::badge{type="info"}
 Adobe Illustrator
 ::
-::card
-#title
+::badge{type="info"}
 Prototyping
 ::
-::card
-#title
+::badge{type="info"}
 Arduino
 ::
-::card
-#title
+::badge{type="info"}
 Teamwork
 ::
-::card
-#title
+::badge{type="info"}
 Communication
 ::
-::card
-#title
+::badge{type="info"}
 Blender
 ::
-::card
-#title
+::badge{type="info"}
 User Interviews
 ::
-::card
-#title
+::badge{type="info"}
 User Experience
 ::
-::card
-#title
+::badge{type="info"}
 Cascading Style Sheets
 ::
-::card
-#title
+::badge{type="info"}
 Sketch
 ::
-::card
-#title
+::badge{type="info"}
 Lathe
 ::
-::card
-#title
+::badge{type="info"}
 User Interface Design
 ::
-::card
-#title
+::badge{type="info"}
 Woodworking
 ::
-::card
-#title
+::badge{type="info"}
 Human Computer Interaction
 ::
-::card
-#title
+::badge{type="info"}
 Oxy Acetylene Welding
 ::
-::card
-#title
+::badge{type="info"}
 Teaching
 ::
-::card
-#title
+::badge{type="info"}
 Design Thinking
 ::
-::card
-#title
+::badge{type="info"}
 Fusion 360
 ::
-::card
-#title
+::badge{type="info"}
 Interaction Design
 ::
-::card
-#title
+::badge{type="info"}
 A/B Testing
 ::
-::card
-#title
+::badge{type="info"}
 User Experience Design
 ::
-::card
-#title
+::badge{type="info"}
 Microsoft Office
 ::
-::card
-#title
+::badge{type="info"}
 Product Design
 ::
 ::
 
-## Past Job Titles
-::card-grid
-::card
-#title
-Course Assistant
+::code-group
+```bash [Formlabs]
+formlabs.com
+```
+```bash [Duolingo]
+duolingo.com
+```
+```bash [Hoover Institution at Stanford University]
+hoover.org
+```
+```bash [Lightspeed Venture Partners]
+lsvp.com
+```
+```bash [Heali AI]
+heali.ai
+```
+```bash [Invicted]
+invicted.com
+```
+```bash [Standford Alumni]
+stanfordalumni.org
+```
+```bash [Stanford Blood Center]
+stanfordbloodcenter.org
+```
+```bash [Kleiner Perkins Caufield & Byers]
+kpcb.com
+```
 ::
-::card
-#title
-Product Fellow
-::
-::card
-#title
-Design Lead
-::
-::card
-#title
-User Experience Design Consultant
-::
-::card
-#title
-Associate User Experience Researcher
-::
-::card
-#title
-Product Designer | Design Systems
-::
-::card
-#title
-Course Assistant: Introduction To Human-Computer Interaction Design
-::
-::card
-#title
-Product Design Lead @ Cartalab
-::
-::card
-#title
-Course Assistant: Design For Understanding
-::
-::card
-#title
-Participating Scholar Stanford Summer Engineering Academy
-::
-::card
-#title
-Product Design Intern
-::
-::card
-#title
-Summer Entrepreneurship Fellow
-::
-::card
-#title
-Head Course Assistant: Introduction To Human-Computer Interaction Design
-::
-::card
-#title
-Course Assistant: User Interface Design Project
-::
-::card
-#title
-Residential Assistant And Course Assistant Stanford Summer Engineering Academy
-::
-::card
-#title
-Residential Computer Consultant
-::
+::callout{type="warning"}
+#summary
+Roles
+#content
+- **Course Assistant**
+- **Product Fellow**
+- **Design Lead**
+- **User Experience Design Consultant**
+- **Associate User Experience Researcher**
+- **Product Designer | Design Systems**
+- **Course Assistant: Introduction To Human-Computer Interaction Design**
+- **Product Design Lead @ Cartalab**
+- **Course Assistant: Design For Understanding**
+- **Participating Scholar Stanford Summer Engineering Academy**
+- **Product Design Intern**
+- **Summer Entrepreneurship Fellow**
+- **Head Course Assistant: Introduction To Human-Computer Interaction Design**
+- **Course Assistant: User Interface Design Project**
+- **Residential Assistant And Course Assistant Stanford Summer Engineering Academy**
+- **Residential Computer Consultant**
 ::
 
-## Organizations
-::card-grid
-::card
-#title
-Formlabs
-#description
-[Go to website](formlabs.com)
-::
-::card
-#title
-Duolingo
-#description
-[Go to website](duolingo.com)
-::
-::card
-#title
-Hoover Institution at Stanford University
-#description
-[Go to website](hoover.org)
-::
-::card
-#title
-Lightspeed Venture Partners
-#description
-[Go to website](lsvp.com)
-::
-::card
-#title
-Heali AI
-#description
-[Go to website](heali.ai)
-::
-::card
-#title
-Invicted
-#description
-[Go to website](invicted.com)
-::
-::card
-#title
-Standford Alumni
-#description
-[Go to website](stanfordalumni.org)
-::
-::card
-#title
-Stanford Blood Center
-#description
-[Go to website](stanfordbloodcenter.org)
-::
-::card
-#title
-Stanford University School Of Engineering
-::
-::card
-#title
-Kleiner Perkins Caufield & Byers
-#description
-[Go to website](kpcb.com)
-::
-::
-
-::card
-#title
+::callout{type="info"}
+#summary
 About
-#description
-https://www.linkedin.com/in/amandhesi amandhesi Aman Dhesi Co-founder, Stelo Labs (We're hiring) personal ACoAAArBMJIBcTyJehMzaZVCt73fM0ORRNA-BO4 180433042 Building something new in crypto/web3. We are attempting to solve structural problems to make crypto/web3 accessible and useful to 100s of millions of people and to accelerate the growth of the crypto-economy. United States New York, New York New York New York New York, New York, United States False False French Hindi Computer Software 88659463 Stelo Labs https://media.licdn.com/dms/image/C4D0BAQHL8muXYaFDGQ/company-logo_400_400/0/1676532683166?e=1698278400&v=beta&t=zWYORcpC6R26ko3_EiNaNXXW7nqoYCisJSPvgEboatA https://www.linkedin.com/company/stelo-labs/ 2 10 4 2022 4 2022 Stelo Labs Building tools to make crypto/web3 more secure and usable. Backed by a16z crypto, First Round Capital and others. Co-founder/CTO Full-time True 2180 500 perezda Dan Perez Software Engineer. Web3. Ex-Google. https://media.licdn.com/dms/image/C4D03AQEs-9E26xHIHQ/profile-displayphoto-shrink_800_800/0/1516283799128?e=1695859200&v=beta&t=FXUa1vT4ef3Poynvx1Nb83_M_9491R2cWKzYcg7yBBE benscharfstein Ben Scharfstein Co-founder / CEO at Stelo Labs dougbinder Doug Binder Building @ Stelo Labs 💫 https://media.licdn.com/dms/image/C5603AQG4cfAJXUOHsQ/profile-displayphoto-shrink_800_800/0/1591808254112?e=1695859200&v=beta&t=Fz_7MRR6FuTYT7kbyi9j-SNhjFTzx95CMa2JV03SP18 heerwagen Zach Heerwagen CEO & Co-founder at Snag Solutions https://media.licdn.com/dms/image/D5603AQF5itxx9tR5RA/profile-displayphoto-shrink_800_800/0/1685035461614?e=1695859200&v=beta&t=WFeuo1Y9mxUjIlvKCQhyfXfqadDLg7EUf9zFCFIboFY gauthierlemeur G at Alongside co-founder @ Alongside https://media.licdn.com/dms/image/D4E03AQEcMV1_KVNtow/profile-displayphoto-shrink_800_800/0/1682540623206?e=1695859200&v=beta&t=fXHtbrzwg625utm_u6SqP3aDPLuXw4t46eQJFJJqnC0 omer-goldberg-680b40100 Omer Goldberg Founder and CEO @ Chaos Labs | We're Hiring! ayushsharma01 Ayush Sharma Founder of Warp (YC W23) | Making payroll and compliance easy for founders https://media.licdn.com/dms/image/D4E03AQEzSVsyXbhD4A/profile-displayphoto-shrink_800_800/0/1684980104628?e=1695859200&v=beta&t=BZ0TH89qD6iBntyr4M8Qn0Cc9JMw5ay5EvKA19eDV5s sharvanath Sharvanath Pathak Hiring Founding Engineers | Co-founder at Stealth Startup https://media.licdn.com/dms/image/C4D03AQEyU9t4txGXBA/profile-displayphoto-shrink_800_800/0/1569274272424?e=1695859200&v=beta&t=LZB-8--48vXvrY7hB9-XfhiR4gCth91ACloMuftw6p8 ab-abhishek-bhowmick Abhishek Bhowmick Co-Founder and CTO at Samooha | Ex-Apple | Tweet @bhowmick_ab https://media.licdn.com/dms/image/D5603AQHDmX3TpiNOMQ/profile-displayphoto-shrink_800_800/0/1686545417007?e=1695859200&v=beta&t=slynpaSdajDlDWs7AZJvrDgeYRjh5pus2elGwbiKLFs bo-ren-0ba2218 Bo Ren Managing Director of Early Stage Startups at Silicon Valley Bank https://media.licdn.com/dms/image/C4E03AQG7zgBBdxvYEg/profile-displayphoto-shrink_800_800/0/1628472517660?e=1695859200&v=beta&t=XUaIjHFae0cBl1Zjuiu8-JibZYBjL3SomNQDrCx8gaY
+#content
+amandhesi. Aman. Dhesi. Co-founder, Stelo. Labs (We're hiring) personal - Building something new in crypto/. We are attempting to solve structural problems to make crypto/ accessible and useful to of millions of people and to accelerate the growth of the crypto-economy. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. French. Hindi. Computer. Software. Stelo. Labs. Stelo. Labs. Building tools to make crypto/ more secure and usable. Backed by crypto, First. Round. Capital and others. Co-founder/CTO. Full-time. True perezda. Dan. Perez. Software. Engineer. Ex-Google. benscharfstein. Ben. Scharfstein. Co-founder / CEO at. Stelo. Labs dougbinder. Doug. Binder. Building @ Stelo. Labs 💫 heerwagen. Zach. Heerwagen. CEO & Co-founder at. Snag. Solutions gauthierlemeur. G at. Alongside co-founder @ Alongside omer-goldberg- Omer. Goldberg. Founder and. CEO @ Chaos. Labs | We're. Hiring! Ayush. Sharma. Founder of. Warp (YC ) | Making payroll and compliance easy for founders sharvanath. Sharvanath. Pathak. Hiring. Founding. Engineers | Co-founder at. Stealth. Startup ab-abhishek-bhowmick. Abhishek. Bhowmick. Co-Founder and. CTO at. Samooha | Ex-Apple | Tweet @bhowmick_ab bo-ren- Bo. Ren. Managing. Director of. Early. Stage. Startups at. Silicon. Valley. Bank
 ::
