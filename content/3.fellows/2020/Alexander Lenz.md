@@ -6,8 +6,8 @@ Class of 2020
 Incoming Software Engineer at Google
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

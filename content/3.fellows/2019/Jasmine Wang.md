@@ -6,8 +6,8 @@ Class of 2019
 Cofounder And Board Member at Copysmith
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

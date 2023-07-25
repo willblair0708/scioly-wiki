@@ -6,8 +6,8 @@ Class of 2022
 Founder And Creative Director at Inertia Beverage Group
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

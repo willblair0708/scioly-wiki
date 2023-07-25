@@ -6,8 +6,8 @@ Class of 2017
 Bolt | Susa Ventures at Bolt
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

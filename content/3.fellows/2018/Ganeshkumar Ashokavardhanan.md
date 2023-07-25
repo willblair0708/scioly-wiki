@@ -6,8 +6,8 @@ Class of 2018
 Software Engineer at Microsoft
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

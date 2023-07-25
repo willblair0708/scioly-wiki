@@ -6,8 +6,8 @@ Class of 2014
 Founder at Atomic
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

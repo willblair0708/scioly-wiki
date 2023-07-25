@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer Intern at Glean
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

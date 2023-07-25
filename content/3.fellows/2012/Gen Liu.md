@@ -6,8 +6,8 @@ Class of 2012
 Senior Software Engineer at Waymo
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

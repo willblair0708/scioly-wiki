@@ -6,8 +6,8 @@ Class of 2019
 Founder Fellowship 4 at South Park Commons
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

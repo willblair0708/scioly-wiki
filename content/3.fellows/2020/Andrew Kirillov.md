@@ -6,8 +6,8 @@ Class of 2020
 Cryptography And Systems Engineer at Renegade Games
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

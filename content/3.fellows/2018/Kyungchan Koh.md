@@ -6,8 +6,8 @@ Class of 2018
 Software Engineer at BATCH
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

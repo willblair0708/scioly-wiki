@@ -6,8 +6,8 @@ Class of 2021
 Business Analyst at McKinsey & Company
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

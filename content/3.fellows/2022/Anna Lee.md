@@ -6,8 +6,8 @@ Class of 2022
 Product Manager Intern at Nuna Incorporated
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

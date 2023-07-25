@@ -6,8 +6,8 @@ Class of 2015
 Staff Software Engineer, Tech Lead at Coursera
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

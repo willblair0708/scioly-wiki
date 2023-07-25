@@ -6,8 +6,8 @@ Class of 2016
 Investor at SpringBank TechVentures
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

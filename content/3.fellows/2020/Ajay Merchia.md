@@ -6,8 +6,8 @@ Class of 2020
 Group Product Manager at Moveworks
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

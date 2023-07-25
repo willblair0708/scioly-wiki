@@ -6,8 +6,8 @@ Class of 2012
 Staff Software Engineer at Robinhood
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

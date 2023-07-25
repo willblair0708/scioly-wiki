@@ -6,8 +6,8 @@ Class of 2012
 Product Lead, Offers And Merchant Sales at Uber
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

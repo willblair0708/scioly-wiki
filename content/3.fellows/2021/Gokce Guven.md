@@ -6,8 +6,8 @@ Class of 2021
 Fellow at Paradigm
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

@@ -6,8 +6,8 @@ Class of 2018
 Startup Explorations at Various startups
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

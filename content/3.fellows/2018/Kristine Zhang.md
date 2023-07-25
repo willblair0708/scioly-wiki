@@ -6,8 +6,8 @@ Class of 2018
 Algorithm Developer at Hudson River Trading
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

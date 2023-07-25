@@ -6,8 +6,8 @@ Class of 2012
 Systems And Ml Engineer at Twitter
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

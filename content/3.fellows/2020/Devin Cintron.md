@@ -6,8 +6,8 @@ Class of 2020
 Software Engineer at Comun
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

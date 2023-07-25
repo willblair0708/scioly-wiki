@@ -6,8 +6,8 @@ Class of 2013
 Software Engineer at Google
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

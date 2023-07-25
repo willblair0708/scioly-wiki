@@ -6,8 +6,8 @@ Class of 2020
 Senior Product Manager at Better Place
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

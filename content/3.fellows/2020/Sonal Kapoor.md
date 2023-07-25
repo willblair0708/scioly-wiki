@@ -6,8 +6,8 @@ Class of 2020
 Product Designer Ii - Investor Services at Carta (f/k/a eShares)
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

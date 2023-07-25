@@ -6,8 +6,8 @@ Class of 2019
 Content Creator at Maple Leaf Sports & Entertainment
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

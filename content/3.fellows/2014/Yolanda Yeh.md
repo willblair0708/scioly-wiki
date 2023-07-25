@@ -6,8 +6,8 @@ Class of 2014
 Product at Aalto
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

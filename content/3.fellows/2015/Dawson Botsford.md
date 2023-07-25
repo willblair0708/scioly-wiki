@@ -6,8 +6,8 @@ Class of 2015
 Founder at Earnifi
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

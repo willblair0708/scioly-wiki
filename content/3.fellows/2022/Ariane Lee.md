@@ -6,8 +6,8 @@ Class of 2022
 Incoming Swe Intern at Apple
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

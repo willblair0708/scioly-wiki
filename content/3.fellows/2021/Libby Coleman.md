@@ -6,8 +6,8 @@ Class of 2021
 Technical Product Manager at Apple
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

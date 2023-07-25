@@ -6,8 +6,8 @@ Class of 2019
 Co-Founder at Vesselfintech
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

@@ -6,8 +6,8 @@ Class of 2017
 Lead Product Designer at Hinge Capital
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

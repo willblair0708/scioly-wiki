@@ -6,8 +6,8 @@ Class of 2013
 Senior Product Designer at Frame.io
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

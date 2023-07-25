@@ -6,8 +6,8 @@ Class of 2016
 Investment Partner at The MBA Fund
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

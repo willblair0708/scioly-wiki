@@ -6,8 +6,8 @@ Class of 2015
 Director Of Technology at Finexus Group
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

@@ -6,8 +6,8 @@ Class of 2020
 Machine Learning Research Engineer at Scale AI
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

@@ -6,8 +6,8 @@ Class of 2022
 President at Troy Labs
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

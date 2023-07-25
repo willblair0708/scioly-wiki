@@ -6,8 +6,8 @@ Class of 2022
 Product Design Intern at Zumper
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

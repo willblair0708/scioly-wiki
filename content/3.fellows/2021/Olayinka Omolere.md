@@ -6,8 +6,8 @@ Class of 2021
 Founder at EY Seren
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

@@ -6,8 +6,8 @@ Class of 2013
 Co-Founder And Chief Technology Officer at Audius
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

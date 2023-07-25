@@ -6,8 +6,8 @@ Class of 2020
 Product Manager : Underwriting at Middesk
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

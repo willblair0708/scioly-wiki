@@ -6,8 +6,8 @@ Class of 2016
 Software Engineer at Instagram
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

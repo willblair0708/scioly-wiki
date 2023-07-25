@@ -6,8 +6,8 @@ Class of 2022
 2022 Kleiner Perkins Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

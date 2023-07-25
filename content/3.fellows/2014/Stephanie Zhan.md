@@ -6,8 +6,8 @@ Class of 2014
 Partner at Sequoia Capital India
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

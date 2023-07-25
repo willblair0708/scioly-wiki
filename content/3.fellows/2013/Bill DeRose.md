@@ -6,8 +6,8 @@ Class of 2013
 Engineering Manager, Machine Learning at PayPal
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

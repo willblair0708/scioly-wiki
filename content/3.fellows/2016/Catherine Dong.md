@@ -6,8 +6,8 @@ Class of 2016
 Ml Engineering Manager at Meta
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

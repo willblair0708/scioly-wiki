@@ -6,8 +6,8 @@ Class of 2020
 Product Engineer at Figma
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

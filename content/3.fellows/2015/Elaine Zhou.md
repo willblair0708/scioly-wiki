@@ -6,8 +6,8 @@ Class of 2015
 Product Designer at Airtable
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

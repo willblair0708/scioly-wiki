@@ -6,8 +6,8 @@ Class of 2020
 Co-Founder at Terradot
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

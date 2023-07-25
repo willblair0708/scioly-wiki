@@ -6,8 +6,8 @@ Class of 2019
 Co-Founder And Chief Technology Officer at Kona
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

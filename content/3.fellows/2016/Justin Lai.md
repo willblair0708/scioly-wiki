@@ -6,8 +6,8 @@ Class of 2016
 Founder, Design Lead at Justin Lai Studios
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

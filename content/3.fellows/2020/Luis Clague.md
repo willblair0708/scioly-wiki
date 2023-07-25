@@ -6,8 +6,8 @@ Class of 2020
 Software Engineer at Syndicate Bank
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

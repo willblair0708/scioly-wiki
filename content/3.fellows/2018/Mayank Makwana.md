@@ -6,8 +6,8 @@ Class of 2018
 Co-Founder at Stealth Mode Startup Company
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

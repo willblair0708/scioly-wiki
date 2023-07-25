@@ -6,8 +6,8 @@ Class of 2021
 Product Manager at Google
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="info"}
 Current Company: Big Tech

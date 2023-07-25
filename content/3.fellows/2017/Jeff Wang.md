@@ -6,8 +6,8 @@ Class of 2017
 Product Design Lead at GENEVA SOFTWARE TECHNOLOGIES LTD
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

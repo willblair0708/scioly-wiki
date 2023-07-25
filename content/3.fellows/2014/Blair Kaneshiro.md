@@ -6,8 +6,8 @@ Class of 2014
 Research Scholar at Hoover Institution at Stanford University
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

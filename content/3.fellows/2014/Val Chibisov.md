@@ -6,8 +6,8 @@ Class of 2014
 General Partner at Crownholdt Estate
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

@@ -6,8 +6,8 @@ Class of 2022
  at University of Pennsylvania
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

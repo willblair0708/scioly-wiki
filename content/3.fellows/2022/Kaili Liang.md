@@ -6,8 +6,8 @@ Class of 2022
 Co-Founder at Jailed For Melanin
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="success"}
 Current Company: Startup

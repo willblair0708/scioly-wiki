@@ -6,8 +6,8 @@ Class of 2022
 Back End Engineer at Waltz Health
 ::
 
-::badge{type="success"}
-Founder: True
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others

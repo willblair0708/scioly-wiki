@@ -6,8 +6,8 @@ Class of 2021
 Design Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="success"}
-Founder: False
+::badge{type="danger"}
+Founder
 ::
 ::badge{type="warning"}
 Current Company: Others
