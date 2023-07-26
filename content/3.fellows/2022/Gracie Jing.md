@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Brex
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 12
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Gracie Jing is a fellow from the class of 2022 who is currently working as a Software Engineer at Brex, a Others company based in Houston. Over the course of their career, they have worked at 9 organizations, including Fidelity Investments <fidelity.com>; Cornell University <cornell.edu>; Ezra Box <ezrabox.com>; Juni Learning <junilearning.com>; Brex <brex.com>; Amazon.com <amazon.es>; Paravane Ventures <paravaneventures.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>, and held 9 different job titles, such as Software Development Engineer Intern; Business Developer - Host Acquisition; Engineering Fellow; Product Designer; Software Engineer Intern; Market Research And Strategy Winter Analyst; Product Marketing And Operations; Software Engineer; Senior Computer Science Instructor. They have amassed 1 years of experience and have acquired 12 skills, including Microsoft Office; Html; Chinese; Microsoft Excel; Java; Css; Spanish; English; Python; Javascript; Market Research; Social Media. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -111,9 +132,3 @@ Roles
 - **Senior Computer Science Instructor**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-umeshkhanna. Umesh. Khanna. Product @ Middesk | Scout @ Sequoia personal. ACoAABOFiucBT- Umesh has a background in lending, analytics and e-commerce. Umesh loves to pay it forward and give back to those looking to make a difference. Feel free to contact. Umesh at. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Venture. Capital & Private. Equity. Middesk. New. York, United. States. Middesk product hire. Product. Manager. Leadership. Time. Management. Java. Entrepreneurship. Marketing. Public. Speaking. Teamwork. Android. True. Organizer & Advisor. Hack the. EDUCATION. Hack the is. Toronto's largest summer hackathon. Every year, we bring together of the best and brightest hackers amongst thousands of applicants. Was a part of the founding organizing team (-) and then as an advisor ( - ). Project. Management. Management. Member. Microsoft. Office. Data. Analysis. Software. Development. Finance. Team. Leadership. Customer. Service. Web. Development. C# Windows. C++
-::

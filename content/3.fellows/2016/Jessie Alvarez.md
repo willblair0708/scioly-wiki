@@ -6,8 +6,8 @@ Class of 2016
 Software Engineer at Figma
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 27
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jessie Alvarez is a fellow from the class of 2016 who is currently working as a Software Engineer at Figma, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Hoover Institution at Stanford University <hoover.org>; Figma <figma.com>; Google <google.com>; Startup Shell <startupshell.org>; William Megelich <pinterest.dk>; Plastic Pollutes <plasticpollutioncoalition.org>; AFM & SAG-AFTRA Intellectual Property Rights Distribution Fund <afmsagaftrafund.org>; Mayfair House <mayfairhouse.com>; The Hot Sheet <hotsheetpub.com>; Meta <meta.com>; Pinterest <pinterest.com.au>, and held 9 different job titles, such as Software Engineer; Cs106 Section Leader; Computer Science Summer Institute Participant; Webmaster; Software Engineering Intern; Data Analyst; Engineering Practicum Intern; Web Director; Ambassador And Intern. They have amassed 7 years of experience and have acquired 27 skills, including Django; Social Media; Python; Computer Science; Objective C; C; Javascript; Unix; Node.Js; Tutoring; Css; Google App Engine; Programming; Asyncdisplaykit; Software Engineering; Web Development; Swift; Html; C++; Html 5; Mysql; Photoshop; Java; User Interface Design; Wordpress; Web Applications; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -162,9 +183,3 @@ Roles
 - **Ambassador And Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dnaliu. Danna. L. Building @ PoplarML (YC ) personal. ACoAACKIBmQBVQ- hi! United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Dean’s. Honours. List. Carleton. University. Dean’s. Honours. List. Dean’s. Honours. List. Tracey and. Siva. Ananmalay. Scholarship. The. Tracey and. Siva. Ananmalay. Scholarship in. Computer. Science is presented annually, on the recommendation of the. Director of the. School of. Computer. Science, to an outstanding student in the. Computer. Science. Program proceeding from one year to another, with preference being given to a student who is involved in extracurricular activities. Carleton. University. PoplarML (YC ) San. Francisco, California, United. States. PoplarML (YC ) 🌳 Co-Founder. Programming. Python (Programming. Language) Java. Object oriented programming. Git. JavaFX. React. Native. HTML. True. Technolgap. Rewriting the code. Member. JavaScript. Cascading. Style. Sheets (CSS) Teamwork. Leadership. Communication. French. English. Mobile. Application. Development. NumPy. Dart. Cooperation. Resiliency
-::

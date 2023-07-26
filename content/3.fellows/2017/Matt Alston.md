@@ -7,7 +7,7 @@ Co-Founder at Bonfire Ventures
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 18
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Matt Alston is a fellow from the class of 2017 who is currently working as a Co-Founder at Bonfire Ventures, a Startup company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including Goldman Sachs <goldmansachs.com>; Duke University <duke.edu>; Uber <uber.com>; OnDeck <ondeck.com>; Emory University <emory.edu>; Zana <zana.io>; Bonfire Ventures <bonfirevc.com>; Georgia Tech <gatech.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Associate Product Manager; Co-Founder; Business Software Engineer; Howard Hughes Summer Research Fellow; Fellowship; Research Assistant; Growth Analyst; Product Fellow. They have amassed 6 years of experience and have acquired 18 skills, including Teamwork; Java; Microsoft Office; Venture Capital; Entrepreneurship; Social Media; Powerpoint; Start Ups; Business Strategy; Swift; Data Analysis; Microsoft Excel; Growth Strategies; Public Speaking; Matlab; Research; Microsoft Word; Leadership. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -128,9 +149,3 @@ Roles
 - **Product Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-luisclague. Luis. C. Software. Engineer | Rice. CS personal. Learn more about my experience. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. NATIVE_OR_BILINGUAL. Computer. Software. Syndicate. San. Francisco, California, United. States. Syndicate. Fullstack. Software. Engineer. Full-time. Apollo. GraphQL. Full-Stack. Development. Java. Android. Development. Mobile. Applications. Research. React. Native. Python. True uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow dnaliu. Danna. L. Building @ PoplarML (YC ) napasu. Napas. Udomsak. Software. Engineer at. Phantom rtrame. Rob. Trame. Aspiring engineering manager looking for something new helenamerk. Helena. Merk. Building. AI-Powered. Grant. Writing @ Streamline 🌵🌈☀️ We're hiring! aaron-price- Aaron. Price. Joyous. Schooling. Advocate || Duke. CS ‘ jennifer- Jennifer. Yen. Engineer @ Phantom cait-powell. Cait. Powell. Senior. Software. Engineer at nathan-hausman. Nathan. Hausman. CTO at. Syndicate. Frank. Martinez. Software. Engineer. Algorithmic. Thinking. COMP. Business. Communications. BUSI. Computational. Thinking. COMP. Engineering. Mechanics. MECH. Fundamentals of. Computer. Engineering. ELEC. Intro. Economics. ECON. Operating. Systems & Concurrency. COMP. Git. Powershell. Ordinary. Differential. Equations. MATH. Software. Engineering. Senior. Design. COMP. Maven. Google. Material. Design. Bootstrap. Google. Firebase. Public. Speaking. Google. App. Engine
-::

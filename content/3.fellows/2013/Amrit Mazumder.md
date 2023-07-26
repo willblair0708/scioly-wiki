@@ -6,8 +6,8 @@ Class of 2013
 Product Designer at Meta
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 15
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 3
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Amrit Mazumder is a fellow from the class of 2013 who is currently working as a Product Designer at Meta, a Big Tech company based in London. Over the course of their career, they have worked at 3 organizations, including Flipboard <flipboard.com>; Rhode Island School of Design <risd.edu>; Meta <meta.com>, and held 5 different job titles, such as Product Design Intern; Product Designer; Creative Director And Co Founder; Kpcb Design Fellow; Summer Intern. They have amassed 10 years of experience and have acquired 15 skills, including Illustrator; Css; Jquery; Graphic Design; Adobe Illustrator Cs5; User Interface Design; Adobe Photoshop Cs5; Photoshop; Advertising; Html; Branding And Identity; Typography; User Experience; Computer Graphics; Brand Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -98,9 +119,3 @@ Roles
 - **Summer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Victor. Hua. Software. Engineer @ Google | HBS + personal. ACoAACVZxrkBVc_at- United. States. Stanford, California. Stanford. California. Stanford, California, United. States. False. False. Computer. Software. Google. Google. Google. Maps. Software. Engineer. Leadership. Project. Management. React.js. True footealexandra. Alexandra. Foote. Product @ Google | Harvard. Business. School + sia-peng. Sia. Peng. Senior. Business. Analyst at. McKinsey & Co. | Dartmouth | HBS + shreyan-jain. Shreyan. Jain. Staff. Software. Engineer @ Ramp | MIT ', HBS + vivek-gopalan- Vivek. Gopalan | Yale. CS and. S&DS | HBS + storm-chin- Storm. Chin. Business. Analyst at. McKinsey & Company | HBS. MBA (+) sarah-herman-upenn. Sarah. Herman. Software. Engineer at. Facebook | HBS + cameryn-boyd. Cameryn. Boyd. Software. Engineer @ Meta | HBS + abinaya-rajesh. Abinaya. Rajesh. Serious. Pyaar | Harvard. Business. School | ex-Google | Carnegie. Mellon jclaytoncoleman. Clay. Coleman. Founding. Engineer at. Biodock (, YC) | HBS + sabareeshnikhilchinta. Sabareesh. Nikhil. Chinta. PM at. Google | Baker. Scholar at. Harvard. Business. School | IIT. Bombay
-::

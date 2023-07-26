@@ -6,8 +6,8 @@ Class of 2016
 Senior Software Engineer at Uber
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 28
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Annie Phan is a fellow from the class of 2016 who is currently working as a Senior Software Engineer at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Intel <intel.com>; DataStax <datastax.com>; Uber <uber.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Software Engineering Intern; Senior Software Engineer; Kpcb Engineering Fellow; Head Tutor And Ta - Cse 11 Intro To Java; Software Engineer Ii. They have amassed 7 years of experience and have acquired 28 skills, including Integration; C; Software Engineering; Web Development; Javascript; Data Analysis; Android Development; Oop; Python; Django; Web Applications; C++; Subversion; Latex; Google Apps; Object Oriented Design; Jquery; Html5; Computer Science; Programming; C#; Bash; Git; Linux; Unix; Html; Ruby; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -143,9 +164,3 @@ Roles
 - **Software Engineer Ii**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Selwyn. Kancharla. Product. Designer, VR @ Meta personal - United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Design. Meta. Menlo. Park, California, United. States. Meta. VR for. Work : Leading design on. Quest onboarding and identity experiences for work. Portal : Led design & strategy to expand. Portal to productivity and personal-work spaces. Messenger : Led re-design of. Messenger. Stories and connected. Stories experiences with other. Meta apps. Product. Designer. JavaScript. User. Experience. Design. Interaction. Design. Visual. Design. Python jQuery. Linux. PHP. True joeabhishekdara. Joe. Dara. Product. Designer at. WhatsApp yutingpu. Yuting. Pu. Product. Design at. Meta daisytao. Daisy. Tao. Product. Designer at. Facebook englysengly. Engly. Chang. Product. Designer at. Meta samikshakothari. Samiksha. Kothari. Design. Leadership at. DoorDash. Himani. Deshpande. Product. Design @ Meta ricky-ramirez- Ricky. Ramirez. Senior. Video. Producer eliahu. Eli. Beitzuri. Product. Designer at. Facebook justin-marr- Justin. Marr. Design. Director aaina. Aaina. Sharma. Design leadership at. Grammarly. Git. Sketch.app. Framer.js. Adobe. CC. Java. C. MySQL. Music. Production. HTML. Google. App. Engine. Design. Patterns. Django
-::

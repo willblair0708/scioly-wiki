@@ -6,8 +6,8 @@ Class of 2020
 Technical Lead And Senior Software Engineer at Robinhood
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 42
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jeff An is a fellow from the class of 2020 who is currently working as a Technical Lead And Senior Software Engineer at Robinhood, a Others company based in Menlo Park. Over the course of their career, they have worked at 9 organizations, including Robinhood <robinhood.com>; Google <google.com>; Open Mind <openmind-japan.com>; Cosmopolitan Dynamic Results Catalyst <selfmade.life>; Teranet <teranet.ca>; McKinsey & Company <mckinsey.com>; Contrary <contrarycap.com>; Splunk <splunk.com>; Olympiads School <olympiads.ca>, and held 10 different job titles, such as Tech Lead; Technical Lead And Senior Software Engineer; Software Engineering Intern; Machine Learning Intern; Venture Partner; Cloud Software Engineering Intern; Co-Founder, Lead Application Engineer; Student Consultant; Instructor; Full Stack Developer Intern. They have amassed 3 years of experience and have acquired 42 skills, including Mongodb; Computer Science; Report Writing; Angularjs; Biology; Teaching; Leadership; Alto Saxophone; Spring Mvc; Public Speaking; Reporting And Analysis; React.Js; Teamwork; Management; Powerpoint; Jira; Social Media; Mathematics; Essays; Business Analysis; Node.Js; Jenkins; Online Research; Functional Programming; Git; Microsoft Office; Vim; Nonprofits; Consulting; Debate; Business Strategy; Sql; Hibernate; Racket; Chemistry; Docker; Team Leadership; Javascript; Java; Standardized Testing; Research; Game Of Thrones. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -202,9 +223,3 @@ Roles
 - **Full Stack Developer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-michaelligier. Michael. Ligier. Product @ Masterclass, Uber | Kleiner. Perkins. Product. Fellow personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Media. Production. Place in the. Deloitte. National. Undergraduate. Case. Competition ( at. NYU) Deloitte. Most. Innovative. Company and. Best. Overall. Catapult. Incubator. Most. Innovative. Company. Award and. Place. Overall. MIT. Launch. National. Champion in. Entrepreneurship. Future. Business. Leaders of. America. ML. Entertainment. San. Francisco. Bay. Area. ML. Entertainment + followers on. Tiktok, + on. Instagram creating food content. Content. Creator. Self-employed. Public. Speaking. Finance. Marketing. Public. Relations. PowerPoint. Presentations. Marketing. Management. Design. Thinking. True minhtripham. Minh. Tri. Pham. Product at. Faire nkk. Nitish. Khadke. Product, Security & AI | KP. Product. Fellow karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T daniel-kwak. Daniel. Kwak - diondong. Dion. Dong. Early-stage. Investor at. Leadout. Capital ninaprabhu. Nina. Prabhu. Product at. MasterClass briantzhou. Brian. Zhou. Product @ Uber | Kleiner. Perkins. Product. Fellow emilylcho. Emily. Cho. Product @ Uber | Waterloo. Mechatronics nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E mattyao. Matt. Yao exploring climate + other things. Lean. Startup. Human-centered. Design. Start-ups
-::

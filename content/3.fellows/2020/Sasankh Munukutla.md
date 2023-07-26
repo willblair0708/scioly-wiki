@@ -7,7 +7,7 @@ Co-Founder at Terradot
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 40
+::
+::badge{type="info"}
+Number of Past Jobs: 18
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Sasankh Munukutla is a fellow from the class of 2020 who is currently working as a Co-Founder at Terradot, a Startup company based in Stanford. Over the course of their career, they have worked at 13 organizations, including Accel <accel.com>; Uber <uber.com>; Pear VC <pear.vc>; Microsoft <microsoft.com>; Tarjimly <tarjim.ly>; Kazan Innovative University <ieml.ru>; Endevvr <endevvr.com>; TechShift <techshift.com.br>; Standford Alumni <stanfordalumni.org>; CS+Social Good <cs4good.org>; Stanford Artificial Intelligence Laboratory (SAIL) <ai.stanford.edu>; Terradot <terradot.earth>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 18 different job titles, such as Software Engineering Intern; Incoming Software Engineering Intern | Kp Engineering Fellow; Board Of Directors; Vice President; Entrepreneur; Deep Learning Researcher - Stanford Ml Group, Professor Andrew Ng'S Lab; Research Assistant; Co-Organzier; Kp Engineering Fellow; Co-Founder; Software Engineer Intern; Executive Team Member; Chief Operating Officer And Co-Founder; President; Pear Garage Fellow; Junior Advisory Board Member; Infantry Platoon Sergeant; Accel Leadership Program Fellow | Stanford Technology Ventures Program. They have amassed 3 years of experience and have acquired 40 skills, including Arduino; 3D Printing; Marketing Strategy; Html/Css; Research; C; Public Speaking; Blogging; Python; Java; React Native; Node.Js; Natural Language Processing; Leadership; Javascript; Twilio; Figma; Market Research; C++; Postgresql; Express.Js; Firebase; React; Electronics; Entrepreneurship; Jquery; Android; Machine Learning; Business Development; Sql; Git; Military Training; Typescript; Kotlin; Business Strategy; Viral Marketing; Neural Networks; Microsoft Office; Start Ups; Visual Basic. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -216,9 +237,3 @@ Roles
 - **Accel Leadership Program Fellow | Stanford Technology Ventures Program**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-yuechenzhao. Yuechen. Zhao. Partner at. GSR. Ventures | Digital. Health | SaaS personal. Passionate about technologies that enable customer delight, with a special interest in health. GSR. Ventures is a $. VC firm based in. Palo. Alto. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Venture. Capital & Private. Equity. Forbes. Under. Forbes. Under. Venture. Capital. Honoree. Forbes. PBK. Senior. One of seniors chosen to be inducted into the. Phi. Beta. Kappa. Senior for outstanding academic achievement. Harvard. University. KPCB. Engineering. Fellowship. KPCB. Fellowships are given to students from around the country who excel at their work. More than , people apply for fewer than positions as a. Product, Design, or. Engineering. Fellow. KCPB is a world-renowned. Venture. Capital. Firm based in. Silicon. Valley and has recently invested in companies such as. Twitter, Nest, and. Flipboard. Kleiner. Perkins. Caufield. Byers. Derek. Bok. Certificate of. Distinction in. Teaching. The. Certificate of. Distinction in. Teaching is awarded to the most outstanding teaching fellows, lecturers, preceptors, teaching assistants, and course assistants at. Harvard. University. Derek. Bok. Center for. Teaching and. Learning, Harvard. University. John. Harvard. Scholarship. The top % of students at. Harvard. University are award the. John. Harvard. Scholarship each year by the. Faculty of. Arts and. Sciences. Harvard. College. GSR. Ventures. GSR. Ventures. Passionate about technologies that enable customer delight, with a special interest in health. Partner. Product. Management. Software. Development. Entrepreneurship. Algorithms. Data. Analysis. Machine. Learning. Python. SQL. True aiting-wang- Aiting. Wang. GSR. Ventures mianmianwen. Mandy. Wen. Partner at. GSR. Ventures/Stanford. Alum/ex-Baidu/AIl in. AI zhiwei-yang- Zhiwei. Yang. Partner at. GSR. Ventures. Sunny. Kumar, MD. Partner at. GSR. Ventures davidpickerell. David. Pickerell. CEO, Para | Investor at. Yes. VC tweili. Wei. Li. Tan, MD, MBA. Partner | healthtech @ GSR. Ventures | fintech/blockchain @ GSRV david-xu- David. Xu. GSR. Ventures｜Schwarzman. Scholar at. Tsinghua. University dikang-du- Dikang. Du. Partner at. GSR. Ventures | ex-Generative. AI. Founder yutong-z. Yutong. Zhang. Partner at. GSR. Ventures, AI in consumer and enterprise justin-norden. Justin. Norden, MD, MBA, MPhil. Partner at. GSR. Ventures | Adjunct. Professor at. Stanford. Medicine | Digital. Health and. AI. French. PROFESSIONAL_WORKING. Derek. Bok. Certificate of. Distinction in. Teaching. The. Certificate of. Distinction in. Teaching is awarded to the most outstanding teaching fellows, lecturers, preceptors, teaching assistants, and course assistants at. Harvard. University. Derek. Bok. Center for. Teaching and. Learning, Harvard. University. JavaScript. C. Detur. Book. Prize. The. Detur. Book. Prize is the oldest prize at. Harvard. College and is awarded to top sophomores at. Harvard. College. Harvard. College. John. Harvard. Scholarship. The top % of students at. Harvard. University are award the. John. Harvard. Scholarship each year by the. Faculty of. Arts and. Sciences. Harvard. College. Asian. Pacific. American. Society (APAS) Scholarship. The. Asian. Pacific. American. Society. Scholarship is awarded to two to three excellent. Asian/Pacific. American youth each year. Selection is based on scholastic achievements, activities, and overall excellence. Asian. Pacific. American. Society. Databases. C# Git. Java. CSS. Unix. PHP. HTML. MySQL. Apache
-::

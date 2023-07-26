@@ -6,8 +6,8 @@ Class of 2017
 Senior Product Manager at Ridgeline
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 27
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Alison Schermerhorn is a fellow from the class of 2017 who is currently working as a Senior Product Manager at Ridgeline, a Others company based in Los Angeles. Over the course of their career, they have worked at 8 organizations, including Intuit <intuit.com>; Rochester Institute of Technology <rit.edu>; Southwest Airlines <southwest.com>; Area 1 Security <area1security.com>; Ridgeline <ridgelineapps.com>; Wonderspaces <wonderspaces.com>; Mentelocale.it <mentelocale.it>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as 2017 Product Fellow; Product Manager; Management Accounting Tutor; Associate Creative Director - Show Design; Product Management Intern; Web Marketing Intern; Product Management Co-Op; Student Notetaker; Co-Founder And Chief Executive Officer; Senior Product Manager. They have amassed 6 years of experience and have acquired 27 skills, including Visual Storytelling; Leadership; Collaboration; Defining Product Requirements; Competitive Analysis; Customer Research; Time Management; Creative Solutions; Writing; Communication; Product Management; Customer Service; Data Analysis; Public Speaking; Infographics; Social Media; Seo; Critical Thinking; Marketing Strategy; Event Planning; Reporting And Analysis; Photoshop; Presentation Design; Creative Content Creation; Tableau; Prototyping; Agile Project Management. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -154,9 +175,3 @@ Roles
 - **Senior Product Manager**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-melanie-c- Melanie. C. Engineer @ Pika personal. United. States. United. States. False. False. Chinese. ELEMENTARY. English. NATIVE_OR_BILINGUAL. Computer. Software. Disney. Tech. Behind the. Magic. Scholar. One of students selected across the nation for a sponsorship to the. Grace. Hopper. Conference in. Orlando, Florida. Disney. Piazza. Tech. Tours. Scholar. One of ten students selected to attend a tour of. Silicon. Valley tech companies in. August of . Piazza. Pika. San. Francisco. Bay. Area. Pika. Founding. Engineer. Full-time. Leadership. Python bread. Java. Microsoft. Excel. Django. Git. Management. True lujing-cen. Lujing. Cen. Software. Engineer at. Plaid. Andrew. Y. Software. Engineer at. Plaid sarafina-smith. Sarafina. Smith. Software. Engineer at. Plaid celine-qiu. Celine. Qiu. Software. Engineer at. Plaid brian-xie- Brian. Xie. Software. Engineer at. Plaid currankaushik. Curran. Kaushik. Software. Engineer at. Plaid austin-chiang- Austin. Chiang. Software. Engineer at. Zip akshit-annadi. Akshit. Annadi. Software. Engineer at. Plaid avanthika-mahendrababu. Avanthika. Mahendrababu. Software. Engineer at. Plaid jessica-lin- Jessica. Lin full stack. French. LIMITED_WORKING. Instructor and. Cofounder of. Girls. Embrace. Math and. Science. Competition. Girls. Rock in. Science and. Math. EDUCATION. Teaching elementary school girls in the greater. Puget. Sound. Area science and math topics on the weekend, I feel more fulfilled in giving back to the community by encouraging young women to explore the fields of. STEM and pursue them for further study. Furthermore, with my team of instructors, I co-founded the. Girls. Embrace. Math and. Science. Competition for local elementary school girls. For more information, please visit the website below: Peer. Tutor. Interlake. High. School. Peer. Tutors. EDUCATION. As a peer tutor, I helped students in my school to do exercises and prepare for exams in various subjects, ranging from. Calculus to. Chemistry to. Physics.
-::

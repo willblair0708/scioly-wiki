@@ -6,8 +6,8 @@ Class of 2021
 Product Engineer at Watershedclimate
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Environment; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 32
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ronak Shah is a fellow from the class of 2021 who is currently working as a Product Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Platte River Ventures <platteriverventures.com>; San Diego Supercomputer Center <sdsc.edu>; Gusto <gusto.com>; Zesty.io <zesty.io>; U.S. Digital Service <usds.gov>; Buddy.ai <buddy.ai>; Optic <useoptic.com>; Coding it Forward <codingitforward.com>; Apple Inc. <apps.apple.com>; Apple <apple.com>; Watershedclimate <watershedclimate.com>; ACM UCSD <acmucsd.com>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Senior Software Architect; Growth And Swe Intern; Product Engineer; Civic Digital Fellow; Chief Executive Officer And Co-Founder; Founder And President; Software Engineer Intern; Founder And Vice President; Software Engineering Intern; Product Manager; Instructional Assistant; Software Engineer; Engineering Fellow; Data Mining And Computer Vision Engineer. They have amassed 2 years of experience and have acquired 32 skills, including Ios Development; Python; C++; Ios; Github; Computer Science; Programming; Product Management; Government; Software Development; Entrepreneurship; Javascript; Linux; Firebase; Html/Css; Virtual Reality; Graphic Design; Leadership; Management; Team Management; Java; Research; Web Design; Web Development; Teamwork; Swift; Project Management; Customer Service; Start Ups; Git; Public Speaking; Html. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -191,9 +212,3 @@ Roles
 - **Data Mining And Computer Vision Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-alialtaf. Ali. Altaf. Product. Manager at. Pinterest, Lead @ PinAngels, Angel. Investor personal - United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. English. NATIVE_OR_BILINGUAL. French. ELEMENTARY. Computer. Software. Additional. Honors & Awards of students shortlisted to represent. Pakistan at the. International. Mathematical. Olympiad (June ) Top in. Karachi across. Four. Cambridge. AS. Level examinations (June ) Top in the. World for. Physics in. Cambridge. O. Level examinations (June ) Top in. Karachi across. Seven. Cambridge. O. Level examinations (June ) SafetyPenn. SafetyPenn is a mobile app for. Android devices and was designed to give students easier access to services provided by the. University of. Pennsylvania. Division of. Public. Safety. The app uses the. Google. Maps. API to give the user the ability to view their current surroundings. If the user feels unsafe, they can request a campus security escort from their current location or set an emergency timer which, if it expires before it is manually cancelled, will notify campus police of the user's location to send for help. Ali. Altaf. Product. Manager at. Pinterest, Lead @ PinAngels, Angel. Investor. Pinterest. Pinterest. Group. Product. Manager. Java. Python. Ruby on. Rails. Node.js. Probability. Theory. C. SQL. Web. Applications. True. Urdu. NATIVE_OR_BILINGUAL. Elliot. Boschwitz. Software. Engineer. Data. Analysis. Flask. Johanna. Martens. Senior. Software. Engineer at. Spotify. Software. Project. Management. Software. Development. Git. MapReduce. Entrepreneurship. SciPy. Film. Actor. Programming. Statistics. NumPy. Pinterest. Product. Lead. San. Francisco. Bay. Area. Pinterest. Product. Manager. San. Francisco. Bay. Area. Pinterest • Contributed to multiple core teams in recommendations, ads, and infrastructure as. Pinterest scaled from users and no revenue to users and $ in revenue • Led several projects to improve ranking and quality of. Related. Pins, the recommendation system powering over % of total user engagement • Product lead for localization efforts, leading a team of engineers to launch. Pinterest-wide improvements to quantity and quality of local content shown. Increased local content shown by % • Made several optimizations to the machine learning backend system reducing infrastructure costs by % • Developed a real time signal computation and storage platform enabling better signals for spam models • Re-architected spam detection infrastructure reducing costs by % Software. Engineer. Brian. McNeely. Software. Engineer
-::

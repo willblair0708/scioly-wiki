@@ -6,8 +6,8 @@ Class of 2016
 Software Engineer at Instagram
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 72
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Peter Farejowicz is a fellow from the class of 2016 who is currently working as a Software Engineer at Instagram, a Others company based in Redwood City. Over the course of their career, they have worked at 6 organizations, including Spokeo <spokeo.com>; Instagram <instagram.com>; William Megelich <pinterest.dk>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 6 different job titles, such as Software Engineer; Software Engineering Intern; Software Engineer, Video Product; Software Engineer, Creation Product; Software Engineer, Shopping Product; Engineering Fellow. They have amassed 7 years of experience and have acquired 72 skills, including Design Consulting; Love; Hearing; Design; React.Js; Hiring; Html; Unix; Business Technology; Silicon Valley; Drawing; Supports; Simulations; Consideration; Culture; Interviews; Eager; Venture Capital; Students; Presentations; Software; Leadership; Qualification; Business Modeling; Economics; Data Analysis; Javascript; Convenience; Partnerships; Product Development; Writing; Code; Angel Investing; Combination; C++; Languages; Start Ups; Communication; Haml; Finance; Project; Organizational Abilities; Mobile Applications; Jquery; Git; Computer Science; Programming; Coffeescript; Deloitte; Efficient; Css; Ruby On Rails; Microsoft Office; Teaching; Ruby; Intellectual; Linux; Sql; Positive Change; Matlab; Analysis; Teamwork; Software Engineering; Brilliant; Energy; Java; Applications; Atmosphere; C; Group Dynamics; New York; Market Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -279,9 +300,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-aashish-jain- Aashish. Jain. Engineer @ Retool (we’re hiring!) personal. United. States. Saratoga, California. Saratoga. California. Saratoga, California, United. States. True. False. Computer. Software. Retool. Retool. Retool is the fastest way to build internal tools. Software. Engineer. True avimoondra. Avinash. Moondra. Engineering. Manager at. Retool (we're hiring!) mokshjawa. Moksh. Jawa. Engineer @ Retool (we’re hiring!) | M&T @ Penn emily-field- Emily. Field. Engineering. Leader at. Retool alexi-christakis. Alexi. Christakis software @ Retool siddharth-thakur- Siddharth. Thakur. Software. Engineer at. Retool xiang-li-zju. Xiang. Li. Software. Engineer at. Retool | Ex-Googler | Venture. Scout braden-anderson- Braden. Anderson. Software. Engineer at. Retool yjyao. Yujian. Yao. Software. Engineer at. Retool jatin-nanda- Jatin. Nanda swe @ retool joelenelatief. Joelene. L. Engineer @ Retool
-::

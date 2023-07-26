@@ -6,8 +6,8 @@ Class of 2022
 Software Engineering Intern at Figma
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Mohamed Amadou is a fellow from the class of 2022 who is currently working as a Software Engineering Intern at Figma, a Others company based in Brooklyn. Over the course of their career, they have worked at 8 organizations, including LinkedIn <linkedin.com>; Accenture <accenture.com>; PagerDuty <pagerduty.com>; Stripe <stripe.com>; Figma <figma.com>; TD <td.com>; Hack the North <hackthenorth.com>; Ashby <ashbyhq.com>, and held 3 different job titles, such as Software Engineering Intern; Software Engineer Intern; Workshops And Mentorship Director. They have amassed 1 years of experience and have acquired 17 skills, including Android; Ruby; C++; Communication; Sql; Elixir; Flask; Java; Html/Css; Public Speaking; Leadership; Amazon Web Services; Javascript; Management; Python; React.Js; Blockchain. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -117,9 +138,3 @@ Roles
 - **Workshops And Mentorship Director**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-amy-zhang- Amy. Zhang personal ----gyRiYHU. Passionate about designing human-centered. AI products. Check out my work -> United. States. Sherborn, Massachusetts. Sherborn. Massachusetts. Sherborn, Massachusetts, United. States. True. False. Computer. Software. Kleiner. Perkins. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. True tiffany-liu- Tiffany. Liu. Symbolic. Systems, English, CS @ Stanford finndayton. Finn. Dayton. CS. Student. At. Stanford kaili-wang. Kaili. Wang. Research and. Engineer @ Circle | Ex-Stanford. CS + Blockchain. Research. Henry. C. prev @Google, Snap arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ jialin-zhuo. Jialin. Zhuo. SWE @ Pinterest | CS @ Stanford. University kevia-mccomb- Kevia. McComb. McKinsey | Stanford alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford chloepae. Chloe. Pae. Undergraduate at. Stanford. University kristina-inouye. Kristina. Inouye. UXR @ Duolingo
-::

@@ -6,8 +6,8 @@ Class of 2021
 Software Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Yanlam Ko is a fellow from the class of 2021 who is currently working as a Software Engineer at Stripe, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Stripe <stripe.com>; Cornell University <cornell.edu>; Response <tryresponse.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>, and held 6 different job titles, such as Course Consultant; Software Engineer Intern; Engineering Fellow; Team Lead; Software Engineer; Software Engineering Intern. They have amassed 2 years of experience and have acquired 16 skills, including Typescript; Origami Studio; Flask; Python; Sql; Object Oriented Programming; Figma; User Interface Design; React.Js; Javascript; Sketch; Java; Xcode; Swift; Web Design; Adobe Photoshop. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -111,9 +132,3 @@ Roles
 - **Software Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jeff-an. Jeff. An. Tech. Lead @ Robinhood, Fellow @ Kleiner. Perkins, International. Olympiad. Medalist personal. I am a highly driven and inquisitive software engineer with a passion for the sciences, a love for the arts, and a strong commitment to community. I aspire to continuously learn from those around me, challenge myself intellectually, and contribute to positive change whenever possible. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. National. Biology. Scholar. University of. Toronto. International. Chemistry. Olympiad. Bronze. Medalist &#;Awarded at the. International. Chemistry. Olympiad, competing against of the best high school chemists from countries &#;Tackled third/fourth-year undergraduate problems in organic chemistry, inorganic chemistry, analytical chemistry, and biological chemistry &#;Conducted labs usually carried out by professional chemists such as organic syntheses, spectophotometric titrations, and percent purity analyses. Place in. Business. Administration. Case. Studies. Awarded in. Anaheim at the. International. Career. Development. Conference (ICDC), which was attended by over , students from around the world. Analyzed and presented business cases relating to marketing, human resources management, finance, and hospitality. Judged by. CEOs, VPs, and other senior employees from several major. US companies. DECA. Inc. Place. Team - Lauren. Bialystok. Debate. Tournament. UTS. Speech and. Debate. Society. National. AP. Scholar (Canada) Achieved a score of in. AP. Psychology, Music, Chemistry, Physics , Biology, Physics , and. Calculus. Collegeboard. Open. Mind - Yale. Hacks. Top. Overall. Hacks & Fake. News. Challenge. Winner • Created a chrome extension to analyze the political bias of news articles using. NLP sentiment analysis • Accepted into the. CITY accelerator at the. Yale. Tsai. Center for. Innovative. Thinking • Featured on national news and scheduled to present findings to. US. Congress. Jeff. An. Tech. Lead @ Robinhood, Fellow @ Kleiner. Perkins, International. Olympiad. Medalist. Robinhood. Menlo. Park, California, United. States. Robinhood. Technical. Lead / Senior. Software. Engineer. Full-time. Leadership. Team. Leadership. Teaching. Chemistry. Computer. Science. Business. Strategy. Business. Analysis. Alto. Saxophone. True shinythings. Shin. Yoon. Software. Engineer at. Robinhood mantasmatelis. Mantas. Matelis. Senior. Staff. Software. Engineer at. Robinhood madhusudancs. Madhusudan. C.S. Software. Engineer helenhyewonlee. Helen. L. Software. Engineer at. Robinhood garretkelly. Garret. Kelly. Computer. Magician clayhalim. Clayton. Halim. Software. Engineer at. Robinhood ellenluo. Ellen. Luo. Senior. Software. Engineer at. Robinhood yue-cao-diane. Yue. Cao. Tech. Lead @ Robinhood tamarabain. Tamara. Bain. Tech. Lead @ Robinhood kwongstanley. Stanley. Kwong. Engineering. Manager at. Robinhood. Chemical. Institute of. Canada. Member. Chemistry. Review. Founder and. President. InfoClin. Canada. Student. Researcher. Director and. Program. Coordinator. Western. University. EDUCATION • Planned and organized the. Canadian. Chemistry. Olympiad. National. Camp for high-achieving chemistry students in collaboration with. Western. University professors and graduate students • Worked with other previous. Olympiad medalists to devise a comprehensive curriculum for attending students • Personally taught students / year undergraduate organic chemistry and professional laboratory techniques • Endorsed and supported by the. Chemical. Institute of. Canada. Essays. Standardized. Testing. UTS. Enterprises. Founder and. President. Bridging a divide: architecture for a joint hospital-primary care data warehouse. Studies in. Health. Technology and. Informatics. Jeff. An. Tech. Lead @ Robinhood, Fellow @ Kleiner. Perkins, International. Olympiad. Medalist. Debate. Biology. Mathematics. Research. Online. Research. Report. Writing. Reporting & Analysis. Game of. Thrones. Teamwork. Consulting. SAT. I. General. Reasoning. Test nonStandardizedContributor. K. Keshavjee nonStandardizedContributor. K. Mirza nonStandardizedContributor. K. Vassanji nonStandardizedContributor. M. Greiver
-::

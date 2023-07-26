@@ -6,8 +6,8 @@ Class of 2022
 Engineering Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 34
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Harris Beg is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Diego. Over the course of their career, they have worked at 7 organizations, including Hoover Institution at Stanford University <hoover.org>; DoorDash <doordash.com>; San Diego Supercomputer Center <sdsc.edu>; HydroSmart Tech <hydrosmarttech.com>; California Institute of Technology <caltech.edu>; Skin Camp Co. <skincamp.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Android Developer; Intern Developer At Center For Energy; Founder; Teaching Assistant; Software Engineer; Developer; Engineering Fellow; Software Engineer Intern; Researcher; Undergraduate Research Fellow. They have amassed 1 years of experience and have acquired 34 skills, including Software Development; Jquery; Selenium; Html5; Programming; Beautiful Soup; Leadership; C++; Tensorflow; Microsoft Sql Server; Javascript; Sql; Artificial Intelligence; Python; Computer Hardware; Machine Learning; Web Applications; Mobile Applications; Swift; Web Development; Html; Cascading Style Sheets; Management; Databases; Security; Computer Science; Java; Mysql; Data Analysis; C#; Php; Microsoft Office; Android Development; Project Management. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -172,9 +193,3 @@ Roles
 - **Undergraduate Research Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-vijayrajaram. Vijay. Rajaram. Principal. Engineer () personal. I was a. Principal. Engineer at. Twitter leading the. Search. Product and. Recommendations. Platform teams consisting of + people. I am a generalist who enjoys working at the intersection of distributed systems and machine learning, and. I'm looking to build societally relevant products and learn a lot in the process. I have published papers on. Real-time. Event. Detection and. Deep. Learning in. Cardiology. In terms of my education, I started off as an. Econ major at. Rice. University and ended up in. CS through my interest in algorithms and data mining. I also completed my. Master's in. CS at. Georgia. Tech while working full-time. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. French. Tamil. Information. Technology & Services. Twitter. San. Francisco. Bay. Area. Twitter * Group. Lead for. Twitter. Search and. Recommendations platform teams. Focusing on setting up technical strategy for cross-team efforts, improving execution, and mentorship. Led modernization of search product runtime and. ML infrastructure. * Shepherd for cloud adoption for. ML and data processing across consumer product engineering org, partnering with large internal platform org. Systems and. ML. Engineering. Lead. Object. Oriented. Design. Python. Java. JavaScript. Database. Design. Data. Mining. Machine. Learning. Data. Analytic. True shaodanzhai. Shaodan. Zhai. Sr. Staff. ML. Engineer at. Twitter murph-finnicum- Murph. Finnicum. Principal. Architect at. BeReal raghavjeyaraman. Raghav. Jeyaraman. Senior. Principal. Software. Engineer at. Sofi anjumjha. Anju. Jha. Software. Engineer | Data. Platform quannan-li. Quannan. Li. Principal. Software. Engineer @ Twitter | ML and. AI. Expert brentfrederick. Brent. Frederick. Principal. Software. Engineer, ex-Twitter arashaghevli. Arash. Aghevli. Software. Engineer at. Netflix pulkit-gupta- Pulkit. Gupta. Senior. Staff. Software. Engineer at. Twitter lu-z- Lu. Z. Sr. Staff. Engineer at. Twitter christine-chen- Christine. Chen. Staff. ML. Engineer. Ex-Twitter. MapReduce. Hadoop. MySQL. Development. Economics. Public. Policy. Computer. Science. Databases. Data. Analytics. Scalability. Software. Engineering. Linux. Greater. New. York. City. Area. Twitter * Co-architected a scalable, real-time event detection system that uses agglomerative clustering to process over + entities per minute. * Published paper in. KDD : and got approved patent: * Technical. Lead for team building a “ to ” product that grew to tens of millions of users rapidly. Steward of projects such as scaling backend. JVM systems, API development, GDPR compliance, and system performance optimization. * Productionized relevance personalization models by building online. ML infra and applying supervised learning techniques (e.g. Logistic. Regression, Gradient. Boosted. Decision. Trees). Systems and. ML. Engineering. Lead. Full-time. Twitter * Built the first internal real-time anomaly detection system * Co-authored design and implemented internal tools and. APIs for catching and testing data regressions * Successfully set up anomaly detection for multiple use cases at. Twitter, including for key product metrics (e.g. DAUs) and application metrics (e.g. Hadoop node latency) * Migrated critical analytics jobs from. Pig to. Scalding. Software. Engineer
-::

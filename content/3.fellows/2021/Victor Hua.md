@@ -6,8 +6,8 @@ Class of 2021
 Software Engineer at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 5
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Victor Hua is a fellow from the class of 2021 who is currently working as a Software Engineer at Google, a Big Tech company based in Stanford. Over the course of their career, they have worked at 6 organizations, including Goldman Sachs <goldmansachs.com>; Uber <uber.com>; Google <google.com>; Nightwatch <nightwatch.io>; Illumna <illumna.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kp Engineering Fellow; Quantitative Strategist Intern; Software Engineering Intern; Chief Operating Officer; Product Engineering Intern; Software Engineer. They have amassed 2 years of experience and have acquired 5 skills, including Leadership; Project Management; Start Ups Management; Java; Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -78,9 +99,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-shreya-shekhar. Shreya. S. Eng @ Stealth | KP. Fellow | UC. Berkeley. M.E.T. (EECS + Business) personal - Graduated from. UC. Berkeley after pursuing a dual degree in. Electrical. Engineering & Computer. Science and. Business. Administration through the. M.E.T. (Management, Entrepreneurship, and. Technology) Program. Feel free to reach out to me at shreyashekhar@berkeley.edu. United. States. San. Jose, California. San. Jose. California. San. Jose, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Hindi. ELEMENTARY. Computer. Software. Berkeley. Haas. Seed. Fund. Awardee- Trione. Student. Venture. Grant. Awarded $ in seed funding from. Berkeley-Haas. Entrepreneurship to pursue our startup idea, bumpR. Berkeley-Haas. Entrepreneurship. First. Prize. Winner, Entrepreneurs@Berkeley. Final. Demo. Day. Pitched our startup idea, bumpR, to a panel of start-up founders, investors, and venture capitalists at. Berkeley. SkyDeck. Won first place and a spot in the. Berkeley. SkyDeck. HotDesk. Incubator. Program. Entrepreneurs@Berkeley. UC. Berkeley. AccelerateHer. Startup. Weekends. Winner & Grant. Awardee. Selected to participate in. AccelerateHer. Startup. Weekends , co-hosted by. Berkeley. Haas. Entrepreneurship and powered by. Blackstone. LaunchPad and. National. Science. Foundation. Received mentorship from. Berkeley-Haas faculty, Start-Up founders, and. Venture. Capitalists. Competed against other teams and won a $ grant, SkyDeck fellowship, and a place in the. Spring. AccelerateHer. Startup. Cohort. UC. Berkeley. AccelerateHer. Coca-Cola. Scholars. Semifinalist. Coca-Cola. BioGENEius. Bay. Area. Finalist. Stealth. Menlo. Park, California, United. States. Stealth - Backed by. Greylock. Partners. Software. Engineer. Full-time. Computer. Programming. Leadership. Entrepreneurship. Research. Bioinformatics. Biotechnology. C++ Java. True advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum raymond-mo. Raymond. Mo. Google. APM. Intern | UC. Berkeley. M.E.T. (EECS + Business) | Berkeley. AI. Research, Planet chriswzou. Christopher. Z. SWE at. Datavant | KP. Fellow | CS & Biochem at. Berkeley rimika-banerjee. Rimika. Banerjee. PM at. Microsoft | UC. Berkeley. M.E.T. (EECS + Business) | SWE. Intern at. Zoom, GoDaddy | Google. Scholar ' Raj. T. UC. Berkeley. M.E.T. (EECS + Business) justquan. Justin. Quan. Engineer at. Retool zhang-jasmine. Jasmine. Z. Incoming. PM @ Roblox | Prev. @ Bain | Berkeley. M.E.T. (EECS + Business) Ruchi. Maheshwari. SWE. Intern @ Winden, EECS @ UC. Berkeley, Accel. Scholar liu-anita. Anita. Liu. SWE. Intern @ Citadel | EECS + Business @ UC. Berkeley. M.E.T. jain-surbhi. Surbhi. J. UC. Berkeley. M.E.T. (EECS + Business) ' | SWE. Intern @ Vanta. Spanish. PROFESSIONAL_WORKING. Synopsis. Science. Fair. Outstanding. Innovation. Award (Morgan. Stanley) Python. HTML. National. Champion of. Computer. Science. Award for. Student. Innovation. Computer. Science. Teachers. Association (CSTA) and. Code.org. National. AP. Scholar. The. College. Board. NCWIT for. Aspirations in. Computing - Bay. Area. Affiliate. Award. Winner. National. Center for. Women in. IT ( NCWIT) JavaScript. Community. Outreach. Python (Programming. Language) NCWIT. Aspirations in. Computing - National. Honorable. Mention. Award. Awarded in , & National. Center for. Women in. IT (NCWIT) President's. Volunteer. Service. Award for. Community. Service (Gold) The. White. House
-::

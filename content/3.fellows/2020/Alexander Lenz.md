@@ -6,8 +6,8 @@ Class of 2020
 Incoming Software Engineer at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education; Data Science
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Alexander Lenz is a fellow from the class of 2020 who is currently working as a Incoming Software Engineer at Google, a Big Tech company based in New York. Over the course of their career, they have worked at 6 organizations, including Google <google.com>; Nuna Incorporated <nuna.com>; Blingby <blingby.com>; Amazon Web Services <amazonaws.com>; Crimson Education <crimsoneducation.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Incoming Software Engineer; Student Mentor; Managing Director; Co-Founder; Data Science Intern; Software Engineering Intern; Kleiner Perkins Fellow. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -67,9 +88,3 @@ Roles
 - **Kleiner Perkins Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-genliu. Gen. Liu. Senior. Software. Engineer at. Waymo personal. ACoAAAdoJscBV- United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Internet. Waymo. Waymo. Senior. Software. Engineer. Full-time. Java. Android. C. HTML. SQL. Subversion. Linux. True kevinyoon. Kevin. Yoon. Senior. Software. Engineer at. Waymo huan-tang- Huan. Tang. Staff. Software. Engineer at. Waymo. Zhichao. Z. Software. Engineer at. Waymo yingzhenemmashen. Yingzhen (Emma) Shen. Software. Engineer at. Waymo jia-xu- Jia. Xu. Software. Engineer jingshan. Jing. Shan. Senior. Staff. Software. Engineer/TLM at. Google yu-han-lyu- Yu-Han. Lyu. Software. Engineer at. Google jaron-kong- Jaron. Kong. Software. Engineer at. GameOn. Technology qianshi-k- Qianshi. K. Senior. Software. Engineer victor-feng- Victor. Feng. Principal. Software. Engineer at. Apple. NoSQL. HBase. Git. PHP python. CSS. Java. Enterprise. Edition. Python. JSP. Hadoop. JavaScript
-::

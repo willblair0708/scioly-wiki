@@ -6,8 +6,8 @@ Class of 2022
 Design Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Cyrus Chuang is a fellow from the class of 2022 who is currently working as a Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in London. Over the course of their career, they have worked at 9 organizations, including Liberty in North Korea <libertyinnorthkorea.org>; Simplehealthkit <simplehealthkit.com>; KPCB <kleinerperkins.com>; Minerva Project <minervaproject.com>; Ovio <ovio.org>; Umeedonline - NGO <umeedonline.com>; Minerva <minerva.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>; Minerva Hackathon <minervahackathon.com>, and held 11 different job titles, such as User Research, Team Lead; Director Of Academic Affairs; Professional Learning Analyst; Design Fellow; Associate Product Designer Ii; Marketing Director And Event Experience Disgner; Engagement Consultant And Event Organizer; Communication Design Intern; Product Design Intern; Tour Guide; Event And Campaign Assistant. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -80,9 +101,3 @@ Roles
 - **Event And Campaign Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Jennifer. Adams. Software. Engineer @ Stripe personal - Software. Engineer at. Stripe. United. States. Seattle, Washington. Seattle. Washington. Seattle, Washington, United. States. False. False. Computer. Software. Montgomery. Township. Volunteer. Fire. Company. No. Scholarship. Selected to receive scholarship as part of my commitment to . National. AP. Scholar. Granted to students in the. United. States who receive an average score of at least on all. AP. Exams taken, and scores of or higher on eight or more of these exams. College. Board. NJSIAA. Scholar. Athlete. Selected as the sole student from. Montgomery. High. School to recieve honor. Awarded to students who play an. NJSIAA varsity sport, possess a cumulative grade point average of no less than ., and exhibit outstanding school and community citizenship. NJSIAA. Police. Academy. Scholarship. Recipient. Selected to receive scholarship based on academic records as well as service to school and community. Club of. Somerset. Outstanding. Achievement. Award in. Technology. Education. Stripe. Stripe. Software. Engineer. Python. Leadership. HTML. Physics. Graphic. Design. Web. Development. Web. Design. Computer. Science. True alexis-glawitsch- Alexis. Glawitsch swe @ stripe elena-iaconis. Elena. Iaconis. Software. Engineer. Kelly. Huang. Rice. CS | Incoming. SWE @ Stripe michael-mejia- Michael. Mejia. Risk. Strategy at. Stripe tonypianta. Tony. Pianta. Senior. Software. Engineer at. Stripe devikakarnik. Devika. Karnik. Software. Engineer at. Stripe davidcorbo. David. Corbo. SWE @ Stripe alexandrebondoux. Alexandre. Bondoux. Machine. Learning. Engineer phoebe-harmon. Phoebe. Harmon. Software. Engineer at. Stripe sharanramjee. Sharan. Ramjee. MLE @ Stripe. Interior. Firefighter. Montgomery. Township. Volunteer. Fire. Company. No. Cardiopulmonary. Resuscitation (CPR) C++ Cascading. Style. Sheets (CSS) JavaScript. Arduino. Git. Github
-::

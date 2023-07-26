@@ -6,8 +6,8 @@ Class of 2012
 Systems And Ml Engineer at Twitter
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 4
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Vijay Rajaram is a fellow from the class of 2012 who is currently working as a Systems And Ml Engineer at Twitter, a Others company based in San Francisco. Over the course of their career, they have worked at 4 organizations, including Twitter <twitter.com>; Shopkick <shopkick.com>; Google <google.com>; GuestAssistant <guestassistant.com>, and held 4 different job titles, such as Data Engineer; Software Engineering Intern; Software Consultant; Systems And Ml Engineer. They have amassed 11 years of experience and have acquired 19 skills, including Hadoop; Data Mining; Machine Learning; Software Engineering; Mapreduce; Public Policy; Python; Scalability; Javascript; Data Analytics; Linux; Java; Database Design; Data Analytic; Computer Science; Object Oriented Design; Mysql; Development Economics; Databases. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -112,9 +133,3 @@ Roles
 - **Systems And Ml Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Error
-::

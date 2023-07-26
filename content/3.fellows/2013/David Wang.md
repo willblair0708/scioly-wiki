@@ -6,8 +6,8 @@ Class of 2013
 Course Assistant at 
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Healthcare; Education
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+David Wang is a fellow from the class of 2013 who is currently working as a Course Assistant at nan, a Others company based in Saratoga. Over the course of their career, they have worked at 7 organizations, including Nebula <nebula.com>; Khan Academy <khanacademy.org>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; Standford Alumni <stanfordalumni.org>; Meta <meta.com>; Stanford University School Of Medicine, and held 8 different job titles, such as Course Assistant; Software Engineering Intern; Bioinformatics Research Intern; Cs106 Section Leader; Research Intern; Undergraduate Research Assistant; Student Researcher; Technical Intern. They have amassed 10 years of experience and have acquired 6 skills, including Java; Linux; Research; C++; Teaching; Software Engineering. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -83,9 +104,3 @@ Roles
 - **Technical Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-briantzhou. Brian. Zhou. Product @ Uber | Kleiner. Perkins. Product. Fellow personal. Synthesizer. Interested in local economies, sustainability, and music. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Internet. Uber. San. Francisco, California, United. States. Uber. Associate. Product. Manager, Eats. Consumer. Growth. Full-time. Research. Data. Analysis. Product. Management. Event. Management. Digital. Marketing. Social. Media. Project. Management. Financial. Accounting. True jacob-didner. Jacob. Didner. APM @ Uber. Pranav. G. Product at. Uber karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T oliver-osei-as. Oliver. O. Product @ Uber | Kleiner. Perkins. Fellow | The. Wharton. School | CS. Master's @ Penn. Engineering | Fortis. Fellow sofieyang. Sofie. Yang. Product. Manager @ Uber rongfei-lu. Rongfei. Lu. Product @ Uber rkapshikar. Revati. Kapshikar. Senior. Product. Manager, Uber. Marketplace victoria-toli- Victoria. Toli. Product. Manager @ Uber | Kleiner. Perkins. Product. Fellow | Stanford. Graduate lucasrollo. Lucas. Rollo. Product @ Moveworks | Kleiner. Perkins. Fellow | Honors. CS @ Texas. A&M ~iyer. Ray. Iyer. Product @ Uber | Prev. MS. CS @ Stanford. E-commerce. Microsoft. Excel. Detecting. Cardiovascular. Disease from. Mammograms. With. Deep. Learning. IEEE. Transactions on. Medical. Imaging. Brian. Zhou. Product @ Uber | Kleiner. Perkins. Product. Fellow. Microsoft. Office. Adobe. InDesign. Python (Programming. Language) SQL. Leadership. ImageJ. San. Francisco, California, United. States. Uber. Associate. Product. Manager, Cartop. Ads. Full-time. San. Francisco, California, United. States. Uber. Associate. Product. Manager, Marketplace. Fares. Full-time
-::

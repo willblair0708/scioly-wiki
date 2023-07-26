@@ -6,8 +6,8 @@ Class of 2022
 Vice President Of Program And Technology at Launch
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 13
+::
+::badge{type="info"}
+Number of Past Jobs: 13
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jerry Zhang is a fellow from the class of 2022 who is currently working as a Vice President Of Program And Technology at Launch, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including NVIDIA <nvidia.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; Tesla <tesla.com>; Massachusetts Institute of Technology <mit.edu>; TenaFe <tenafe.com>; Launch <uclaunch.com>; Google <goo.gle>, and held 13 different job titles, such as Researcher; Vice President Of Program And Technology; Lab Assistant - Eecs 16A; Academic Intern - Cs 61Bl; Teaching Assistant - Eecs 16A; Data Science And Machine Learning Researcher; Rtx Product Management Intern; Teacher; Software Engineer Intern; Summer Research Intern; Academic Student Employee - Eecs 16B; Electronic Design Intern; It Operations Intern. They have amassed 1 years of experience and have acquired 13 skills, including Javascript; React.Js; Strategic Planning; Java; Teamwork; Customer Service; Python; Project Management; Microsoft Office; Leadership; Research; Mongodb; Management. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -115,9 +136,3 @@ Roles
 - **It Operations Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-bryanbeh. Bryan. Beh. Software. Engineer @Uber | Ex @Tesla | Imperial & USC alum personal. Malaysian currently navigating. NYC. I've worked on. Ads, Billing, Observability. Tooling and. Web. Application across. Big. Tech and. Quant. Experienced in building distributed systems, turning ideas into product and working with correctness-critical software at ~$+ scale. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Chinese. PROFESSIONAL_WORKING. English. NATIVE_OR_BILINGUAL. Internet. Place - Blockchain. Challenge. Largest student-run. FinTech and. Blockchain. Hackathon in the. UK. Global. FinTech and. Blockchain. Hackathon. UROP. Prize. Award. Awarded by the. Department of. Mathematics for outstanding research produced under the. Undergraduate. Research. Opportunity. Programme. Imperial. College. London. Physics. Olympiad. Bronze. Abbey. College. Cambridge. Uber. New. York, United. States. Uber. Ads. Engineering. Software. Engineer. Full-time. Python. Go (Programming. Language) Distributed. Systems. Machine. Learning. Unix. Node.js. Github. Mental. Arithmetic. True karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T siddhantdange. Sid. Dange. Co-Founder @ Vista (YC ) - We're hiring! govista.io. Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow. Andres. Montoya. SWE @ TS adit-gupta. Adit. Gupta. Yale. CS | KP. Eng. Fellow, Neo. Fellow caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow. Henry. Trinh software engineer @ watershed justquan. Justin. Quan. Engineer at. Retool anni-chai. Anni. Chai. Software. Engineer @ Stripe. Malay. LIMITED_WORKING. Co-Producer of. Malaysian. Night. Imperial. College. Union. Microsoft. Excel. Microsoft. Office. Events. Officer. EAGE (European. Association of. Geoscientists and. Engineers) Dodgeball. Club. Captain. Malaysian. Society. Imperial. College. Union. C++ JavaScript. Java. C# API. Git. SQL. C (Programming. Language) Microservices. Kafka. Streams
-::

@@ -7,7 +7,7 @@ Co-Founder And Chief Operations Officer at Utopia Labs
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Pryce Yebesi is a fellow from the class of 2021 who is currently working as a Co-Founder And Chief Operations Officer at Utopia Labs, a Startup company based in St. Louis. Over the course of their career, they have worked at 10 organizations, including Foragen Technologies Management <foragen.com>; McDonald's <mcdonalds.com>; Washington University in St. Louis <wustl.edu>; Republic <republic.co>; New Stack Ventures <newstack.vc>; Invisibly <invisibly.com>; On Deck <beondeck.com>; Meta <meta.com>; Utopia Labs <utopialabs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Venture Fellow; Engineering Fellow; Fbu Swe Intern; Product Advisor; Software Engineering Intern; Software Engineer Intern; Special Projects Fellow; Co-Founder And Chief Operations Officer; Catalyst Fellow; Flex Crew Member. They have amassed 2 years of experience and have acquired 6 skills, including Java; Javascript; Computer Science; Python; Matlab; C (Programming Language. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -97,9 +118,3 @@ Roles
 - **Flex Crew Member**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-stephaniezhan. Stephanie. Zhan. Partner at. Sequoia. Capital personal. General. Partner @Sequoia on our early stage team. Here to be your first and long term partner, from your angel / seed to. Series. A and beyond. I’d love to hear from you! United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Information. Technology & Services. Sequoia. Capital. Menlo. Park, CA. Sequoia. Capital. General. Partner at. Sequoia. From your. Seed to. Series. A & beyond. Your first & long term *partner*. Would love to hear from you: Partner. True roelofbotha. Roelof. Botha. Partner at. Sequoia. Capital jesskah. Jess. Lee. Partner at. Sequoia. Capital / Co-Founder & CEO of. Polyvore gradypb. Pat. Grady. Sequoia. Capital jeff-wang- Jeff. Wang. Managing. Partner at. Sequoia. Capital. Global. Equities michellebailhe. Michelle (Bailhe) Fradin. Partner at. Sequoia. Capital shaun-maguire-c. Shaun. Maguire. Partner at. Sequoia. Capital divyahansg. Divyahans. Gupta. Partner at. Sequoia. Capital bryanschreier. Bryan. Schreier. Partner at. Sequoia. Capital andrew-reed-sequoia. Andrew. Reed. Partner at. Sequoia. Capital linalfred. Alfred. Lin. Seed/Early partner at. Sequoia working with founders from idea to. IPO and beyond. Formerly an operator at. Zappos, Tellme, and. LinkExchange
-::

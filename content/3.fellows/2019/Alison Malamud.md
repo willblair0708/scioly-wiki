@@ -6,8 +6,8 @@ Class of 2019
 Product Design at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Alison Malamud is a fellow from the class of 2019 who is currently working as a Product Design at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including American Greetings <americangreetings.com>; University of Southern California <usc.edu>; FabFitFun <fabfitfun.com>; Robinhood <robinhood.com>; Google <google.com>; LavaLab USC <usclavalab.org>; Visa <visa.com>; VRSC <uscvr.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Design Fellow; Co-Founder; Director Of Digital Media; Product Designer; User Experience Design Intern; Design; Product Design; Designer, Microsoft Sponsored Research Lab; Director Of Design; Director Of Communications. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -79,9 +100,3 @@ Roles
 - **Director Of Communications**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-amrit-mazumder- Amrit. Mazumder. Product. Designer at. Facebook personal -- I am a. Product. Designer at. Facebook. United. Kingdom. London, England. London. England. London, England, United. Kingdom. False. False. Bengali. Hindi. Internet. Facebook. Menlo. Park, California, United. States. Facebook. Product. Designer. Full-time. Graphic. Design. Adobe. Photoshop. Adobe. Illustrator. Brand. Development. Computer. Graphics. User. Experience. User. Interface. Design. HTML. True shilpa-nair-she-her- Shilpa. Nair ( she/ her) Product. Designer at. Facebook chul-jun-sung- Chul. Jun. Sung. Product. Designer at. FXC. Intelligence josh-i- Josh. I. Product. Design. Leader, Meta. Quest. VR. Web. Platform yutong-xue. Yutong. Xue. Staff. Product. Designer at. Meta amycoen. Amy. Coen. Senior. Content. Designer at. Meta rorymhorne. Rory. Horne. User. Experience. Researcher at. Facebook ruth-canagarajah- Ruth. Canagarajah. Behavioral. Science. Researcher caroline-bagley- Caroline. Bagley  Design bishwajit-biltu-majumder- BISHWAJIT(biltu) Majumder account officer at amrit hatcheries p ltd khanindra-pathak- Khanindra. Pathak -- American. Politics and. Public. Debate. Design + Entrepreneurial. Thinking. Economics. Higher. Level. Physics. Higher. Level. Visual. Art. Higher. Level. Art/Hindi. Teacher. Suryodaya. Boys. Home. CHILDREN. During this period, a group of senior boys from. TISB visited a local orphanage called. Suryodaya. We taught them multiple subjects and helped them prepare for school and examinations. I specialized in teaching. Art and. Hindi to these children. CSS jQuery. Photoshop. Illustrator. Branding & Identity. Advertising. Typography
-::

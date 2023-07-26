@@ -6,8 +6,8 @@ Class of 2022
 Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ethan Duncan He-Li Hellman is a fellow from the class of 2022 who is currently working as a Fellow at Kleiner Perkins Caufield & Byers, a Others company based in New York. Over the course of their career, they have worked at 5 organizations, including KPCB <kleinerperkins.com>; Rebelliondefense <rebelliondefense.com>; Standford Alumni <stanfordalumni.org>; Toucan <toucan.events>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Fellow; Co-Founder; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -60,9 +81,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-blairkaneshiro. Blair. Kaneshiro. Neuroscientist and. Music. Researcher personal - United. States. Anchorage, Alaska. Anchorage. Alaska. Anchorage, Alaska, United. States. False. False. Research. Outstanding. Service to the. Conference. Award. International. Society for. Music. Information. Retrieval. Conference. Carolyn. Applebaum. Memorial. Prize. Stanford. Department of. Music. Best. Reviewer. Award. International. Society for. Music. Information. Retrieval. Conference. KPCB. Engineering. Fellow. Kleiner. Perkins. Caufield & Byers. Chair's. Award for. Excellence in. Teaching. Stanford. Department of. Music. Stanford. University. Graduate. School of. Education. Stanford, California, United. States. Stanford. University. Graduate. School of. Education. Research. Scholar. Machine. Learning. Music. Matlab. Acoustics. Audio. Processing. Pattern. Recognition. Algorithms. Research. True michael-mulshine- Michael. Mulshine. PhD. Candidate, CCRMA at. Stanford. University jayleboeuf. Jay. LeBoeuf. Head. Of. Business & Corporate. Development at. Descript camillenoufi. Camille. Noufi. Audio/Speech. PhD @ Stanford || Dolby || Meta. Reality. Labs || MIT. Lincoln. Lab gewang. Ge. Wang. Associate. Professor at. Stanford. University | Co-founder of. Smule timothysobrien. Tim. O'Brien. Research. Scientist at. Shazam, Ph.D. Candidate at. CCRMA (Stanford) gauthamjmysore. Gautham. Mysore. Head of the. Audio. AI. Lab and. Senior. Principal. Scientist at. Adobe. Research neha-rajagopalan. Neha. Rajagopalan. Incoming. Ph.D student at. Stanford. University | Master's in. Music. Technology at. Georgia. Tech | B.E. Electronics and. Communication from. BITS. Pilani scott-oshiro- Scott. Oshiro. PhD. Candidate. Center for. Computer. Research in. Music & Acoustics (CCRMA), Stanford. University rachel-bittner- Rachel. Bittner. Research. Manager at. Spotify urinieto. Oriol. Nieto. Senior. Research. Engineer at. Adobe. Stanford. President's. Scholar. Stanford. University. WiMIR. Community. Organizer. Women in. Music. Information. Retrieval (WiMIR) EDUCATION. Advisor, WiMIR. Editorial. Committee (-present) Founding. Co-Organizer, WiMIR. Workshop (-present) Mentor, WiMIR. Mentoring. Program (-present) Founding. Co-Organizer, WiMIR. Mentoring. Program (-) WiMIR is a group of people within the. International. Society for. Music. Information. Retrieval. We are dedicated to promoting the role of, and increasing opportunities for, women in the. MIR field. We meet to socialize, share information, and discuss in an informal setting, with the goal of building a community around women in our field. Digital. Signal. Processing. EEG. United. States. Presidential. Scholar. United. States. Department of. Education. Please click the link below to visit my. Publications page. Blair. Kaneshiro. Neuroscientist and. Music. Researcher. FLI. Community. Mentoring. Program. Planning. Committee. Stanford. Diversity and. First-Gen. Office. EDUCATION. Co-organizer for the. First-Gen/Low-Income (FLI) Mentoring. Program of. Stanford. University's. Diversity and. First-Gen (DGEN) Office. Human. Subjects. Research. Sound. LaTeX. Digital. Signal. Processors. Teaching. Human. Computer. Interaction. Statistics. R. Experimental. Design. IRB. Stanford, California, United. States. Stanford. University. Graduate. School of. Education. Educational. Neuroscience. Initiative. Research & Development. Associate
-::

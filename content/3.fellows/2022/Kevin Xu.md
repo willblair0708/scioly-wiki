@@ -6,8 +6,8 @@ Class of 2022
 Product Engineer at Glean
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 12
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kevin Xu is a fellow from the class of 2022 who is currently working as a Product Engineer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Cisco <cisco.com>; Bloomberg <bloomberg.com>; Nuro <nuro.ai>; Lumos <lumosidentity.com>; Kartik Hosanagar - Professor at The Wharton School <hosanagar.com>; Glean <glean.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Fellow; Product Engineer; Software Engineering Intern; Incoming Software Engineering Intern; Software Engineer Intern; Incoming; Research Assistant; Teaching Assistant. They have amassed 1 years of experience and have acquired 12 skills, including Javascript; Ssh; Java; Netlogo; Bash; Mathematica; Public Speaking; R; Json; Microsoft Powerpoint; Python; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -104,9 +125,3 @@ Roles
 - **Teaching Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-parammpatel. Param. Patel. Founder at. Indux | Kleiner. Perkins. Fellow personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Computer. Software. Indux. New. York, New. York, United. States. Indux. Access all of with one account. Bringing ownership to the average internet user. Founder. Full-time. True siddhantdange. Sid. Dange. Co-Founder @ Vista (YC ) - We're hiring! govista.io john-doerr- John. Doerr. Chairman at. Kleiner. Perkins amrutha-palaniyappan. Amrutha. Palaniyappan. Kleiner. Perkins. Fellow | Product. Designer at. Moveworks sam-forman- Sam. Forman. CS @ UMich karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T yashvi-jaju. Yashvi. Jaju. CS, Business, Philosophy at. USC | Kleiner. Perkins. Fellow | Incoming. SWE. Intern at. Two. Sigma | President at. TroyLabs | Previously at. Slack caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow. Tejas. Mehta. Venture. Partner @ Contrary | Engineering. Fellow @ Kleiner. Perkins arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow
-::

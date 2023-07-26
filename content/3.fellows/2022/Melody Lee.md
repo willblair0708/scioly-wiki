@@ -6,8 +6,8 @@ Class of 2022
 Associate Software Engineer at Slack
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Melody Lee is a fellow from the class of 2022 who is currently working as a Associate Software Engineer at Slack, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Slack <slack.com>; Uber <uber.com>; Moody's Analytics <moodysanalytics.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; Warmly <getwarmly.com>; Salesforce.com <fullsecsolutions.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as User Experience Intern; Frontend Engineer Intern; Software Engineer Intern; Associate Software Engineer; Software Development Engineer Intern - Afe Program; Engineering Fellow. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -72,9 +93,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-luijocelyn. Jocelyn. Lui. Product. Design at. Credit. Karma personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Cantonese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Consumer. Services. KPCB. Design. Fellow. I was one of the first. KPCB design fellows who got paired with a. KPCB portfolio company to gain experience working on unique and challenging technical and design problems. During the fellowship, I was able to work on real projects that eventually launched and learn about startup culture. Press articles: - - - Kleiner. Perkins. Caufield and. Beyers. Rochester. Gold. ADDY. Winner. I received a gold. Rochester. ADDY in the. Student. Digital. Advertising. Category for the “Pawprints” promotional video with my project partner, Vickie. Angie. We continued in the competition to win a silver. ADDY for regionals. View the winning entry here: Rochester. Advertising. Federadtion. Credit. Karma. Credit. Karma. Staff. Product. Designer. Photoshop. Graphic. Design. Illustrator. InDesign. Web. Design. Adobe. Creative. Suite. Microsoft. Office. Logo. Design. False cristinastutz. Cristina. Stutz. Design // Creative // Healthily. Empowered. Sensitivity ✨ julesforrest. Jules. Forrest. Director. II, Product. Design at. Credit. Karma vicngo. Victoria. N. Senior. Product. Designer at. Credit. Karma yasminemolavi. Yasmine. Molavi. Director. II of. Product. Design at. Credit. Karma. Money & Tax. Kyle. Alexander 🏳️‍🌈 Head of. Content. Design | GenAI @ Credit. Karma chrillings. Christain. Billings. Staff. Product. Designer at. Credit. Karma kneram. Brendan. Kneram. Product. Design. Director isaacfeinstein. Isaac. Feinstein. Design and. User. Research. Operations charlenetien. Charlene. Tien. Staff. Product. Designer at. Credit. Karma kylegrochmal. Kyle. Grochmal. Partnerships at. FinTech. Start-Up. Photography. Dreamweaver. CSS. Typography. HTML. User. Experience. After. Effects. Digital. Photography. Final. Cut. Pro. Interaction. Design. OS. X. Digital. Illustration. Credit. Karma. Senior. Product. Designer. II. Credit. Karma. Senior. Product. Designer. Credit. Karma. Product. Designer
-::

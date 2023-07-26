@@ -6,8 +6,8 @@ Class of 2018
 Software Engineer at Microsoft
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 5
+::
+::badge{type="info"}
+Number of Skills: 23
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ganeshkumar Ashokavardhanan is a fellow from the class of 2018 who is currently working as a Software Engineer at Microsoft, a Big Tech company based in Redmond. Over the course of their career, they have worked at 6 organizations, including Accel <accel.com>; UC Berkeley <berkeley.edu>; Area 1 Security <area1security.com>; Microsoft <microsoft.com>; Kleiner Perkins <kleinerperkins.com>; Qatar Computing Research Institute <qcri.qa>, and held 7 different job titles, such as Engineering; Business; Software Engineer; Kpcb Engineering Fellow; Software Engineering Intern; Accel Scholar; Summer Research Intern. They have amassed 5 years of experience and have acquired 23 skills, including Computer Science; Research; Cluster Analysis; Mysql; Data Mining; Product Management; Python; Data Visualization; Logical Reasoning; Statistics; Entrepreneurship; C++; Android Development; Computer Vision; Sql; Machine Learning; Scheme; Java; Data Analysis; R; Team Leadership; Microsoft Excel; Linear Algebra. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -133,9 +154,3 @@ Roles
 - **Summer Research Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-tobi- Tobi. Ayeni. Helping companies cut carbon @ Watershed. We're hiring! personal. I'm a. Princeton. University graduate and founder with a passion for entrepreneurship, environmental issues, and social justice. I've spent multiple years working on diversity, equity, and inclusion initiatives as well as three years researching and designing achievement gap intervention techniques for elite. Catholic high schools. I'm currently working at. Watershed, a startup that helps companies run a world-class climate program to rapidly reduce their carbon footprint. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Yoruba. NATIVE_OR_BILINGUAL. Environmental. Services. Watershed. San. Francisco, California, United. States. Watershed. Watershed is a. Sequoia and. Kleiner. Perkins backed software startup to help companies run a world-class climate program to start reducing their carbon footprint in weeks, not years. The technology exists to decarbonize the world — it's just too difficult for companies to deploy today. Watershed's software platform changes that, helping companies measure their carbon impact. We show decision-makers across the company where every kilogram of carbon comes from so they can make a precise, year-by-year plan to aggressively reduce it, and share the results with investor-grade reporting. We work with the most ambitious companies on their climate programs, including. Stripe, Shopify, Airbnb, Square, and more. We’re growing fast and hiring across the board! Come join us! Carbon. Data. Analyst. Full-time. Microsoft. Office. Microsoft. Excel. Leadership. Project. Management. Microsoft. Word. Microsoft. PowerPoint. R. SQL. True angad-anand- Angad. Anand. Helping companies cut carbon @ Watershed. We're hiring! tammytseng. Tammy. Tseng. Helping companies cut carbon @ Watershed. We're hiring! rebekkatroy. Rebekka. Troychanskiy. Helping companies cut carbon @ Watershed. We're hiring! tomas-spiers. Tomas. Spiers. Helping companies cut carbon at. Watershed. We're hiring! abaillie- Alexis. Baillie. Data. Analyst at. Watershed campbellqueen. Campbell. Queen. Helping companies cut carbon at. Watershed. We're hiring! isabel-stern. Isabel. Stern. Helping companies cut carbon @ Watershed - we're hiring! anca-dragulescu- Anca. Dragulescu. Helping companies cut carbon at. Watershed. We're hiring! sumika-davidson- Sumika. Davidson. Helping companies decarbonize @ Watershed andrew-jackson- Andrew. Jackson. Helping companies cut carbon at. Watershed. We're hiring! Java. Adobe. Premiere. Pro. Web. Design. Environmental. Engineering. Public. Speaking. Youth. Development. Engineering. Entrepreneurship. Research. Data. Analysis. Yoruba. Matlab
-::

@@ -6,8 +6,8 @@ Class of 2020
 Cryptography And Systems Engineer at Renegade Games
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 24
+::
+::badge{type="info"}
+Number of Past Jobs: 16
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Andrew Kirillov is a fellow from the class of 2020 who is currently working as a Cryptography And Systems Engineer at Renegade Games, a Others company based in Charlotte. Over the course of their career, they have worked at 13 organizations, including Progress <progress.com>; Renegade Games <renegadegames.co.uk>; University of Maryland <umd.edu>; Zoom Video Communications <zoom.us>; ProtonMail <protonmail.com>; UC Berkeley <berkeley.edu>; Polychain Capital <polychain.capital>; Sentiance <sentiance.com>; Paradigm <paradigm.xyz>; Kirillov <kirillov.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; The Association For Community Living <theassociationinc.org>; Haas Business School Association (Hbsa) <berkeleyhbsa.org>, and held 16 different job titles, such as Software Engineer Intern; Vice President External Relations; Ai Researcher; Technical Marketing Intern; Crypto Ops Infrastructure Engineer Intern; Co-Head Of Education Department; Marketplace Developer Intern; Co-Founder; Software Engineer; Director Of M.E.T. Integration; Head Of Begin Website; Researcher And Instructor; Engineering Fellow; Cryptography Engineer; Crypto Ops Infrastructure Engineer; Cryptography And Systems Engineer. They have amassed 3 years of experience and have acquired 24 skills, including User Experience; Social Entrepreneurship; Public Speaking; Conflict Resolution; Networking; Java; Educational Technology; Full Stack Development; Web Development; Entrepreneurship; Pytorch; Node.Js; Agile Methodologies; Javascript; Team Facilitation; React.Js; Python; Web Applications; React; Artificial Intelligence; Jquery; Project Management; Angularjs; Leadership. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -166,9 +187,3 @@ Roles
 - **Cryptography And Systems Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kevchenx. Kevin. Chen. APM @ Uber | Harvard. CS. Grad personal -g. Problem solver, tech fanatic, literary enthusiast. I am fascinated by the intersection of technology and humanity — the ways in which technology shapes and will continue to shape our lives, and how we may harness it for the better. I bring a strong technical background in both theory and practice, currently working as an. APM at. Uber on. Driver. Experience. I graduated from. Harvard with a dual. Bachelor's-Master's degree in. Applied. Math and. Computer. Science, and. I have taken on several. Software. Engineering internships in industry, including at. Facebook and. Mastercard. At the same time, I am greatly focused on people and impact. As a former. Fiction. Board. Member of. Harvard's literary magazine and. Associate. News. Editor of the school newspaper, I also bring a creative bent to my work, imagining worlds unseen and grappling with the nuances of the human experience. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Internet. Phi. Beta. Kappa (Senior ) Alex. Patel. Fellow. John. Harvard. Scholar. Detur. Book. Prize. National. Merit. Scholar. National. Merit. Scholarship. Corporation. Uber. San. Francisco, California, United. States. Uber. Associate. Product. Manager. Full-time. Product. Management. Leadership. Public. Speaking. Research. Data. Analysis. Programming. Front-end. Development. Machine. Learning. True sam-forman- Sam. Forman. CS @ UMich oliver-zou. Oliver. Zou. Product @ Uber emilylcho. Emily. Cho. Product @ Uber | Waterloo. Mechatronics nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T whitney-omoruyi- Whitney. Omoruyi. Product. Management. Intern, Tech @ Uber | Kleiner. Perkins. Product. Fellow oliver-osei-as. Oliver. O. Product @ Uber | Kleiner. Perkins. Fellow | The. Wharton. School | CS. Master's @ Penn. Engineering | Fortis. Fellow vanditapendse. Vandita. P. APM @ Uber | DS & CS @ UC. Berkeley abena-boateng. Abena. Boateng. APM @ Uber jacktraina. Jack. Traina. APM @ Uber. French. LIMITED_WORKING. Helen. Childs. Boyden. Science. Award. Abstract. Algebra. Math. Complex. Analysis. Math. Complexity. Theory. CS. Data. Structures & Algorithms. CS. Game. Theory & Social. Behavior. Econ. Intermediate. Micro and. Macroeconomics. Ec ,b. Markets for. Networks & Crowds. CS. Computer. Science. Teacher. Digital. Literacy. Project. EDUCATION. Volunteer teach computer science to local middle schoolers. React.js. JavaScript. Robert. B. Crow. Award “To the outstanding scholar of the senior class” Cum. Laude. Society. One of sixteen seniors inducted early to the. Cum. Laude. Society. Faculty. Award “For your delight in learning and uncompromising academic standards” Multi-Robot. Systems. CS. Operating. Systems. CS. Optimized. Democracy. CS. Probability. Stat. Quantum. Mechanics. I and. II. Physics ,b. Statistical. Mechanics & Thermodynamics. Physics. Statistical. Validity & Algorithmic. Fairness. CS. Systems. Security. CS. C++ Python (Programming. Language) Java. Management. C (Programming. Language) HTML. Cascading. Style. Sheets (CSS) Mathematica. GMAT. Spanish. PROFESSIONAL_WORKING
-::

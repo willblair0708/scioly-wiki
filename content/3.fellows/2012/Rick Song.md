@@ -7,7 +7,7 @@ Co-Founder And Chief Executive Officer at Persona
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 24
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Rick Song is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at Persona, a Startup company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Square <squareup.com>; Withpersona <withpersona.com>; Persona <withpersona.com>; Persona <withpersona.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Co-Founder; CEO; Engineering Manager; Square Capital; Co-Founder & CEO; Co-Founder And Chief Executive Officer; Engineering Manager, Square Capital; Kpcb Engineering Fellow. They have amassed 11 years of experience and have acquired 24 skills, including Cakephp; Mysql; Java; Svn; C; Matlab; Javascript; D3.Js; Python; Php; Trading; Github; Equities; Git; Sql; Vba; Ruby On Rails; Microsoft Sql Server; Options; Objective C; Indesign; Photoshop; Backbone.Js; Jquery. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -134,9 +155,3 @@ Roles
 - **Kpcb Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jiali-zhang- Jiali. Zhang. Ph.D. Candidate, University of. Oxford personal. United. Kingdom. Oxford, England. Oxford. England. Oxford, England, United. Kingdom. False. False. English. NATIVE_OR_BILINGUAL. Mandarin. NATIVE_OR_BILINGUAL. Venture. Capital & Private. Equity. National. Institutes of. Health. Graduate. Student. Research. Award. Provost's. Undergraduate. Research. Award. Rhodes. Scholarship. Finalist. Edmunds. F. Maxwell. Foundation. Scholarship. Washington. State. Honors. Award. Pear. VC. UK & EU. Pear. VC. Venture. Fellow. Public. Speaking. Community. Outreach. Python (Programming. Language) MATLAB. Leadership. Teaching. True. Senior. Volunteer, Pediatrics. Emergency. Department. Johns. Hopkins. Hospital. HEALTH. Child. Protection. Team, Pediatrics. Emergency. Department. Johns. Hopkins. Hospital. CHILDREN. Work with child abuse victims during their stay at the hospital. Volunteer. City. Gates. Ministries. POVERTY_ALLEVIATION
-::

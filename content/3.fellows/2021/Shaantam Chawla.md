@@ -6,8 +6,8 @@ Class of 2021
 Engineering at PRIVATEER
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Healthcare; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 35
+::
+::badge{type="info"}
+Number of Past Jobs: 20
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Shaantam Chawla is a fellow from the class of 2021 who is currently working as a Engineering at PRIVATEER, a Others company based in Los Angeles. Over the course of their career, they have worked at 14 organizations, including Princeton Plasma Physics Lab - PPPL <pppl.gov>; UC Berkeley <berkeley.edu>; Ceres Imaging <ceresimaging.net>; Free Ventures <freeventures.org>; NASA International Space Apps Challenge <spaceappschallenge.org>; SpinLaunch <spinlaunch.com>; Newlio <newlio.com>; Quantgene <quantgene.com>; NSCAI <nscai.gov>; PRIVATEER <privateer.com>; Scsp <scsp.ai>; Privateer Space; Kleiner Perkins Caufield & Byers <kpcb.com>; Invention Corps <inventioncorps.com>, and held 20 different job titles, such as Undergraduate Research Assistant - Autonomous Vehicle Interaction; Research Assistant; Ai Research Intern; Intern; Hackathon Organizer; Special Projects Intern; Engineering Intern; Project Lead; Chief Projects Officer; External Vice President; Research Intern; Undergraduate Research Assistant - Human-Av Interaction; Director; Engineering Fellow; Software Engineering Intern, Ml And Cv; Computational Research Intern; Engineering; Undergraduate Research Assistant - Av Simulation; Maker, Design Consultant; Autonomous Lunar Resource Rover Team Member. They have amassed 2 years of experience and have acquired 35 skills, including Public Speaking; Robot Operating System; Design; Design Thinking; D3.Js; Python; Startup Strategy; Artificial Intelligence; Matplotlib; Computer Vision; Robotics; Software Engineering; Arduino; Project Management; Pitching Ideas; C++; Research; Scientific Presentation; Ux Research; Machine Learning; Mathematica; Rapid Prototyping; Scientific Visualization; Biotechnology; Mongodb; Prototyping; Javascript; Flask; Figma; Mathematics; Ux; Market Research; Java; Scientific Writing; Ui. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -203,9 +224,3 @@ Roles
 - **Autonomous Lunar Resource Rover Team Member**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Tejas. Mehta. Venture. Partner @ Contrary | Engineering. Fellow @ Kleiner. Perkins personal -LjLmbmOI. I'm a. Computer. Science, Finance, and. Business honors student (statistics minor) at. UT. Austin. My skill set lies within full stack web development, cross platform mobile development, cloud computing (mainly. Google. Cloud. Platform), and. UI design. I'm passionate about designing, developing, and scaling web and mobile applications, especially in the mental health, ed-tech, and culinary space. I'm currently pursuing software engineering and product management internships for summer . You can reach me at. I'd love to chat! United. States. Dallas-Fort. Worth. Metroplex. Dallas-Fort. Worth. Metroplex. False. False. English. NATIVE_OR_BILINGUAL. Hindi. NATIVE_OR_BILINGUAL. Venture. Capital & Private. Equity. Gold. Cord. The pinnacle award at graduation for community service is the. Gold. Cord. Award. This award is reserved for graduating seniors who have exhibited the highest commitment to community service and citizenship during their two years with the. TAMS program. Texas. Academy of. Mathematics and. Science. Place. Hilton. Entrepreneurship. Challenge: International. Collegiate. DECA ($, winner) DECA is the most prestigious business competition for collegiate students in the world. In the. Entrepreneurship. Challenge, students work in teams to create a unique business concept based on a theme provided during the conference. Combining my competencies in technology and my entrepreneurial mindset, I created a company that utilizes augmented reality and natural language processing to create a comprehensive experience that targets millennials and. Gen. Y student's love for fear and turns it into a franchisable and profitable business. Collegiate. DECA. Place. Emerging. Technologies. Marketing. Strategies: International. Collegiate. DECA. DECA is the most prestigious business competition for collegiate students in the world. The objective for. Emerging. Technology. Marketing. Strategies this year was to create a comprehensive emerging technology marketing strategy for a college bookstore. Collegiate. DECA. Place. Engineering- Texas. Junior. Academy of. Science. Authored and presented paper on. Anderson. Localization. Based. Encryption. Texas. A&M. University. National. Merit. Finalist. Google. San. Francisco, California, United. States. Google. Associate. Product. Manager. Intern. Internship. Python (Programming. Language) Java. Web. Development. Object-Oriented. Programming (OOP) Agile. Methodologies. Research. Version. Control. Machine. Learning. True parammpatel. Param. Patel. Founder at. Indux | Kleiner. Perkins. Fellow kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow leytonho. Leyton. Ho. CS & Applied. Math @ Brown | KP. Fellow aman---singh. Aman. Singh. Software. Engineer @ Google kevinqiut. Kevin. Qi. Incoming. APM @ Salesforce prayaaggupta. Prayaag. Gupta. SWE. Intern @ IMC. Trading, Prev @ Roblox | CS. Honors, Business. Honors @ UT. Austin hgu. Henry. Gu. CS @ USC, prev. Stripe | KP. Fellow nealdavar. Neal. Davar. SWE. Intern @ Relativity | Prev @ TSLA | Texas. Ex erictarczynski. Eric. Tarczynski. Founder + Managing. Partner at. Contrary madhavanuchani. Madhavan. Uchani. CS & Finance. Honors. Student at. UT. Austin. Spanish. LIMITED_WORKING. Undergraduate. Research. Fellowship. Award. Given for showing great potential in the field of research. University of. North. Texas. Fellowship. For the. Advancement of. Cultural. Education. Events. Coordinator. IEEE. Computer. Society. Secretary. Texas. Convergent. Calculus. Calculus. Calculus. Computer. Science. Computer. Science. Honors. Business. Communications. BA. Honors. Computer. Architecture. CS. Committee. Head for. TAMS. Habitat for. Humanity of. Denton. County. POVERTY_ALLEVIATION. Shell. Scripting. Data. Analysis. Place. Hovercrafts. Science. Olympiad. President's. List. Awarded for maintaining a . GPA. UNT. President. Honors. Data. Structures. Honors. Discrete. Mathematics. Honors. Management. Information. Systems. MIS. Linear. Algebra. Macroeconomics. Microeconomics. Physics: Electronics and. Magnetism. Physics: Mechanics. Probability and. Statistics. SDS. Robot. Learning. CS. Volunteer. Perot. Museum of. Nature and. Science. SCIENCE_AND_TECHNOLOGY. Curriculum. Developer. XLab. EDUCATION. Interaction. Design. User. Experience. Design (UED) HTML. Firebase. C++ Microsoft. Office. Microsoft. Excel. Microsoft. Word. Microsoft. PowerPoint. Matlab. SAT. Math. II. ACT. AP. Computer. Science
-::

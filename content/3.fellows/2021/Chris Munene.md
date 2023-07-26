@@ -6,8 +6,8 @@ Class of 2021
 Software Engineering Intern at Meta
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 36
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Chris Munene is a fellow from the class of 2021 who is currently working as a Software Engineering Intern at Meta, a Big Tech company based in nan. Over the course of their career, they have worked at 8 organizations, including Harvard University <harvard.edu>; Harvard Student Agencies <hsa.net>; Twende <twende.app>; DEV: A Harvard Student Agency <hsa.dev>; Meta <meta.com>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Fizz (Yc S21), and held 7 different job titles, such as Frontend Developer; Gym Monitor; Software Engineering Intern; Founding Engineer; College Tutor; Full-Stack Developer; Engineering Fellow. They have amassed 2 years of experience and have acquired 36 skills, including Android Development; Django; Cascading Style Sheets; Graphics; User Experience Design; Flutter; Ruby On Rails; Github; Ruby; Front End Development; Android; React Native; Teamwork; Data Visualization; Full Stack Development; Redux.Js; Jquery; Vue.Js; Adobe Xd; Flask; User Research; C++; Prototyping; Web Design; Web Development; Software Development; User Interface Design; Customer Service; Microsoft Excel; Firebase; Project Management; React.Js; Heroku; Node.Js; User Experience; Javascript. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -175,9 +196,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Korean. NATIVE_OR_BILINGUAL. Computer. Software. Cum. Laude. Society, Highest. Academic. Honors. Phillips. Exeter. Academy. Fifth-Year. Latin. First. Place. Phillips. Exeter. Academy. Haig. Ramage. Classical. Scholarship. Phillips. Exeter. Academy. Highest. Honors, National. Greek. Exam. American. Classical. League. Summa. Cum. Laude, Gold. Medal, National. Latin. Exam. Awarded , , , American. Classical. League. Glean. Glean. Search. Verticals. Team. Software. Engineer. Full-time. C. JavaScript. Python. Engineering. C (Programming. Language) Python (Programming. Language) Computing. Git. True. Vaibhav. Gosain. SWE @Glean | Ex-Sr. SWE @Rubrik | ACM. ICPC. World. Finalist manavrathod. Manav. Rathod. Search. Intelligence @ Glean | NLP. Researcher | UC. Berkeley. M.E.T. shivaalroy. Shivaal. Roy. Tech. Lead. Manager at. Glean iamhanli. Han. Li. Software. Engineer at. Glean. Kevin. Xu. CS at. UPenn wrui. Rui. Wu. Glean | ex-Google. Brain, Citadel alice-wang- Alice. Wang. Tech. Lead. Manager at. Glean laurenzhu. Lauren. Zhu. Software. Engineer at. Glean | Stanford wwpen. William. Peng. Software. Engineer at. Glean alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Latin. FULL_PROFESSIONAL. Lamont. Gavit. Scholar. Phillips. Exeter. Academy. Algorithms. CPSC. Computational. Vision & Biological. Perception. CPSC. Data. Structures & Programming. Techniques. CPSC. Discrete. Mathematics. MATH. Introduction to. Computer. Science. CPSC. Introduction to. Computing and. Programming. CPSC. Linear. Algebra w/ Applications. MATH. Data. Structures. Algorithms. First. Place, New. Hampshire. Latin. Exam. New. Hampshire. Classical. Association. Theory and. Implementation of. Self-Driving. Cars. CPSC. Vector. Calculus & Linear. Algebra. MATH. OpenCV. Django. Google. Cloud. Platform (GCP) MySQL. React.js
-::

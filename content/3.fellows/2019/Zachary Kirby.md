@@ -7,7 +7,7 @@ Co-Founder at Vesselfintech
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 24
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Zachary Kirby is a fellow from the class of 2019 who is currently working as a Co-Founder at Vesselfintech, a Startup company based in Murrieta. Over the course of their career, they have worked at 13 organizations, including Intuit <intuit.com>; Glynn Capital Management <glynncapital.com>; vesseltracker.com <vesseltracker.com>; Gusto <gusto.com>; UC Berkeley <berkeley.edu>; Cal Hacks <calhacks.io>; Productiv <productiv.com>; Web Design DeCal <wdd.io>; Meta <meta.com>; Vessel <vessel.api>; Vesselfintech <vesselfintech.com>; Vessel <vessel.dev>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Undergraduate Student Researcher; University Investment Fellow; Executive Director; User Experience Research Extern; Co-Founder; Frontend Developer; Head Instructor; Software Engineering Intern; Kp Engineering Fellow; Frontend Engineering Intern. They have amassed 4 years of experience and have acquired 24 skills, including Web Design; Communication; Sass; Ionic; Python; Express.Js; Cooperation; Adobe Illustrator; Film; Scheme; Front End Development; Mongodb; Team Leadership; Bootstrap; Html5; Team Management; React.Js; Teaching; Javascript; Jquery; Angularjs; Adobe Photoshop; Writing; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -160,9 +181,3 @@ Roles
 - **Frontend Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-ben-wasserman- Ben. Wasserman. Senior. Product. Manager at. Squarespace personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Internet. Richard & Jean. Coyne. Family. Foundation. Graphic. Design. Scholarship. Communication. Arts. Magazine. Kleiner. Perkins. Caufield & Byers (KPCB) Design. Fellow, I am humbled to be one of this year's. KPCB. Design. Fellows working at. Flipboard this summer. KPCB is an amazing organization with limitless connections and benefits for creatives and the community at large. Truly grateful to be involved with them. Kleiner. Perkins. Caufield & Byers. Louis. Shawl. Graphic. Design. Endowed. Scholarship. California. College of the. Arts. Squarespace. New. York, United. States. Squarespace. Senior. Product. Manager. Full-time. Graphic. Design. Typography. Lettering. Branding & Identity. Illustration. Adobe. Creative. Suite. Illustrator. InDesign. True guillermo-suárez-ara- Guillermo. Suárez. Ara. Senior. Product. Manager at. Squarespace edmundarmstrong. Edmund. Armstrong. Product. Manager at. Squarespace beau-barnett. Beau. Barnett. Product. Manager at. Squarespace jblevitt. Jeff. Levitt. Senior. Product. Manager at. Squarespace kimberlylin. Kimberly. Lin. Product at. Squarespace stephanie-seib. Stephanie. Seib. Senior. Product. Manager at. Squarespace kwamehenderson. Kwame. Henderson. Product at. Squarespace gbarcher. Gwyneth. Archer. Product. Manager at. Squarespace karenkxu. Karen. Xu. Product. Manager at. Squarespace avantikaa. Avantika. Gomes. Product. Leader at. Figma. Visual. Communication. Interaction. Design. Art. Direction. User. Interface. Design. Photography. Web. Design. Creative. Direction. Branding. Adobe. Illustrator. Squarespace. Product. Manager. Squarespace. Senior. Product. Designer. New. York, New. York. Squarespace. Product. Designer
-::

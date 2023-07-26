@@ -6,8 +6,8 @@ Class of 2019
 Senior Product Manager at Reddit
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Finance; Data Science
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 18
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Rose Liu is a fellow from the class of 2019 who is currently working as a Senior Product Manager at Reddit, a Others company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including LinkedIn <linkedin.com>; Reddit <reddit.com>; Deutsche Bank <db.com>; Zumper <zumper.com>; AXA Investment Managers <axa-im.com>; Jitjatjo <jitjatjo.com>; Roblox <roblox.com>; Edge Principal Advisors <edgepe.com>; JLL <jll.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Senior Product Manager; Product Fellow; Associate - Acquisitions; Product Manager; Analyst - Commercial Real Estate; Product Lead; Product Manager, Smb Marketplace; Senior Associate - Acquisitions; Product Strategy, Jobs Marketplace. They have amassed 4 years of experience and have acquired 18 skills, including Product Management; Strategic Planning; Investments; Vba; Finance; Management; Project Management; Data Analysis; Microsoft Office; Microsoft Excel; Mandarin; Financial Analysis; Financial Modeling; Analysis; Investment Banking; Product Development; Valuation; Strategy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -132,9 +153,3 @@ Roles
 - **Product Strategy, Jobs Marketplace**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jessiealvarez. Jessie. Alvarez. Software. Engineer at. Figma personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Japanese. ELEMENTARY. Design. Figma. San. Francisco, California. Figma. Software. Engineer. Python. CSS. HTML. JavaScript. Objective-C. Web. Development. HTML. Tutoring. True sawyer-hood- Sawyer. Hood. Software. Engineer at. Figma jung-naomi. Naomi. Jung. Software. Engineer at. Figma dorothchen. Dorothy. Chen. Software. Engineer at. Figma dipahalder. Dipa. Halder. Software. Engineer @ Figma jenningchen. Jenning. Chen. Software engineer at. Figma su-yang. Su. Yang. Software. Engineer at. Figma cynthiajia. Cynthia. Jia. Software. Engineer @ Figma yanhannah. Hannah. Y. Software. Engineer @ Figma michael-turitzin- Michael. Turitzin. Software. Engineer at. Figma georgelzhang. George. Z. Software. Engineer at. Figma. Spanish. LIMITED_WORKING. Applied. Number. Theory and. Field. Theory. Compilers. Computer. Organization and. Systems. Databases. Design and. Analysis of. Algorithms. Digital. Canvas: Intro to. Visual. Design on the. Web. Interactive. Computer. Graphics. C++ Java. Plastic. Pollution: How. You. Can. Stop. Our. Environmental. Menace. Huffington. Post. Jessie. Alvarez. Software. Engineer at. Figma. Introduction to. Computer. Graphics and. Imaging. Introduction to. Human-Computer. Interaction. Design. Introduction to. Probability for. Computer. Scientists. Introduction to. UI. Sketching. Japan's. New. Innovation. Boom (Business) Linear. Algebra and. Differential. Calculus of. Several. Variables. Mathematical. Foundations of. Computing. Principles of. Computer. Systems. Programming. Abstractions. Research. Project in. Software. Systems and. Security. Software. Project. Experience with. Corporate. Partners /B. Standard. C++ Programming. Laboratory. Teaching. Computer. Science. Swift. C. Web. Applications. User. Interface. Design. Node.js. Django. Unix. MySQL. Programming. Social. Media
-::

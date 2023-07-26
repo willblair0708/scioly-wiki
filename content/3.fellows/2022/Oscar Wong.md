@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Figma
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 7
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Oscar Wong is a fellow from the class of 2022 who is currently working as a Software Engineer at Figma, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Critical Mass <criticalmass.com>; WhatsApp <whatsapp.com>; Figma <figma.com>; Microsoft <microsoft.com>; Amazon Web Services <amazonaws.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Software Engineer Intern; Developer Intern; Engineering Fellow; Explore Intern; Software Engineer; Software Developer Lead. They have amassed 1 years of experience and have acquired 7 skills, including Communication; Css; Java; Javascript; Software Development; Writing; Html. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -87,9 +108,3 @@ Roles
 - **Software Developer Lead**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow personal. Hey there! I'm a. Kleiner. Perkins. Engineering. Fellow working full-stack on simulation and development software for autonomous vehicles. I majored in. Computer. Science at the. National. University of. Singapore and was a visiting student at. Stanford and the. University of. Waterloo. I'm passionate about creating impactful human-centered products and experiences and love working on long-term projects with long-term people. I’m always happy to chat about opportunities to make an impact through engineering or product! United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Chinese. FULL_PROFESSIONAL. English. NATIVE_OR_BILINGUAL. Internet. Applied. Intuition. Mountain. View, California, United. States. Applied. Intuition. We're hiring! Engineering. Full-time. Writing. Python (Programming. Language) Leadership. Web. Development. React.js. Python. Negotiation. Teaching. True pedro-judice- Pedro. Judice. Engineering at. Applied. Intuition stefren. Stef. Ren. Engineering at. Applied. Intuition shihao-wang-robotics. Shihao. Wang. Engineering at. Applied. Intuition megan-kawakami- Megan. Kawakami. Engineering at. Applied. Intuition dayong-tong. Dayong. Tong. Engineering at. Applied. Intuition sethmik. Sethmi. Dharmasiri 👩🏾‍💻 Engineering @ Applied | | Formerly - Tesla, Zoho, Google. Brain, Google. Cloud. Intern | YC. SS ' | Freelance. Developer deepshika-dhanasekar. Deepshika. Dhanasekar. Engineering at. Applied. Intuition | Berkeley. MET. Alum justin-mi. Justin. Mi. Engineering at. Applied. Intuition kunaal-chaudhari. Kunaal. Chaudhari. Engineering @ Applied. Intuition nick-shen. Nicholas. Shen. Engineering @ Applied. Intuition. Peer. Mentor. NUS. University. Scholars. Programme. Javascript. Teamwork. Mentor. NUS. Hackers. EDUCATION. Mentor for. NUS. Computer. Science undergraduates focusing on first generation university students. Coding. Mentor. StreetCode. Academy. EDUCATION. Mentored free, open-enrollment coding classes to elementary school students from traditionally underrepresented backgrounds in computer science (serving residents of. East. Palo. Alto and surrounding neighbourhoods). Visit the. StreetCode. Academy website to learn more: (they're always looking for volunteers!) Business. Development. Executive. NUS. University. Scholars. Programme. SOCIAL_SERVICES. Established a new initiative for the members of the. University. Scholars. Club: a privilege card programme that offered students promotions and discounted rates at restaurants around campus. students purchased the card at launch. - Formulated eight partnerships with external food & beverage organizations for the initiative. - Designed a sustainable financial model to offer the card for free to students on financial aid.
-::

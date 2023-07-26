@@ -6,8 +6,8 @@ Class of 2020
 Chief Of Staff And Product Manager at Untapped Capital
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 17
+::
+::badge{type="info"}
+Number of Organizations: 16
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kevin Lee is a fellow from the class of 2020 who is currently working as a Chief Of Staff And Product Manager at Untapped Capital, a Others company based in Los Angeles. Over the course of their career, they have worked at 16 organizations, including Bessemer Venture Partners <bvp.com>; New Enterprise Associates <nea.com>; Kaiser Permanente <kp.org>; University of Southern California <usc.edu>; Hoover Institution at Stanford University <hoover.org>; DocuSign <docusign.com>; Stanford Consulting Group <stanfordconsulting.net>; Alpha Kappa Psi <akpsi.org>; Grid Solutions <gegridsolutions.com>; Ripcord <ripcord.com>; Kinfolk <kinfolk.com>; Stanford Graduate School of Business <gsb.stanford.edu>; Standford Alumni <stanfordalumni.org>; Untapped Capital <untapped.vc>; Potluck Ventures <potluck.vc>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 17 different job titles, such as Teaching Assistant; Alumni; Li Lab | Medical Research Intern; Bvp | Fellow; Ripcord | Product Manager; Digital Technology Leadership Program | Software Engineering Intern; Chief Of Staff And Product Manager; Investor And Advisor; Stanford Consulting | Management Consultant; Kleiner Perkins | Kp Product Fellow; Nea Next | Venture Capital Fellow + Product And Marketing Intern; Pi Tau Consulting | Management Consultant; Product Manager, Growth; Shih Lab | Neuroscience Research Intern; Engineer 103: Public Speaking | Teaching Assistant; Stanford Gsb | Research Assistant, Venture Capital Initiative; Kaiser Research And Development | Data Analytics Intern. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -107,9 +128,3 @@ Roles
 - **Kaiser Research And Development | Data Analytics Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-carolyn-zhang- Carolyn. Zhang. Independent software designer personal. United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. True. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Agency. Studio. Design. Firm (ASDF) Agency. Studio. Design. Firm (ASDF) Making software with a soul. Independent. Software. Designer. True alasdairmonk. Alasdair. Monk. VP of. Design at. Vercel kiraviola. Kira. Viola. Graphic. Designer nicolelavelle. Nicole. Lavelle. Designer gene-ross. Gene. Ross. Principal. Designer. Visual. Systems @ Roblox mbambach. Matthew. Bambach. Product. Designer at. Instagram tysongach. Tyson. Gach. Independent design engineer and accessibility advocate. stephanielinyt. Stephanie. Lin. Senior. Software. Engineer at. Reddit kimberlyyle. Kimberly. Le. Designing @ Snowflake marcel-de-neve- Marcel de. Neve. User. Experience. Sr. Manager and. Designer tamar-nachmany. Tamar. Nachmany. Senior. Software. Engineer at. Slack
-::

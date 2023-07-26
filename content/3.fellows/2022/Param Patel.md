@@ -6,8 +6,8 @@ Class of 2022
 Founding Engineer at Peaze
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Param Patel is a fellow from the class of 2022 who is currently working as a Founding Engineer at Peaze, a Others company based in New York. Over the course of their career, they have worked at 11 organizations, including University of Southern California <usc.edu>; Draper Associates <draper.vc>; KPCB <kleinerperkins.com>; Open Raven <openraven.com>; Dragonfruit AI <dragonfruit.ai>; EY <ey.com>; Confluence Global Capital <confluenceglobalcap.com>; Trojan Venture Partners <trojanventurepartners.com>; On Deck <beondeck.com>; Peaze <peaze.io>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Technology Consulting; Fellow; Founding Engineer; Founder And Chief Executive Officer; Software Engineering; Managing Partner; Venture Scout; Kleiner Perkins Fellow. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -83,9 +104,3 @@ Roles
 - **Kleiner Perkins Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Anand. Chaturvedi. Co-Founder of. Dili (YC ), Automating. Due. Diligence personal --VGXo. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Internet dili (YC ) dili (YC ) Co-Founder. Full-time. Java. C++ Microsoft. Excel. Product. Management. Web. Development. Machine. Learning. Computer. Vision. JavaScript. True stephanie-song- Stephanie. Song. Co-Founder & CEO of. Dili (YC ), Accelerating. Capital. Markets. Due. Diligence with. AI. Brian. Fernandez. Co-founder of. Dili (YC ), Building the. AI. Copilot for. Capital. Markets. Diligence kalyani-ramadurgam- Kalyani. Ramadurgam. Co-Founder @ Kobalt. Labs (YC ) akshay-ramaswamy- Akshay. Ramaswamy. Ex-Coinbase, YC | Stanford alum nirmolk. Nirmol. Kaur. Product @ Coinbase | UC. Berkeley ' meghna-mehta. Meghna. Mehta. Product. Manager at. Coinbase amruthagujjar. Amrutha. Gujjar. CEO & Co-Founder, Structured (YC ) ashi-agrawal. Ashi. A. Co-Founder, Kobalt. Labs (YC ) lwchen. Leo. Chen. Product at. Coinbase kushal-byatnal- Kushal. Byatnal. Co-founder & CEO @ Extend. Python (Programming. Language) UIX. Cryptocurrency
-::

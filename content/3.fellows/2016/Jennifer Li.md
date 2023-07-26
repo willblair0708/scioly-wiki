@@ -6,8 +6,8 @@ Class of 2016
 Enterprise Investment Partner, Deal Team at Andreessen Horowitz
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 31
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jennifer Li is a fellow from the class of 2016 who is currently working as a Enterprise Investment Partner, Deal Team at Andreessen Horowitz, a Others company based in Menlo Park. Over the course of their career, they have worked at 13 organizations, including Muxtape <muxtape.com>; Andreessen Horowitz <a16z.com>; AppDynamics <appdynamics.com>; Solvvy <solvvy.com>; Netlify <netlify.com>; Rasa <rasa.com>; Fivetran <fivetran.com>; Preset <preset.io>; Crossbeam <crossbeam.com>; Fishtown Analytics <fishtownanalytics.com>; Variant <variant.fund>; Stacker <stacker.app>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Partner; Board Member; Product Fellow; Product Manager; Senior Product Manager; Enterprise Investment Partner, Deal Team; Board Observer. They have amassed 7 years of experience and have acquired 31 skills, including Data Analysis; Android Development; Java; Financial Analysis; User Research; Software As A Service; Photoshop; User Requirements; Operations Management; Email Marketing; Marketing Strategy; Social Media Marketing; Market Analysis; Market Research; Product Marketing; Html; C++; Matlab; Database Systems; Product Strategy; Web Analytics; Product Management; Internet Marketing; Project Management; Presentation Skills; Customer Interaction; Leadership; Public Speaking; Node.Js; Python; Saas. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -178,9 +199,3 @@ Roles
 - **Board Observer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-tianyix. Tianyi. X. Co-founder @ Flourish. Science | Ex-Google, Ex- AI, KP. Design. Fellow personal. ACoAABFmDpQBqWxqdfYE- You can just call me "T". I'm a product designer and a design strategist who is passionate about bringing inclusiveness and intuitiveness to cutting-edge science and technologies. If you would like to grab a coffee or bubble tea with me. Topics about design, , AI, entrepreneurship, psychology, philosophy, ITP&RISD, and children's education are all welcomed! United. States. Cupertino, California. Cupertino. California. Cupertino, California, United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. English. FULL_PROFESSIONAL. Computer. Software. Ignite. Alpha. Fellowship. The. Ignite. Fellowship is designed to help founders of new ventures practice the skills and form the habits necessary for success. Teams will regularly discuss progress against their own objectives, learn from and help other teams tackle current challenges, and meet other entrepreneurs who join from time to time to share their lessons learned. Flourish. Science. Palo. Alto, California, United. States. Flourish. Science. Co-Founder, Product. Full-time. User. Experience (UX) Product. Design. Strategy. Graphic. Design. Photography. Graphics. Research. Illustration. True drxuanzhao. Xuan. Zhao, PhD. Social. Psychologist @ Stanford | Co-Founder @ Flourish. Science | Building. Inclusion, Community, and. Well-Being | Cardinal. Ventures aichenguo. Aichen. Grace. Guo. Product. Designer at .AI shivajaini. Shiva. Jaini. Building something new for kids ivylinn. Ivy. Lin. Manager, Product. Design @ AI. Ken. Pan. Product. Designer | ex. Yahoo, Alibaba | MDes@IIT. ID jiachenhu- Jiachen. Hu. Lead. Product. Designer at .ai beatricezhou. Beatrice. Zhou. Product. Designer | Enterprise. Design | SaaS eviexu. Evie(Yiwei) Xu. Senior. Product. Designer at. AI visudha-sathurappan. Visudha. Sathurappan. Product. Designer @ AI eva-luo. Eva. Luo. Product. Design at. WhatsApp | Mentor at. ADPList | Ex- AI, IBM. Watson. Italian. ELEMENTARY. Meal. Deliverer. The. Senior. Nutrition. Program. SOCIAL_SERVICES. Deliver nutritious meal to senior citizens who live by themselves. Typography. Advertising. The. Humming. Box: AI-powered. Tangible. Music. Toy for. Children. ACM. New. York, NY, USA © Tianyi. X. Co-founder @ Flourish. Science | Ex-Google, Ex- AI, KP. Design. Fellow. Art. User. Interface. Design. Sketching. Drawing. User. Experience. Design (UED) Web. Design. Logo. Design. Usability. Branding & Identity. UI. Chunhan. Chen. Product. Designer at. Quora. Helen. Yihan. T. Product / UX. Designer @ Kong. Palo. Alto, California, United. States. Flourish. Science. Solving the "Last. Mile. Problem" of science to bring deeper connections and flourishing lives to individuals, teams, and communities. Co-Founder. Part-time. Japanese. ELEMENTARY
-::

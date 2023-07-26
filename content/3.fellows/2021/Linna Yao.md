@@ -6,8 +6,8 @@ Class of 2021
 Design Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Linna Yao is a fellow from the class of 2021 who is currently working as a Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Hamden. Over the course of their career, they have worked at 10 organizations, including Zumper <zumper.com>; Yale University <yale.edu>; Design Observer <designobserver.com>; Motion Industries <motionindustries.com>; Design for America <designforamerica.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; Ameelio <ameelio.org>; Airfoil <airfoil.studio>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Yale Campus Tour Guide; President; User Experience Design Intern; Web Design Intern; Design Fellow; Curriculum And Outreach Lead; Product Design Intern; User Experience And User Interface Designer; Product Designer. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -81,9 +102,3 @@ Roles
 - **Product Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-alexander-lenz. Alexander. L. SWE @ Google | Wharton personal. United. States. United. States. False. False. Internet. Gates. Millennium. Scholar. Gates. Millennium. Scholars. Program. Google. San. Bruno, California, United. States. Google @ YouTube. Reach. Software. Engineer. Full-time. C++ Java. Operating. Systems. Public. Speaking. Leadership. Strategic. Planning. Event. Planning. Project. Management. True liangcyn. Cynthia. Liang. SWE @ Google | CS @ Stanford kamyhuo. Kamy. H. Software. Engineer at. Google. Gautam. Ramesh. ML @ Google | M&T @ UPenn ' jvmirchandani. Jaidev. Mirchandani. Software. Engineer at. Google mokshjawa. Moksh. Jawa. Engineer @ Retool (we’re hiring!) | M&T @ Penn sean-bloomfield- Sean. Bloomfield. Thanks ruban-rengaraju. Ruban. R. eng @ nextdoor katie-shin. Katie. Shin. Software. Engineer at. Amazon siyuan-liu- Siyuan. Liu. Software. Engineer at. Google carolina-borges- Carolina. Borges. Finance and. Statistics. Student at. Wharton. School of. Business-University of. Pennsylvania. Data. Analysis. Entrepreneurship. Statistics. Data. Science. Python. TensorFlow. Scikit-Learn. R. Machine. Learning. Microsoft. Excel. Microsoft. Office. Machine. Vision. ACT
-::

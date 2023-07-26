@@ -6,8 +6,8 @@ Class of 2021
 Software Engineering Intern at Vanta
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Leyton Ho is a fellow from the class of 2021 who is currently working as a Software Engineering Intern at Vanta, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including The New York Times <nytimes.com>; Skiff <skiff.com>; Uber <uber.com>; SiFive <sifive.com>; Contrary <contrarycap.com>; Brown University <brown.edu>; Vanta <vanta.com>; Stream <stream.club>; Campanile <campanile-bonn.de>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Project Manager; Venture Partner; Research And Development Intern; Software Engineer; Software Engineering Intern; Editor In Chief; Engineering Project Manager, Visual Prosthesis Project; Kp Engineering Fellow. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -83,9 +104,3 @@ Roles
 - **Kp Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rachelyhe. Rachel. H. design + climate @ Carbon. Direct personal - | greendesign.io. United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. True. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Environmental. Services. Presidential. Honors. Scholarship. New. York. University solar powered media project. A sustainable educational resource sponsored by the. NYU. Green. Grant. Initiative. Rachel. H. design + climate @ Carbon. Direct. Carbon. Direct. Carbon. Direct. Design. Lead. Full-time. Adobe. Creative. Suite. Sketch. App. Graphic. Design. Web. Design. HTML. Java. Python. Cascading. Style. Sheets (CSS) True britt-warthen- Britt. Warthen. Designer @ Carbon. Direct avertin. Alex. Vertin. Staff. Frontend. Engineer at. Carbon. Direct ajsimon. A.J. Simon. Carbon. Direct wanjanlee. Jan. L. Sr. Product. Designer jaspercroome. Jasper. Croome 🌔 Designgineer jonathan-goldberg- Jonathan. Goldberg. Jonathan. Goldberg is the. Founder and. CEO of. Carbon. Direct. jbeorse. Jeffrey. Beorse. Director of. Engineering at. Carbon. Direct cale-kennedy. Cale. Kennedy. Hiring passionate people to solve the climate crisis! claireannienelson. Claire. Nelson. Postdoctoral. Research. Scientist, Columbia. University | Co-Founder and. CTO, Cella adriansilver. Adrian. Silver. Climate. Solutions @ Carbon. Direct 🌎 | Adjunct. Professor @ Columbia 🎓 | Out in. Climate 🏳️‍🌈 Applied. Internet. Technology. Computer. Systems. Organization. Data. Structures. Design (Typography & Color) Digital. Art. Drawing. Linear. Algebra. Microsoft. Office. Product. Design. Open. Source. Software. Development. Painting. Parallel. Programming. User. Research. Interaction. Design. User-centered. Design. Prototyping. Wireframing. Design. Thinking. Visual. Design. User. Experience (UX) User. Experience. Design (UED) New. York, New. York, United. States. Carbon. Direct. Senior. Product. Designer. Full-time
-::

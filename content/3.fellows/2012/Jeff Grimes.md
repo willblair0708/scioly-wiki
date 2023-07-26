@@ -6,8 +6,8 @@ Class of 2012
 Associate Product Manager at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 35
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jeff Grimes is a fellow from the class of 2012 who is currently working as a Associate Product Manager at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Sequoia Capital <sequoiacap.com>; Foundation Capital <foundationcapital.com>; klout <klout.com>; Yale University <yale.edu>; Google <google.com>; All-Stars Helping Kids <allstarshelpingkids.org>; Uproar PR <uproarpr.com>; Shades <take3app.com>; regardeR solO a staR warS storY streaminG vF gratuiTcompleT <i.af>; Meta <meta.com>; Google <goo.gle>; Sequoia Capital India <sequoiacap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Grimesphotos.Com <grimesphotos.com>, and held 12 different job titles, such as Associate Product Manager; Ios Development Intern, Mobile Team; Founder And Chief Executive Officer; Volunteer Summer Intern; Sequoia Capital Scout; Co-Creator And Iphone App Developer; Kpcb Engineering Fellow; Ios Development Intern, Facebook Messenger Team; Creator And Ipad App Developer; Associate Product Manager Intern; Co-Creator And Iphone Game Developer; Venture Capital Intern. They have amassed 11 years of experience and have acquired 35 skills, including Leadership; Marketing; Objective C; Java; Ios Development; Ruby On Rails; Mobile Applications; Strategy; Mobile Devices; Management; Gwt; Mongodb; Iphone; Cloud Computing; Blogging; Gaming; Star Wars; E Commerce; Mobile Payments; Assembly Language; Hadoop; Writing; Ruby; Market Research; Saas; Php; User Experience; Ios; Product Management; Business Development; Sql; Git; Software Development; Entrepreneurship; Start Ups. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -198,9 +219,3 @@ Roles
 - **Venture Capital Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-generous generous yeh ux designer , paypal · kleiner perkins fellow · uw hcde personal ** send a note when connecting so. I know it's not a misclick(: Accessible systems thinker. Designing with a user centered focus to ensure that users’ wants and needs are at the forefront of the design process. Passionate about accessible design, ensuring all potential users have equal opportunities regardless of ability, prior opportunities, experiences, or skillsets. I am not an expert (regarding accessibility), I just really care. Experienced in design systems building accessible, scalable components to be deployed across products with documentation. Proficient with. WCAG guidelines and screen reader annotations for. VoiceOver and. TalkBack, but striving to learn more. Currently focused on learning and improving localization alongside accessibility concerns. Tackling design through accessibility lenses and accounting for all, including environmental and situational disabilities. Always seeking opportunities to grow as an individual and designer alongside my peers. United. States. Greater. Seattle. Area. Greater. Seattle. Area. False. False. Chinese. PROFESSIONAL_WORKING. English. NATIVE_OR_BILINGUAL. Design. Kleiner. Perkins. Fellowship. Finalist. Design fellow finalist. The fellowship is geared towards those with solid technical skills, exemplary leadership and strong evidence of a self-directed entrepreneurial mindset with an acceptance rate of less than %. Kleiner. Perkins. Place. Problem. Solving. Track. Awarded first place for the problem solving track in the. UW. Bothell. Design. Jam . See project above for more. UW. Bothell. Design. Jam. Place. Coding. With. Kids. Redesign. Awarded first place for the. Coding. With. Kids. Redesign challenge in. DubsTech’s. Protothon amongst participants. See above project for more details. DubsTech. Washington. State. Opportunity. Scholarship. Recipient -year recipient of the. WSOS scholarship. WSOS reduces barriers to education and training and facilitates entry into high-demand careers by supporting low and middle income. Washington students pursuing high-demand majors in science, technology, engineering, math (STEM), or health care. Washington. State. Opportunity. Scholarship. Homemore. Homelessness is a major issue that has swept the. United. States and they are often underserved by services. Disabled people, people who use drugs, and minors/vulnerable populations often find themselves without a safe home. Access to medical services is also crucial, especially in the midst of the. COVID- pandemic, and we wanted to design a service that would allow people to see where free medical services were offered, and other helpful resources. Many people might find the idea of building an app for the homeless contradictory, but a large percentage the homeless population own cell phones that serve as a lifeline and allow them to search for resources. Mobile phone ownership by homeless individuals ranged from %-% in . There are existing apps designed for a non-homeless person to aid homeless people. However, Homemore is an app designed. FOR the homeless individual to help themselves. Awarded first place for problem solving at the. UW. Bothell. Design. Jam . generous yeh ux designer , paypal · kleiner perkins fellow · uw hcde. Coding with. Kids. Website. Re-design. Challenged to improve the experience of a parent to discover and sign their child up for online lessons while also offering online support so that they may request help. Awarded first place for the classic track out of participants at the. Dubstech. Protothon . generous yeh ux designer , paypal · kleiner perkins fellow · uw hcde. PayPal. PayPal. UX. Designer. Human. Centered. Design. User. Centered. Design. User. Experience. Design. Research. UX. Java. HTML. Cascading. Style. Sheets (CSS) True neel-saswade. Neel. Saswade. Product. Designer at. Glean • KP. Fellow. Ishaan. Kansal. Product. Design @ DoorDash • KP. Fellow ' cyrus-from-taiwan 驊軒. Cyrus. Chuang. Product. Design @ Simple. HealthKit | ' KP. Fellows. Sonal. K. Product. Designer at. Carta | Kleiner. Perkins. Design. Fellow linnayao. Linna. Yao. Motion designer alexandergerrese. Alexander. Gerrese. Product. Design @ Cruise | Ex-KP. Fellow @ Uber cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow soyeepark. Soyee. P. Product. Designer caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow. Connie. Liu. Incoming. Designer @ Atlassian | Prev. Design at. ScaleAI, KP. Fellows, Buzzfeed, NYT. Recovery. Cafe. Brand. Refresh. Developed a cohesive visual system for a local non-profit organization through a qualitative research and visual exploration process. Improved the visual communication of a client's mission and brand ethos to key audiences. generous yeh ux designer , paypal · kleiner perkins fellow · uw hcde. Volunteer. Assistant. Wrestling. Coach. Edmonds. Woodway. High. School. CHILDREN. Worked with student athletes to develop proper technique and teach fundamentals, ensuring they were prepared for meets and tournaments at the high school level. Attended competition to coach individuals and review matches with them. Utilized a human-centered approach in tailoring practice plans for various groups of student athletes. JavaScript. Volunteer. Wrestling. Coach. College. Place. Middle. School. CHILDREN. Introduced young scholars to the sport of wrestling by teaching fundamentals and showing techniques at local middle school practices. Coached dual meets and volunteered at local tournaments with set-up to ensure events ran smoothly for all athletes. Accessibility. Adapter. HuskyADAPT. CHILDREN. Reverse engineered and adapted toys in order to accommodate children with disabilities. Added accessibility modules to original functionality buttons, offering more interactive opportunities for the toys. Donated toys to charities to redistribute as accessible toys are costly but crucial for cognitive development in children. Residential. Programming. Board. University of. Washington. EDUCATION. Volunteered with the residential programming board to build a community among residents through inclusive, campus wide events. By engaging residents in diverse, social programming, the. RPB provides unique and financially accessible opportunities often through collaboration with organizations on and off campus.
-::

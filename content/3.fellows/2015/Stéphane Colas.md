@@ -6,8 +6,8 @@ Class of 2015
 Head Of Product at Mindbloom
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; Data Science
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 23
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Stéphane Colas is a fellow from the class of 2015 who is currently working as a Head Of Product at Mindbloom, a Others company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including Zynga <zynga.com>; Bell Labs <bell-labs.com>; ETH Zurich <ethz.ch>; Sonder <sonder.com>; McKinsey & Company <mckinsey.com>; Ethiopian Agricultural Transformation Agency <ata.gov.et>; Mindbloom <mindbloom.co>; ETH juniors <ethjuniors.ch>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Lead Product Manager; Director Of Product Management; Summer Intern; Public Relations; Teaching Assistant; Group Product Manager; Product Fellow; Senior Product Manager; Head Of Product; Fellow Associate; Senior Program Associate. They have amassed 8 years of experience and have acquired 23 skills, including Strategy; Telecommunications; It Business Strategy; Business Strategy; Matlab; Mobile Games; Leadership; Strategic Planning; Game Design; Web Development; Management Consulting; Mathematical Programming; Data Analysis; C++; Latex; Product Management; Analytics; Data Analytics; Operational Excellence; Organizational Design; Analysis; Outsourcing; Competitive Analysis. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -146,9 +167,3 @@ Roles
 - **Senior Program Associate**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-advith. Advith. Chelikani. Co-Founder @ Pylon | Scale. Customer. Operations on. Slack personal. ACoAABZkbDUBg-- Helping teams meet customers where they work and scale their customer operations! Help your customers get to value faster by meeting them where they live in. Slack, Teams, and. Discord. Use. Pylon to track and manage customer conversations and run your success, support, and sales workflows seamlessly over chat. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. Internet. Pylon. San. Francisco. Bay. Area. Pylon. Helping teams scale their customer operations and meet their customers where they are. Customers love talking to you on. Slack/Discord/Teams but having trouble scaling your processes? Learn more at or reach out directly! Co-Founder. Full-time. Python. Java. JavaScript. CSS. C++ Research. Web. Development. Drupal. True noaflaherty. Noa. Flaherty. CTO & Founder – Vellum (YC ) alex-wuu. Alex. Wu. Software. Engineer jessemchen. Jesse. Chen. Software. Engineer @ Pylon xiaohan- Xiaohan. Shen. Co-Founder & CEO @ Coldreach (YC ) teresanesteby. Teresa. Nesteby. Head of. Success. Engineering @ Hightouch yanfu. Yan. Fu. Co-Founder at. Berry (YC ) rumennik. Daniel. Rumennik. Co-founder and. General. Partner at. AirAngels robert-eng. Robert. Eng. Co-founder @ Pylon (YC ) sdsuo. Simon. Suo. Co-founder/CTO @ LlamaIndex - Hiring! shyamswaroop. Shyam. Swaroop. Co-Founder & CTO at. Atri. Labs (YC ) | MS. CS. Columbia (dropped out) | IIT. KGP ' Node.js. Flask. GIBS. Server-side. Software for. Visualizing. Diverse. Geospatial. Data. Products. American. Geophysical. Union. Fall. Meeting. Advith. Chelikani. Co-Founder @ Pylon | Scale. Customer. Operations on. Slack. Bootstrap. Hackathons. Matlab. Mathematica. R. MySQL. OCaml jQuery
-::

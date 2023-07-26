@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Neednova
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ben Harris is a fellow from the class of 2022 who is currently working as a Software Engineer at Neednova, a Others company based in Houston. Over the course of their career, they have worked at 5 organizations, including Neednova <neednova.com>; KPCB <kleinerperkins.com>; Babylon <babylonmicrofarms.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Engineering Fellow; Enterprise Engineer; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -60,9 +81,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-oliviasulee. Olivia. Lee software @ Brex personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Computer. Software. American. Red. Cross. HS. Scholarship. American. Red. Cross. Seymour. Award. Finalist. California. Scholarship. Federation. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. Journalism. InDesign. Adobe. Photoshop. Team. Leadership. Customer. Service. Microsoft. Excel. Microsoft. Word. Microsoft. PowerPoint. False sam-forman- Sam. Forman. CS @ UMich siddhantdange. Sid. Dange. Co-Founder @ Vista (YC ) - We're hiring! govista.io stephaniekdoan. Stephanie. Doan. Software. Engineer at. Brex simranregmi. Simran. R. SWE @ Brex. Andy. C. Software. Engineer @ Brex wuedward. Edward. Wu. Software. Engineer kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow. Michael. Chen. Senior. Software. Engineer at. Brex marie-hooper- Marie. Hooper. Software. Engineer @ Brex lihelennn. Helen. Li. Software. Engineer at. Brex. Computer. Security. Data. Structures. Database. Systems. Human-Centered. Design. Design. Innovation. Industrial. Design and. Human. Factors. IEOR. Principles & Techniques of. Data. Science. Product. Development. IEOR. Design. Project. Manager. Outhrive. Pro bono contract as. Design. PM leading a team of designers to provide design recommendations for a local small business impacted by. COVID-. Python (Programming. Language) Java. Social. Implications of. Computer. Technology. Urban. Data. Analytics. City. Planning. JavaScript. CSS. UI. User. Experience (UX) Product. Development. Product. Design. User. Interface. Design. User-centered. Design. Leadership
-::

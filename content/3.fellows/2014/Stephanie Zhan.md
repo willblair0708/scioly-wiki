@@ -6,8 +6,8 @@ Class of 2014
 Partner at Sequoia Capital India
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 9
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Stephanie Zhan is a fellow from the class of 2014 who is currently working as a Partner at Sequoia Capital India, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Sequoia Capital <sequoiacap.com>; Nest Labs <nest.com>; Google <google.com>; Ethos Life <ethoslife.com>; Graphcore <graphcore.ai>; Brud <brud.fyi>; Middesk <middesk.com>; Linear <linear.app>; Sunday <getsunday.com>; Rec Room <againstgrav.com>; Sequoia Capital India <sequoiacap.com>, and held 7 different job titles, such as Partner; Investor, Seed And Series A; Product Manager; Former Board Director; Associate Product Marketing Manager; Board Director; Investor, Series C. They have amassed 9 years of experience and have acquired 9 skills, including Java; Data Analysis; Market Research; Strategic Planning; Business Development; C++; Product Management; Due Diligence; Product Marketing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -106,9 +127,3 @@ Roles
 - **Investor, Series C**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dannyserna. Danny. Serna. Head of. Product, Poker at. Zynga personal - United. States. Los. Angeles. Metropolitan. Area. Los. Angeles. Metropolitan. Area. False. False. English. NATIVE_OR_BILINGUAL. Spanish. PROFESSIONAL_WORKING. Internet. Zynga. Zynga. Head of product for. Zynga. Poker, a leading social gaming franchise. In this capacity. I manage a team of product managers through all parts of operating an at-scale internet product - ideation, backlog prioritization, spec development, feature implementation, release management, tuning, data analysis, feature readouts, data-driven investigations, and feature iteration. I have been a people manager since . My experience has taught me to be as enthusiastic about the strategic pieces of product management as the weeds of execution in order to deliver excellent results. I believe in defining goals clearly up front and holding that goal as a north star through the development process. By partnering closely with stakeholders across levels and disciplines, I have developed crisp communication, thick skin, and a strong ability to recall facts. Above all, I strive to be resilient and empathetic as a colleague and a leader. Roles held: Director of. Product (-present) Lead. Product. Manager (-) Senior. Product. Manager (-) Product. Manager (-) Associate. PM (-) Marketing. Intern () Director of. Product. True tonya-landfair- Tonya. Landfair. Director of. Product. Management @ Zynga | Mobile. Gaming. Expert toshi-baker. Toshi. Baker. Vice. President of. Product, Cards & Casino antontzarfin. Anton. Tzarfin. Director of. Product | former. Founder, CEO at. DraftOrPass. LLC crisperic. Eric. Crisp. Director of. Product at. Zynga ourilahav. Ouri. Lahav. Director of. Product at. Zynga liamshi. Liam. Shi. Product | Zynga aaron-worku. Aaron. Worku. Director of. Product at. Zynga | Texas. MBA christophermahoney. Chris. Mahoney. Sr. Director, Central. Product, Zynga | ex-King | ex-PlayStation. Andrew. Ice. Senior. Vice. President, Games at. Zynga ramprakashraghupathy. Ramprakash. Raghupathy. Director. Of. Product at. Zynga
-::

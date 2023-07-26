@@ -7,7 +7,7 @@ Co-Founder And Chief Technology Officer at Stelo Labs
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Aman Dhesi is a fellow from the class of 2013 who is currently working as a Co-Founder And Chief Technology Officer at Stelo Labs, a Startup company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including IBM <ibm.com>; Square <squareup.com>; Drawbridge <drawbridge.com>; DoorDash <doordash.com>; Afore Capital <afore.vc>; MyselfFit <myselffit.mystrikingly.com>; Microsoft <microsoft.com>; Meta <meta.com>; Stelowallet <stelowallet.com>; Stelolabs <stelolabs.com>; Stelo Labs <blog.stelolabs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Glotify <glotify.com>, and held 11 different job titles, such as Product Manager; Software Engineer And Tech Lead, Machine Learning; Venture Product Partner; Research Intern; Engineering Fellow; Co-Founder And Chief Technology Officer; Angel Investor; Software Engineer, Machine Learning; Data Scientist And Kpcb Engineer Fellow; Product Manager, Square Capital; Founding Pm, Blood Donations. They have amassed 10 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -92,9 +113,3 @@ Roles
 - **Founding Pm, Blood Donations**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-esmeraldabmontas. Esmeralda. Montas. Software. Engineer @ Imprint | Brown' | KP. Fellows ' personal --m-XaDg. United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. False. False. Computer. Software. Proxy-Based. Sliding. Mode. Control (PSMC) Integrated with. Error. Tracking . Created a new system in. MATLAB integration that minimized system error, by using a cost function that took a couple. PID and. SMC controller and generated and cached error values . Applicable to manufacturing where trajectory needs to be safe and is currently under review in. IEEE. Control. Society. Esmeralda. Montas. Software. Engineer @ Imprint | Brown' | KP. Fellows ' Relevance. Search. Algorithm for. Electronic. Health. Record (EHR) Add-On . Oversaw the entire lifecycle of software development, which included accumulated information from relevant healthcare professionals as well as software implementations . Implemented. SQL databases interaction with backend. Java code to maximize efficiency in information flow. Esmeralda. Montas. Software. Engineer @ Imprint | Brown' | KP. Fellows ' Imprint. New. York, United. States. Imprint. Software. Engineer. Full-time. Matlab. Java. Verilog. Scala. Public. Speaking. C (Programming. Language) C++ LaTeX. True kaichang-huang. Kaichang. Huang. Software. Engineer at. Imprint alexandermbecker. Alex. Becker. Engineering at. Imprint samanthafadrigalan. Samantha. Fadrigalan. Software. Engineer carllachner. Carl. Lachner. Engineering. Manager at. Imprint aneeshrastogi. Aneesh. Rastogi. Software. Engineer @ Imprint. Mudit. Saxena. Imprint - ex. Meta (Facebook) - New. York. University timn. Timothy. Nguyen. Software. Engineer at. Imprint jonathan-nguyen-ut. Jonathan. Nguyen. Software. Engineer at. Imprint. Payments lzbob. Zheng. Liu. Head of. Engineering @Imprint. Vitaly. Cherkasov. Full-stack. Developer at. Imprint. Circuits. ENGN. Communication. Systems. ENGN. Control. Systems. ENGN. Data. Structures and. Algothirms. CSCI. Design of. Computing. System. ENGN. Digital. Electronic. Design. ENGN. Electricity and. Magnetism. ENGN. Chisel. Model. Sim. Embedded. Software. CSCI. Introduction to. Software. Engineering. CSCI. Probability and. Statistics. CSCI. Python (Programming. Language) LabView. SQL. Application-Specific. Integrated. Circuits (ASIC) Field-Programmable. Gate. Arrays (FPGA) RISC-V. Assembly. Software. Development. GNU. Debugger
-::

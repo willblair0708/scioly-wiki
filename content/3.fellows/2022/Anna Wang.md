@@ -6,8 +6,8 @@ Class of 2022
 Software Engineering Intern at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Anna Wang is a fellow from the class of 2022 who is currently working as a Software Engineering Intern at Stripe, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Cisco <cisco.com>; Stripe <stripe.com>; Penn Labs <pennlabs.org>; KPCB <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as User Experience Researcher; Designer; Software Engineering Intern; Kp Fellow; Software Engineer Intern. They have amassed 1 years of experience and have acquired 6 skills, including Motion Graphics; Human Computer Interaction; Java; Graphic Design; Adobe Creative Suite; Computer Science. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -77,9 +98,3 @@ Roles
 - **Software Engineer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-libby-coleman. Libby. Coleman. Product. Manager @ Apple personal. ACoAABcZcyMBZc- United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Information. Technology & Services. Apple. Cupertino, California, United. States. Apple. ML at. Apple. News. Technical. Product. Manager. Full-time. True blytheyee. Blythe. Yee. Product. Manager at. Apple hanna-ramsden. Hanna. R. Product. Manager at. Apple areeba-kamal. Areeba. Kamal. Product. Manager, Accessibility at. Apple sofia-sill- Sofia. Sill. Product. Manager @ Apple | Carnegie. Mellon. T&E. Lead daniel- Daniel. Frost. Product at. Apple mattkorman. Matt. Korman. Product. Manager at. Apple diana-chen- Diana. Chen. Product & Pricing @ Apple ellendalen. Ellen. Dalen. Product. Manager at. Apple sameersvij. Sameer. Vij. Product. Manager at. Apple kate-benuska- Kate. Benuska. Product. Manager @ Apple
-::

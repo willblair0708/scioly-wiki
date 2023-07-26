@@ -6,8 +6,8 @@ Class of 2019
  at 
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Education; AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 42
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Danielle Limcaoco is a fellow from the class of 2019 who is currently working as a nan at nan, a Others company based in Stanford. Over the course of their career, they have worked at 14 organizations, including Unilever <unilever.com>; Nextdoor <nextdoor.com>; Robinhood <robinhood.com>; Rappler <rappler.com>; Stanford Biodesign Alumni Association <biodesignalumni.com>; CollegeVine <collegevine.com>; Olelo <olelohq.com>; CYNGN <cyngn.com>; Stanford Graduate School of Business <gsb.stanford.edu>; Standford Alumni <stanfordalumni.org>; AIC Education <jq-edu.com>; rapidhirerecruiting <rapidhirerecruiting.com>; Hasso Plattner Institute of Design at Stanford ( d.school ) <dschool.stanford.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Product Designer; Product Design Intern; Kleiner Perkins Design Fellow; Brand Building Intern For Unilever Premium Beauty Products; User Interface And User Experience Design Consultant; Events Intern; Product Development Intern; Presidential Campaign Intern; Design For Extreme Affordability Product Designer; Intern For The Balikbayan Section; Brand Strategist @ Topt; Reunion Homecoming Team Leader; Product Design Intern, Cyngn; D.School K12 Design Research Intern. They have amassed 4 years of experience and have acquired 42 skills, including Design Thinking; Autodesk Fusion 360; Startups; Journalism; Social Media; Sketch; User Experience; Teaching; Invision; Ethnographic Research; Social Entrepreneurship; Laser Cutting; Html; Event Planning; Adobe Illustrator; Java; Silversmithing; Public Speaking; Microsoft Powerpoint; Research; Microsoft Word; Heuristic Evaluation; Project Management; Photoshop; User Research; Microsoft Office; Rapid Prototyping; Early Stage Startups; Fundraising; Powerpoint; Solidworks; 3D Printing; Leadership; Microsoft Excel; Wireframing; Storyboarding; Teamwork; Nonprofits; Css; Program Management; Business Strategy; Interaction Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -221,9 +242,3 @@ Roles
 - **D.School K12 Design Research Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-leytonho. Leyton. Ho. CS & Applied. Math @ Brown | KP. Fellow personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Computer. Software. Place at. HackMIT: IBM. Best. Solution. Addressing the. Community. Response for. COVID- National. AP. Scholar. U.S. Presidential. Scholar. Candidate. U.S. Department of. Education. California. State. Blitz. Chess. High. School. Champion () Watershed. Watershed. Software. Engineer. Intern. True john-diorio. John. Diorio. Investor at. Stripes hgu. Henry. Gu. CS @ USC, prev. Stripe | KP. Fellow zhao-catherine. Catherine. Zhao. CS & Business @ UC. Berkeley. Tejas. Mehta. Venture. Partner @ Contrary | Engineering. Fellow @ Kleiner. Perkins arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ ~samay. Samay. Nathani. Software. Engineer at. Robinhood onlyhamza. Hamza. Khawaja. Founding team at. Atlas, formerly. Hadith, KP. Product, Google, Microsoft, Salesforce, Tesla. Berkeley. CS, Data. Science alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow. Fully. Automated. GrowCut-based. Segmentation of. Melanoma in. Dermoscopic. Images. JYI. Leyton. Ho. CS & Applied. Math @ Brown | KP. Fellow
-::

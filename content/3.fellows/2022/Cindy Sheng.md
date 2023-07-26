@@ -6,8 +6,8 @@ Class of 2022
 Product Design Intern at Zumper
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 15
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Cindy Sheng is a fellow from the class of 2022 who is currently working as a Product Design Intern at Zumper, a Others company based in Houston. Over the course of their career, they have worked at 8 organizations, including Zumper <zumper.com>; Rice University <rice.edu>; Amazon Web Services <amazonaws.com>; KPCB <kleinerperkins.com>; Mindy Rice Floral Design <mindyrice.com>; Wave Learning Festival <wavelf.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Eat With Menu <eatwithmenu.com>, and held 7 different job titles, such as Web Design Intern; Product Design Intern; Founder And President; Kp Design Fellow; Rice Coffeehouse Graphics And Marketing Manager; Product Designer; User Experience Design And Research Intern. They have amassed 1 years of experience and have acquired 15 skills, including Adobe Creative Suite; User Experience Design; Balsamiq; Python; Invision; Wireframing; User Interface Design; User Testing; Leadership; Research; Figma; Business Communications; Ux Research; Public Speaking; Design Thinking. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -115,9 +136,3 @@ Roles
 - **User Experience Design And Research Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-onkursen. Onkur. Sen. Staff. Software. Engineer at. Robinhood personal. Backend and infrastructure/devops engineer familiar with. Python/Django, Golang, Bash, Postgres, and. AWS. Passionate about leading teams valuing first-principles thinking, high transparency, and strong communication. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Bengali. NATIVE_OR_BILINGUAL. Chinese. ELEMENTARY. Computer. Software. Sangleet. Wrote, choreographed, and directed a -minute musical. Onkur. Sen. Staff. Software. Engineer at. Robinhood. Robinhood. Robinhood • Tech lead of. Cash, responsible for the. Cash. Card and. Robinhood. Money (RHY) Staff. Software. Engineer. Python. Java. Ruby. Software. Engineering. LaTeX. HTML. CSS. True hefu-chai- Hefu. Chai. Engineering at. Robinhood | Ex-Facebook. Ashok. Kumar. Senior. Staff. Software. Engineer at. Robinhood yue-cao-diane. Yue. Cao. Tech. Lead @ Robinhood mantasmatelis. Mantas. Matelis. Senior. Staff. Software. Engineer at. Robinhood agnimit. Nimit. Agrawal. Software. Engineering. Manager at. Robinhood. Sreeram. Ramji. Senior. Staff. Software. Engineer at. Robinhood ankit-katiyar- Ankit. Katiyar. Staff. Software. Engineer at. Robinhood sujithktkm. Sujith. Katakam. Staff. Software. Engineer at. Robinhood wayne-li- Wayne. Li. Software. Engineer, Robinhood waichipngai. Wai. Chip. N. Software. Engineer at. Robinhood. English. NATIVE_OR_BILINGUAL. Catalyst: Rice. Undergraduate. Science. Research. Journal. Editor-in-Chief, Executive. Editor, Writer. South. Asian. Society (SAS) President, Treasurer, Choreographer, Performer, Volunteer, Webmaster. Partnership for the. Advancement and. Immersion of. Refugees (PAIR. Houston) Volunteer. Tutor. Rashmi. Kamath. Global. Marketing. Ophthalmology at. Apellis. Creating. Musical. Variations. Using. Genetic. Algorithms. American. Junior. Academy of. Sciences. Onkur. Sen. Staff. Software. Engineer at. Robinhood. Effects of. Social. Network. Topology and. Options on. Norm. Emergence. Springer-Verlag. Onkur. Sen. Staff. Software. Engineer at. Robinhood. Solving the. Tragedy of the. Commons by. Adapting. Aspiration. Levels. Springer-Verlag. Onkur. Sen. Staff. Software. Engineer at. Robinhood. Robinhood • Led engineering incident response for of the company’s biggest outages • Built tool automating first-time local setup, saving hours/person as engineering grew from - • Owned, operated, and documented. Airflow for online business-critical workflows and pipelines • Created and automated release process and canary analysis, paving the way for continuous deployment, reducing engineering time and increasing safety of code changes. Senior. Software. Engineer. Hindi. LIMITED_WORKING. Palo. Alto, CA. Robinhood • Productionized all internal services for. Robinhood’s in-house self-clearing system, the first in > years • Led cross-team group of engineers to service infrastructure and reliability needs for backend teams. Software. Engineer
-::

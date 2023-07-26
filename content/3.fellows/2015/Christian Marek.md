@@ -6,8 +6,8 @@ Class of 2015
 Senior Director Of Product Management at DocuSign
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Christian Marek is a fellow from the class of 2015 who is currently working as a Senior Director Of Product Management at DocuSign, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Google <google.com>; DocuSign <docusign.com>; Wiener Borse AG - Vienna Stock Exchange <wienerborse.at>; Massachusetts Institute of Technology <mit.edu>; EY <ey.com>; Fb <fb.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Director of Product Management; Software Engineer; Product Manager; Senior Director Of Product Management; Senior Consultant; Product Fellow; Master Of Business Administration , Entrepreneurship And Innovation; Gtech Product Manager Intern; Senior Product Manager. They have amassed 8 years of experience and have acquired 17 skills, including Business Strategy; Consulting; Leadership; Presentations; Product Development; Cross Functional Team Leadership; Information Security; Team Leadership; Management; Entrepreneurship; Strategy; Data Analysis; It Management; User Experience; Project Management; Product Management; It Strategy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -123,9 +144,3 @@ Roles
 - **Senior Product Manager**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-daniel-mai- Daniel. Mai. Product. Designer at. Apple personal -iseyb-N- My core strength and passion as a designer lies in the development of compelling and refined interactions distilled from an empathy and understanding of cognitive human behavior. This awareness and focus enables me to ideate with insight and intention to produce impactful user experiences and provide smart business, marketing, and product strategy. My diverse design experience enables me to bring designs to life with many different tools and skills while my technical background provides me with a greater understanding of how to develop and tightly integrate user experiences with current and future technologies. United. States. Cupertino, California. Cupertino. California. Cupertino, California, United. States. False. False. Design. KPCB. Design. Fellow. KPCB. National. Merit. Scholarship. National. Merit. Scholarship. Corporation. University. Honors. Program. North. Carolina. State. University. Apple. Cupertino, CA. Apple. Currently working as a product designer for. Apple's consumer apps developing experiences for macOS, iOS, iPadOS, VisionOS and web. Product. Designer. Full-time. Interaction. Design. User. Experience. Design. User. Interface. Design. User. Experience. Concept. Development. Rapid. Prototyping. Graphic. Design. User-centered. Design. True juzzhu. Julie. Zhu. Experience. Designer at. Apple  | ex - Samsung, frog, R/GA caslemmens. Cas. Lemmens. Human. Interface. Designer at. Apple rubii-pham- Rubii. Pham. Human. Interface. Designer at. Apple michelle-gore. Michelle. G. Product. Designer/Manager @ Apple  chrislauritzen-design. Chris. Lauritzen. Design at. Apple jeanne-park- Jeanne. Park. Designer at. Apple hannaxu. Hanna. Xu. Designer at. Apple richard-howarth- Richard. Howarth. Vice. President, Design at. Apple euniceyounglee. Eunice. L. Designer at. Apple haiyuan. Hannah. Jiang. Human. Interface. Designer at. Apple. Wireframes. Design. Strategy. Information. Architecture. Photoshop. Adobe. Creative. Suite. Illustrator. InDesign. Adobe. Illustrator. Adobe. Photoshop. After. Effects. Solidworks. Python
-::

@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Uber
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 32
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jordane Thomas is a fellow from the class of 2022 who is currently working as a Software Engineer at Uber, a Others company based in New York. Over the course of their career, they have worked at 9 organizations, including Uber <uber.com>; hackNY <hackny.org>; PureWow <purewow.com>; CODE2040 <code2040.org>; Alto <alto.com>; Roadtrip Nation <roadtripnation.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Datadog <datadoghq.com>; Time Warner Inc. <timewarner.com>, and held 5 different job titles, such as Project Manager; Software Engineer; Engineering Fellow; Fellow; Interviewer. They have amassed 1 years of experience and have acquired 32 skills, including Numpy; Pandas; Graphql; Cascading Style Sheets; Swiftui; Data Structures; C (Programming Language; Matplotlib; Stm32; Arm Assembly; Embedded Systems; Ruby; Rest Apis; Public Speaking; Html; Java; C++; Full Stack Development; Matlab; Web Development; Swift; Flask; Leadership; Javascript; Data Analysis; Ios Development; React.Js; Python; Mobile Application Development; Ruby On Rails; Redux.Js; React Native. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -167,9 +188,3 @@ Roles
 - **Interviewer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-ethan-hellman- Ethan. Hellman. Researcher, Fellow, Founder, and. Student personal. ACoAACpA--hyVVKfGDo. United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. False. False. Information. Technology & Services. Stanford. Artificial. Intelligence. Laboratory (SAIL) Stanford, California, United. States. Stanford. Artificial. Intelligence. Laboratory (SAIL) Working on the. Oil & Gas. Well. Pad team to automatically detect sites worldwide using domain-adaptive techniques in low data regimes. Research. Assistant (Climate. Lab) Part-time. True stephenjhuh. Stevie. J. Huh. Director of. Engineering | KP. Engineering. Fellow & Z. Fellow spencer-paul- Spencer. Paul. CS at. Stanford. University pratyush-muthukumar. Pratyush. Muthukumar. MS. Computer. Science @ Stanford | NSF. GRFP. Fellow arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E parammpatel. Param. Patel. Founder at. Indux | Kleiner. Perkins. Fellow sam-forman- Sam. Forman. CS @ UMich sridhargudihala. Sridhar. G. Founder |Advisor|Product. Management | Angel. Investor| Payments|HealthCare| and. Products ivo-rothschild. Ivo. Rothschild. Chief. Software. Engineer at. Toucan ericajack. Erica. J. Builder | Strategy, Product, and. Design
-::

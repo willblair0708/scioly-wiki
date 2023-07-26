@@ -7,7 +7,7 @@ Co-Founder at Pylon Manufacturing
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Robert Eng is a fellow from the class of 2016 who is currently working as a Co-Founder at Pylon Manufacturing, a Startup company based in Saratoga. Over the course of their career, they have worked at 10 organizations, including UC Santa Cruz <ucsc.edu>; DoorDash <doordash.com>; Speedy Packets <speedypackets.com>; Affinity <affinity.co>; Ikasi.ai <ikasi.ai>; California Institute of Technology <caltech.edu>; Hacktech <hacktech.io>; Meta <meta.com>; Pylon <usepylon.com>; Pylon Manufacturing <pylonhq.com>, and held 10 different job titles, such as Donut Devteam; Astronomy Research Intern; Software Engineer; Kpcb Engineering Fellow And Infrastructure Software Engineering Intern; Co-Head Director; Co-Founder; Information Security Intern; Software Engineer Internship; Teaching Assistant; Network Software Engineer Intern. They have amassed 7 years of experience and have acquired 17 skills, including Html; Python; C++; Sql; Javascript; Jquery; Xml; Node.Js; Mysql; C; Mongodb; Ejs; Socket.Io; Css; Adobe Illustrator; Php; Java. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -130,9 +151,3 @@ Roles
 - **Network Software Engineer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-akarshankumar. Akarshan. Kumar. Valley. Product. Lead (Creator of the. Twitter 💙), Starting @MonaLeeSolar & Angel. Investor personal - Passionate about building great software, some of my recent launches are listed below. Happy to help if you're looking for a new role or just general advice: email me at akarshan. AT cs.princeton.edu. United. States. Tampa, Florida. Tampa. Florida. Tampa, Florida, United. States. True. False. Hindi. Computer. Software. Mona. Lee. Solar. Miami, Florida, United. States. Mona. Lee. Solar. Proud to be leading a new mission to electrify homes with clean energy. Co-Founder & Head of. Product. Full-time. Python. User. Interface. Java. C. Mobile. Devices. JavaScript. R. Algorithms. True walidhalty. Walid. Halty under (EarthX) | under (Renewable. Energy. World) dillon-long- Dillon. Long. Full time solar - part time welder anna-li- Anna. Li. Product @ Propel adamfe. Adam. Feldman. Product. Management ashumanohar. Ashu. Manohar. Head of. Product at. Medely - Hiring!! ex. Uber, Microsoft, Twitter kellyoshaughnessy. Kelly. O'Shaughnessy. Product. Lead at. Airtable mirajr. Miraj. Rahematpura. Product @ DoorDash smithjoanne. Joanne. Smith. Lead. Product. Manager at. Uber vjanowski. Vanessa. Janowski. Head of. Product. Growth, New. Initiatives @ Dropbox akanshakumar. Akansha (. Product @ Uber. Objective-C. Matlab. Entrepreneurship. C++ Product. Management. Software. Development. Data. Analysis
-::

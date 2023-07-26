@@ -6,8 +6,8 @@ Class of 2022
 Swe at Fusen
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 49
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Aidan Pratt is a fellow from the class of 2022 who is currently working as a Swe at Fusen, a Others company based in Atlanta. Over the course of their career, they have worked at 13 organizations, including ATDC <atdc.org>; Atlanta Tech Village <atlantatechvillage.com>; Atlanta Ventures <atlantaventures.com>; Commissiontrac <commissiontrac.com>; FIRST <firstinspires.org>; Boy Scouts of America <scouting.org>; Amazon Web Services <amazonaws.com>; Cherry <withcherry.com>; Startup Exchange <startup.exchange>; Hitsnag <hitsnag.com>; Fusen <fusen.world>; Kleiner Perkins Caufield & Byers <kpcb.com>; Upakka, Llc <upakka.com>, and held 15 different job titles, such as Co-Founder; Vc Analyst Intern; Data Scientist And Analytics Engineer; Investment Relations; Microsoft Scholarship Holder; Eagle Scout; Programmer And Electrical Engineer; Outreach Lead; Member And Scholar; Sx Fellowship Team; Kleiner Perkins Fellow; Chief Executive Officer And Co-Founder; Independent Coder Intern; Aws Activate Scholarship For Startups; Swe. They have amassed 1 years of experience and have acquired 49 skills, including User Experience; Django; Html; Community Outreach; Microsoft Powerpoint; Microsoft Word; Privacy Law; Digital Marketing; Microsoft Excel; Javascript; Longterm Vision; Leadership; Budgeting; Microsoft Office; Data Analysis; Team Leadership; Social Media Marketing; Project Planning; Project Management; Github; Public Speaking; Java; Strategic Planning; Fundraising; Web Design; Software Development; Determination; Idea Machine; Social Media; Cascading Style Sheets; Frc; Disruptive Technologies; First; Data Privacy; Python; Ionic Framework; Scouting; Marketing; Research; Robotics; Educational Outreach; Arduino; Boy Scouts; Team Building; Program Management; User Interface Design; Time Blocking; Heroku; Cooking Ramen At 3Am. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -240,9 +261,3 @@ Roles
 - **Swe**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-pranavijavangula. Pranavi. Javangula. Product. Designer @ Quizlet personal -JKyqXk. Hi, I'm. Pranavi! I'm a product designer excited about making an impact at the intersection of the human psyche and human-centered design ✨ United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. Design. Speech & Debate. Top in the. Nation. Placed top in the nation in. Duo. Interpretation at the. National. Speech and. Debate. Tournament hosted in. Birmingham, Alabama. National. Speech and. Debate. Association. Speech & Debate. Berkeley. Finalist. Placed out of competing teams in. Duo. Interpretation at the prestigious. UC. Berkeley. National. Invitational. Tournament. Speech & Debate. State. Champion. Won place in. Duo. Interpretation at the. California. Speech. State. Championships hosted in. Arcadia, California - became the first ever. Duo. State. Champion from. Archbishop. Mitty. High. School. California. High. School. Speech. Association. Undergraduate. Award in. Visual. Arts. Teacher nominated award for work in animation and graphic design using. Adobe. Illustrator. Nicole. Limoges. Quizlet. San. Francisco. Bay. Area. Quizlet. Currently designing machine-learning driven study experiences for. Quizlet's free and premium. Study products. Previously designed expert-authored solutions for. Quizlet's premium. Expert. Solutions product. Product. Designer. Full-time. Leadership. Public. Speaking. Research. Writing. Adobe. Illustrator. Adobe. Photoshop. Social. Media. Teamwork. True duo-xu- Duo. Xu. Product designer at. Quizlet stephanysoto. Stephany. Soto. Senior. Manager of. Product. Operations at. Quizlet sethany. Sethany. Kaing. Design & Research @ Quizlet | Adobe. Ambassador | Student @ UC. Berkeley vickiec. Vickie. Chiang. Head of. UX & Design at. Quizlet | Previously. NerdWallet & GoFundMe anna-khazenzon- Anna. Khazenzon. Data. Scientist samcclement. Sam. Clement. Applied. Mathematics and. ORMS @ UC. Berkeley jasoncaragan. Jason. Caragan. Senior. Product. Designer at. Quizlet salvatorebertucci. Salvatore. Bertucci. Senior. Product. Design. Manager at. Quizlet lizzie-arnett- Lizzie. Arnett. UX. Researcher and. Research. Operations. Specialist at. Quizlet jordan-barton- Jordan. Barton. Full. Stack. Software. Engineer @ Quizlet. Berkeley. Innovation. Design. Consultant. BLUM. Center. Research. Assistant. Judgement and. Decision. Making. Lab. Research. Apprentive. Teaching. Design of. Experiments (DOE) CalTV. Entertainment. Producer. Communication. Sketch. Adobe. Premiere. Pro. Digital. Marketing. Graphic. Design. Computer. Science. Education. User. Experience (UX) User. Research. Design. Thinking. San. Francisco, California, United. States. Quizlet. Designed search and courses experiences to help connect students to the most relevant study materials for them. Associate. Product. Designer. Full-time
-::

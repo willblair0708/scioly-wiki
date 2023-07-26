@@ -6,8 +6,8 @@ Class of 2015
 Product Designer at Airtable
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 13
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Elaine Zhou is a fellow from the class of 2015 who is currently working as a Product Designer at Airtable, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Quora <quora.com>; Uber <uber.com>; Frog Design <frogdesign.com>; Hoover Institution at Stanford University <hoover.org>; Airtable <airtable.com>; University of Central Florida <ucf.edu>; Ivy Insiders <ivyinsiders.com>; Shoe Land <shoeland.com>; Hasso Plattner Institute of Design at Stanford ( d.school ) <dschool.stanford.edu>; Remind <remind.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 13 different job titles, such as Product Design Lead; Manager; Engineering Fellow; Course Assistant; Research Intern; Section Facilitator For Me104B: Designing Your Life; Branch Manager; Software Engineering Intern; Research Assistant; Graphic Design Intern; Product Designer; Design Technologist Intern; Engineering Intern. They have amassed 8 years of experience and have acquired 16 skills, including Design Thinking; Sketch; Css; Java; C++; Photoshop; Public Speaking; Javascript; Git; Html; Keynote; C; Research; Teamwork; Data Analysis; Rapid Prototyping. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -133,9 +154,3 @@ Roles
 - **Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-cheng-lin. Cheng. Lin personal - United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Google. GHC. Travel. Grant. Recipient. Google. GHC. Travel. Grant. Recipient. Scholarship to attend the. Grace. Hopper. Celebration for. Women in. Computing. Hatch. Scholarship. Valued at $,, this scholarship is awarded to undergraduate students on the basis of high academic standing and overall contribution to university life by the. Faculty of. Engineering. McGill. University. Greville. Smith. Scholarship. The $, scholarship recognizes leadership, participation in community affairs, and athletic involvement. It is awarded to five students from. McGill's incoming undergraduate class who have shown promise of future success and responsible citizenship. McGill. University. Loran. Scholarship. National. Finalist. The. Loran. Award is. Canada's most prestigious undergraduate scholarship. Through a rigorous interview process, the foundation seeks high school students with leadership, character, and integrity. In , National. Finalists were selected from , applicants across. Canada. Loran. Foundation. Watershed. San. Francisco. Bay. Area. Watershed. Helping companies cut carbon -- we're hiring! Software. Engineer. Full-time. Public. Speaking. Leadership. Teamwork. Java. Python (Programming. Language) True. President. McGill. Artificial. Intelligence. Society. EDUCATION. Previous: Technical. Project. Manager. Helped build the. AI community at. McGill through technical, industry, and social events. Previously ran. ML bootcamps and workshops for. McGill students. For more information:
-::

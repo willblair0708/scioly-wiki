@@ -6,8 +6,8 @@ Class of 2020
 User Experience Lead, Android Accessibility at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 55
+::
+::badge{type="info"}
+Number of Past Jobs: 13
+::
+::badge{type="info"}
+Number of Organizations: 51
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Perrin Anto is a fellow from the class of 2020 who is currently working as a User Experience Lead, Android Accessibility at Google, a Big Tech company based in Saratoga Springs. Over the course of their career, they have worked at 51 organizations, including IDEO <ideo.com>; Airbnb <airbnb.com>; Columbia University <columbia.edu>; Google <google.com>; Valogix <valogix.com>; 2hats <2hats.com.au>; Proto Partners <protopartners.com.au>; Columbia Engineering and Services <columbia-engineering.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Institute For Quantum Computing <iqc.ca>, and held 13 different job titles, such as Incoming User Experience Design Intern; Experience Design Intern; Automated Software Engineer; Research Assistant, Robotics Design; Design Teaching Fellow; User Experience Lead, Android Accessibility; Product Designer And Development Manager; Kleiner Perkins Design Fellow; Undergraduate Researcher, Quantum Computing; Research Assistant; Interaction Designer; Makeathon Designer; Research Assistant, Quantum Computing. They have amassed 3 years of experience and have acquired 55 skills, including Product Development; Presentation Skills; Research; Physics; Adobe Creative Suite; Javascript; Rapid Prototyping; Visual Design; Wireframing; Cnc Programming; Branding And Identity; Storyboarding; Adobe Indesign Cc; Sql; Social Media; Market Research; Invision; Animation; Adobe Illustrator; User Experience Design; Presentation Development; Sound Design; User Research; User Interface Design; Balsamiq; Sketch App; Management; User Experience; Microsoft Sql Server; Laser Cutting; Java; C++; Cascading Style Sheets; Software Quality Assurance; Project Management; Leadership; Adobe Photoshop; Framer; Autocad; Microsoft Office; 3D Printing; Interaction Design; Software Development; Principle; Strategic Planning; Integration; Html; Xml; Customer Service; User Testing; Teamwork; Public Speaking; Data Visualization; Software Project Management; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -370,9 +391,3 @@ Roles
 - **Research Assistant, Quantum Computing**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-serena-tam. Serena. Tam iOS. Engineer at. Slack personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. Dean's. List. National. Semifinalist in the. Siemens. Competition in. Math, Science & Technology. Rabi. Scholar. Slack. San. Francisco. Bay. Area. Slack iOS. Engineer. Full-time. Java. C (Programming. Language) Unix. Python (Programming. Language) C++ Swift (Programming. Language) Microsoft. Excel. Microsoft. Office. True clairebadams. Claire. Adams. Software. Engineer @ Slack verlichen. Verli. C. Product. Designer at. Slack. Bill. Chen. Engineer @ Retool | Columbia chris-cruz- Chris. Cruz. Senior iOS. Engineer at. Pandora anvita-bhaskara- Anvita. Bhaskara. Software. Engineer at. JPMorgan. Chase & Co. manny-l- Manny. L. Experienced. Software. Engineer caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow andy-l-dev. Andy. L. Software. Engineer | Focus in. Full stack development | Software. Developer megan-wei. Megan. W. CS @ MIT miabramel. Mia. Bramel. Software. Engineer @ Cisco | CS-Math @ Columbia. Advanced. Programming in. C/C++ Calculus. III. Calculus-Based. Introduction to. Statistics. Computer. Science. Theory. Data. Structures in. Java. Discrete. Mathematics. Intro to. Computer. Science/Programming in. Java. Board. Treasurer. Columbia. Women in. Computer. Science. SCIENCE_AND_TECHNOLOGY. Microsoft. Word. HTML. Linear. Algebra
-::

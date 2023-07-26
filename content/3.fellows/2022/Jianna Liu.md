@@ -6,8 +6,8 @@ Class of 2022
 Investment Partner at Dorm Room Fund
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jianna Liu is a fellow from the class of 2022 who is currently working as a Investment Partner at Dorm Room Fund, a Others company based in Boston. Over the course of their career, they have worked at 9 organizations, including NVIDIA <nvidia.com>; DoorDash <doordash.com>; Dorm Room Fund <dormroomfund.com>; MITIMCo <mitimco.org>; Massachusetts Institute of Technology <mit.edu>; Unicamp <unicamp.br>; Skale Education <theskale.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer Intern; Deep Learning Research Intern; Astrophysics Research Intern; Kp Fellow; Investment Partner; Machine Learning Research Assistant; Undergraduate Teaching Assistant; Undergraduate Student Researcher. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -77,9 +98,3 @@ Roles
 - **Undergraduate Student Researcher**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-montanascher. Montana. Scher. Co-Founder, CEO at. Morf. Health (YC ) personal. Reach out if you're interested in talking about building tech platforms at early digital health companies. What are you struggling with? Are you hoping to build digital experiences that engage patients, increase operational efficiency, and improve health outcomes? Maybe you're just starting with the basics - building a platform that allows you to understand and track what's going on with your patients and your business. I might be able to help, or at least provide some moral support. 💪 amscher.github.io. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Health, Wellness & Fitness. Identifying. Factors in. Congressional. Bill. Success. Analyzed properties of bills such as simple statistics, degree distribution, betweenness centrality on co-sponsorship graphs, PageRank scores for the chair-membership graph. Investigated correlation between a sponsor's financial contributions and the outcome of their bills. Applied matrix factorization to understand the affinity of a particular legislator towards any given bill. These were used to understand the influence of each congress member. Finally, predicted whether a bill is successful or not using machine learning models, with all the above as features. Montana. Scher. Co-Founder, CEO at. Morf. Health (YC ) Morf. San. Francisco. Bay. Area. Morf. Health. With. Morf, we're making it easy for digital healthcare companies to quickly setup and maintain patient data integrations across their tech stack — e.g. easily send structured data from patient intake forms into a. EMR. Morf integrates with the tools digital healthcare companies use to deliver care, unifies and normalizes the data from these tools, and then sends the data where it needs to go. It’s like. Zapier or. Segment, but built for. PHI and health data. Co-Founder, CEO. Full-time. User. Experience. Product. Management. Product. Development. Project. Management. Web. True jamesrth. James. Thompson. Co-Founder, CTO at. Morf. Health (YC ) noam. Noam. Grebler. Co-Founder en. Momentu | Forbes. U | YC orlandopablo. Pablo. Orlando. CEO. Latamex - Ping (YC ) | Endeavor. Entrepreneur. kelseypedersen. Kelsey. Pedersen. Co-founder & CTO at. CAPSULE (YC ) johankers. Johan. Kers. Co-founder and. CEO, Birch. Biosciences (YC ) chandlermrogers. Chandler. Rogers. Co-Founder & CEO @ Relay tararaffi. Tara. Raffi. Co-Founder & CEO at. Almond (YC ) david-winer. David. Winer. Co-Founder @ Ciro (YC ) colin-elsinga. Colin. Elsinga. Co-Founder & COO @ Metriport | Open-Source. API for. Healthcare. Data | Y. Combinator stefanseltzaxmacher. Stefan. Seltz-Axmacher. CEO & Co-Founder at. Polymath. Robotics. Neeral. D. Software. Engineer at. Facebook nonStandardizedContributor travis gingerich
-::

@@ -6,8 +6,8 @@ Class of 2022
 Kleiner Perkins Engineering Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 4
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Amy Zhang is a fellow from the class of 2022 who is currently working as a Kleiner Perkins Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Sherborn. Over the course of their career, they have worked at 9 organizations, including Wellington Management <wellington.com>; Stanford Marketing <stanfordmarketing.org>; Boston Children's Hospital <childrenshospital.org>; Girls Who Invest <girlswhoinvest.org>; Neednova <neednova.com>; KPCB <kleinerperkins.com>; Standford Alumni <stanfordalumni.org>; The Farmlink Project <farmlinkproject.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Biostatistician; Stanford University; Computer Science; Global Risk And Analytics Intern; Accelerator; Summer Intensive Program Scholar; Kleiner Perkins Engineering Fellow; Software Engineer Intern; Neurology Research Intern; Vice President Of Finance; Research Assistant At The Human Trafficking Data Lab. They have amassed 1 years of experience and have acquired 4 skills, including Leadership; Social Media; Public Speaking; Organizational Effectiveness. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -89,9 +110,3 @@ Roles
 - **Research Assistant At The Human Trafficking Data Lab**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Cantonese. English. Computer. Software. Questbridge. National. College. Match. Recipient awarded full four-year scholarship for high achieving first-generation and/or low-income college students. Questbridge. Excellence in. STEM. Questbridge. College. Prep. Scholar. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. Python (Programming. Language) C++ JavaScript. React.js. Redux. Go (Programming. Language) True sam-forman- Sam. Forman. CS @ UMich cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow. Tejas. Mehta. Venture. Partner @ Contrary | Engineering. Fellow @ Kleiner. Perkins advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum zhangwenhan. Wenhan. Zhang. PM @ Moveworks | KP. Product. Fellow' | Harvard & Penn ivanna-gomez-q. Ivanna. Gomez. Quiroz. Computer. Scientist nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow. Kevin. Xu. CS at. UPenn. Mandarin. Built. By. Girls. WAVE. Mentee , Degrees. Scholar. Dreams. Fund. Student. Advisory. Board. The. SMART. Program. Scholar. Pioneer. Research. Academy. Questbridge. National. College. Match. Scholar. Spanish
-::

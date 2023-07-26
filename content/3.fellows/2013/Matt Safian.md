@@ -6,8 +6,8 @@ Class of 2013
 Senior Product Designer at Frame.io
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Matt Safian is a fellow from the class of 2013 who is currently working as a Senior Product Designer at Frame.io, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including Adobe Systems <adobe.com>; Dropbox <dropbox.com>; Flipboard <flipboard.com>; Frog Design <frogdesign.com>; Luvocracy <luvocracy.com>; Frame.io <frame.io>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Product Design Intern; Product Design Lead; Senior Product Designer; Design Fellow; Visual Design Intern; Product Designer; Visual Design And Knowledge Management Intern. They have amassed 10 years of experience and have acquired 16 skills, including Branding And Identity; Photoshop; Html; User Interface Design; Visual Design; Graphic Design; Illustrator; Php; Indesign; Javascript; Posters; Web Design; Css; Wordpress; Mysql; Adobe Creative Suite. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -118,9 +139,3 @@ Roles
 - **Visual Design And Knowledge Management Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kristine-zhang. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. Hudson. River. Trading. New. York, New. York, United. States. Hudson. River. Trading. Algorithm. Developer. Full-time. False. Spanish. LIMITED_WORKING. Atomically. Sharp. Crack. Tips in. Monolayer and. Their. Enhanced. Toughness by. Vacancy. Defects. ACS. Nano. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' A. New. Molecular. Model for. Congo. Red-Beta. Amyloid. Interaction: Implications for. Diagnosis and. Inhibition of. Brain. Plaque. Formation in. Alzheimer’s. Disease. Proc. SPIE, Biosensing and. Nanomedicine. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM ' Development of. Novel. Metal. Nanostructures for. Efficient and. Broadband. Solar. Energy. Conversion. International. Journal of. Spectroscopy. Kristine. Zhang. Algorithm. Developer at. Hudson. River. Trading | Harvard. AB/AM '
-::

@@ -7,7 +7,7 @@ Co-Founder at Quest Labs
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 5
+::
+::badge{type="info"}
+Number of Skills: 43
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Debparna Pratiher is a fellow from the class of 2018 who is currently working as a Co-Founder at Quest Labs, a Startup company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including NVIDIA <nvidia.com>; Ripcord <ripcord.com>; Contrary <contrarycap.com>; Visa <visa.com>; Tesla <tesla.com>; UC Davis Health System <ucdmc.ucdavis.edu>; UC Davis <ucdavis.edu>; Stealth Mode Startup Company <appcito.net>; Quest Labs <questuniverse.org>; Questa <questadata.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Engineering; Contrary Talent Fellow; Kleiner Perkins Engineering Fellow; Web3; Deep Learning Product Manager; Software Engineering Intern; Software Engineering Intern | Kp Fellow; Associate Product Manager; Product And Partnerships; Co-Founder. They have amassed 5 years of experience and have acquired 43 skills, including Engineering; Product Design; Event Planning; Data Science; Adobe Photoshop; Computer Vision; C; Entrepreneurship; Html; Data Structures; Programming; Software Development; User Interface Design; Python; Start Ups; Start Up Ventures; Strategy; Leadership; Adobe Creative Suite; C++; Marketing; Research; Css; Project Management; Algorithms; Management; Microsoft Office; Graphic Design; Deep Learning; Agile Methodologies; Data Analysis; Teamwork; Machine Learning; Public Speaking; Artificial Intelligence; Java; Program Management; Networking; Team Management; Linux; Product Management; Problem Solving; Photography. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -211,9 +232,3 @@ Roles
 - **Co-Founder**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-austin~ Austin _. * personal. United. States. United. States. False. False. Computer. Software. Marble racing. Cat herding. False noahspringwater. Noah. Springwater. Account. Executive at. Retool. Rebecca. Lee. Something. New · Prev. YC founder, Ex-Retool, Ex-Affirm wileycwjones. Wiley. Jones (we're hiring!!!) Co-Founder at. Doss mokshjawa. Moksh. Jawa. Engineer @ Retool (we’re hiring!) | M&T @ Penn yvonne-chen. Yvonne. Chen. Building at. Pavilion. JP. Reilly. Engineering & Growth @ dbt. Labs mayline-zhong. Mayline. Zhong. Software. Engineer at. Retool jason-gao- Jason. Gao. Software. Engineer at. Retool, Inc. yjyao. Yujian. Yao. Software. Engineer at. Retool philipgerstoft. Philip. Gerstoft. Software. Engineer at. Retool
-::

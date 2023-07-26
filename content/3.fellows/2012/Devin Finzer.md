@@ -7,7 +7,7 @@ Co-Founder And Chief Executive Officer at OpenSea
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 13
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Devin Finzer is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at OpenSea, a Startup company based in New York. Over the course of their career, they have worked at 9 organizations, including Credit Karma <creditkarma.com>; Wikimedia Foundation <wikimediafoundation.org>; Flipboard <flipboard.com>; Google <google.com>; Claimdog <claimdog.com>; OpenSea <opensea.io>; William Megelich <pinterest.dk>; IRIS Wellness Labs <iriswellnesslabs.com>; Pinterest <pinterest.com.au>, and held 8 different job titles, such as Senior Software Engineer; Co-Founder And Chief Executive Officer; Software Engineer; Co-Founder; Engineering Manager; Software Engineer Intern; Analytics Intern; Software Engineer Intern, Google Cloud Platform. They have amassed 11 years of experience and have acquired 13 skills, including Ruby; Objective C; C++; Machine Learning; Scalability; User Interface Design; Mysql; Java; Javascript; Hadoop; Mapreduce; Swift; Python. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -113,9 +134,3 @@ Roles
 - **Software Engineer Intern, Google Cloud Platform**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-aaadesara. Aakash. Adesara. Co-Founder & CTO @ SellScale personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. English. NATIVE_OR_BILINGUAL. Gujarati. NATIVE_OR_BILINGUAL. Computer. Software. SellScale. SellScale. Leverage. AI to supercharge your sales team. Co-Founder & CTO. Full-time. Computer. Science. Graphic. Design. Web. Development. Android. Development. Drupal. Photography. CSS. HTML. True sidharth-raguraman. Sidharth. Raguraman. Product @ Athelas alessacross. Alessa. Cross. Engineer @ Athelas () dhanvee. Dhanvee. Ivaturi software @ athelas tanaytandon. Tanay. Tandon. CEO at. Athelas dhruv-parthasarathy- Dhruv. Parthasarathy. CTO/Founding. Team at. Athelas (/Sequoia/GC) | MIT akipraveen. Akilesh. Praveen 🏗️ building. Index () joshua-hung-computer-science. Joshua. H. Software. Engineer at. Athelas. Kamesh. Vedula. Solutions. Engineer @ Scale. AI | Ex. Amazon | Private. Pilot ishansharmaster. Ishan. Sharma. Co-founder & CEO @ SellScale jesseavshalomov. Jesse. Avshalomov. Head of. Client. Solutions @ Athelas. Hindi. LIMITED_WORKING. Instructor. Build the. Future. EDUCATION. Entrepreneurship class at. UC. Berkeley. Hosted speakers like. Patrick. Collison (Stripe), Steve. Wozniak (Apple), and. Jini. Kim (Nuna). PHP. Public. Relations. Editor. In. Chief. DailyDropout.FYI. Venture studio featuring the world's best startups. - + readers across aiml.fyi, webthree.fyi, and dailydropout.fyi - Previous newsletter sponsors include. Time, Forbes, Notion, and. Amazon - Angel investing alongside firms like. Bain. Capital, Kleiner. Perkins, and more. Java. Programming. JavaScript. Software. Development. Linux. XML. Research. WordPress. Mobile. Devices. Public. Speaking. Spanish. PROFESSIONAL_WORKING
-::

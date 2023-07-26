@@ -6,8 +6,8 @@ Class of 2022
 Design Intern at Shopify
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 10
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Tina Teng is a fellow from the class of 2022 who is currently working as a Design Intern at Shopify, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Shopify <shopify.com>; CBRE <cbre.com>; Dorm Room Fund <dormroomfund.com>; UC Berkeley <berkeley.edu>; Wish <wish.com>; PwC <pwc.com>, and held 11 different job titles, such as Undergraduate Student Researcher; Design Consultant - Paypal; Design Consultant - Oasis Labs; Product Design Intern; Business Intelligence Analyst Intern; Head Of Design; Design Consultant - Dapper Labs; Product Design; Design Intern; Digital Cloud And Intelligent Automation Intern; Internal Design Consultant. They have amassed 1 years of experience and have acquired 10 skills, including Marketing; Customer Service; Microsoft Office; Research; Powerpoint; Social Media; Microsoft Excel; Microsoft Word; Public Speaking; Leadership. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -98,9 +119,3 @@ Roles
 - **Internal Design Consultant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-enriquemoran. Enrique. Morán typing with ai @ zeeno personal. Grateful to learn :) Canada. Toronto, Ontario. Toronto. Ontario. Toronto, Ontario, Canada. True. False. English. NATIVE_OR_BILINGUAL. Spanish. NATIVE_OR_BILINGUAL. Computer. Software. Zeeno. Zeeno. Co-Founder 🥺🥺🥺 🇸🇻🥞🥭🤠 👁👄👁 Project. Management. Software. Engineering. Engineering. Startups. Cloud. Computing. True siddhantdange. Sid. Dange. Co-Founder @ Vista (YC ) - We're hiring! govista.io sophiemb. Sophie. Berger. Co-Founder & CTO @Zeeno | Previously. Founding iOS. Engineer at. Mindstep aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow bryanbeh. Bryan. Beh. Software. Engineer @Uber | Ex @Tesla | Imperial & USC alum anni-chai. Anni. Chai. Software. Engineer @ Stripe charles-meng. Charles. Meng. Product. Manager @ Apple | Kleiner. Perkins. Product. Fellow | Harvey. Mudd. CS + Math cwoznow. Callum. Woznow. Co-founder of. Zeeno | prev. Deskimo (YC ) | Cansbridge. Fellow. Patrick. Zhang. Software. Engineer monica-yao. Monica. Y. Software. Engineer @ Pavilion, come work with us! Neo. Scholar. Neo. Bioinformatics. Distributed. Systems. Code. In. Place. Section. Leader. Stanford. University. EDUCATION. In , at the start of the pandemic, as an act of community service over teachers from around the world came together to offer a first-of-its-kind volunteer-led course called. Code in. Place, hosted by. Stanford. University. Leadership. Academy. McKinsey & Company building :) LOI. Accelerator. Product. Management. MATLAB. Java. Python. Amazon. Web. Services. Microsoft. Azure. FinTech. Sistemas distribuidos. Back-End. Web. Development. Early. Stage. Ventures
-::

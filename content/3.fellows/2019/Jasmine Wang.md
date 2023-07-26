@@ -6,8 +6,8 @@ Class of 2019
 Cofounder And Board Member at Copysmith
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Environment; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jasmine Wang is a fellow from the class of 2019 who is currently working as a Cofounder And Board Member at Copysmith, a Startup company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Lyft <lyft.com>; Square <squareup.com>; Breather <breather.com>; OpenAI <openai.com>; Mila - Quebec Artificial Intelligence Institute <mila.quebec>; Microsoft <microsoft.com>; Partnership on AI <partnershiponai.org>; Watershedclimate <watershedclimate.com>; Copysmith <copysmith.ai>; Jasmine 🦋 <jasminew.me>, and held 8 different job titles, such as Research Fellow; Summer Research Fellow; Product Manager; Research Intern; Software Engineering Intern; Cofounder And Board Member; Researcher; Data Science Intern, Risk. They have amassed 4 years of experience and have acquired 16 skills, including Strategic Planning; Python; Project Management; Sustainability; Futures Studies; Classical Piano; Communication; Venture Capital; Public Speaking; Leadership; Design; Research; Public Policy; Fundraising; Teamwork; Strategy. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -125,9 +146,3 @@ Roles
 - **Data Science Intern, Risk**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-sehmon. Sehmon. Burnam. Product. Manager @ Google personal doing well. United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Internet. Google. New. York, New. York, United. States. Google. Art, Creativity, and. AI research. Product. Manager. Full-time. Software. Development. Engineering. Electronics. Linux. People. Skills. Web. Development. Leadership. Java. True. David. Latimore. II. Partner, Creative. Technologist at. Dial. Up. Digital pabturo. Pablo. Ocampo ༄ APM @ Google sofiecornelis. Sofie. Cornelis. Product. Manager at. Google anna-lu- Anna. Lu. Product @ Google michael-perusse- Michael. Perusse. Product. Manager at. Google anmoltukrel. Anmol. Tukrel. Product at. Google | Stanford. CS ', GSB ‘ jessicakau. Jessica. Au. Product. Manager @ Google cschlaep. Christopher. Schlaepfer. Product. Manager @ Google priyam-nidhi. Priyam. Nidhi. Product. Manager at. Google jennifer-chin- Jennifer. Chin. Product. Manager at. Google. NSBE. JEB. Programs. Chair. Data. Structures & Algorithms. EECS. Design. Thinking and. Communication. DTC - Human. Computer. Interaction. EECS. Introduction to. Computer. Systems. EECS. Microsoft. Excel. Social. Media. Research. Python. Microsoft. Office. Public. Speaking. Microsoft. PowerPoint. Microsoft. Word. C++ HTML. CSS. JavaScript. San. Francisco. Bay. Area. Google. APM working on. COVID- Exposure. Notifications. APM at. Google. Brain's. Project. Magenta, exploring research and applications of machine learning in art and music. Associate. Product. Manager. Full-time
-::

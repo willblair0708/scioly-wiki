@@ -6,8 +6,8 @@ Class of 2022
 Product Designer at Scale AI
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; Environment; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Connie Liu is a fellow from the class of 2022 who is currently working as a Product Designer at Scale AI, a Others company based in Philadelphia. Over the course of their career, they have worked at 9 organizations, including The New York Times <nytimes.com>; BuzzFeed <buzzfeed.com>; National Institutes of Health <nih.gov>; Cornell University <cornell.edu>; University of Pennsylvania <upenn.edu>; Scale AI <scale.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Google Summer Of Code <summerofcode.withgoogle.com>; Abillionveg <abillionveg.com>, and held 8 different job titles, such as Kleiner Perkins Design Fellow; Intern For The Processing Foundation; Product Design Intern; Product Designer; Computer Science Researcher; User Experience Research Design Assistant; Teen Research And Education In Environmental Science Scholar; User Experience Design And Research Fellow. They have amassed 1 years of experience and have acquired 6 skills, including Graphic And Visual Design; Html/Css; Research; Illustration; React.Js; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -92,9 +113,3 @@ Roles
 - **User Experience Design And Research Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-yefimv. Yefim. Vedernikoff. Engineer at. Partiful personal. ACoAAAoqPwABhUmQiRnjI--T_KSbA. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Russian. PROFESSIONAL_WORKING. Computer. Software. Map my. Book. Map my. Book visually plots the travel throughout the life of a textbook rented from. Chegg. One can leave a note with their textbook that future owners of that specific copy can see and respond to. Coded in hours at the. Chegg summer ' internal hackathon. I coded significant portions of our entire stack (CSS, PHP, and. Javascript). Yefim. Vedernikoff. Engineer at. Partiful. DBIDE. DBIDE is an in-browser. IDE that syncs to. Dropbox that was made at the hackRU fall hackathon. I engineered our. Sinatra back-end, and. I also picked up. Coffeescript during the hackathon to help write our front-end. DBIDE won second place overall. Yefim. Vedernikoff. Engineer at. Partiful. Partiful. Brooklyn, New. York, United. States. Partiful. Product. Engineer. Full-time. JavaScript. Python. Ruby. Java. Git. HTML jQuery. Android. True. Max. Scheiber. Coatue. Management. Max. Scheiber. Coatue. Management. Backbone.js. Django. Lewis. Ellis. Senior. Software. Engineer at. Pave. Bash. OCaml. Hadoop. React.js. Flask
-::

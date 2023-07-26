@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Robinhood
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 9
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Samay Nathani is a fellow from the class of 2022 who is currently working as a Software Engineer at Robinhood, a Others company based in New York. Over the course of their career, they have worked at 7 organizations, including Cisco <cisco.com>; Robinhood <robinhood.com>; Snap <snap.com>; Amazon.com <amazon.es>; CalPoly <calpolyjobs.org>; Block <block.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer Intern; Software Engineer; Engineering Fellow; Undergraduate Teaching Assistant; Backend Engineer Intern; Ml Intern; I3 Research Fellow - Funded By The Andrew W. Mellon Foundation; Junior Software Development Engineer. They have amassed 1 years of experience and have acquired 9 skills, including Analytic Problem Solving; Github; Technical Writing; C (Programming Language; Python; Agile Methodologies; Java; Computer Vision; Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -95,9 +116,3 @@ Roles
 - **Junior Software Development Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kavpreetgrewal. Kavpreet. Grewal. SWE. Intern @ Databricks | KP. Fellow | Prev @ Meta, Robinhood, Rivian | CS @ UBC personal - Aspiring software engineer studying computer science at the. University of. British. Columbia. Find out more about me on my personal website: Canada. Vancouver, British. Columbia. Vancouver. British. Columbia. Vancouver, British. Columbia, Canada. False. False. English. NATIVE_OR_BILINGUAL. French. LIMITED_WORKING. Computer. Software. Charles and. Jane. Banks. Scholarship. Awarded to the top ~% of students in the. Faculty of. Science. University of. British. Columbia. Y.P. Heung. Foundation. Award in. Science. Awarded to six second year students with outstanding academic achievement and community involvement. University of. British. Columbia. J. Fred. Muir. Memorial. Scholarship in. Science. Awarded to the top ~ students in cohort upon recommendation from the. Faculty of. Science. University of. British. Columbia. Trek. Excellence. Scholarship. Awarded to the top % of students in the. Faculty of. Science. University of. British. Columbia. Governor. General's. Academic. Bronze. Medal. Awarded to the student with the highest academic average upon graduation. Graduated high school with a .% average. Governor. General of. Canada. Ledge-it • An app targeted to help students take control of their finances as seamlessly as possible. Kavpreet. Grewal. SWE. Intern @ Databricks | KP. Fellow | Prev @ Meta, Robinhood, Rivian | CS @ UBC. Notify – SMS news sender • Designed and implemented an application to send news articles by. SMS to those without reliable internet access • Integrated. News. API with. IBM text summarization using. Node.js, to fetch top news articles based on user’s query and then generate short summaries to send back to the user • Reduced news article and text summarization requests by % by caching search results in. MongoDB database. Kavpreet. Grewal. SWE. Intern @ Databricks | KP. Fellow | Prev @ Meta, Robinhood, Rivian | CS @ UBC. Databricks. Databricks. Ingestion. Software. Engineer. Intern. Internship. Machine. Learning. Artificial. Intelligence (AI) Java. JavaScript. C++ C. Python. Node.js. True lilyydu. Lily. Du. SWE. Intern @ Microsoft | CS + Business @ UBC christophertsee. Christopher. Tse. CS @ UBC | Prev. SWE @ Riot. Games, Shopify, Electronic. Arts martinauyeung. Martin. A. cs & bio @ ubc • prev @ linkedin ml infra emilylcho. Emily. Cho. Product @ Uber | Waterloo. Mechatronics scarletnguyen. Scarlet. Nguyen. SWE. Intern @ Dropbox | Prev @ Google, LinkedIn, Slack | UBC ' Patrick. Zhang. Software. Engineer frankwhoee. Frank. Hui. Incoming. SWE. Fall. Intern @ Cruise, UBC. CS uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow matthew-poon- Matthew. Poon. Captain at. UBC. Open. Robotics anni-chai. Anni. Chai. Software. Engineer @ Stripe. Hindi. FULL_PROFESSIONAL. CEMC. Fermat. Mathematics. Contest. Placed in the top % of over , contestants. University of. Waterloo. OnTrack – Time. Tracker • A time tracking and hours logging app built using. Flutter and with user authentication and database support using. Firebase • Allows users to track daily hours towards their weekly, monthly, or yearly goals • Stores a record of logged hours associated with user’s account for easy access on any device. Kavpreet. Grewal. SWE. Intern @ Databricks | KP. Fellow | Prev @ Meta, Robinhood, Rivian | CS @ UBC. Touchless. Webpage. Scroller • A browser extension built with. JavaScript and. TensorFlow handtracking which allows users to scroll webpages without touching their device • Utilizes. TensorFlow handtracking to enable users to scroll by simply raising one or both of the hands and improve user experience while browsing the web. Kavpreet. Grewal. SWE. Intern @ Databricks | KP. Fellow | Prev @ Meta, Robinhood, Rivian | CS @ UBC. Git. Dart. CEMC. Galois. Mathematics. Contest. Placed in the top % of over , contestants. University of. Waterloo. Flutter. React. MongoDB. TypeScript. Punjabi. NATIVE_OR_BILINGUAL
-::

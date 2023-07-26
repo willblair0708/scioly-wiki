@@ -6,8 +6,8 @@ Class of 2020
 Corporate Strategy at Adobe Systems
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 13
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Grace Patel is a fellow from the class of 2020 who is currently working as a Corporate Strategy at Adobe Systems, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Adobe Systems <adobe.com>; Appian <appian.com>; CTL <ctl.net>; Alphatec Spine <alphatecspine.com>; LEK Consulting <lek.com>; Artemis Connection <artemisconnection.com>; Athleisure, Inc. dba: Sun Diego Boardshops <sundiego.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Innovation; Incoming Engineering Fellow; Software Engineering Intern; Strategy Consulting Fellow; Strategy Consulting Intern; Corporate Strategy; Incoming Associate; User Interface And User Experience Designer; Sales Associate; Product Marketing Intern. They have amassed 3 years of experience and have acquired 13 skills, including Unity; Unreal Engine; Github; Adobe Photoshop; Public Speaking; Leadership; Ux Research; Java; Data Analysis; Engineering Design; Python; React; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -112,9 +133,3 @@ Roles
 - **Product Marketing Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-felixhaba. Felix. Haba. Student at. Northwestern. University. Software. Engineer. personal. United. States. Evanston, Illinois. Evanston. Illinois. Evanston, Illinois, United. States. False. False. Catalan. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Citadel. New. York, New. York, United. States. Citadel. Software. Engineering. Intern. Internship. Data. Analytics. Communication. Problem. Solving. Leadership. Intellectually. Curious. Python (Programming. Language) Machine. Learning. True maemastin. Mae. M. Northwestern. University | MS. Computer. Science svintitskyy. Roman. Svintitskyy. SWE. Intern @ | BS/MS in. CS @ Northwestern. University abizar-b- Abizar. B. Founding. Engineer at. Methid robert-dubinski. Robert. Dubinski. Student at. Northwestern. University markovejnovic. Marko. V. Firmware. Engineer at. Tesla guillermotafur. Guillermo. Tafur. MiM. Candidate at. Kellogg. School of. Management nikhil-kalghatgi- Nikhil. Kalghatgi. Student at. Northwestern. University yunping-wang- Yunping. Wang. Software. Engineer chi-li- Chi. Li. Student at. Northwestern. University vedant-pathak- Vedant. Pathak. Quantitative. Developer @ Citadel. Spanish. NATIVE_OR_BILINGUAL. Computational. Photography. COMP_SCI - Data. Structures and. Analytics. COMP_SCI. Design, Thinking and. Communication. DSGN -, Econometrics. ECON - Inorganic. Chemistry with. Laboratory. CHEM and. Machine. Learning. COMP_SCI. Mechanics, Electromagnetism and. Nuclear. Physics with. Laboratory. PHYS -,, Participant, Proctor and. Mentor. Biology. Olympiad - Selected among , candidates to represent. Spain in the. International. Biology. Olympiad in. Tehran . - Supervised high school students during a. Biology. Olympiad exam in. Barcelona, ensuring safety and proper execution of the protocol. -Mentored the. Spanish candidates for the. International. Biology. Olympiad in. Hungary . Microeconomics. ECON -, - Multivariable. Calculus, Differential. Equations, Linear. Algebra. Math -,, NUvention: Analytics. ENTREP
-::

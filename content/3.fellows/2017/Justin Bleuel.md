@@ -7,7 +7,7 @@ Co-Founder And Chief Executive Officer at Avenue
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 11
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Justin Bleuel is a fellow from the class of 2017 who is currently working as a Co-Founder And Chief Executive Officer at Avenue, a Startup company based in New York. Over the course of their career, they have worked at 9 organizations, including Bloomberg <bloomberg.com>; Uber <uber.com>; Tenlegs <tenlegs.com>; Columbia University <columbia.edu>; Google <google.com>; Columbia School of Business <gsb.columbia.edu>; Noposit <noposit.com>; Avenue <avenue.so>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as KPCB Product Fellow; Co-Founder; Intern, Operations; Teaching Assistant; Co-Founder And Chief Executive Officer; Associate Product Manager; Associate Product Manager Intern; Independent Tutor; Software Engineering Intern; Product Fellow. They have amassed 6 years of experience and have acquired 11 skills, including Product Management; Programming; Python; Strategy; Web Development; Leadership; Java; Management; Mentoring; User Experience; Public Speaking. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -109,9 +130,3 @@ Roles
 - **Product Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rahulsompuram. Rahul. Sompuram. Product. Manager at. Transform personal --fbqzA. I'm passionate about building impactful products that people want. United. States. United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. ELEMENTARY. Computer. Software. Stay. Home. As logically and morally necessary as social distancing is, added incentives always make a difference. Stay. Home is an iOS game that rewards users for safe behavior, and provides a much needed positive focus in such a difficult time. Rahul. Sompuram. Product. Manager at. Transform. Horizons. Hackathon. Won prize for "Best. Overall". Created a. React.js web-application called, “VidSearch,” that gives users. CTRL-F functionality for videos. Rahul. Sompuram. Product. Manager at. Transform. Cohere. Cohere. Acquired by. Ramp. Investor. Product. Management. Leadership. Software. Development. Research. Software. Quality. Assurance. Python. Java. JavaScript. False davidcheng-io. David. Cheng. Software. Engineer. III at. Google ellieevansunc. Ellie. Evans. Responsible. AI + Policy, Cohere. For. AI. Jack. Kelly. Software. Engineer paul-yang- Paul. Yang. Co-Founder at. Transform - We. Are. Hiring! luke-zeller. Luke. Zeller. Applied. AI at. Ramp. Marco d'Amore. Engineering. Manager @ dbt labs jasonscharff. Jason. Scharff. Building something new allegraholland. Allegra. Holland. Enterprise. Customer. Success @ Benchling conglei-shi. Conglei. Shi. Building something new! (Hiring) jason-hf-wang. Jason. Wang swe in healthcare. Telugu. LIMITED_WORKING. Trevor. Pennypacker. Senior. TPM at. Flock. Safety. Michael. L. Software. Engineer. Codestellation: Brandeis. University. Hackathon. Won prize for "Best. Database. Hack" from. HP. Vertica. Rahul. Sompuram. Product. Manager at. Transform. Swift. HTML. Aidan. O'Day. Product and. UX. Designer. William (Liam) Hash. Senior. Data. Scientist at. Gemini. Cascading. Style. Sheets (CSS) Microsoft. Office. SQL. Anshul. Nanda. Head of. Ops @ Sonr | Product. Consultant @ FMC nonStandardizedContributor. Vishnu. Ravi
-::

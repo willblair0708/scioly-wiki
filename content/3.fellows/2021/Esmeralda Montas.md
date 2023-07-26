@@ -6,8 +6,8 @@ Class of 2021
 Software Engineer at Imprint
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Esmeralda Montas is a fellow from the class of 2021 who is currently working as a Software Engineer at Imprint, a Others company based in New York. Over the course of their career, they have worked at 4 organizations, including Stochastic Research <stochasticresearch.com>; Brown University <brown.edu>; Imprint <imprint.co>; Stochastic <stochastic.ai>, and held 5 different job titles, such as Embedded Systems Engineer; Software Engineer; Hardware Design Intern; Undergraduate Research Assistant; Undergraduate Teaching Assistant. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -59,9 +80,3 @@ Roles
 - **Undergraduate Teaching Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-robert-eng. Robert. Eng. Co-founder @ Pylon (YC ) personal. ACoAABdoVvkBTD- United. States. Saratoga, California. Saratoga. California. Saratoga, California, United. States. True. False. Computer. Software. KPCB. Engineering. Fellow. Chosen from among applicants as one of. KPCB. Engineering. Fellows. Interned at a. KPCB portfolio company (Doordash), listened to talks with founders, VCs, and. CxOs, learned about the upcoming technologies and companies as well as the expertise and experience needed to succeed in the tech industry, networked with fellow fellows. Kleiner, Perkins, Caufield, and. Byers roberteng.me. I've done. A. LOT of projects. To peruse them, please see my website at roberteng.me! Robert. Eng. Co-founder @ Pylon (YC ) Pylon. Pylon. Co-Founder. Full-time. Java. C. C++ Python. PHP. HTML. CSS. XML. True jessemchen. Jesse. Chen. Software. Engineer @ Pylon alex-wuu. Alex. Wu. Software. Engineer reffajnaahsi. Ishaan. Jaffer. Co-Founder. Berri. AI (YC ) deep-singhvi- Deep. Singhvi. Fern (YC ) ishangpt. Ishan. Gupta. Co-Founder at. Juicebox (YC ) gabriel-banks- Gabriel. Banks. Founder and. CEO at. Quill. AI (YC ) advith. Advith. Chelikani. Co-Founder @ Pylon | Scale. Customer. Operations on. Slack chineikoro. Chine. Ikoro co-founder & cto @ Onu (YC ) kartik-donepudi- Kartik. Donepudi. Founder & CTO at. Quill. AI (YC ) -- CS & Economics at. MIT ‘ machado-nicolas. Nicolas. Machado. Cofounder @ Lume (YC ) | Stanford. AI. AP. Computer. Science. Algorithms. CS. Computer. Language. Shop. C. Track. CS. Computer. Language. Shop. C++ Track. CS. Computer. Science. Research. CS. Computing. Systems. CS. Data. Visualization. E. JavaScript jQuery. Database. System. Implementation. CS. Decidability and. Tractability. CS. Discrete. Math. Ma/CS. EGPY. Introduction to. C. Programming. EPGY. Compound. Data. Types and. Advanced. Topics in. C. EPGY. Programming in. C - Algorithms and. Techniques. Embedded. Systems. EE/CS. Fundamentals of. Programming. CS. Hack. Society. CS. Learning. Systems. CS. Learning. Systems. CS. Machine. Learning and. Data. Mining. CS. Operating. Systems. CS. EJS. MySQL. MongoDB. Node.js. Socket.io. Adobe. Illustrator. SQL
-::

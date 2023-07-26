@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 16
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Veronica Nutting is a fellow from the class of 2022 who is currently working as a Software Engineer at Stripe, a Others company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Stripe <stripe.com>; Bridgewater Associates <bridgewater.com>; Harvard University <harvard.edu>; The Harvard Lampoon <harvardlampoon.com>; Cs500 <continental-group.co.uk>; Alife Health <alifehealth.com>; Harvard Advanced Leadership Initiative <advancedleadership.harvard.edu>; Lock Haven Express <lockhaven.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Harvard Women In Computer Science <harvardwics.com>, and held 16 different job titles, such as Investment Logic Engineering Intern; Course Assistant; Teaching Fellow - Cs50 For Mbas; Kp Engineering Fellow; Software Engineer; Intern For News, Features And Photography; Argentine Government: Digital Strategy Intern; Art Board, Issue Editor; Advocacy Council, Associate Director Of Gender-Based Discrimination And Harassment; Head Course Assistant; Summer Intern; Teaching Assistant; Data Science And Machine Learning Intern; Research Assistant To Dr Barbara Natterson-Horowitz, Managing Director; Computer Science; Engineering Fellow. They have amassed 1 years of experience and have acquired 1 skills, including Astronomy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -88,9 +109,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Anna. Lee. Data. Science. Engineer @ Garner. Health | KP. Product. Fellow personal. ACoAACTUGQgBct- United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. False. False. Korean. NATIVE_OR_BILINGUAL. Spanish. ELEMENTARY. Civic & Social. Organization. Garner. Health. New. York. City. Metropolitan. Area. Garner. Health. Data. Science. Engineer. Full-time. Java. SQL. Python. Machine. Learning. C++ Microsoft. Office. R. Pandas (Software) True amy-zhang- Amy. Zhang nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E joslinsome. Joslin. S. Kleiner. Perkins. Engineering. Fellow • Co-Founder @ OmniLens • CSE @ Uiowa anuhea-parker. Anuhea. P. Solutions @ Recurve | MS&E and. Sustainability at. Stanford kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow charles-meng. Charles. Meng. Product. Manager @ Apple | Kleiner. Perkins. Product. Fellow | Harvey. Mudd. CS + Math aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow zhangwenhan. Wenhan. Zhang. PM @ Moveworks | KP. Product. Fellow' | Harvard & Penn neel-saswade. Neel. Saswade. Product. Designer at. Glean • KP. Fellow oliver-osei-as. Oliver. O. Product @ Uber | Kleiner. Perkins. Fellow | The. Wharton. School | CS. Master's @ Penn. Engineering | Fortis. Fellow. Volunteer, ACE in. Vietnam. Coach for. College. EDUCATION • One of ten students chosen to work at a three-week long summer camp for eighth and ninth graders in rural. Vietnam through the. Rubenstein-Bing. Student-Athlete. Civic. Engagement. Program (ACE) • Served as mentor for students with a focus on promoting higher education • Collaborated with. Vietnamese and. American college students to design curriculum for. English, Volleyball, and. Life. Skills lessons. Databases. PostgreSQL. Leadership. Time. Management. Korean
-::

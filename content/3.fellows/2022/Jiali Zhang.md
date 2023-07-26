@@ -6,8 +6,8 @@ Class of 2022
 Data Science Intern at Neuron23
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Healthcare; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jiali Zhang is a fellow from the class of 2022 who is currently working as a Data Science Intern at Neuron23, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including National Institutes of Health <nih.gov>; University of Oxford <ox.ac.uk>; Johns Hopkins Medicine <hopkinsmedicine.org>; Neuron23 <neuron23.com>; CareFirst BlueCross BlueShield <carefirst.com>; Nuffield Department of Medicine <ndm.ox.ac.uk>; National Institute of Mental Health and Neuro Sciences <nimhans.kar.nic.in>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Nih-Oxford-Cambridge Scholar; Data Science Intern; Ph.D. Candidate; Kleiner Perkins Fellow; Undergraduate Research Assistant; Research Intern; Undergraduate Research Assistant, Nuffield Department Of Surgical Sciences. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -73,9 +94,3 @@ Roles
 - **Undergraduate Research Assistant, Nuffield Department Of Surgical Sciences**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kimberlizhong. Kimberli. Zhong. Engineering at. Applied. Intuition personal. United. States. Sunnyvale, California. Sunnyvale. California. Sunnyvale, California, United. States. False. False. Computer. Software. Applied. Intuition. San. Francisco. Bay. Area. Applied. Intuition. Working to power the future of autonomy at. Applied. Intuition. Our team develops best-in-class products designed to help. AV companies deploy their systems faster and more safely. Check us out at hiring! Engineering. Full-time. True. Pi. Beta. Phi. Vice. President of. Member. Development. HackMIT. Co-director. Rough. Draft. VC. Student. Partner. KPCB. Fellowship. Engineering. Fellow ./. MIT. Web. Programming. Competition. Teaching. Staff
-::

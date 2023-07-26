@@ -6,8 +6,8 @@ Class of 2019
 C20 Talent Fellow at Contrary
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Shirley Huang is a fellow from the class of 2019 who is currently working as a C20 Talent Fellow at Contrary, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Airbnb <airbnb.com>; University of Southern California <usc.edu>; Zumper <zumper.com>; Wish <wish.com>; Trueey <trueey.com>; Great Indian Nautanki Company <kingdomofdreams.in>; Contrary <contrarycap.com>; Vowel <vowel.com>; Meta <meta.com>; Generation She <generationshe.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Design Fellow; Design Intern; Design Lead; Director Of Strategy And Research; Product Designer; C20 Talent Fellow; Creative And Marketing Team; Experience Design Intern; Product Design Intern; Communications Designer. They have amassed 4 years of experience and have acquired 6 skills, including Graphic Design; Product Design; Branding; Adobe Creative Suite; Adobe Photoshop; Adobe Illustrator. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -100,9 +121,3 @@ Roles
 - **Communications Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Error
-::

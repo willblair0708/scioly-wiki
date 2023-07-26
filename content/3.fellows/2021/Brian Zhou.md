@@ -6,8 +6,8 @@ Class of 2021
 Incoming Associate Product Manager at Uber
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Finance; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 15
+::
+::badge{type="info"}
+Number of Past Jobs: 16
+::
+::badge{type="info"}
+Number of Organizations: 12
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Brian Zhou is a fellow from the class of 2021 who is currently working as a Incoming Associate Product Manager at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Uber <uber.com>; Postmates <postmates.com>; Associated Students of the University of California <asuc.org>; CollegeVine <collegevine.com>; Cocoweb <cocoweb.com>; KPCB <kleinerperkins.com>; Business Careers in Entertainment Club <berkeleybcec.com>; Product Space <productspace.org>; Salesforce.com <fullsecsolutions.com>; 66 Raw <66raw.com>; SBC <sbcberkeley.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 16 different job titles, such as Deputy Chief Financial Officer; Assistant Elections Auditor; Project Manager; Product Fellow; Undergraduate Representative, Board Of Directors; Incoming Associate Product Manager; Marketing Intern; Associate Product Management Intern; Consultant; Music Committee; Chair, Board Of Directors; Applications And Sat Program Consultant; Vice President Of External Affairs; Spaces Director; Digital Marketing Intern; Product Management Intern. They have amassed 2 years of experience and have acquired 15 skills, including Imagej; E Commerce; Social Media; Sql; Financial Accounting; Event Management; Salesforce.Com; Research; Data Analysis; Python; Microsoft Office; Digital Marketing; Project Management; Microsoft Excel; Adobe Indesign. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -136,9 +157,3 @@ Roles
 - **Product Management Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-elaneycheng. Elaney. Cheng. Software. Engineer @ Meta | Kleiner. Perkins. Engineering. Fellow personal. Computer. Science and. Education. Studies double major at. Wellesley. College. United. States. Greater. Seattle. Area. Greater. Seattle. Area. False. False. English. NATIVE_OR_BILINGUAL. Italian. ELEMENTARY. Computer. Software. Prize at. HackMIT. My team and. I created a device called. Pill. Safety that only allowed authorized people to access them. We won. Prize for best use of. IBM. Watson's. Visual. Recognition service. HackMIT. Place at. Palantir. Puzzle. Nights. First place at the. Palantir. Puzzle. Night is awarded to the team that solved the three puzzles in the least cumulative time. Palantir. Best. Team. Spirit at. Google. Tech. Challenge. The. Best. Team. Spirit award was awarded. Google. Tech. Challenge to the team who had the best positive attitude and displayed resilience throughout the entire event. Google. Meta. Seattle, Washington, United. States. Meta. Software. Engineer. Full-time. Python (Programming. Language) Java. Data. Analysis. Data. Structures. Research. Computer. Science. React. Native. Microsoft. Word. True. Korean. LIMITED_WORKING. Phi. Beta. Kappa. Rewriting the. Code. Fellow. Microsoft. Office. JavaScript. HTML. Cascading. Style. Sheets (CSS) LaTeX. Leadership. Team. Management. Time. Management. Customer. Service. Atlas.ti
-::

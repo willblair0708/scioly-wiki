@@ -6,8 +6,8 @@ Class of 2021
 Product Manager at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 41
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 15
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Harris Ioannou is a fellow from the class of 2021 who is currently working as a Product Manager at Google, a Big Tech company based in New York. Over the course of their career, they have worked at 15 organizations, including European Commission <europa.eu>; TED <ted.com>; University of Cambridge <cam.ac.uk>; National Technical University of Athens <ntua.gr>; Google <google.com>; Plano Independent School District <pisd.edu>; Columbia School of Business <gsb.columbia.edu>; Open Raven <openraven.com>; Kleiner Perkins <kleinerperkins.com>; Amazon.com <amazon.es>; Public Speaking <publicspeaking.se>; BioAssist S.A. <bioassist.gr>; Codepi <codepi.com>; Google <goo.gle>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 15 different job titles, such as Graduate Teaching Assistant; Guest Speaker; Software And Junior Research Engineer; Engineer And Analyst; Teaching Assistant; Product Manager; Guest And Keynote Speaker; Hangouts On Air Series Host; Co-Founder And Chief Technology Officer; Summer Intern; Founder; Keynote Speaker; Google Science Fair 2013 - Global Finalist; All Things Software And Product; Product Management Fellow. They have amassed 2 years of experience and have acquired 41 skills, including C; Eagle Pcb; English; Computer Vision; C++; Matlab; Python; Embedded Systems; Data Mining And Pattern Recognition; Robotics; Strategic Planning; Sensors; Leadership; Management; Web Applications; Public Speaking; Wearable Systems; Machine Learning; Html 5; Mobile Applications; Programming; Linux; Inventor; Solidworks; Microcontrollers; Research; Business Development; Project Management; 3D Printing; Product Management; Global Shapers Athens Hub Member; Automated Control; Computer Science; Cad; Java; Social Media; Arduino; Uix; Artificial Intelligence; Teamwork; Autocad. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -222,9 +243,3 @@ Roles
 - **Product Management Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow personal -- Currently looking for new grad. Product. Design roles! I am a. Cognitive. Sciences major and. Business minor at. Rice. University passionate about using design to create communities. United. States. Houston, Texas. Houston. Texas. Houston, Texas, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Design. Undergraduate. Student. Organization. President of the. Year. Rice. University. International. Finalist, Cellular and. Molecular. Biology. Intel. International. Science and. Engineering. Fair. International. Finalist, Creative. Problem. Solving. International. Health. Occupation. Students of. America. Kleiner. Perkins. Kleiner. Perkins of designers chosen from an applicant pool of + to work with high potential start-ups in the. Kleiner. Perkins portfolio. KP. Design. Fellow. Python (Programming. Language) Public. Speaking. Research. Leadership. Business. Communications. User. Experience. Design (UED) User. Interface. Design. Wireframing. True kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow linnayao. Linna. Yao. Motion designer. Sonal. K. Product. Designer at. Carta | Kleiner. Perkins. Design. Fellow hannah-limary. Hannah. Limary. Incoming. UX. Designer @ Amazon // UC. Irvine ‘ Kevin. Xu. CS at. UPenn alexandergerrese. Alexander. Gerrese. Product. Design @ Cruise | Ex-KP. Fellow @ Uber arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ andrewmkimm. Andrew. Kim. Product. Design @ Stake | Product & Design @USC's. Iovine and. Young. Academy ivanna-gomez-q. Ivanna. Gomez. Quiroz. Computer. Scientist jade-franson. Jade. Franson. Design @ Salesforce. User. Testing. Figma. Adobe. Creative. Suite. Balsamiq. InVision. Design. Thinking. UX. Research. ACT
-::

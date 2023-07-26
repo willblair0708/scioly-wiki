@@ -6,8 +6,8 @@ Class of 2014
 Group Product Manager at Pinterest
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 20
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ali Altaf is a fellow from the class of 2014 who is currently working as a Group Product Manager at Pinterest, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including First Round <firstround.com>; Shopkick <shopkick.com>; University of Pennsylvania <upenn.edu>; Startup Shell <startupshell.org>; William Megelich <pinterest.dk>; Hack4Impact <hack4impact.org>; Jelly <askjelly.com>; Code for Pakistan <codeforpakistan.org>; Startups <500startups.co.kr>; Salemove <salemove.com>; Pinterest <pinterest.com.au>, and held 9 different job titles, such as Software Engineer; Group Product Manager; Director; Angel Investor; Teaching Assistant, Cis 110; Co-Founder, Co-Director; Teaching Assistant, Cis 399; Angel Track; Software Engineering Intern. They have amassed 9 years of experience and have acquired 20 skills, including Probability Theory; Ruby On Rails; C; Python; Entrepreneurship; Data Analysis; Software Project Management; Scipy; Java; Mapreduce; Node.Js; Flask; Film Actor; Web Applications; Numpy; Programming; Sql; Git; Statistics; Software Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -141,9 +162,3 @@ Roles
 - **Software Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dorrietang. Dorrie. Tang. Software. Engineer at. Airbnb personal. ACoAABzO- United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Elizabeth. W. Barron. Journalism. Award. Saratoga. High. School. Intel. Science. Talent. Search (STS) Semifinalist. One of students recognized nationally for high school science research for "Design, Implementation, and. Evaluation of a. Social. Networking. Application. Running on. Named. Data. Networking" scientific paper. Airbnb. San. Francisco, CA. Airbnb. Guest. Experience: Location team. Software. Engineer. Java. C++ Python. HTML. CSS. C. JavaScript. Adobe. InDesign. True elizabethtian. Elizabeth. T. Software. Engineer at. Airbnb thomasbao. Thomas. B. Hello recruiters! I am only interested in. Staff+ roles (preferably remote). All other inquiries will be respectfully declined. Thank you for respecting this and not bombarding me with inappropriate introductions. keyuebao. Keyue. Bao. Software. Engineer at. Cash. App jixinbao. Jixin. Bao. Software. Engineer at. Airbnb yanan-bao- Yanan. Bao. Staff. Engineer and. Tech. Lead at. Google. Research huimiao. Hui. Miao. Software. Engineer at. Google xinyum. Xinyu. Miao. Full. Stack. Software. Developer at. Amazon benjamin-bao. Benjamin. Bao. Software. Engineer at. Square. Andy. Bao. Software. Engineer at. Bloomberg in. NYC. UC. Berkeley. CS grad. albybao. Albertina. Bao. Software. Engineer at. Zoox. French. ELEMENTARY. Analysis of. Algorithms. I. CSOR. Applied. Machine. Learning. COMS. Computer. Vision. COMS. Data. Visualization. COMS. Databases. COMS. Machine. Learning. COMS. Machine. Learning (Coursera) React.js. Natural. Language. Processing. COMS. Operating. Systems. COMS. Programming. Languages and. Translators. COMS. User. Interface. Design. COMS. Korean. ELEMENTARY
-::

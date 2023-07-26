@@ -6,8 +6,8 @@ Class of 2014
 Research Scholar at Hoover Institution at Stanford University
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Healthcare; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 26
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Blair Kaneshiro is a fellow from the class of 2014 who is currently working as a Research Scholar at Hoover Institution at Stanford University, a Others company based in Stanford. Over the course of their career, they have worked at 5 organizations, including Smule <smule.com>; Shazam <shazam.com>; Hoover Institution at Stanford University <hoover.org>; Standford Alumni <stanfordalumni.org>; Stanford University School Of Medicine, and held 12 different job titles, such as Research Scholar; Education; Stanford University; Course Developer; Graduate Teaching Assistant; Affiliated Researcher; Research Assistant; Music Research Lead; Adjunct Professor; Research And Development Associate; Postdoctoral Scholar; Research Scientist, Otolaryngology. They have amassed 9 years of experience and have acquired 26 skills, including Pattern Recognition; Machine Learning; Acoustics; Music; Statistics; Eeg; Digital Signal Processors; Digital Signal Processing; Algorithms; Research; Matlab; Music Theory; Cognitive Neuroscience; Irb; Proofreading; Sound; Writing And Editing; R; Latex; Human Computer Interaction; Scientific Writing; Human Subjects Research; Event Planning; Experimental Design; Audio Processing; Teaching. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -141,9 +162,3 @@ Roles
 - **Research Scientist, Otolaryngology**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-sumansigdel. Suman. Sigdel. Seeking. New. Grad. Roles | SWE. Intern @ Uber | Kleiner. Perkins. Fellow | Prev: Coinbase, Wolfram personal - United. States. United. States. False. False. Financial. Services. Kleiner. Perkins. Kleiner. Perkins. KP. Engineering. Fellow. Python. Deep. Learning iOS. Development. User. Experience (UX) Machine. Learning. Computer. Science. Object-Oriented. Programming (OOP) Data. Structures. True carlos-garcia-moran. Carlos. García. Morán. I build things | SRE. Intern @ LinkedIn jordanethomas. Jordane. T. Software. Engineer at. Uber tesfatsion-shiferaw. Tesfatsion. Shiferaw. SWE intern at. FreeWill | former. Google. STEP intern . Experienced in. Web and. Mobile app development mohit-kc. Mohit. KC. Seeking. New. Grad. Roles | CS & Math @ Bennington. College ' jonathan-s-li. Jonathan. Li cs at ut austin | kp fellow | prev at stripe, google, datadog davisdt. Davis. Tran. SWE@Parafin | Prev. KP, Robinhood. Jake. Kim. SWE @ Uber ajay-natarajan. Ajay. Natarajan. SWE @ Robinhood | Caltech, Kleiner. Perkins rjravitz. Ryan. Ravitz. Incoming. SWE at. Nextdoor | - Lead. TA | CS @ CMU alexandra-southwick- Alexandra. Southwick. SWE. Intern at. Uber | Undergraduate at. Barnard. College. Algorithms. Java. Core. ML. Tensorflow. Wolfram. Language. Mathematica. Python (Programming. Language) JavaScript. Cascading. Style. Sheets (CSS) HTML. SQL. Git
-::

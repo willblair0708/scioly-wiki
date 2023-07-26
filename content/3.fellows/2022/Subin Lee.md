@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Coda
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Subin Lee is a fellow from the class of 2022 who is currently working as a Software Engineer at Coda, a Others company based in Philadelphia. Over the course of their career, they have worked at 9 organizations, including MongoDB <mongodb.com>; Google <google.com>; Penn Engineering <pemnet.com>; Wharton <wharton.upenn.edu>; Clockwise <getclockwise.com>; Coda <coda.io>; Hack4Impact <hack4impact.org>; Kartik Hosanagar - Professor at The Wharton School <hosanagar.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Teaching Assistant; Teaching Assistant - Computer Science; Product Management Intern; Software Engineering Intern; Software Engineer; Teaching Assistant - Acct 101; Engineering Fellow; Product Manager And Full Stack Developer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -77,9 +98,3 @@ Roles
 - **Product Manager And Full Stack Developer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-david-anyaeche. David. Anyaeche. Learning personal. Learning how to learn 🌱 Interests: Software, Hardware, Mathematics, Biology, Male. Fashion, Aesthetics, Design, Mechanics, Applied. Physics, Democratization, Theoretical. Physics, DC. Comics, Linguistics, Music, Fractals, Patterns, Civil. Engineering, Infrastructure, Economic. Development, and. Communities. United. States. Monrovia, California. Monrovia. California. Monrovia, California, United. States. True. False. Computer. Software. Fellow. Kleiner. Perkins. Engineering. Fellow. Kleiner. Perkins. Fin. Capital. San. Francisco. Bay. Area. Fin. Capital. Summer. Fellow. Trainee. Go (Programming. Language) Amazon. Dynamodb. Java. Python. JavaScript. SQL. C++ Python (Programming. Language) True i-fung. Isaac. Fung. Building 🛍 senem. Senem. Işık. Math + CS @ Stanford amandakha. Amanda. Ha. Bessemer. Fellow | Incoming. SWE at. Microsoft cathylin-wang. Cathy. Wang. Software. Engineer. Intern at. Plenful | Bessemer. Fellow jacqueline-kc-lee. Jacqueline. Lee. Bessemer. Fellow | Fmr. SWE, Data. Science. Intern | UCSD. Data. Science. New. Grad. Amy. Guan. Math & CS at. Stanford aayyah. Aparna. Ayyah. CS @ Illinois | Trading. Analyst @ Trading | Bessemer. Fellow ' benallanrahill. Benjamin. Allan-Rahill. Neo. Scholar, Bessemer. Fellow danielxyz. Daniel. Sathyanesan. Founder and. CEO at. Winden danielavelez. Daniela. Velez. MIT. CS ‘
-::

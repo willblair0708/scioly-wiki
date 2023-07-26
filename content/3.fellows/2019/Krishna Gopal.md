@@ -6,8 +6,8 @@ Class of 2019
 Software Engineer at Pinterest
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Krishna Gopal is a fellow from the class of 2019 who is currently working as a Software Engineer at Pinterest, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including University of Southern California <usc.edu>; iD Tech Camps <idtech.com>; William Megelich <pinterest.dk>; Jelly <askjelly.com>; USC Viterbi School of Engineering <viterbi.usc.edu>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 7 different job titles, such as Student; Instructor; Software Engineer; Software Engineering Intern; Information Technology Intern; Kleiner Perkins Engineering Fellow; Course Producer. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -73,9 +94,3 @@ Roles
 - **Course Producer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-shwetha-shinju- Shwetha. Shinju. Software. Engineer at. Infinitus. Systems | Kleiner. Perkins. Fellow personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Information. Technology & Services. Infinitus. Systems, Inc. Infinitus. Systems, Inc. Software. Engineer. Full-time. Microsoft. Office. Microsoft. Excel. Leadership. Microsoft. Word. Microsoft. PowerPoint. Research. Public. Speaking. Python (Programming. Language) False aparnasridharmurthy. Aparna. Sridhar. Murthy. Product. Manager at. Infinitus (We are hiring for various roles!) jeevikag. Jeevika. Ghosh. Product. Manager at. Infinitus. Systems vibhugavini. Vibhu. Gavini. Engineering. Lead @ Infinitus (we are hiring) - Join us in taking. Healthcare off hold. rushilram. Rushil. Ram. Engineering @ Infinitus (we're hiring!) | ex-Amazon arushi-raghuvanshi. Arushi. Raghuvanshi. Machine. Learning. Lead @ Infinitus (We're. Hiring) nitin-narasimhan- Nitin. Narasimhan. Engineering. Leader at. Infinitus. Systems(Early - Robinhood) mythri-nagaraju- Mythri. Nagaraju. Software. Engineer at. Infinitus. Systems, Inc. srikavya-mandla. Kavya. Mandla. Fullstack. Software. Engineer at. Infinitus. Systems. Inc. jainankit. Ankit. Jain. Company. Lead, Infinitus; Googler, Founder shyamsundarr. Shyam. Rajagopalan. Co-Founder @ Infinitus (we are hiring)! Java
-::

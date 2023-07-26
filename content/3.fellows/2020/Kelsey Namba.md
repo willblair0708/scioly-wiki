@@ -6,8 +6,8 @@ Class of 2020
 Software Engineer at Handshake
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 25
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kelsey Namba is a fellow from the class of 2020 who is currently working as a Software Engineer at Handshake, a Others company based in Denver. Over the course of their career, they have worked at 4 organizations, including Columbia University <columbia.edu>; Handshake <joinhandshake.com>; Truste Solutions <trustesolutions.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Software Engineering Intern; Engineering Fellow; Undergraduate Research Assistant; Mathematics Tutor; Software Developer Intern; Software Engineer. They have amassed 3 years of experience and have acquired 25 skills, including Web Applications; Angular Material; Mongodb; Node.Js; Mongoose Web Server; C (Programming Language; Heroku; C#; Jquery; Chinese; Express.Js; Computer Science; Adobe Photoshop; Asp.Net; Amazon Web Services; Parsing; Documentation; Java; Russian; Nosql; Microsoft Office; Geometry; Social Media; Javascript; C++. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -132,9 +153,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jianna-liu- Jianna. Liu. CTO at. Leafpress (YC ) personal. Currently building. Leafpress (YC ) | jianna@leafpress.io. MIT. Alum | MIT. School of. Architecture & Planning | Software at. DoorDash, Facebook, Nvidia. United. States. Pleasanton, California. Pleasanton. California. Pleasanton, California, United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. Environmental. Services. Runner. Up at. StartLabs. IDEA. Factory. StartLabs. PenApps. Top. PenApps. EBAL. Champions. East. Bay. Athletic. League (EBAL) AP+PLTW. Achievement in. Engineering. College. Board & PLTW. National. AP. Scholar. College. Board. PeerPayer • Developed a platform to democratize insurance, integrating. Blockchain technology such as. Solidity into a web app using. React, Flask, and. MongoDB • Placed in. Top at. PenApps. Jianna. Liu. CTO at. Leafpress (YC ) Tabletop. Arduino. Spectrometer. For our final project at. COSMOS, our team designed a spectrometer that records the absorption spectra of different liquids. In this engineering and research project, we utilized printed movable parts, a servo motor, an. Arduino, a photodetector, and a breadboard to record light intensity as a function of a constant wavelength range. Jianna. Liu. CTO at. Leafpress (YC ) Leafpress. Leafpress. Leafpress simplifies. ESG for real estate portfolios. We use. AI to collect and analyze millions of utility data at once, saving firms thousands of dollars in fines per property. Chief. Technology. Officer. Python. React.js. Javascript. Java. Typescript. HTML. True devishijha. Devi. Jha. CEO at. Leafpress (YC ) | Harvard. Allen. Wang. Co-founder of. Nectar. Climate (YC ) | MIT | ESG notandrewxu. Andrew. Xu. Growth. Equity at. General. Atlantic albert-shin. Albert. S. Student at. Harvard. University eileen- Eileen. Li. Student at. Massachusetts. Institute of. Technology katherine-zhang- Katherine. Zhang. CS. Student @ Harvard | Software. Engineer. Intern @ Google christina- Christina. Liang. Duke | Dorm. Room. Fund eurowang. Euro. Wang. CEO @ Guac (YC ) | Helping grocers solve food waste 🥑 sambroner. Sam. Broner. Partner @ crypto | ex-Engineer @ Microsoft, Fluid. Framework albertyusun. Albert. Sun. ML. Research. Eng @ DynamoFL | Prev. Duke, MSR, Curai. Chevron. Engineering. Design. Challenge. State. Finals. Second. Place. Chevron. MIT. Mocha. Moves. Member. HackMIT. Development, Corporate. Relations, and. Marketing. Member. Sigma. Kappa. Panhel. Delegate. Volunteer. Staff. Open. Heart. Kitchen. POVERTY_ALLEVIATION. Technology. Student. Association. State. Finalist. Awarded for. Technology. Problem. Solving, for. Engineering. Design, and for. Webmaster. Technology. Student. Association (TSA) USA. Computing. Olympiad. Silver. Qualified. USACO. California. MTAC. Piano. Panel. State. Honors. Recital. California. MTAC. Society of. Women. Engineers (SWE) Career. Development. Board. Member. Activity. Leader. SHINE for. Girls. Junior. Bach. Best. Performer. Junior. Bach. Festival. Organic. Produce for. Older. People. CEO. MIT. Capital. Partners. Diligence. Analyst
-::

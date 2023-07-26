@@ -6,8 +6,8 @@ Class of 2022
 Associate Product Manager at Instacart
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Julia Singer is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Instacart, a Others company based in San Antonio. Over the course of their career, they have worked at 7 organizations, including Charles Schwab <schwab.com>; Southwest Airlines <southwest.com>; Instacart <instacart.com>; Trinity University <trinity.edu>; HE Butt Grocery <heb.com>; ViacomCBS <viacomcbs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Director; Product Management Intern; Product And Project Management Intern; Digital Product Management Intern; Incoming Associate Product Manager; Product Fellow; Information Solutions Intern; Associate Product Manager; Cbs Sports Digital, Video Product Management Intern; Entrepreneurship And Innovation Intern. They have amassed 1 years of experience and have acquired 6 skills, including Product Management; Communication; Public Speaking; Leadership; Management; Organization Skills. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -88,9 +109,3 @@ Roles
 - **Entrepreneurship And Innovation Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-catherinedong. Catherine. Dong. ML. Eng. Manager @ Meta personal - United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Chinese (Mandarin) Computer. Software. Meta. New. York, New. York, United. States. Meta. Social. Impact. Products. Growth. ML. Engineering. Manager. C++ Java. C. Python. Ruby. HTML. CSS. Matlab. True logan-shu- Logan. Shu. Software. Engineer at. Meta (formerly. Facebook) haozhiqu. Haozhi. Qu. Software. Engineer at. Meta andyxhz. Andy. XIONG. Engineering manager cassiesk. Kexin (Cassie) S. Software. Engineer @ Meta | CS @ UC. Berkeley xiaocong-liang- Xiaocong. Liang. Software. Engineer at. Facebook ellynakahara. Elly. N. Software. Engineer at. Facebook. Zhengyang. X. Software. Engineer potaty. Lu. L. Software. Engineer at. Meta xiongxi. Xi. Xiong. Software. Engineer at. Facebook wanchaol. Wanchao. L. Software. Engineer at. Facebook. Business. Association of. Stanford. Entrepreneurial. Students. Core. Officer, Operations. Officer. Stanford. Undergraduate. Research. Journal. Lead. Production. Officer. Artificial. Intelligence: Principles and. Techniques. Machine. Learning. Social. Media. Data. Analysis. Software. Engineering. Cascading. Style. Sheets (CSS) Software. Development
-::

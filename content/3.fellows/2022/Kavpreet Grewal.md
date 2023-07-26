@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer Intern at Robinhood
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kavpreet Grewal is a fellow from the class of 2022 who is currently working as a Software Engineer Intern at Robinhood, a Others company based in Vancouver. Over the course of their career, they have worked at 6 organizations, including Robinhood <robinhood.com>; Rivian <rivian.com>; Ubc Launch Pad <ubclaunchpad.com>; Fractional <fractional.app>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Programming Team Lead; Tech Lead; Software Engineer Intern; Fellow; Mentor - Programming Team; Software Developer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -66,9 +87,3 @@ Roles
 - **Software Developer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-pryce-adade-yebesi- Pryce. Adade-Yebesi. Cofounder @ Utopia. Labs personal. ACoAACwSCWYBVGRqYVxAk--kNE. United. States. Greater. St. Louis. Greater. St. Louis. True. False. Internet. Design. IdeaBounce. Pitch. Competition. Greylock. Techfair. Invite only career fair put on by. Greylock. Partners. Greylock. Honors in. Innovation & Entrepreneurship. Skandalaris. Center for. Innovation and. Entrepreneurship. Dean's. List. Deans. List for of my semesters at. WUSTL. Washington. University in. St.louis. Olin. Big. Idea. Bounce. Runner-Up. Developed a venture that scored in the top % of student teams. Olin. School of. Business. Utopia. Labs. San. Francisco. Bay. Area. Utopia. Labs. Co-Founder and. COO. Full-time. Matlab. Python (Programming. Language) C (Programming. Language) Computer. Science. Java. JavaScript. Programming. Software. Development. True jasonchongg. Jason. Chong. CTO at. Utopia. Labs matthew-magnani. Matthew. M. kaitocunningham. Kaito. Cunningham ⛩ Customer. Support at. Utopia. Labs: Payments for crypto orgs sirvar. Rikin. Katyal. Software. Engineer @ Utopia. Labs anthonycwtat. Anthony. Tat. Software. Engineer at. Utopia. Labs jihernbaek. Jihern. Baek. Founding. Designer at. Utopia. Labs jjasonlan. Jason. Lan. Founding. Software. Engineer at. Utopia. Labs alexander-wu-aw. Alexander. Wu. Co-Founder at. Utopia. Labs victoriasekim. Victoria. Kim. Product. Designer @ Utopia b-bot. Byron. Polley. Software. Engineer. HooHacks. Hackathon. Participant. Participated in a. Covid- focused. Hackathon. HooHacks. Linux. Technical. Writing. Dean. James. E. McLeod. First-Year. Writing. Prize. Semi-finalist. Washington. University in. St.louis. Boeing. Innovation. Challenge. Participant. Boeing. Startup. WU. Competition winner. Led a team of students to develop a venture concept of giving a low cost toiletry subscription to college students that won first place of teams. Skandalaris. Center for. Innovation and. Entrepreneurship. Product. Development. Cascading. Style. Sheets (CSS) javascript. PHP. Node.js. HTML. C++ Teamwork. Communication. Product. Management. Soma. Capital. Shadowing. Semi-finalist. Soma. Capital
-::

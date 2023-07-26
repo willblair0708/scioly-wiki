@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer I, Security at Slack
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 11
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+David Frankel is a fellow from the class of 2022 who is currently working as a Software Engineer I, Security at Slack, a Others company based in Baltimore. Over the course of their career, they have worked at 11 organizations, including Slack <slack.com>; hackNY <hackny.org>; National Institutes of Health <nih.gov>; Olo <olo.com>; Washington University in St. Louis <wustl.edu>; Sidwell Friends School <sidwell.edu>; UMBC <umbc.edu>; Johns Hopkins Applied Physics Lab <jhuapl.edu>; Coding it Forward <codingitforward.com>; ArchHacks <archhacks.io>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 15 different job titles, such as Software Engineer Intern; Associate Software Engineer, Security; Software Engineer I, Security; Software Engineer - Civic Digital Fellow; Co-Director; Aspire Summer Intern; Teaching Assistant; Stage Manager And Sound Designer And Actor; Engineering Fellow; Stage Manager; Fellow; Civic Digital Fellow; Software Engineering Intern; Co-Op; Csee Summer Intern. They have amassed 1 years of experience and have acquired 11 skills, including Scrum; C++; Git; Java; React; Php; Javascript; C#; Python; Sql; Web Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -120,9 +141,3 @@ Roles
 - **Csee Summer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rachitpareek. Rachit. Pareek. Software @ Roblox | Columbia. Engineering | UC. Berkeley. GMP, CS & DS | Founder @ Fremont. Debate. Academy personal. Recent graduate of the. University of. California, Berkeley, triple majoring in. Global. Management, Computer. Science, and. Data. Science. Feel free to reach out to me through. LinkedIn or email! United. States. Fremont, California. Fremont. California. Fremont, California, United. States. False. False. Computer. Software. Grand. Prize. Winner @ yuuvisHack. Awarded at the. Yuuvis hackathon in. San. Francisco for the best project utilizing. Yuuvis' content management. API. Presented to. Optimal. Systems' Clients in. Berlin, Germany. Yuuvis® National. Merit. Scholarship. Finalist. NMSC. National. AP. Scholar. College. Board. Presidential. Service. Award. Awarded for of hours of service completed in the community. Smart. Security. Systems. Developing a web app for optimized security footage storage, querying, and analysis; designing quicker, more accurate cloud-based computer vision. REST. APIs; received grand award for innovative use of document-centric methodologies. Rachit. Pareek. Software @ Roblox | Columbia. Engineering | UC. Berkeley. GMP, CS & DS | Founder @ Fremont. Debate. Academy. StayFresh. Lean. LaunchPad. Proposal. Developed multiple iterations of a business model canvas for startup. StayFresh, a food expiry notification application. Performed over interviews of community members and presented the final business model to. Ph. D. students and. UC. Berkeley faculty. Rachit. Pareek. Software @ Roblox | Columbia. Engineering | UC. Berkeley. GMP, CS & DS | Founder @ Fremont. Debate. Academy. Roblox. San. Mateo, California, United. States. Roblox. Omnisearch | Data & Backend. Software. Engineer. Full-time. Public. Speaking. Java. Programming. Operations. Analysis. Social. Media. Marketing. Alto. Saxophone. Oboe. Python (Programming. Language) Microsoft. Office. True eric-wimsatt- Eric. Wimsatt. Software. Engineer at. Roblox albertzhu. Albert. Zhu. Software. Engineer at. Roblox | CS & Statistics at. UC. Berkeley mtzou. Michelle. Tzou. Software. Engineer at. Roblox anusha-dandamudi. Anusha. D. Software. Engineer @ Roblox vasumanmoza. Vasuman. Moza. Computer. Science & Business @ Berkeley. Haas | Founder @ Fremont. Debate. Academy rishabhmeswani. Rishabh. M. Data. Science @ Asana | Founder & CEO @ Fremont. Debate. Academy | UC. Berkeley. Haas & DS | angtquach. Angelica. Quach. Software. Engineer. II at. Roblox shriyanan. Shriya. Nandwani. Software. Engineer @ Google julie- Julie. Jung. Early. Career. Recruiting @ Roblox willyoo. William. Y. Osney. Capital | Founder @ Fremont. Debate. Academy. Irvington. Sitaare. Performer. Entrepreneurship at. UC. Berkeley, Summer. VP of. Membership. Alpha. Iota. Omicron. Fraternity, Inc. Project. Management. Operations. Innovation. Case. Study. Optimal. Systems. Rachit. Pareek. Software @ Roblox | Columbia. Engineering | UC. Berkeley. GMP, CS & DS | Founder @ Fremont. Debate. Academy. Bay. Area. Youth. Chapter. President and. Mentor. The. Akshaya. Patra. Foundation. USA. POVERTY_ALLEVIATION. Founder and. Mentor. Irvington. High. School. Future. Business. Leaders of. America. Statistical. Data. Analysis. Java. Leadership. ACT. SAT. Kim. Kelley. Content. Strategy & Development for. Tech. Companies
-::

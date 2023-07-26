@@ -6,8 +6,8 @@ Class of 2022
 Vice President Of Technology at Blueprint
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Annie Wang is a fellow from the class of 2022 who is currently working as a Vice President Of Technology at Blueprint, a Others company based in Berkeley. Over the course of their career, they have worked at 10 organizations, including Accel <accel.com>; National Institutes of Health <nih.gov>; Figma <figma.com>; UC Berkeley <berkeley.edu>; DC Central Kitchen <dccentralkitchen.org>; Blueprint <calblueprint.org>; Treet <treet.co>; Meta <meta.com>; Retool <retool.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Took A Break; Project Leader - Dc Central Kitchen; Project Developer - Mee Panyar; Vice President Of Technology; Vice President Of Projects; Software Engineer Intern; Engineering Fellow; Full-Stack Developer; Product Designer - Dc Central Kitchen; Civic Digital Fellow; Project Developer - Friends Of Alemany Farm; Enterprise Engineering Intern; Accel Scholar; Project Developer - Vouchers 4 Veggies. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -86,9 +107,3 @@ Roles
 - **Project Developer - Vouchers 4 Veggies**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-chloeqzhang. Chloe. Zhang. Software. Engineer @ Aptos personal. Hi there! I'm an engineer and empiricist. Currently spending most of my time writing code and developing my ever-changing life thesis. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Internet. Dietrich. Scholarship. Merit-based scholarship. University of. Pittsburgh. Aptos. Palo. Alto, California, United. States. Aptos. Labs. Smart. Contracts & Move. Software. Engineer. Full-time. Software. Development. Machine. Learning. True xinding-wei- Xinding. Wei. Software. Enginneer in. Coinbase zekun-li- Zekun. Li. Software. Engineer at. Aptos angieythuang. Angie. Huang. Software. Engineer yangbowen. Bowen. Yang. Software. Engineer at. Aptos ( Blockchain) | We're hiring! zhenhuangao. Zhenhuan. Gao builder at. Aptos (We're hiring) chobrian. Brian. Cho. Software. Engineer at. Aptos davidiw. David. Wolinsky. Software. Engineer at. Aptos yuxuan-hu- Yuxuan. Hu. Software. Engineer at. Aptos. Labs. Larry. Liu. Software. Engineer zihanxx. Zihan. Xie. Software. Engineer at. Aptos | Ex-Facebook |
-::

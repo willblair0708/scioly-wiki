@@ -6,8 +6,8 @@ Class of 2022
 Quantitative Developer Intern at Citadel
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Alice Li is a fellow from the class of 2022 who is currently working as a Quantitative Developer Intern at Citadel, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including University of British Columbia <ubc.ca>; Citadel <citadel.com>; Snap <snap.com>; William Megelich <pinterest.dk>; Social Diversity for Children Foundation <socialdiversity.org>; Salesforce.com <fullsecsolutions.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 7 different job titles, such as Software Engineer Intern; Undergraduate Level Teaching Assistant; Graduate And Undergraduate Level Teaching Assistant; Director Of Community Outreach; Engineering Fellow; Engage Scholar; Quantitative Developer Intern. They have amassed 1 years of experience and have acquired 19 skills, including Public Speaking; Nonprofit Organizations; Research; Microsoft Word; Logistics Management; Leadership; Community Outreach; Clip Studio Paint; Public Relations; Paint Tool Sai; Team Leadership; Event Planning; Microsoft Office; Customer Service; Microsoft Excel; Event Management; Photoshop; Fundraising; Management. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -127,9 +148,3 @@ Roles
 - **Quantitative Developer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-gregorygowen. Gregory. Owen. Staff. Software. Engineer at. Sigma. Computing personal. Staff software engineer working on input tables at. Sigma. Computing: editable spreadsheets backed by a cloud data warehouse. Previously at. Databricks where. I was tech lead for a team working on our. Serverless. Spark product (providing a cloud data warehouse-style interface for running. SQL queries on. Databricks). I've worked in distributed systems, security, synthetic biology wetlabs, and a chocolate factory. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Phi. Beta. Kappa. Phi. Beta. Kappa. Shapiro. Prize for. Academic. Excellence. Awarded to undergraduates in the class of for academic performance during their sophomore year. Princeton. University. Tau. Beta. Pi. Engineering honor society. Selected for membership in junior year. Tau. Beta. Pi. Manfred. Pyka. Memorial. Prize in. Physics. Awarded at the end of freshman year to students who excelled in physics classes. Princeton. University. Centivize.co. Centivize is a task-list motivation app. Users add tasks to a to-do list, placing money on the completion of each task. When they complete the task, they get their money back. If they fail to complete the task within their self-assigned deadline, the money is donated to a charity of their choice. Coded as part of. PennApps. Gregory. Owen. Staff. Software. Engineer at. Sigma. Computing. Graphical. Outliner. A graphical desktop application to help organize notes into an essay outline. Written in. Python using. Tkinter. Gregory. Owen. Staff. Software. Engineer at. Sigma. Computing. Sigma. Computing. San. Francisco. Bay. Area. Sigma. Computing. Tech lead for input tables: editable spreadsheets backed by a cloud data warehouse. Staff. Software. Engineer. True yifeng- Yifeng. Wu. Software. Engineer at. Sigma. Computing bulyonov. Anton. Bulyonov. Director. Of. Engineering @ Sigma. Computing. Alexis. Johnson. Senior. Software. Engineer at. Sigma. Computing deepanshuu. Deepanshu. Utkarsh. Software. Engineer at. Sigma. Computing austin-sherron- Austin. Sherron. Software. Engineer at. Sigma. Computing ericbannatyne. Eric. Bannatyne. Software. Engineer at. Sigma. Computing jack-b. Jack. Bens. Software. Engineer at. Sigma. Computing madison-chamberlain- Madison. Chamberlain. Software. Engineer at. Sigma. Computing sierra-lincoln. Sierra. Lincoln. Engineer at. Sigma. Computing donaldhuang. Donald. H. Software. Engineer at. Sigma. Computing - We're hiring!! Glen. Oakley. Senior. Software. Engineer at. Discord
-::

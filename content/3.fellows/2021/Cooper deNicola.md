@@ -6,8 +6,8 @@ Class of 2021
 Software Engineer Intern at Snap
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 2
+::
+::badge{type="info"}
+Number of Organizations: 2
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Cooper deNicola is a fellow from the class of 2021 who is currently working as a Software Engineer Intern at Snap, a Others company based in Malibu. Over the course of their career, they have worked at 2 organizations, including Snap <snap.com>; Standford Alumni <stanfordalumni.org>, and held 2 different job titles, such as Security Engineer Intern; Software Engineer Intern. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -50,9 +71,3 @@ Roles
 - **Software Engineer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum personal. I am an undergraduate at. UC. Berkeley, currently pursuing degrees in. Computer. Science and. Business. Administration. In the past, I have worked on research in. NLP, deepfakes, and computer vision, and have written my own book, Have. Fun. Building and. Programming. Robots. Expertise: ML/AI specifically in. CV/NLP, behavioral economics, Marketing, Design. Thinking, Venture. Capital, and. Software. Engineering. Contact. Email: advaitmarathe@berkeley.edu. United. States. Fremont, California. Fremont. California. Fremont, California, United. States. False. False. English. FULL_PROFESSIONAL. Marathi. ELEMENTARY. Computer. Software. Dean's. List/Honors to. Date. Kraft. Award. Academic. Excellence. UC. Berkeley. Regents and. Chancellor's. Scholar. Award. Top .% out of incoming students. UC. Berkeley. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. Product. Management. Public. Speaking. Machine. Learning. Java. Microsoft. Office. Web. Design. Community. Outreach. Communication. True rongfei-lu. Rongfei. Lu. Product @ Uber kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow onlyhamza. Hamza. Khawaja. Founding team at. Atlas, formerly. Hadith, KP. Product, Google, Microsoft, Salesforce, Tesla. Berkeley. CS, Data. Science anni-chai. Anni. Chai. Software. Engineer @ Stripe michaelsongliu. Michael. Liu. PM @ Duolingo | Previously. Finary (YC ) joelenelatief. Joelene. L. Engineer @ Retool briantzhou. Brian. Zhou. Product @ Uber | Kleiner. Perkins. Product. Fellow ivanna-gomez-q. Ivanna. Gomez. Quiroz. Computer. Scientist shreya-shekhar. Shreya. S. Eng @ Stealth | KP. Fellow | UC. Berkeley. M.E.T. (EECS + Business) michellebnguyen. Michelle. Nguyen. PM. Intern @ Salesforce | Business & Data. Science @ UC. Berkeley. Spanish. LIMITED_WORKING. Robotics. Instructor. FIRST - Mentored multiple teams. FLL(First. Lego. League) and. FTC(First. Tech. Challenge) teams - Provided resources and guidance in all aspects of the competition(Robot. Game, Project, and. Core. Values) Python. SQL. Have. Fun. Building and. Programming. Robots. Ownabot.org. Advait. Marathe. CS & Business. Berkeley. Alum. Python (Programming. Language) Natural. Language. Processing (NLP) JavaScript. Leadership
-::

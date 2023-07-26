@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 15
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jennifer Adams is a fellow from the class of 2022 who is currently working as a Software Engineer at Stripe, a Others company based in Seattle. Over the course of their career, they have worked at 4 organizations, including Stripe <stripe.com>; Rice University <rice.edu>; Johnson & Johnson <jnj.com>; Vanguard Hong Kong <vanguard.com.hk>, and held 9 different job titles, such as Computer Science; Mechanic; App Development Intern; Internal President; Manager On Shift; External President; Software Engineer; Research And Development Intern; Underclassmen Representative. They have amassed 1 years of experience and have acquired 15 skills, including Cardiopulmonary Resuscitation; Cascading Style Sheets; Computer Science; Web Development; Web Design; Graphic Design; C++; Arduino; Physics; Leadership; Html; Github; Git; Javascript; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -105,9 +126,3 @@ Roles
 - **Underclassmen Representative**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Oscar. Wong. Software. Engineer at. Figma personal. I'm a. Software. Engineer at. Figma. I'm excited about building cool things with cool people and building a better tech industry. Feel free to reach out with interesting opportunities :) United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Calgary. Hacks | Best. UX/UI design. Louise. McKinney. Scholarship. Government of. Alberta. Governor's. General. Academic. Medal. Governor. General of. Canada. President's. Admission. Scholarship. University of. Calgary. Student of the. Year. Bishop. McNally. High. School. CrashChannel. CrashChannel is a tool that aims to help users, city planners, and first responders make smarter decisions about traffic intersections. Using the. City of. Calgary's open data, CrashChannel looks at the image feed of each traffic camera in the. City of. Calgary, runs it through our machine learning model, and detects whether or not a crash has occurred. Oscar. Wong. Software. Engineer at. Figma. Doodl. Doodl is a real-time, full-stack multiplayer web game where players take turns being assigned a word to draw, while others race to guess it. Built using socket.io/Node.js, and. React. Oscar. Wong. Software. Engineer at. Figma. Figma. San. Francisco. Bay. Area. Figma. Software. Engineer. Permanent. Full-time. JavaScript. Java. React. Software. Engineering. Software. Development. Writing. HTML. CSS. True cherylyli. Cheryl. Li. Software. Engineer at. Figma isabelren. Isabel. Ren. Software. Engineer at. Figma nwtsai. Nathan. Tsai. Software. Engineer @ Figma shuxinzhang. Shuxin. Zhang. Software. Engineer at. Figma dmytrotaran. Dmytro. Taran. Software. Engineer at. Figma bradenaw. Braden. Walker. Software. Engineer at. Figma silastsui. Silas. Tsui. Software. Engineer at. Figma carina-ramos. Carina. Ramos. SWE @ Figma carolyn-duan- Carolyn. Duan. Software. Engineer navs. Navendu (Nav) Saini. Software. Engineer at. Figma. Seymour. Schulich. Academic. Excellence. Scholarship. Schulich. School of. Engineering, University of. Calgary. CoffeeSpots. CoffeeSpots is an app for finding the hottest new places to drink coffee. Built using. React, the. Google. Maps/Places. APIs are used to generate a map with the hottest coffee spots in a given search area. Thanks to the geolocation and. Google geocoding. APIs, users can search the map and easily return to their actual location, too. Oscar. Wong. Software. Engineer at. Figma. Danica. Bot. Danica is a. Discord chat bot that uses the. Discord.js library for node.js. Features include: the ability to query. Urban. Dictionary, play sounds in a voice channel, and even split a voice channel's users into two, randomized even teams. Oscar. Wong. Software. Engineer at. Figma. Ambassador. Science. Expo. EDUCATION. Volunteered as an ambassador for. Science. Expo, working to promote. STEM education to youth across. Canada. Held a seminar for over students in. May at. Bishop. McNally. High. School in. Calgary, Alberta. Python. Node.js. Speaker. McNally. Eyes. High. Foundation. EDUCATION. Vice. President. Of. Technology. Code the. Change. YYC. SCIENCE_AND_TECHNOLOGY. Communication. Express.js. Vue.js. English. C++
-::

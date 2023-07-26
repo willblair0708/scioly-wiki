@@ -6,8 +6,8 @@ Class of 2019
 Founding Engineer at Capture
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 2
+::
+::badge{type="info"}
+Number of Organizations: 1
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+William Wang is a fellow from the class of 2019 who is currently working as a Founding Engineer at Capture, a Others company based in Los Angeles. Over the course of their career, they have worked at 1 organizations, including Capture <capture.so>, and held 2 different job titles, such as Engineering; Founding Engineer. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -47,9 +68,3 @@ Roles
 - **Founding Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jialin-zhuo. Jialin. Zhuo. SWE @ Pinterest | CS @ Stanford. University personal. United. States. United. States. False. False. Chinese. FULL_PROFESSIONAL. Higher. Education. Pinterest. San. Francisco. Bay. Area. Pinterest. Ads. Growth. Software. Engineer. Internship. Chinese. Programming. Leadership. Research. Teaching. Data. Analysis. Autodesk. Fusion. Python (Programming. Language) True ryan-kang- Ryan. Kang. CS. Theory. Stanford. University dliud. David. L. Tower. Research. Capital | Stanford sainanchen. Sainan. Chen. SWE @ Pinterest nadintamer. Nadin. Tamer. CS + Education @ Stanford | Incoming. SWE @ Figma noelle-jung. Noelle. Jung. Software. Engineer penghaolu. Peng. Hao. Lu. CS @ Stanford | Previously. SWE @ Meta. Kaylee. George. Stanford. CS logan-m-bell. Logan. Bell. Student at. Stanford. University arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ Constance. H. CS and. Music at. Stanford. University. Code the. Change. Oppia. Team. Member. Women in. Computer. Science. Marketing. Board. Asian. American. Student. Association. External. Committee. CS : Mathematical. Foundations of. Computing. CS : Programming. Abstractions. CS : Computer. Organization & Systems. CS : Probability for a. Computer. Scientist. CS : Design and. Analysis of. Algorithms. Math : Linear. Algebra, Multivariable. Calculus, and. Modern. Applications. Math : Ordinary. Differential. Equations with. Linear. Algebra. Counselor. Stanford. University. Graduate. School of. Education. EDUCATION • Virtual summer camp for high school-age girls from underprivileged backgrounds interested in. STEM • Taught girls with no coding experience. Python fundamentals in one-hour sessions every day. JavaScript. Java. Stanford. Women in. Engineering. Outreach. Committee. Instructor. The. Coding. School. EDUCATION • Instructs one on one. Python lessons. Stanford. Robotics
-::

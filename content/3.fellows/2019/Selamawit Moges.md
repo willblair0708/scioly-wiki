@@ -6,8 +6,8 @@ Class of 2019
  at 
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Selamawit Moges is a fellow from the class of 2019 who is currently working as a nan at nan, a Others company based in New York. Over the course of their career, they have worked at 13 organizations, including Kinetic Global Markets <kinetictradingllc.com>; Black Girls CODE <blackgirlscode.com>; Yeshiva University <yu.edu>; Google <google.com>; New York University <nyu.edu>; Livongo <livongo.com>; ēdn <edntech.com>; Apella <apella.vote>; Snap <snap.com>; NYU Entrepreneurial Institute <entrepreneur.nyu.edu>; A.I. For Anyone <aiforanyone.org>; Project Happy (501c3) <projecthappy.world>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Research Assistant; Software Engineer; Swimming Instructor; Undergraduate Research Fellow; Intern; Workshop Facilitator; President; Opportunities Program Ambassador; Kliener Perkins Fellow; Lead Graphic Designer| Community Leadership Program; Technical Instructor. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -92,9 +113,3 @@ Roles
 - **Technical Instructor**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-kevjlee. Kevin. L. Investor 🧧 | Product & Growth 📱 | Venture. Fellow (BVP/KP/NEA) 🌱 personal -g 🧧 Currently: Chief of. Staff at. Untapped. Ventures (early stage) + Investing in. AAPI and mission-driven founders at. Potluck. Ventures (growth stage). To join. Potluck: 👋🏼 Say. Hi: via dm, twitter ( or email (kevinjlee@alumni.stanford.edu). Tell me about what you're building, stories of overcoming, or expanding access for communities you care about 📈 Prior: Product-Led. Growth at. DocuSign + Venture. Fellow at. NEA, Kleiner. Perkins, BVP 🤠 Fun. Facts: Most. Inspiring: Achilles, Chelsea. Handler, Cliff. Weitzman, Garrett. Gee, Jon. M. Chu, Kaladin. Stormblessed, Viola. Davis. Fave. Books: Grit (Nonfiction), Song of. Achilles (Fiction) Fave. Pod: Exponent, Sibling. Rivalry. Fave. Tech: Libby, ClassPass, AirPods. United. States. Los. Angeles, California. Los. Angeles. California. Los. Angeles, California, United. States. False. False. Chinese. English. Venture. Capital & Private. Equity. Untapped. Ventures. Los. Angeles. Metropolitan. Area. Untapped. Ventures. Building the next premier early stage. VC firm in. LA. Founders and prospective. LPs - reach out to me at kevin@untapped.ventures. Head of. Dealflow & Platform. Start-ups. Strategy. Product. Management. Product. Development. Telemetry. True
-::

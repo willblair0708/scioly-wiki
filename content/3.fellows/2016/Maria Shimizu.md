@@ -6,8 +6,8 @@ Class of 2016
 Designer at TBWA\HAKUHODO
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 21
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Maria Shimizu is a fellow from the class of 2016 who is currently working as a Designer at TBWA\HAKUHODO, a Others company based in Tokyo. Over the course of their career, they have worked at 8 organizations, including IDEO <ideo.com>; Landor Associates <landor.com>; QUANTUM Japan <quantum.ne.jp>; TBWA\HAKUHODO <tbwahakuhodo.co.jp>; gravis Japan <gravisfootwear.com>; Mariashimizu <mariashimizu.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cocoroé, Inc. <cocoroe.co.jp>, and held 7 different job titles, such as Food + Future Colab Fellow; Product Design Intern; Communication Design Intern; Freelance Translator; Design Intern; 2016 Design Fellow; Designer. They have amassed 7 years of experience and have acquired 21 skills, including Visual Communication; Painting; Branding And Identity; Design Thinking; User Interface Design; Creative Direction; Drawing; Concept Development; Adobe Creative Suite; Graphic Design; Packaging; Web Design; Layout; Portrait Photography; Book Design; Conceptual Design; Typography; User Experience Design; Logo Design; Indesign; Product Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -133,9 +154,3 @@ Roles
 - **Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-andrew-kirillov. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. personal. United. States. United. States. False. False. English. NATIVE_OR_BILINGUAL. French. ELEMENTARY. Information. Technology & Services. Humanizooor. Framework / SDK enabling. Ethereum smart contract developers to create semantic, human-readable "decodings" of the transactions & events from their. SCs. Broken down into repositories: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Cosmos without. Tendermint: Exploring. Narwhal and. Bullshark. Writeup: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Renegade. San. Francisco, California, United. States. Renegade. Cryptography & Systems. Engineer. Full-time. Blockchain. Public. Speaking. Full-Stack. Development. Artificial. Intelligence (AI) Web. Development. User. Experience (UX) Web. Applications. Project. Management. True joseph-kraut. Joey. Kraut. Building. Renegade -- the on-chain dark pool. Hiring! ~~~~ Chris. Bender. Founder of. Renegade jahnvid. Jahnvi. Doshi. SWE. Intern @ Microsoft / Bloomberg | UC. Berkeley. MET kellyjalinhan. Kelly. H. Incoming. Business. Analyst at. McKinsey and. Company | Berkeley. M.E.T. danieljing. Daniel. Jing. Undergraduate. Researcher @ BAIR | EECS + Business @ UC. Berkeley. M.E.T. narang-amit. Amit. Narang. Watershed | UC. Berkeley. M.E.T gokceguven. Gökçe. Güven. Building. Loyalty . @ Kalder | Ex-OpenSea, Celo, Robinhood. Crypto kevinpang. Kevin. Pang. Trading francisindaheng. Francis. Indaheng. Software. Engineer @ Zoox | UC. Berkeley. M.E.T. ‘ amangotchu. Aman. Gottumukkala. Exploring | Previous. Engineer at. Paradigm | KP/Contrary. Fellow. Russian. NATIVE_OR_BILINGUAL. Aman. Gottumukkala. Exploring | Previous. Engineer at. Paradigm | KP/Contrary. Fellow. StableSims. Research paper: Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. SnapTab. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Tutor. Paper. Airplanes, Inc. EDUCATION. Tutored a. Syrian refugee in. English once a week for an hour over. Skype. Entrepreneurship. Social. Entrepreneurship. Sehyun. Chung. President of. Blockchain at. Berkeley | CS @ UC. Berkeley. Rental. NFT. Protocol. With. Advanced. Rewards. Splitting. IEEE. Andrew. Kirillov. Cryptography / Systems at. Renegade | KP. Fellow | UC. Berkeley. M.E.T. Tutor. Coordinator. Paper. Airplanes, Inc. HUMANITARIAN_RELIEF. Managed tutors participating in the. Paper. Airplanes. Youth. Exchange. Program. Helped connect them to. Syrian refugees in. Turkey and helped with the logistics of tutoring. Agile. Methodologies. Python. JavaScript. AngularJS. Java. Educational. Technology. React.js. PyTorch jQuery. Node.js. Ayush. Aggarwal. Engineer. Abrar. R. CS & DS @ UC. Berkeley
-::

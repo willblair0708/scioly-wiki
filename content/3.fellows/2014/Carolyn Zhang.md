@@ -6,8 +6,8 @@ Class of 2014
 Independent Software Designer at Twitter
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 2
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Carolyn Zhang is a fellow from the class of 2014 who is currently working as a Independent Software Designer at Twitter, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including Twitter <twitter.com>; Adobe Systems <adobe.com>; Square <squareup.com>; UENO. <ueno.co>; Microsoft <microsoft.com>; School of Visual Arts <sva.edu>; Massachusetts Institute of Technology <mit.edu>; caro ✨ <carolynzhang.com>, and held 12 different job titles, such as Undergraduate Ta, 6.170 Software Studio; Adjunct Professor; Mobile Software Engineering And User Experience Intern; Design Lead; Design Intern; Design Lead, Twitter Spaces; Undergraduate Ta, 6.813 User Interface Design; Program Manager Intern; Digital Designer; Lab Assistant, 6.S083 Building Mobile Apps; Undergraduate Researcher; Independent Software Designer. They have amassed 9 years of experience and have acquired 2 skills, including Gui; User Experience. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -81,9 +102,3 @@ Roles
 - **Independent Software Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-codylieu. Cody. Lieu. Staff. Software. Engineer, Payments & Product. Fulfillment. Infrastructure @ Coursera personal. United. States. Falls. Church, Virginia. Falls. Church. Virginia. Falls. Church, Virginia, United. States. False. False. Computer. Software. AP. National. Scholar. College. Board. Dean's. List. Fall , Fall. Duke. University. National. Merit. Scholar. National. Merit. Scholarship. Corporation. University. Scholars. Program. Finalist. Duke. University. Coursera. Falls. Church, Virginia, United. States. Coursera - Tech. Lead for the. Payments & Product. Fulfillment. Infrastructure team - Full-stack product engineer working across. Consumer. Monetization, Growth, and. Enterprise. Staff. Software. Engineer, Tech. Lead. Full-time. Java. JavaScript. AngularJS. C. Git. SML. MongoDB. PostgreSQL. True yumukoglu. Gökhan. Büyükyumukoğlu. Software. Engineer @ Coursera andy-nguyen- Andy. Nguyen. Software. Engineer tong-xiao. Tong. Xiao. Senior. Software. Engineer at. Coursera kelcheng. Kelly. Cheng. Senior. Software. Engineer at. Coursera. Jeff. Kim. Staff. Software. Engineer at. Coursera markyzhou. Yao. Zhou. Senior. Software. Engineer at. Coursera. Yingjian. Pei. Software. Engineering heyjoycelee. Joyce. Lee. Software. Engineer at. Coursera stanleyckfung. Stanley. Fung. Staff. Software. Engineer at. Coursera hermantran. Herman. Tran. Senior. Software. Engineer at. Coursera. Compiler. Construction. COMPSCI. Computational. Methods in. MATLAB. EGR. Computer. Architecture. COMPSCI. Computer. Network. Architecture. COMPSCI. Computer. Vision. COMPSCI. Data. Engineering. COMPSCI. Data. Structures & Algorithms. COMPSCI. Ruby. Ruby on. Rails. Design & Analysis of. Algorithms. COMPSCI. Elementary. Differential. Equations. MATH. Fundamentals of. Electrical and. Computer. Engineering. ECE. Intermediate. Microeconomics. ECON. Introduction to. Database. Systems. COMPSCI. Introduction to. Operating. Systems. COMPSCI. Linear. Algebra. MATH. Microelectronic. Devices & Circuits. ECE. Multivariable. Calculus. MATH. Probability. MATH. Random. Signals & Noise. ECE. Signals & Systems. ECE. Software. Design & Implementation. COMPSCI. HTML. Twitter. Bootstrap. IntelliJ. IDEA. Eclipse. Matlab. LaTeX. Yeoman. Computer. Science. Python. Heroku. San. Francisco. Bay. Area. Coursera. Senior. Software. Engineer, Tech. Lead. Apprentice. San. Francisco. Bay. Area. Coursera. Software. Engineer. II. San. Francisco. Bay. Area. Coursera. Software. Engineer
-::

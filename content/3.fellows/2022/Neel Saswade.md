@@ -6,8 +6,8 @@ Class of 2022
 Incoming Product Designer at Glean
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 49
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Neel Saswade is a fellow from the class of 2022 who is currently working as a Incoming Product Designer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including Adobe Systems <adobe.com>; Logitech <logitech.com>; Intuitive Surgical <intuitivesurgical.com>; UC Santa Cruz <ucsc.edu>; UC Berkeley <berkeley.edu>; FIRST <firstinspires.org>; Microsoft <microsoft.com>; Snap <snap.com>; Phonic <phonic.ai>; Berkeley Innovation <berkeleyinnovation.org>; Glean <glean.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Creative Design Tech <cdtfx.com>, and held 15 different job titles, such as Design Fellow; Product Designer; Vice President Of Special Projects And Mechanical Designer; Incoming Product Designer; Designer; Researcher; Team Coach - First Lego League; Hri Lab Research Assistant | People Helping Robots Study Sponsored By Google; Product Design Consultant; User Interface And User Experience Design And Software Engineering Intern; Kleiner Perkins Design Fellow; Project Mentor; Teaching Assistant For Des Inv 98; Interaction Design Intern; Consultant Project Mentor. They have amassed 1 years of experience and have acquired 49 skills, including Cascading Style Sheets; Sql; Adobe Xd; Sketch; Figma; Design; User Interface Design; C++; Wireframing; React.Js; Human Computer Interaction; Web Design; Adobe Creative Suite; Git; Firebase; Leadership; React Native; Pandas; C; Usability Testing; Graphic Design; Contextual Inquiry; Task Analysis; Adobe Lightroom; Heuristic Evaluation; Node.Js; Adobe Photoshop; Java; Lightroom; User Research; Adobe Indesign; Data Structures; Keras; Ux Research; Machine Learning; Research; User Experience Design; Microsoft Office; Html; Photography; Javascript; Prototyping; Music; User Experience; Html5; Heuristic Analysis; Adobe Illustrator; Deep Learning; Python. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -240,9 +261,3 @@ Roles
 - **Consultant Project Mentor**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-claraeverett. Clara. Everett. Computer. Science and. Product. Design @ Stanford. University personal. United. States. Stanford, California. Stanford. California. Stanford, California, United. States. False. False. Computer. Software. Cum. Laude. Society. USRowing. Scholastic. Honor. Roll. USRowing. National. Merit. Finalist. National. Merit. Scholarship. Program. AP. Scholar. Elizabeth. Tate. Award for. Excellence in. Eleventh. Grade. English. Hopkins. School. Meta. Remote. Meta. Software. Engineer. Intern. Internship. Adobe. Photoshop. Adobe. Illustrator. C. Python. HTML. CSS. JavaScript. Java. True raymondcthai. Raymond. Thai. PM @ Google - Generative. AI for. Developers | Stanford. Computer. Science catherine-yeo. Catherine. Yeo. CS @ Harvard | Book. Author, The. Creator. Revolution masha-gorkovenko- Masha. Gorkovenko. Founder @ Disto. AI | Stanford. Alum sophiakazmierowicz. Sophia. Kazmierowicz. Software. Engineer at. Meta. Melissa. Lee. Computer. Science at. Stanford. University emily-redmond. Emily. Redmond. Hi, I'm. Emily! || Stanford. Computer. Science & HCI manuka-stratta. Manuka. Stratta. Computer. Science (AI/ML) at. Stanford. University clinton-kwarteng- Clinton. Kwarteng. SWE. Intern @ Figma | Computer. Science @ Stanford zoevongerlach. Zoe von. Gerlach. MS. Management. Science and. Engineering. Student at. Stanford. University leealpert. Lee. Alpert. Computer. Science at. Stanford. Mary. Brewster. Thompson. Scholar. Hopkins. School. AP. BC. Calculus. AP. Computer. Science. Principles. AP. Italian. AP. Physics. AP. Physics. C. Mechanics & Electricity/Magnetism. SQL
-::

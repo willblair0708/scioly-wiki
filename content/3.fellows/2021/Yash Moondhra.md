@@ -7,7 +7,7 @@ Founder at Stealth Mode Startup Company
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 26
+::
+::badge{type="info"}
+Number of Past Jobs: 17
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Yash Moondhra is a fellow from the class of 2021 who is currently working as a Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. Over the course of their career, they have worked at 13 organizations, including Robinhood <robinhood.com>; Bruin Entrepreneurs <bruinentrepreneurs.org>; Wendy's <wendys.com>; South Park Commons <southparkcommons.com>; NortonLifeLock <nortonlifelock.com>; Foley's Department Store <en.wikipedia.org>; LSAT Engine <lsatengine.com>; Duffl <duffl.com>; Stealth Mode Startup Company <appcito.net>; North Broward Preparatory School <mynbps.org>; Awaken - Web3 tax software that actually works. <awaken.tax>; Kleiner Perkins Caufield & Byers <kpcb.com>; Bruin Bridges <bruinbridges.com>, and held 17 different job titles, such as Computer Science; Software Engineering Intern; Director Of Engineering; Percussion Captain; Software Engineer; Product And Engineering; Founder Fellow; Frontend Engineer; Chief Technology Officer; Fellow; Student Fellow; President And Founder Of Interact Club; Director Of Events And Founding Member; Incoming Backend Engineering Intern; Founder; Cashier; Co-Founder. They have amassed 2 years of experience and have acquired 26 skills, including Jquery; Sql; C#; C (Programming Language; Productivity Improvement; Teaching; Public Speaking; C++; Percussion; Time Management; Html5; Python; Asp.Net Mvc; Drum Set; Java; Organization Skills; React Native; Figma; Leadership; Programming; Javascript; React.Js; Django; Django Rest Framework; Teamwork; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -173,9 +194,3 @@ Roles
 - **Co-Founder**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-a-malamud. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow personal - United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. AIGA. Scholarship. Selected amongst students to attend the. AIGA. National. Design. Conference. IDEO. CoLab. Makeathon. Designer. Selected amongst hundreds of applicants as a participant in a day long makeathon at the. IDEO. CoLab. Used rapid prototyping and design thinking on a multi-disciplinary team to consider packaging waste and the opportunities within the circular economy. USC. Stevens. Student. Innovator. Showcase. Finalist. Selected as one of twenty-four projects to present and pitch at the annual. USC. Stevens. Student. Innovator. Showcase "The annual. USC. Stevens. Student. Innovator. Showcase provides an opportunity for. USC students to present their inventions, startups and prototypes (in all disciplines) to faculty and leaders from the local venture, entrepreneur and business community. Sponsored by the. USC. Stevens. Center for. Innovation, this flagship event offers over $, in. USC-sponsored prizes to winning teams and ideas. The innovations may be anything with the potential for impact, from clean energy generation to a medical device to a technological solution for a social problem. All. USC students, faculty, alumni, staff, and their guests are invited." USC. Stevens. Center. Phi. Kappa. Phi. Honor. Society. Inducted alongside students who rank amongst the top % of their class and have a. GPA above a .. Dean's. List. All semesters. Levels. An interactive installation which tracks the user’s movements to create unique designs. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. SeeC. A prototype for a product that creates music from the user’s art. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. Google. San. Francisco. Bay. Area. Google. Product. Design. Full-time. Product. Design. Sketch. Leadership. Research. Social. Media. Entrepreneurship. Photography. Sketching. False. Forbes. Under. Scholar. Forbes. AIGA. AIGA. USC. Alpha. Delta. Pi. PR. Committee. Tag. Considering new interaction methods, using fashion e-commerce data. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. Recall. Recall is a virtual reality game which gamifies the memorization of user input content using the concept of a memory palace. I worked with. Recall's. Art. Director to contribute visual designs. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. Blockchain. Deconstruction in. Design. Design. Fiction. Design. Fundamentals. Design for. Mobile. Devices. Digital. Narrative. Design. Drawing. Graphic. Design. User. Experience. Design. Summa. Cum. Laude. Awarded to graduates with a minimum overall grade point of ./. University of. Southern. California. ArtSC. Secretary and. Founding. Member. Path. An employee productivity tool design fiction. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. Athena. A short film profiling women in tech, through the lens of a hackathon. Ali. M. Product. Designer at. Google | Kleiner. Perkins. Fellow. Experience. Design. Explorations in. Augmented. Reality. Fashion. Design. Game. Design. Graphic. Design in. Fashion. Lifestyle. Design. Media. Design. Tangible. Computing. Thesis. Visual. Culture and. Literacy. Web. Design. Branding & Identity. Typography. Interaction. Design. E-commerce. Adobe. Photoshop. Adobe. Illustrator. Adobe. InDesign. Arduino. HTML/CSS. InVision. LavaLab. Director of. Design and. Brand, Recruitment. Committee. USC. Photography. Club. E-Board
-::

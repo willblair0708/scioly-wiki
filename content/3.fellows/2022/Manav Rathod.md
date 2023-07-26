@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Glean
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 44
+::
+::badge{type="info"}
+Number of Past Jobs: 21
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Manav Rathod is a fellow from the class of 2022 who is currently working as a Software Engineer at Glean, a Others company based in Palo Alto. Over the course of their career, they have worked at 8 organizations, including AppLovin <applovin.com>; Reveal <revealdata.com>; UC Berkeley <berkeley.edu>; Zippity <zippitycars.com>; Michigan State University <msu.edu>; Mathnasium <mathnasium.com>; Glean <glean.com>; Meta <meta.com>, and held 21 different job titles, such as Undergraduate Student Instructor; Hci Researcher; Research Assistant, Benning Lab; Content Developer Cs 169; Instructor; Software Engineer; Software Engineering Intern; Software Team Engineer Structure And Interpretation Of Computer Programs; Course Tutor Cs 189; Nlp Researcher; Undergraduate Student Instructor Eecs 16B; Nlp Intern; Researcher, Edger Lab; Lab Teaching Assistant Ee 16A; Founder; Lead Researcher; Academic Intern Cs 61A; Machine Learning Engineering Intern; President; Teaching Assistant Info 159; Vice President Social Relations. They have amassed 1 years of experience and have acquired 44 skills, including Strategic Planning; Leadership; Hack; Java; Opencv; Agile Methodologies; Windows; Sql; Javascript; Communication; Numpy; Public Speaking; Python; Scikit Learn; Research; Microsoft Word; Powerpoint; Data Analysis; Cascading Style Sheets; Mercurial; Flask; Teamwork; React.Js; Scheme; C++; Scrum; Teaching; Php; R; Graphql; Json; Git; Tutoring; Project Management; Software Development; Microsoft Office; Event Planning; Tensorflow; Microsoft Excel; Time Management; Agile Project Management; Community Outreach; Writing; Html. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -216,9 +237,3 @@ Roles
 - **Vice President Social Relations**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Ivan. Zhao drawing shapes personal - literally here just because i need to be on linkedin don't text, i'm: - baking bread or croissants - petting nearby dogs - catching up on my backlog of books. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. Galileo. AI. Galileo. AI. Design. Engineer. Full-time. Research. Public. Speaking. Graphic. Design. Social. Media. Entrepreneurship. Baking. Social. Media. Marketing. User. Experience (UX) True helenzh. Helen. Zhou. Co-Founder of. Galileo. AI drgould. Derek. Gould. Software. Engineer benkolde. Ben. Kolde. Founding. Designer • I design products, brands, & more photonmz. Markus. Zhang. LLMs/Dev | Stanford ‘ | | Looking for. NLP research arnaudbenard. Arnaud. Benard. Co-Founder at. Galileo. AI | Hiring founding engineers | Ex-Google. AI, Faire anh-hathu-pham. Anh. Pham. Software. Engineer @ Mastercard | # | Prev @  Apple | Writer akshay-patel- Akshay. Patel. M.E.T @ Berkeley | Pear. VC | KP. Fellow iristfu. Iris. Fu. CS + History @ Stanford cyrus-from-taiwan 驊軒. Cyrus. Chuang. Product. Design @ Simple. HealthKit | ' KP. Fellows dbessonov. Daniel. Bessonov. Engineer at. Wispr. Microsoft. Office. Python. Java. HTML. JavaScript. Scala. Cascading. Style. Sheets (CSS) React. Ruby jQuery. React. Native. C (Programming. Language)
-::

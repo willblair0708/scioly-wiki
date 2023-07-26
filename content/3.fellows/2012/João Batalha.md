@@ -7,7 +7,7 @@ Co-Founder And Chief Executive Officer at Amplemarket
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 14
+::
+::badge{type="info"}
+Number of Past Jobs: 4
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+João Batalha is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at Amplemarket, a Startup company based in San Francisco. Over the course of their career, they have worked at 4 organizations, including Path <path.com>; Orankl <orankl.com>; PATH <path.org>; Amplemarket <amplemarket.com>, and held 4 different job titles, such as CEO; Co-Founder; Software Engineer; Co-Founder And Chief Executive Officer. They have amassed 11 years of experience and have acquired 14 skills, including Javascript; Computer Science; Programming; Linux; Php; Python; Photoshop; Mysql; Sql; Html; C++; Matlab; Java; Machine Learning. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -97,9 +118,3 @@ Roles
 - **Co-Founder And Chief Executive Officer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Justin. Lai. Design. Lead + Founder @ Breakpoint. Studios personal - United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. False. False. Chinese. FULL_PROFESSIONAL. English. NATIVE_OR_BILINGUAL. Design. GE-Reagan. Scholar. Coca-Cola. Scholars. Award. The. Coca-Cola. Scholars. Foundation. Elks. National. Foundation. Scholar. Breakpoint. Studios. New. York, New. York, United. States. Breakpoint. Studios. Design consultant for startups: branding, UI / UX, product design. Founder, Design. Lead. Full-time. Photography. Portrait. Photography. Web. Design. Editing. Magazines. InDesign. Graphic. Design. HTML. True michaelsmcfarland. Michael. McFarland. Product. Designer. Michael. Len. UX / UI. Designer @ Breakpoint. Studios michael-vetter- Michael. Vetter. Product. Designer ahmedgaballah. Ahmed. Gaballah. Founder & CEO at. SOKNA jeremyhcai. Jeremy. Cai. Italic. CEO nicktommarello. Nicholas. Tommarello. Founder & CEO at. Wefunder. Max. Savage. Co-Founder and. COO at. Odela. Health oaosman. Osman (Ozzie) Osman. Co-founder, Monarch. Money. Ex-Quora/Google/startups. Author. dillonzfo. Dillon. Zhang. Forrest. CEO @ Steady ida-severino- Ida. Severino. Independent. Design. Professional. Magazine. Design. CSS. Adobe. Creative. Suite. WordPress. Photos. Image. Editing. Editorial. Front-end. Development. JavaScript
-::

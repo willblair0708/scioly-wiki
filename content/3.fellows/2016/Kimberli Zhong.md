@@ -6,8 +6,8 @@ Class of 2016
 Software Engineer at (Startup) Owner Martin Flora
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kimberli Zhong is a fellow from the class of 2016 who is currently working as a Software Engineer at (Startup) Owner Martin Flora, a Others company based in Dublin. Over the course of their career, they have worked at 5 organizations, including Airbnb <airbnb.com>; Affirm <affirm.com>; Google <google.com>; Jane Street Capital <janestreet.com>; (Startup) Owner Martin Flora <idkunim.info>, and held 3 different job titles, such as Software Engineering Intern; Software Engineer; Intern. They have amassed 7 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -60,9 +81,3 @@ Roles
 - **Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-gracie-jing. Gracie. Jing. Software. Engineer at. Brex personal. United. States. Greater. Houston. Greater. Houston. False. False. Computer. Software. Brex. San. Francisco, California, United. States. Brex. Software. Engineer. Full-time. HTML. Microsoft. Office. Social. Media. Java. JavaScript. CSS. Python (Programming. Language) Spanish. True. Andy. C. Software. Engineer @ Brex ani-m. Ani. Machaidze. Software. Engineer at. Brex karen-wong- Karen. Wong. Software. Engineer at. Brex nithin-rajkumar. Nithin. Rajkumar. Software. Engineer at. Brex karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T sam-joffe. Sam. Joffe. Software. Engineer at. Brex lihelennn. Helen. Li. Software. Engineer at. Brex arianelee. Ariane. Lee. CS & History @ Stanford | KP. Fellow ‘ avtran. Viet. Tran. Product conorstripling. Conor. Stripling. Software. Engineer. II @ Brex. Moran. Ecoteen. Volunteer. Houston. Museum of. Natural. Science. EDUCATION. Worked as a teacher's assistant in the museum's summer science camps for children aged from six to twelve performing science demonstrations and exhibit tours. Served as a museum docent, who interacted with patrons of the museum. Chinese. English. Market. Research. Microsoft. Excel. Python. Software. Development. Life. Cycle (SDLC)
-::

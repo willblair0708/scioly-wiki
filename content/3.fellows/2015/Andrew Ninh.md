@@ -7,7 +7,7 @@ Co-Founder at Stealth Mode Startup Company
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 22
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 53
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Andrew Ninh is a fellow from the class of 2015 who is currently working as a Co-Founder at Stealth Mode Startup Company, a Startup company based in San Francisco. Over the course of their career, they have worked at 53 organizations, including The Thiel Foundation <thielfoundation.org>; Zephyr Health <zephyrhealth.com>; Docbot <docbot.co>; IEEE Brain <brain.ieee.org>; IEEE <ieee.org>; Stealth Mode Startup Company <appcito.net>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Docbot <docbot.ai>; Curafi <curafi.com>, and held 7 different job titles, such as Co-Founder; CEO; Founder; Co-Founder And Chief Executive Officer; Data Science Intern And Kpcb Fellow; Thiel Fellow; Chief Strategy Officer. They have amassed 8 years of experience and have acquired 22 skills, including Genetics; Python; Computational Biology; Microsoft Excel; React.Js; C++; Perl; Latex; Bioinformatics; Research; Data Mining; Databases; Java; Mysql; Php; Mathematica; Css; Entrepreneurship; Javascript; Start Ups; Html; Sql. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -271,9 +292,3 @@ Roles
 - **Chief Strategy Officer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rahul-kataria. Rahul. Kataria. SWE @ Rippling, CS @ Columbia. University personal - Student at. Columbia. University. Check out my project portfolio at. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Computer. Software. Dean's. List. All semesters. Columbia. University. Tau. Beta. Pi. Junior. Inductee ( Uberlytics. A web application that uses uber data to show you what rides you take the most, find friends that take similar routes and suggest carpooling. Winner of. Best. Use. Of. Facebook's. Mission at. DevFest. Hackathon. Rahul. Kataria. SWE @ Rippling, CS @ Columbia. University. Axia. Axia is a web application that aims to make comparable analysis easier. Axia uses. Natural. Language. Processing and. Machine. Learning methods to generate similarity relationships and stores them in a graph database to make it easier to perform competitive analysis, comparable valuations and benchmarking. Rahul. Kataria. SWE @ Rippling, CS @ Columbia. University. Rippling. San. Francisco. Bay. Area. Rippling. Helped take two products from -. - Inventory. Management - Global. Payroll. Software. Engineer. Full-time. Java. Android. Studio. Python. JavaScript. Cascading. Style. Sheets (CSS) HTML. Product. Development. Research. True fangfei-ge. Fangfei. Ge. Software. Engineer at. Rippling grigori-barbachov. Grigori. B. Software. Engineer arjun-anand- Arjun. Anand. Software. Engineer seongmin-choo. Seongmin. Choo. Software. Engineer at. Rippling kcuttari. Kushal. Cuttari. Software. Engineer @ Rippling abhishek-bollap. Abhishek. Bollapragada. Software. Engineer at. Rippling. Global. Payroll jonathan-liu- Jonathan. Liu. Software. Engineer at. Rippling jeevanshankar. Jeevan. Shankar. Software. Engineer, Rippling | Ex-Facebook caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow patrickcopp. Patrick. Copp. Software. Engineer at. Rippling. Hospishare. HospiShare is an. Android mobile application with a social objective that. I launched in . It seeks to connect the smart phone enabled users with other users with elderly parents. It enables users to avoid taking too many workdays off for hospital visits by connecting with users who offer to take their parents to the hospital instead. You can check the initiative out at: Rahul. Kataria. SWE @ Rippling, CS @ Columbia. University. Advanced. Programming. Analysis of. Algorithms. Artificial. Intelligence. Computer. Networks. Computer. Science. Theory. Computer. Vision. Data. Structures iOS. Development. Project. Planning. Discrete. Mathematics. Distributed. Systems. Freedom of. Press and. Speech (President. Lee. Bollinger, taught in the style of a law school class) Fundamentals of. Computer. Systems. History of. The. Modern. Middle. East. Intermediate. Macroeconomics. Introduction to. Databases. Introduction to. Probability and. Statistics. Linear. Algebra. Machine. Learning. Natural. Language. Processing. Number. Theory (Cryptography) Ordinary. Differential. Equations. Python (Programming. Language) Athelas. Weight. Scale
-::

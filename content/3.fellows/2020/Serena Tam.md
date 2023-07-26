@@ -6,8 +6,8 @@ Class of 2020
 Ios Engineer at Slack
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Serena Tam is a fellow from the class of 2020 who is currently working as a Ios Engineer at Slack, a Others company based in New York. Over the course of their career, they have worked at 5 organizations, including Slack <slack.com>; Yale University <yale.edu>; Columbia University <columbia.edu>; Microsoft <microsoft.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Ios Engineer; Software Engineer Intern; Research Intern, Software Systems Lab; New Technologist Intern; Kleiner Perkins Engineering Fellow; Summer Research Intern. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -63,9 +84,3 @@ Roles
 - **Summer Research Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rayjbjang. Ray (지범) Jang. Founder, CEO at. Atria 🚀 | Forbes | Angel. Investor | Ex-TikTok personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. English. French. Internet. Dingwall. Scholar. Fellow @ Kleiner. Perkins. Caufield. Byers. UWC. Davis. Scholar. Atria. Atria. Target customer: E-commerce brands and ad agencies. High-quality. AI to boost your ad conversions. Backed by. Accel and. Kleiner. Perkins. Founder and. CEO. Full-time. End. User. Research. User. Experience (UX) Information. Architecture. Wireframing. Product. Management. UX. Research. Product. Design. Usability. Testing. True. Korean. Product. Requirements. Data. Analysis. Technical. Analysis. Key. Performance. Indicators. Analytical. Skills. Management. Mandarin
-::

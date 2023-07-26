@@ -6,8 +6,8 @@ Class of 2022
 Dod at Glean
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Steve Jiang is a fellow from the class of 2022 who is currently working as a Dod at Glean, a Others company based in San Francisco Bay Area. Over the course of their career, they have worked at 5 organizations, including PayPal <paypal.com>; Databricks <databricks.com>; Glean <glean.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Dod; Engineering Fellow; Software Engineering Intern. They have amassed 1 years of experience and have acquired 16 skills, including Html; Graphql; Python; C++; Java; Matlab; Tensorflow; Research; Web Development; Swift; Node.Js; C (Programming Language; React.Js; Machine Learning; Javascript; Sql. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -105,9 +126,3 @@ Roles
 - **Software Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-annalinwang. Anna. Wang. CS/DMD @ Penn personal - United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Higher. Education. Kleiner. Perkins. Kleiner. Perkins. KP. Fellow. Computer. Science. Human. Computer. Interaction. Motion. Graphics. Graphic. Design. Java. Adobe. Creative. Suite. True. Latin. LIMITED_WORKING
-::

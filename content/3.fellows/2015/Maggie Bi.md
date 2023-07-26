@@ -6,8 +6,8 @@ Class of 2015
 Product Manager at Lyft
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Maggie Bi is a fellow from the class of 2015 who is currently working as a Product Manager at Lyft, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Lyft <lyft.com>; Flipboard <flipboard.com>; Cornell University <cornell.edu>; Mastercard Türkiye <mastercard.com.tr>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Engineering Fellow; Front End Developer And Ios Developer; Product Manager; Software Engineering Intern; Software Engineer; Engineering Fellow 2015; Emgerging Payments Summer Intern. They have amassed 8 years of experience and have acquired 17 skills, including Photoshop; Microsoft Sql Server; Statistics; Java; Cascading Style Sheets; Publications Production; Translation; Illustrator; Python; Css; Html 5; Indesign; Microsoft Office; Mandarin; Css3; Php; Html5. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -115,9 +136,3 @@ Roles
 - **Emgerging Payments Summer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dpurushottam. Dhruv. Purushottam. Director of. Technology at. Finexus personal. Malaysia. Kuala. Lumpur, Federal. Territory of. Kuala. Lumpur. Kuala. Lumpur. Federal. Territory of. Kuala. Lumpur. Kuala. Lumpur, Federal. Territory of. Kuala. Lumpur, Malaysia. True. False. English. Hindi. Computer. Software. Finexus. Group. Kuala. Lumpur, Federal. Territory of. Kuala. Lumpur, Malaysia. Finexus. Group. Moved home to join the booming. Fintech space in. South. East. Asia. At. Finexus my focus is on. R&D, cloud native technology, AI/ML and developer productivity. I also oversee the company's recruitment processes. Director of. Technology. Full-time. Java. Public. Speaking. Programming. Photography. C. Mathematics. Data. Analysis. Writing. True. Jo-Anne. Loh. Director of. Software, Finexus sanjay-jeyakumar. Sanjay. Jeyakumar. CTO at. Abnormal. Security vig-sh. Vignesh. Shankar. Software. Engineer at. Abnormal. Security shrivushankar. Shrivu. Shankar. ML. Engineer @ Abnormal. Security tdee. Dee. T. Engineering. Manager @ Abnormal. Security william-huang- William. Huang. Software. Engineer at. Abnormal. Security taylorxi. Yongxin. Xi. Anti-fraud and risk compliance expert and enthusiast chau-nguyen- Chau. Nguyen. Engineering. Manager at. Abnormal. Security lawrence-stockton-moore. Lawrence. Moore. ML. Engineer | ex. ML. Tech. Lead at. Abnormal. Security, ML at. Google. YoutubeAds pavitra-brahmbhatt. Pavitra. Brahmbhatt. Startup. Talent | People first. Accelerated. Physics. PHYS. Advanced. Programming in. C/C++ COMS. Analysis of. Algorithms. CSOR. Computational. Aspects of. Robotics. COMS. Computer. Science. Theory. COMS. Computer. Vision. COMS. Data. Structures and. Algorithms. COMS. C language. Algorithms. Fundamentals of. Computer. Systems. CSEE. Honors. Introduction to. Java. COMS. Introduction to. Combinatorics & Graph. Theory. COMS. Introduction to. Databases. COMS. Introduction to. Probability and. Statistics. SIEO. Linear. Algebra. MATH. Making, Breaking. Codes. MATH. Modern. Analysis. MATH. Multivariable. Calculus. MATH , Natural. Language. Processing. COMS. Operating. Systems. COMS. Production. Scheduling. IEOR. Programming and. Problem. Solving. COMS. C++ Matlab. Android. Development. Spring. Framework. MongoDB. Agile. Methodologies. Node.js. Web. Development. Groovy
-::

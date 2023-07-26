@@ -6,8 +6,8 @@ Class of 2014
 General Partner at Crownholdt Estate
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 4
+::
+::badge{type="info"}
+Number of Organizations: 3
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Val Chibisov is a fellow from the class of 2014 who is currently working as a General Partner at Crownholdt Estate, a Others company based in San Francisco. Over the course of their career, they have worked at 3 organizations, including AppDynamics <appdynamics.com>; Business Development Centre <bdc-canada.com>; Crownholdt Estate, and held 4 different job titles, such as Software Engineer; Senior Product Manager; General Partner; Software Developer. They have amassed 9 years of experience and have acquired 19 skills, including C++; Eclipse; Software Engineering; Agile Methodologies; Enterprise Software; Software Development; Product Management; User Experience; Embedded Systems; Saas; Php; Android; Python; Cloud Computing; Git; Software Design; Product Road Mapping; Mobile Applications; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -106,9 +127,3 @@ Roles
 - **Software Developer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rlad. Rishik. Lad. Founder at. Elythea (YC ) personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Neukom. Scholar. Utilizing deep learning techniques in the healthcare & computer vision space. Second. Honor. Group. Top % GPA for the - academic year. Dartmouth. College. James. O. Freedman. Presidential. Research. Scholar. Conducting two terms of natural language processing research in the. Minds, Machines, and. Society. Group with. Professor. Soroush. Vosoughi. Dartmouth. College. Humanities. Core. Research. Award. Essay selected as one of the ten best humanities papers in a pool of ~. Paper: “The. Paradox of. Animal & Human. Rights in. Nazi. Germany” UC. Irvine - UROP. National. Merit. Finalist. National. Merit. Scholarship. Corporation (NMSC) Elythea. San. Francisco, California, United. States. Elythea. YC. Founder. True. Kevin. Xu. CS at. UPenn onlyhamza. Hamza. Khawaja. Founding team at. Atlas, formerly. Hadith, KP. Product, Google, Microsoft, Salesforce, Tesla. Berkeley. CS, Data. Science mehak--garg. Mehak. Garg. CS @ Mudd | Fellow advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum tejas-n. Tejas. Narayanan. CS at. Stanford | SWE. Intern at. Citadel meghamjain. Megha. Jain. SWE @ Banyan. Infrastructure | CS + Business @ Berkeley hgu. Henry. Gu. CS @ USC, prev. Stripe | KP. Fellow iristfu. Iris. Fu. CS + History @ Stanford vicolee. Vico. Lee. SWE. Intern @ Coinbase | Kleiner. Perkins. Fellow | CS & Physics @ Dartmouth. College. Saksham. Arora. Incoming. Tech. Analyst @ Roivant. Sciences. CS, Math @ Dartmouth. National. AP. Scholar. Granted to students in the. United. States who receive an average score of at least on all. AP. Exams taken, and scores of or higher on eight or more of these exams. College. Board. DECA. Awards. International. Finalist - May , International. Conference - "Marketing. Team. Decision. Making" Place - March , State. Conference - "Virtual. Business. Challenge: Accounting" Place - March , State. Conference - "International. Business. Plan" Place - March , State. Conference - "Marketing. Team. Decision. Making" Place - January , Regional. Conference - "Marketing. Team. Decision. Making" Place - January , Regional. Conference - "International. Business. Plan" Place - January , Regional. Conference - "International. Business. Plan" Place - January , Regional. Conference - "Marketing. Team. Decision. Making" California. DECA
-::

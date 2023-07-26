@@ -6,8 +6,8 @@ Class of 2019
 Content Creator at Maple Leaf Sports & Entertainment
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Finance; AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 11
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Michael Ligier is a fellow from the class of 2019 who is currently working as a Content Creator at Maple Leaf Sports & Entertainment, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including New Enterprise Associates <nea.com>; Udemy <udemy.com>; eMarketer <emarketer.com>; Uber <uber.com>; Upstart <upstart.com>; RapidSOS <rapidsos.com>; New York University <nyu.edu>; MasterClass <masterclass.com>; Brandless <brandless.com>; Maple Leaf Sports & Entertainment <mlse.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Product Marketing Intern; Product And User Experience Intern; Associate Product Manager; Product Manager; Product Management Intern; Venture Capital Fellow; Content Creator; Product Growth Intern; Product Fellow; User Experience Design Intern. They have amassed 4 years of experience and have acquired 11 skills, including Design Thinking; Powerpoint; Lean Startup; Finance; Marketing Management; Public Relations; Human Centered Design; Start Ups; Presentations; Public Speaking; Marketing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -115,9 +136,3 @@ Roles
 - **User Experience Design Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Steve. Jiang. Infra at. Glean personal dod. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Internet. Glean. Palo. Alto, California, United. States. Glean dod. Full-time. C++ JavaScript. Web. Development. Machine. Learning. Research. Java. Python (Programming. Language) Swift. True. Kevin. Li. Infra at. Glean chau-tran- Chau. Tran. Engineering at. Glean calvinqi. Calvin. Qi. Intelligence at. Glean shivanikishnani. Shivani. Kishnani. Software engineer @ Retool alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Kevin. Xu. CS at. UPenn. Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) Fei. Fang. Intelligence @ Glean 🔎 | Stanford. BS' MS' 🌲 Grace. Wu. Product @ Glean cindyrzheng. Cindy. Z. SWE @ Glean | KP. Fellow | UCLA. CS ' Matlab. TensorFlow. SQL. React.js. Node.js. GraphQL. C (Programming. Language) Swift (Programming. Language) HTML
-::

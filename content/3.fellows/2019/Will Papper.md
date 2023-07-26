@@ -7,7 +7,7 @@ Co-Founder at Syndicate Protocol
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 10
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 15
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Will Papper is a fellow from the class of 2019 who is currently working as a Co-Founder at Syndicate Protocol, a Startup company based in New York. Over the course of their career, they have worked at 15 organizations, including Yelp <yelp.com>; RetailMeNot <retailmenot.com>; Proxy <proxy.com>; MIT Media Lab <media.mit.edu>; Librarian AI <librarian.ai>; Proxy <proxy.nl>; Proxy <proxy.com>; MediMeld <medimeld.com>; Bear Studios LLC <bearstudios.org>; IDEO CoLab Ventures <ideocolab.com>; Standford Alumni <stanfordalumni.org>; Syndicateprotocol <syndicateprotocol.org>; Syndicate <syndicateprotocol.org>; Syndicate Protocol; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Product Manager; Co-Founder And Chief Executive Officer; Co-Founder; Winter + Summer 2018 Fellow; Product Management Intern; Product Management And Software Engineering Intern; Research Intern; Kp Product Fellow; Co-Founder And Director Of Technology. They have amassed 4 years of experience and have acquired 10 skills, including Start Ups; Web Development; Entrepreneurship; Web Design; Java; Product Development; Mobile Application Development; Python; Research; Data Science. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -120,9 +141,3 @@ Roles
 - **Co-Founder And Director Of Technology**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-uriel-sejas. Uriel. Sejas. SWE @ Slack | KP. Fellow personal. Hello! I'm. Uriel, a first-gen undergrad. Computer. Science student at. George. Mason. University and my interests lie in the intersection of tech, business, and the financial markets. In my free time. I enjoy riding electric skateboards, investing in stocks, and watching documentaries. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Japanese. ELEMENTARY. Computer. Software. Slack. San. Francisco. Bay. Area. Slack. Software. Engineer. Full-time iOS. Development. Leadership. Java python. JavaFX. NetBeans. Eclipse. Microsoft. Office. True ivanna-gomez-q. Ivanna. Gomez. Quiroz. Computer. Scientist. Andres. Montoya. SWE @ TS patel-nikhil. Nikhil. Patel. Kleiner. Perkins. Fellow | SWE. Intern @ Stripe | Presidential. Scholar @ USC ~samay. Samay. Nathani. Software. Engineer at. Robinhood. Henry. Trinh software engineer @ watershed melodyxlee. Melody. Lee 👩🏻‍💻 Software. Engineer | Kleiner. Perkins. Fellow anni-chai. Anni. Chai. Software. Engineer @ Stripe abizar-b- Abizar. B. Founding. Engineer at. Methid adit-gupta. Adit. Gupta. Yale. CS | KP. Eng. Fellow, Neo. Fellow deeprohoque. Deepro. Hoque. Incoming. SWE @ Slack. Quechua. NATIVE_OR_BILINGUAL. Solar. Panel. Installer. GRID. Alternatives • Participated in an -day program in. Sacramento, California to help in the installation process of solar panels to provide lower income communities with affordable and renewable energy. Spanish. NATIVE_OR_BILINGUAL
-::

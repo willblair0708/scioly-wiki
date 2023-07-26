@@ -6,8 +6,8 @@ Class of 2022
 Associate Product Manager at Uber
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 12
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kevin Chen is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Uber <uber.com>; The Harvard Crimson <thecrimson.com>; Mastercard Türkiye <mastercard.com.tr>; Meta <meta.com>; Harvard John A. Paulson School Of Engineering And Applied Sciences; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kleiner Perkins Product Fellow; Engineering Manager And Associate News Editor; Software Engineer Intern; Associate Product Manager; Teaching Fellow; Software Development Engineer Intern. They have amassed 1 years of experience and have acquired 12 skills, including Python; R; Research; Mathematica; Public Speaking; C++; Management; Matlab; Programming; Leadership; Java; Data Analysis. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -96,9 +117,3 @@ Roles
 - **Software Development Engineer Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-evan-welsh- Evan. Welsh. Software. Engineer at. Modern. Health personal - United. States. Oakland, California. Oakland. California. Oakland, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Computer. Software. Coca-Cola. Scholar. Coca-Cola. Scholars. Foundation. U.S. Presidential. Scholar in. CTE. The. President of the. United. States of. America. GNOME. Contributions. I'm a. GNOME. Foundation member and work on a variety of. GNOME projects including. JavaScript for. GNOME and. GNOME. Shell which power major. Linux distributions such as. Fedora and. Ubuntu. Evan. Welsh. Software. Engineer at. Modern. Health. Modern. Health. San. Francisco. Bay. Area. Modern. Health. Full. Stack. Software. Engineer focusing on. React and. React. Native frontends and. Python microservices. I'm currently creating. CI/CD pipelines for our frontends, contributing to our web architecture planning, and building out our microservices. In the past. I've rebuilt our deeplinking code, wrote. React. Native native modules, kickstarted our design system, and more! Senior. Software. Engineer. Full-time. C++ Open-Source. Software. Open-Source. Development. Java. Android. JavaScript. Linux. Software. Development. True cesnietor. César. Nieto. Software. Engineer at. MinIO hanyrostom. Hany. Rostom. Senior. Software. Engineer @ Modern. Health ashneeldas. Ashneel. Das. Software. Engineer @ Modern. Health naomiburkhart. Naomi. Burkhart. Software. Engineer at. Modern. Health bradydowling. Brady. Dowling. Software. Engineer at. Modern. Health lyndsysimon. Lyndsy. Simon. Senior. Staff. Software. Engineer at. Modern. Health emily-karr-kaitin- Emily. Karr-Kaitin. Senior. Product. Manager at. Modern. Health hlillehei. Haley. Lillehei. Content @ Modern. Health sophiawojtasinski. Sophia. Harden. Product. Management and. Strategy ebakan. Eric. Bakan. Data @ YC. C++ Programming. CS. Data-Driven. Web. Applications. INFO. Evolution of. Human. Behavior. PSYCH. Honors. Object. Oriented. Design & Data. Structures. CS. Human-Computer. Interaction. INFO. Information. Ethics, Law, and. Policy. INFO. Initiation to. Greek. Culture. CLASS. React. Native. Node.js. Introduction to. Linguistics. LING. Latin. Poetry: Didactic. LATIN. Open-Source. Software. Engineering. CS. Sex and. Gender. LGBT. Software. Engineering. CS. Systems. Programming. CS. Vue.js. React.js. TypeScript. Serverless. Computing. San. Francisco. Bay. Area. Modern. Health. Full. Stack. Engineer. Full-time
-::

@@ -6,8 +6,8 @@ Class of 2015
 Senior Software Engineer at Attentive
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 45
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Nick Dupoux is a fellow from the class of 2015 who is currently working as a Senior Software Engineer at Attentive, a Others company based in New York. Over the course of their career, they have worked at 7 organizations, including Addepar <addepar.com>; Hoover Institution at Stanford University <hoover.org>; Shape Security <shapesecurity.com>; iD Tech Camps <idtech.com>; Attentive <attentivemobile.com>; Standford Alumni <stanfordalumni.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Software Developer; Engineering Fellow; Software Engineer; Cs106 Section Leader; Senior Software Engineer; Software Development Research Assistant @ Virtual Human Interaction Lab; Software Engineering Intern; Instructor; Core Developer. They have amassed 8 years of experience and have acquired 45 skills, including English; C++; Computer Science; Os X; Software Development; Web Development; Go; Databases; Jquery; Json; Django; Haskell; Java; Git; University Teaching; Programming; Agile Methodologies; Project Management; Html; Ruby; Python; Node.Js; Javascript; Unix; Rust; Team Leadership; Mongodb; Open Source; C; Css; Postgresql; Debugging; Teamwork; Linux; Windows; Web Applications; Computer Security; Algorithms; Software Engineering; Mysql; Software Design; Matlab; Latex; Sql; Teaching. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -204,9 +225,3 @@ Roles
 - **Core Developer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jordanethomas. Jordane. T. Software. Engineer at. Uber personal. I'm an engineer. I currently work in tech. I'm always looking to improve businesses and lives through engineering and design. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. Computer. Software. Uber. San. Francisco. Bay. Area. Uber. DOTCOM team. Software. Engineer. Full-time. Go (Programming. Language) Python. Data. Analysis. Web. Development iOS. Development. Data. Structures. Java. JavaScript. True shiyunhuang. Shiyun. H. Software. Engineer at. Uber quadri-b- Quadri. B. Software. Engineer at. Uber jaryd-saevitzon. Jaryd. Saevitzon. Senior. Software. Engineer at. Uber. Jeremy. Goh. Engineering. Leadership, Uber navita-dandotiya. Navita. Dandotiya ex-Apple | Sr. Software. Engineer at. Uber maniniamin. Manini. Amin. Software. Engineer at. Uber chasesriprajittichai. Chase. Sriprajittichai. Software. Engineer at. Uber russelldevera. Russell. De. Vera. Software. Engineer. I at. Uber christopherkonglam. Christopher. L. Senior. Software. Engineer at. Uber theresacay. Theresa. Cay. Senior. Software. Engineer at. Uber. Kleiner. Perkins. Engineering. Fellow hackNY. Fellow. Fellow. C++ React.js. T. Howard. Foundation. Fellow. React. Native. MATLAB. Pandas (Software) Swift (Programming. Language) Cascading. Style. Sheets (CSS) HTML. C (Programming. Language) Ruby. Ruby on. Rails. Redux.js. All. Star. Code. Scholars
-::

@@ -6,8 +6,8 @@ Class of 2020
 Group Product Manager at Moveworks
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Finance; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 36
+::
+::badge{type="info"}
+Number of Past Jobs: 17
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ajay Merchia is a fellow from the class of 2020 who is currently working as a Group Product Manager at Moveworks, a Others company based in Cupertino. Over the course of their career, they have worked at 11 organizations, including UC Berkeley <berkeley.edu>; Intero Real Estate Services <interorealestate.com>; Memory Labs, Inc. <memory-labs.com>; Moveworks <moveworks.ai>; Illumix <illumix.com>; The Andrew Goodman Foundation <andrewgoodman.org>; Boxlet Storage <boxletstorage.com>; Mobile Developers of Berkeley <mobiledevsberkeley.org>; Market Games <marketgames.io>; Kleiner Perkins Caufield & Byers <kpcb.com>; Intacct Corporation <intacct.com>, and held 17 different job titles, such as Product Fellow; Product Manager; Group Product Manager; Financial Resources Coordinator; Chief Financial Officer; Marketing Intern; Vote Everywhere Campus Ambassador; Demand Generation Intern; Product Management Intern; Real Estate Agent; Dance Instructor; Business Development Intern; Co-Founder And Product Manager; CFO; Business Administration; Bs Candidate; BA Candidate. They have amassed 3 years of experience and have acquired 36 skills, including Microsoft Excel; Final Cut Pro; Express.Js; Google Maps Api; Salesforce.Com; Team Leadership; Dance; Python; Event Planning; Ios Development; Public Speaking; Photoshop; Marketing; Promotional Marketing; Google Analytics; Business Financial Planning; Marketing Automation; Java; Spanish; Web Development; Marketo; Teaching; Heroku; 2D Animation; Data Analysis; Adobe Audition; Node.Js; Firebase; Photography; Juvenile Law; Sql; Online Marketing; Google Adwords; Fb Api; R; Apple Motion. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -197,9 +218,3 @@ Roles
 - **BA Candidate**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Julie. Liang. Lead. Product. Designer @ Hinge | ex-Uber personal. Senior product and graphic designer skilled in designing app and web based products, brand systems, graphics and illustrations. Available for freelance projects, contact for work samples. Get in touch: United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Mandarin. Chinese. LIMITED_WORKING. Computer. Software. Honors. Student. Rhode. Island. School of. Design. Merit. Scholarship. Rhode. Island. School of. Design. Merit. Award. Recipient. National. YoungArts. Foundation. Hinge. New. York, New. York, United. States. Hinge. Leading design on the. Growth. Monetization team. Lead. Product. Designer. Full-time. Industrial. Design. Product. Design. Illustrator. Sketching. Model. Making. Photoshop. Painting. Drawing. True mollyrboyd. Molly. Boyd. Design at. Hinge cpaniati. Christopher. Paniati. Product. Design. Lead @ Hinge courtneylett. Courtney. Lett. Lead. UXR, Core. Experience at. Hinge bryantobeng. Bryant. Obeng. Lead. Product. Designer at. Hinge | Dropbox, Robinhood, Stash ramón-santiago. Ramón. Santiago. Product. Designer at. Hinge haydenmills. Hayden. Mills. Lead. Product. Designer at. Hinge ryananhnguyen. Ryan. Nguyen. Product. Designer at. LinkedIn adrian-harwood- Adrian. Harwood. Lead. Designer floraw. Flora. Wang. Senior. Product. Designer at. Hinge amandaluhan. Amanda. Han. Product. Designer @ Uber. SolidWorks. Rhino. CAD/CAM. InDesign. Photography. Adobe. Creative. Suite. Art. Microsoft. Office. Graphic. Design. UIX. User. Experience. Design. Thinking
-::

@@ -6,8 +6,8 @@ Class of 2014
 Software Engineer at Ambrook
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 7
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Christopher So is a fellow from the class of 2014 who is currently working as a Software Engineer at Ambrook, a Others company based in New York. Over the course of their career, they have worked at 5 organizations, including Goldman Sachs <goldmansachs.com>; Flipboard <flipboard.com>; Google <google.com>; Verily <verily.com>; Ambrook <ambrook.com>, and held 7 different job titles, such as Software Engineer; Technology Summer Analyst; Senior Software Engineer At Verily; Senior Software Engineer; Undergraduate Research Assistant; Engineering Intern; Director, Crew Chief. They have amassed 9 years of experience and have acquired 6 skills, including Java; Matlab; Javascript; C; Python; Html 5. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -79,9 +100,3 @@ Roles
 - **Director, Crew Chief**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-davidbxu. David. X. exploring something new personal i like creating things. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Computer. Software. Soldier from. The. Surface a small game design blog as part of an experimental passion project exploring my interests beyond code. it was featured on the front page of hacker news, gamasutra community blogs, metafilter, and /r/gamedev. David. X. exploring something new. Other. Stuff. Other. Stuff, including experimental game stuff, game design, screenwriting, creative writing, web apps, mobile apps, game jams, and other random ventures. David. X. exploring something new studio doobu studio doobu a creative studio exploring new systems for human experience - reach out to collaborate! Founder. Full-time. Stuff. C# Unity. JavaScript. TypeScript. Figma (Software) API. Development. Node.js. False zkhalapyan. Zorayr. Khalapyan. Builder, Entrepreneur, Investor. abhinavvora. Abhinav. V. Co-Founder @ Async. Labs | Ex-Lyft/Facebook/Microsoft anthonygarvan. Anthony. Garvan. Founder/CEO at. SheetRocks, Inc boyang-niu. Boyang. Niu. Founder @ Stylized.ai | ex-Dropbox/Block/Hive williamwilliams. William. Williams. Working on capturing and persisting our family stories. jnfang. Jiayun. Fang building something new armanjaffer. Arman. Jaffer. Founder at. Brisk. Teaching (Hiring. Engineers) beckyhu. Bec. H. Building. Channeled. Previously. Uber & LinkedIn. steven-syverud- Steven. Syverud. Something. New sjwhitmore. Samantha. Whitmore. Building something new. Adobe. Illustrator. Unreal. Engine. Godot. Virtual. Reality (VR)
-::

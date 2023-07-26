@@ -6,8 +6,8 @@ Class of 2021
 Incoming Software Engineer at Stealth Mode Startup Company
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 27
+::
+::badge{type="info"}
+Number of Past Jobs: 20
+::
+::badge{type="info"}
+Number of Organizations: 18
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Daniela Velez is a fellow from the class of 2021 who is currently working as a Incoming Software Engineer at Stealth Mode Startup Company, a Others company based in Cambridge. Over the course of their career, they have worked at 18 organizations, including Motorola Solutions <motorolasolutions.com>; Carnegie Mellon University <cmu.edu>; Figma <figma.com>; Pear VC <pear.vc>; Google <google.com>; StartLabs <startlabs.co>; Kumo <kumonetwork.com>; Patient Portal Technologies <patientportal.com>; MIT Media Lab <media.mit.edu>; Microsoft <microsoft.com>; Zoe Christian Fellowship of Whittier <zcf.org>; IMUNA <imuna.org>; Stealth Mode Startup Company <appcito.net>; Meta <meta.com>; Womxn Ignite <womxnignite.com>; Novtech <novtech.com.br>; Mit Csail; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 20 different job titles, such as Associate Product Management Intern; Software Engineer Intern; Director Of Education; Undergraduate Researcher; Incoming Software Engineer; Shadow; Computer Science Summer Institute; Software Engineer; Undergraduate Researcher In The City Science Group; Head Of Operations; Pear Venture Fellow; Undergraduate Researcher In The Distributed Robotics Lab; Co-Director; Z Fellow; Engineering Fellow; Fellow; Vice President Of Events; Summer Academy For Math And Science; Grader; Assistant Director. They have amassed 2 years of experience and have acquired 27 skills, including Public Speaking; Html; Java; Research; Leadership; Microsoft Word; Css; Music; Creativity Skills; Data Mining; Mongodb; Graphic Design; Bootstrap; Javascript; Data Analysis; Social Media; Management; Microsoft Excel; Python; Writing; Communication; Engineering; Microsoft Powerpoint; Computer Science; Website Building; Project Management; Microsoft Office. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -191,9 +212,3 @@ Roles
 - **Assistant Director**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Henry. Trinh software engineer @ watershed personal - hi frends, i love peanut butter < United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Computer. Software. Watershed. San. Francisco. Bay. Area. Watershed helping companies cut carbon! join us :) software engineer. Consuming. Peanut. Butter. Nut. Butter. Development no peanut allergies! :^) Smelling peanut butter making pb & j sandwiches. C++ True fravic. Fravic. F. Helping companies cut carbon at. Watershed. We're hiring! spikebrehm. Spike. Brehm. Helping companies cut carbon at. Watershed hemochen-grace-an- Hemochen (Grace) An. Helping companies cut carbon @ Watershed. davidcgl. David. Chen. Helping companies cut carbon at. Watershed sheila-ramaswamy. Sheila. Ramaswamy. Helping companies cut carbon at. Watershed. We're hiring! Kevin. Ku. Helping companies cut carbon at. Watershed. We're hiring! cheng-lin. Cheng. Lin. Kevin. Xu. CS at. UPenn kkraoj. Krishna. Rao. Helping companies decarbonize at. Watershed ttzeneva. Tzvetelina. Tzeneva. Helping companies cut carbon at. Watershed. We're hiring! money. LA. Hacks admin stuff. Vietnamese. Student. Union pm. Creative. Labs it. Daily. Bruin
-::

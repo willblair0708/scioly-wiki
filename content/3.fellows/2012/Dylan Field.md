@@ -7,7 +7,7 @@ Chief Executive Officer And Co-Founder Of Figma at Figma
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 11
+::
+::badge{type="info"}
+Number of Skills: 47
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Dylan Field is a fellow from the class of 2012 who is currently working as a Chief Executive Officer And Co-Founder Of Figma at Figma, a Startup company based in Providence. Over the course of their career, they have worked at 6 organizations, including LinkedIn <linkedin.com>; O'Reilly Media <oreilly.com>; inDinero <indinero.com>; Flipboard <flipboard.com>; Figma <figma.com>; Microsoft <microsoft.com>, and held 10 different job titles, such as CEO; Co-Founder; Co-Founder & CEO; Software Engineering Intern; Research Assistant; Chief Executive Officer And Co-Founder Of Figma; Online Marketing Intern; Data Analytics Intern; Developer; Product Design Intern. They have amassed 11 years of experience and have acquired 47 skills, including Java; Big Data; Human Computer Interaction; Recommender Systems; C; Python; Ajax; Product Management; Public Speaking; Html5; Data Analysis; Unix; Linux; Mysql; Django; Pig; Html; Css; Apache; Rapid Prototyping; Mapreduce; Data Mining; Software Engineering; Node.Js; Web Development; Javascript; Hadoop; Product Development; Data Visualization; Hive; C++; Web Applications; Hbase; Php; User Experience; Zombies; Mobile Applications; Computer Security; Jquery; User Interface Design; Analytics; Git; Sql; Big Data Analytics; Distributed Systems; People Skills; Html 5. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -208,9 +229,3 @@ Roles
 - **Product Design Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-mattsafian. Matt. Safian. Staff. Product. Designer at. Frame.io (Adobe) personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Design. Frame.io. Frame.io. Staff. Product. Designer. Full-time. Graphic. Design. Web. Design. Branding & Identity. HTML. CSS. JavaScript. PHP. MySQL. True alexisgallisa. Alexis. Gallisá. Director of. Design. Systems at. Frame.io sisi-yu. Sisi. Yu. Product. Designer @ frame.io (Adobe) julia-rickles. Julia. Rickles. Product designer & human. jessheisme. Jessica. He. Product at. Frame.io (acquired by. Adobe) michaellloffredo. Michael. Loffredo. Staff. Product. Designer at. Frame.io • Formerly at. Uber & IBM bwaddington. Brian. Waddington. Lead. Product. Designer at. Frame.io acreno. Wojciech. Zieliński. Staff. Product. Designer @Adobe francoisdenavaut. François. Denavaut. Software. Designer & Engineer joemontanino. Joe. M. Senior. Product. Designer wgsomerville. Walter. Somerville. Product. Designer @ Dropbox. Photoshop. Illustrator. InDesign. WordPress. User. Interface. Design. Adobe. Creative. Suite. Posters. Visual. Design. New. York. City. Frame.io. Senior. Product. Designer. Full-time
-::

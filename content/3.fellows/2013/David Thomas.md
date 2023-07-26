@@ -6,8 +6,8 @@ Class of 2013
 Senior Machine Learning Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 3
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+David Thomas is a fellow from the class of 2013 who is currently working as a Senior Machine Learning Engineer at Stripe, a Others company based in Menlo Park. Over the course of their career, they have worked at 8 organizations, including Twitter <twitter.com>; Morgan Stanley <morganstanley.com>; Shopify <shopify.com>; Stripe <stripe.com>; Teza Technologies <teza.com>; Citadel <citadel.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Quantitative Researcher; Credit Strategist Intern; Software Engineer Intern; Developer Intern; Engineering Fellow; Quantitative Research Intern; Applied Ml Researcher; Software Engineer Intern, Machine Learning. They have amassed 10 years of experience and have acquired 3 skills, including Distributed Systems; Programming; Machine Learning. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -80,9 +101,3 @@ Roles
 - **Software Engineer Intern, Machine Learning**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jbcima. Jeremy. Cimafonte. Two-time national fellowship recipient product designer who has been published in the. App. Store with web development experience. personal. From startups to software used by millions, I've had a career spent designing consumer and enterprise products loved by their users. I have a focus on research, strategy, and design. My skills as a web developer allow me to build prototypes and give me a better understanding of how products are created. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Internet. Candy. Digital. Candy. Digital. Lead. Product. Designer. User. Experience. Software. Design. Mobile. Web. Design. Web. Design. JavaScript. CSS. HTML jQuery. True cat-knoerr. Cat. Knoerr. Head of. Strategy & Ops @ Candy. Digital alexskene. Alex. Skene. Product. Management | Blockchain/NFTs | Data | APIs. Daniel. Heyman. CSO @ Candy. Digital shaebiron. Shae. Biron & Award. Winning. ABM. Marketer andrew-ward- Andrew. Ward. Building fan experiences with technology caitlinburns. Caitlin. Burns. Senior. Director of. Story, Palm. NFT. Studio & Candy. Digital bernardogampel. Bernardo. Gampel. Strategy & Operations @ Palm. NFT. Studio | Ex-Accenture | Crypto. Nerd elyse-fulcher. Elyse. Fulcher. Creative. Director at. Startup. Artclub straith-schreder- Straith. Schreder. Executive. Creative. Director at. Palm. NFT. Studio nikiselken. Niki. Selken. Manager of. Design. Strategy for. Tech. Culture at. Intuit. Volunteer. Yes on. F campaign, misc. political campaigns. Weekly text/phone banking efforts for the campaign, canvassing, created software to generate maps for a large rally and canvassing event with + canvases volunteers and , pieces of literature. WordPress. Logo. Design. Ruby on. Rails. CMS. YUI. Front. End. Engineering. Design. Node.js. Mobile. Applications. Mobile. Devices. Front-end. Usability. Testing. Online. Advertising
-::

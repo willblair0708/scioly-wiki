@@ -7,7 +7,7 @@ Founder at Stealth Mode Startup Company
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Environment
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 9
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Teresa Liu is a fellow from the class of 2019 who is currently working as a Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. Over the course of their career, they have worked at 9 organizations, including Lyft <lyft.com>; Nextdoor <nextdoor.com>; Google <google.com>; Horizons <joinhorizons.com>; Climatebase <climatebase.org>; Stealth Mode Startup Company <appcito.net>; Meta <meta.com>; 776 Foundation <776.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineering Fellow; Systems Infrastructure Intern; Associate Product Manager Intern; Engineering Fellow; Founder; Software Engineering Intern; Associate Product Manager; Fellow. They have amassed 4 years of experience and have acquired 9 skills, including Javascript; Html/Css; Adobe Illustrator; Leadership; Java; C++; Graphic Design; Music; Web Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -101,9 +122,3 @@ Roles
 - **Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford personal -SisTWpZCESDEDNOzAVRU. United. States. Stanford, California. Stanford. California. Stanford, California, United. States. False. False. Computer. Software. International. Dark-Sky. Association. Rising. Star. Award. The. Rising. Star. Award honors a student or students of any grade level from elementary school through undergraduate university who demonstrate(s) an enthusiasm for and commitment to dark sky conservation and/or research into nocturnal habitat, human health, safety and security, or other areas in the context of natural darkness and light pollution. International. Dark-Sky. Association. TEDxLincoln. Youth. Speaker. Delivered a speech that sought to raise awareness on the issue of. Light. Pollution, and how activities such as. Photography can be a unique medium to solve the issue. TEDx. Lincoln. Hubble. Making finding housing easier. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Storytracker. Help people compare news stories and homepages. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Glean. Palo. Alto, California, United. States. Glean. Growth. Engineering. Software. Engineer. Full-time. JavaScript. React.js. Redux.js. HTML. Cascading. Style. Sheets (CSS) Assembly. Language. Python (Programming. Language) Numpy. True manavrathod. Manav. Rathod. Search. Intelligence @ Glean | NLP. Researcher | UC. Berkeley. M.E.T. wrui. Rui. Wu. Glean | ex-Google. Brain, Citadel wwpen. William. Peng. Software. Engineer at. Glean cindyrzheng. Cindy. Z. SWE @ Glean | KP. Fellow | UCLA. CS ' Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) rnarravula. Riddhima. Narravula. Software. Engineer @ Glean. Fei. Fang. Intelligence @ Glean 🔎 | Stanford. BS' MS' 🌲 yiming-jen. Yiming. Jen. Software. Engineer at. Glean. Kevin. Li. Infra at. Glean calvinqi. Calvin. Qi. Intelligence at. Glean rizzGPT rizz as a service. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Race me. Typerace me. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Computer. Organizations & Systems. Data. Structures and. Algorithms (C++) Design and. Analysis of. Algorithms. Intro to. Human-Computer. Interaction. Linear. Algebra and. Multivariable. Calculus. Mathematical. Foundations of. Computing. Mobile. App. Dev. Section. Leader. Stanford. University. EDUCATION. Lead a section of ~ people one a week who are participating in. Stanford's. Code. In. Place. Pandas. GitHub. Applied. Learning. Initiative - Developing a website from scratch that allows students to find research opportunities with various. PIs - Technologies: React.js, Redux, SCSS, Node.js, MongoDB, Mongoose, Firebase. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Telehistory - Developed a web app that allows users to view graphs/data regarding texts sent in the popular messaging app, Telegram - Technologies: Next.js, TailwindCSS, TypeScript, Nivo. Graphs. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford. Principles of. Computer. Systems. Web. Applications (MERN stack) Web. Programming. Fundamentals. St. Elizabeth. Hospital. Volunteer. CHI. Health. HEALTH. Aid in organizing the hospital and its events, delivering patient belongings, transporting patients in wheelchairs, and overall work the hospital needs done. Ruby on. Rails
-::

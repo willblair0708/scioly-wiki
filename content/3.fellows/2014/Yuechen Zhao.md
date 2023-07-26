@@ -6,8 +6,8 @@ Class of 2014
 Partner at GSR Ventures
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 9
+::
+::badge{type="info"}
+Number of Skills: 37
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 19
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Yuechen Zhao is a fellow from the class of 2014 who is currently working as a Partner at GSR Ventures, a Others company based in San Francisco. Over the course of their career, they have worked at 19 organizations, including GSR Ventures <gsrventures.com>; Recess Mobile <recessmobile.im>; Flipboard <flipboard.com>; Uber <uber.com>; Firework <huohua.in>; Harvard University <harvard.edu>; Google <google.com>; Celential.ai <celential.ai>; Neuron Mobility <neuron.sg>; Microsoft <microsoft.com>; Uniform Teeth <uniformteeth.com>; Akia <akia.com>; Glimpse <tryglimpse.com>; Huddle <doahuddle.com>; Meixin Finance Group <meixinfinance.com>; Paragon Builders Incorporated <paragonbuildersinc.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Neuron Mobility <rideneuron.com>; Fireworks <fireworks.ai>, and held 12 different job titles, such as Product Manager; Chief Executive Officer And Co-Founder; Associate Product Manager; Software Engineering Intern And Kpcb Engineering Fellow; Partner; Product Lead; Teaching Fellow; Investor And Board Observer; Investor; Kp Fellow; Software Engineer Intern; Undergraduate Research Fellow. They have amassed 9 years of experience and have acquired 37 skills, including Html 5; Php; Algorithms; Ocaml; Apache; Css; R; Git; Mongodb; Matlab; Software Development; Microsoft Office; Docker; Computer Repair; Entrepreneurship; Html; Python; Product Management; Java; Sql; Web Development; Postgresql; User Experience; Mysql; Databases; C#; Vue.Js; Unix; Node.Js; Machine Learning; Teaching; C++; Swift; Computer Science; C; Javascript; Data Analysis. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -219,9 +240,3 @@ Roles
 - **Undergraduate Research Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-matthew-krager- Matthew. Krager. Software. Engineer at. Stripe personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. Internet. WWDC. Scholarship. Recipient. Had the honor of attending. Apple's. WWDC. Apple. VEX. Virtual. Worlds. World. Champion. I participated in an online programming challenge where competitors had to program a simulation of a robot. My score was first in the world. VEX. Robotics. Robotics. Programming-Related. Awards. Disneyland. Dreamers and. Doers. Shining. Star: Awarded money funded. Tech. Club. Eagle. Scout. Arcade. Radar. With its interactive, community-sourced, map, Arcade. Radar works to locate arcades and keep track of their machines. I love arcades! Matthew. Krager. Software. Engineer at. Stripe. React. Fast. A simple, but elegant mobile game developed using. Apple’s. Sprite. Kit. Improve your reaction time through many different game modes. Matthew. Krager. Software. Engineer at. Stripe. Stripe. San. Francisco. Bay. Area. Stripe iOS. Engineer. Working on. Stripe. Terminal. Software. Engineer. Full-time. Swift. Java iOS. Development. Programming. Objective. C. Python. Public. Speaking. Leadership. True kanavkalucha. Kanav. Kalucha swe @ stripe zulsar-batmunkh- Zulsar. Batmunkh. Software. Engineer at. Stripe mindylou. Mindy. Lou. Software. Engineer at. Stripe jacob-meltzer- Jacob. Meltzer. Engineering. Manager at. Stripe jacqueline-osborn- Jacqueline. Osborn. Software. Engineer at. Stripe vibhavbhat. Vibhav. Bhat. Software. Engineer at. Stripe yucheng-tony-yang. Tony. Yang. Co-founder @ Cyclone (YC ) adam-walker-hmc. Adam. Walker. Software. Engineer @ Stripe | CS @ Harvey. Mudd aaron-gardner- Aaron. Gardner. Software. Engineer - Stripe. GPTN (Global. Payments and. Treasury. Network) meng-wang- Meng. Wang. Engineering. Leader. Harvey. Mudd. FIRST. Robotics. Scholarship (only recipient) Servite. High. School. Tech. Fair. Servite's. Technology and. Innovation. Club hosted a tech fair containing local companies and clubs from. Orange. County. Matthew. Krager. Software. Engineer at. Stripe. VEX. Scout. An app designed to help robotics teams with scouting. Users could search through scores, averages, teams, competitions, awards, and much more. Matthew. Krager. Software. Engineer at. Stripe. Head of. Robotics. Summer. Camp. Servite. High. School. I worked to introduce. STEM to young students to help spark interests at a young age. JavaScript. National. Hispanic. Scholar. Speech and. Debate. Congress. Orange. County. Finalist. OC. Regional. Application. As a part of the first. OC. Regional, I worked with a small team to create an iOS, Android, and web app that allowed competitors to stay up to date with the competition. Matthew. Krager. Software. Engineer at. Stripe
-::

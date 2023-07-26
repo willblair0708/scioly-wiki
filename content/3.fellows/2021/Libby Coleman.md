@@ -6,8 +6,8 @@ Class of 2021
 Technical Product Manager at Apple
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 6
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Libby Coleman is a fellow from the class of 2021 who is currently working as a Technical Product Manager at Apple, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Pocket <getpocket.com>; Duolingo <duolingo.com>; DoorDash <doordash.com>; OZY Media <ozy.com>; Breakthrough Collaborative <breakthroughcollaborative.org>; SF Gate <sfgate.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Special Projects Manager And Reporter And Editor; Product Fellow; Product Manager Mba Intern; Product Manager Intern; Product Manager; Technical Product Manager; Innovation Editor And Special Projects Manager; Writing Teacher. They have amassed 2 years of experience and have acquired 6 skills, including News Writing; Improvisational Comedy; Journalism; Teaching; Editing; Creative Writing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -89,9 +110,3 @@ Roles
 - **Writing Teacher**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-scolas. Stéphane. Colas. Product @ Mindbloom personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. English. FULL_PROFESSIONAL. French. PROFESSIONAL_WORKING. Mental. Health. Care. Leadership. Award (Product. Management) Zynga. Rockstar. Award (Excellence in. Product. Management) Zynga. ETH. Zurich. Excellence. Scholarship. Philips. Semiconductors/NXP. Award. Mindbloom. San. Francisco. Bay. Area. Mindbloom. Leading product management, design and content functions to craft the best customer experiences in psychedelic therapy. Head of. Product. Full-time. Analysis. Matlab. Management. Consulting. Business. Strategy. C++ Strategy. LaTeX. Mathematical. Programming. True sam-levine- Sam. Levine. Co-Chairman at. PAX. Labs, Inc. jthurer. Justin. Thurer. Guide. Ops @ Mindbloom | Psychedelics. Advocate | Ex-Noom aditiramchandani. Aditi. Ramchandani. Author of. The. Self-Care. Habit | Speaker | Psychedelic. Guide at. Mindbloom | Master. Certified. Life. Coach - Ditch the. Stress & Find your. Flow alytobiasz. Aly. Beynon. Head of. Engineering at. Mindbloom steve-kane. Steve. Kane. Product. Marketing @ Mindbloom cdhonau. Constantine. Dhonau. Guiding. LGBTQIA+ couples to reclaim their spirituality from religious shame through self-compassion and psychedelic integration lillymorriss. Lilly. Morriss. Growth at. Mindbloom sarahkwatson. Sarah. Watson (Kadagian) Lifecycle. Marketer at. Mindbloom mike-curry- Mike. Curry. Social. Media and. Community. Manager at. Mindbloom jeremyneuman. Jeremy. Neuman. Product @ Mindbloom. German. NATIVE_OR_BILINGUAL. Reforge. Growth. Series () Mentor and. Coach for entrepreneurs in. Rwanda. Grow. Movement. ECONOMIC_EMPOWERMENT. Web. Development. Outsourcing. Infrastructure productivity: How to save $ trillion a year. McKinsey. Global. Institute (MGI) Stéphane. Colas. Product @ Mindbloom. IT. Business. Strategy. Operational. Excellence. Strategic. Planning. Data. Analysis. Analytics. Organizational. Design. Competitive. Analysis. Leadership. Telecommunications. Product. Management. Luxembourgish. NATIVE_OR_BILINGUAL
-::

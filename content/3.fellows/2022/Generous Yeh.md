@@ -6,8 +6,8 @@ Class of 2022
 Design Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 9
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 12
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Generous Yeh is a fellow from the class of 2022 who is currently working as a Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Seattle. Over the course of their career, they have worked at 12 organizations, including Reddit <reddit.com>; Groupon <groupon.com>; ANSYS <ansys.com>; Uber <uber.com>; Figma <figma.com>; Wish <wish.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; synHacks <synhacks.org>; Dax Ibiza Concierge Services <daxibiza.com>; Glean <glean.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Assistant Wrestling Coach; User Experience Design Intern; Product Design Intern; Design Fellow; User Experience Designer Intern; User Experience Intern; Figma Student Leader; Product Designer; Design Lead; Content Creator; Capstone Product Designer. They have amassed 1 years of experience and have acquired 9 skills, including Human Centered Design; Java; Cascading Style Sheets; Research; User Centered Design; Javascript; User Experience Design; Ux; Html. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -113,9 +134,3 @@ Roles
 - **Capstone Product Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-qasimwani. Qasim. Wani. ML @ PathAI | Kleiner. Perkins fellow personal -E. The progressive development of man is vitally dependent on. Invention." Nikola. Tesla. United. States. Boston, Massachusetts. Boston. Massachusetts. Boston, Massachusetts, United. States. False. False. Internet. Winner of. CityLearn. Competition (BuildSys) Developed a novel zeroth-order implicit. RL framework as part of the. CityLearn research competition, beating the next-best solution (out of teams) by %. Learn more about the challenge: BuildSys. Conference. Top. Startups of - Virginia. Tech. HitchHiqe was voted as top startups for the fiscal year at. Virginia. Tech. Virginia. Tech. Hackathon. Winner. Learn more: . MIT – Sept. Virginia. Tech – Feb. University of. Washington – Oct. Duke. University – Dec. Virginia. Tech – Feb. Preventiv | World's first open-sourced contact tracing app for. COVID- - Co-founded. Preventiv, one of the first nationally recognized, publicly released privacy-first contact tracing apps that works globally. - Pioneered a multi-dimensional contact tracing model using a novel graph-based algorithm. - Similar versions of our approach to contact tracing have been developed since and have gone on to help over. Americans. - Provided feedback and helped support. Virginia. Tech's contact tracing efforts to over users via. Hokie. Health. - Featured in. Collegiate. Times, VT. News, & Health. Hotline. Podcast. Qasim. Wani. ML @ PathAI | Kleiner. Perkins fellow. Brain. Computer. Interface. Leveraged. ML, Signal. Processing, and. EE techniques to build: . Arithmetic calculator: Why use a calculator when you can *think* of multiplying two numbers? Shazam for the mind: Automatically detects what song you're listening to by *reading* your neural activity. Emotion detector: Feeling anxious? Let us automatically *detect* your actual state of well-being and recommend some wellness strategies. Qasim. Wani. ML @ PathAI | Kleiner. Perkins fellow. PathAI. Boston, Massachusetts, United. States. PathAI. Unlocking biological insights using. AI. Machine. Learning. Engineer. II. Full-time. Machine. Learning. Deep. Reinforcement. Learning. Full-Stack. Development. Algorithms. Python. True tiffany-freitas- Tiffany. Freitas. COO at. PathAI sidgupta- Sid. Gupta. Machine. Learning. Engineer at. PathAI vigneshvalaboju. Vignesh. Valaboju. Machine. Learning. Engineer @ PathAI christinabkjayson. Christina. Jayson, Ph.D. Scientific. Strategy | AI. Product. Manager | Translational. Research. Lead | Strong communicator and multitasker | Bridging scientists and ideas to drive science forward rushilram. Rushil. Ram. Engineering @ Infinitus (we're hiring!) | ex-Amazon andrew-beck- Andrew. Beck. Co-founder and. CEO at. PathAI. Mike. Griffin. Senior. Machine. Learning. Engineer at. PathAI. Dinkar. Juyal. ML at. PathAI qian-song- Qian. Song. Software engineer, Dialogflow at. Google sumansigdel. Suman. Sigdel. Seeking. New. Grad. Roles | SWE. Intern @ Uber | Kleiner. Perkins. Fellow | Prev: Coinbase, Wolfram. Sai. Gurrapu. Machine. Learning. Engineer @ Apple | ZFellow. Circuits and. Devices. ECE. Computer. Vision. ECE. Machine. Learning. ECE. Physical. Electronics. ECE. Reinforcement. Learning. ECE. Signals and. Systems. ECE. Trustworthy. Machine. Learning. ECE. Winning the. CityLearn. Challenge: Adaptive. Optimization with. Evolutionary. Search under. Trajectory-based. Guidance. AAAI. Qasim. Wani. ML @ PathAI | Kleiner. Perkins fellow. Boston, Massachusetts, United. States. PathAI. Machine. Learning. Engineer. Full-time
-::

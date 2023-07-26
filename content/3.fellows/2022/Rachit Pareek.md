@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Roblox
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Social Impact; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 11
+::
+::badge{type="info"}
+Number of Past Jobs: 18
+::
+::badge{type="info"}
+Number of Organizations: 16
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Rachit Pareek is a fellow from the class of 2022 who is currently working as a Software Engineer at Roblox, a Others company based in San Mateo. Over the course of their career, they have worked at 16 organizations, including Kaiser Permanente <kp.org>; Acumen <acumen.org>; Robinhood <robinhood.com>; UC Berkeley <berkeley.edu>; VSCO <vsco.co>; Spirit Airlines <spirit.com>; Amazon Web Services <amazonaws.com>; Roblox <roblox.com>; Smart Security Systems <sss.network>; Foresight Mental Health <foresightmentalhealth.com>; Synocate <synocate.com>; AcreTrader <acretrader.com>; Berkeley Business Society <berkeleybusinesssociety.com>; Fremont Debate Academy <fremontdebateacademy.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Berkeley Phi Beta Lambda <berkeleypbl.com>, and held 18 different job titles, such as Business Development Intern; Senior Strategy Consultant; Kp Engineering Fellow; Financial Strategy Consultant; Software Engineering Intern; Marketing Strategy Consultant; Digital Strategy And Software Engineering Intern; Software Development Engineer Intern; Founder; Software Engineer; Data Scientist; Sql Course Teacher; Founder And Chief Financial Officer; Strategy Consultant; Cohort Chair; Data Science Intern; Cs 61Bl | Academic Intern; Philanthropy Chair. They have amassed 1 years of experience and have acquired 11 skills, including Alto Saxophone; Project Management; Public Speaking; Social Media Marketing; Operations; Java Programming; Statistical Data Analysis; Python; Microsoft Office; Oboe; Operations Analysis. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -138,9 +159,3 @@ Roles
 - **Philanthropy Chair**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-neel-saswade. Neel. Saswade. Product. Designer at. Glean • KP. Fellow personal -ZnzfWRDA 🦾 I'm interested in building productive relationships between humans and computers 👨‍🎨 check out my work at. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. English. NATIVE_OR_BILINGUAL. Marathi. FULL_PROFESSIONAL. Design. Best. Robot. Design. FIRST. SafePath. Lets users take photos of situations that they believe are dangerous, checks to see if it is actually dangerous, and displays those on a map for the community to see. We built the app using react native for the front end, Firebase for the backend, and. Google. Cloud. Vision and. Natural. Language. Processing to verify dangerous situations. Neel. Saswade. Product. Designer at. Glean • KP. Fellow. Glean. Palo. Alto, California, United. States. Glean. Product. Designer. Full-time. React.js. User. Experience (UX) Machine. Learning. User. Experience. Design (UED) Research. Data. Structures. Design. Web. Design. True panchamyadav. Pancham. Y. Product. Designer at. Glean. Sue. Kim. Product. Design at. Glean dorothy-kang. Dorothy. Kang. Design at. Glean. Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) Kevin. Xu. CS at. UPenn debarghyadas. Debarghya (Deedy) Das. Founding. Engineer / Manager @ Glean — Search alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford nghiavo. Nghia. Vo. SWE @ Glean rohandhoopar. Rohan. Dhoopar. Intelligence @ Glean | Ex-Google. Brain, Princeton juliodbuendia. Julio. Buendía. Product @ Glean. Spanish. LIMITED_WORKING. AP. Calculus. BC. AP. Computer. Science. AP. MicroEconomics. AP. Physics. AP. Spanish. AP. Us. History. Algorithms. Field. Reset. FIRST. EDUCATION. Deep. Learning. Graphic. Design. CMPS - Data. Structures. Computer. Systems and. Assembly. Language. Data. Structures. Discrete. Mathematics. Human. Factors (UX) Introduction to. Cognitive. Science. Learning and. Memory. Linear. Algebra. PSYC - Research. Methods. PSYC - Cognition. Perception. Instructor. Mercy. Housing. CHILDREN. Guided kids ages - through various activities ranging from schoolwork to culinary arts. Taught courses on photography and videography. Usability. Testing. Photography. Music. Human. Computer. Interaction. Wireframing. User. Research. User. Interface. Design. Python. Java. React. Native. ACT
-::

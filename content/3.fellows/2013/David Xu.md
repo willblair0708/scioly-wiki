@@ -6,8 +6,8 @@ Class of 2013
 Senior Software Engineer Technical Lead at 
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 1
+::
+::badge{type="info"}
+Number of Organizations: 3
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+David Xu is a fellow from the class of 2013 who is currently working as a Senior Software Engineer Technical Lead at nan, a Others company based in San Francisco. Over the course of their career, they have worked at 3 organizations, including Upthere <upthere.com>; Google <google.com>; Google <goo.gle>, and held 1 different job titles, such as Software Engineer. They have amassed 10 years of experience and have acquired 17 skills, including Multithreading; Javascript; Signature; Interface; Relational Database; Ocaml; Templates; Syntax; Express; Scala; Receive; Module; Node.Js; Handlebars.Js; Actor; Structure; Mergesort. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -100,9 +121,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dayoadetu. Dayo. A. Graduate of the. University of. Pennsylvania ||Mechanical. Engineer|| Bioengineer|| personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Mechanical. Or. Industrial. Engineering. Mechanical. Engineering and. Applied. Mechanics - Graduation. Ceremony. Student. Speaker. University of. Pennsylvania. Dr. Andy. Binns. Award for. Outstanding. Service to. Graduate and. Professional. Student. Life. Presented to graduate or professional students, upon their graduation from. Penn, who have significantly impacted or extensively contributed to graduate and professional student life at. Penn through outstanding service involvement in student life programs, initiatives, or organizations. These awards are designed to recognize contributions specifically to graduate and professional student life across campus. University of. Pennsylvania. SEAS. Graduate. Award: Outstanding. Service. Award. Awarded by the. University of. Pennsylvania. Department of. Bioengineering. University of. Pennsylvania. Graduate. Awards. SEAS. Graduate. Award: Outstanding. Service. Award. Awarded by the. University of. Pennsylvania. Department of. Mechanical. Engineering and. Applied. Mechanics. University of. Pennsylvania. Graduate. Awards. True dana-abulez- Dana. Abulez. Consulting. Analyst at. Accenture michaelsiedlik. Michael. Siedlik. Senior. Scientist at. InfiniFluidics, Inc. madeline-paliganoff. Madeline. Paliganoff. Program. Manager, Operations at. Vanderbilt. University. Medical. Center theodore-wang- Theodore. Wang. Research. Assistant at. Center for. Neuroengineering and. Therapeutics, Univerisity of. Pennsylvania olayinka-omolere. Olayinka. Omolere. Berkeley. MBA | Kleiner. Perkins. Fellow rajnanalalpatel. Raj. Patel, Ph.D. Senior. R&D. Engineer, Silicon. Photonics at. Nokia buffy-giddens- Buffy. Giddens. Senior. Assistant. State's. Attorney at. St. Mary's. County. Government adedayo-ekundayo- Adedayo. Ekundayo na at n.a oliver-osei-as. Oliver. O. Product @ Uber | Kleiner. Perkins. Fellow | The. Wharton. School | CS. Master's @ Penn. Engineering | Fortis. Fellow phoebe-weiser- Phoebe. Weiser. Product. Manager at. Microsoft. Graduate. Association of. Bioengineers. President. Mechanical. Engineering. Graduate. Association. President. Underrepresented. Students. Advisory. Board in. Engineering. President. National. Society of. Black. Engineers. President. Engineers. Without. Borders. Vice. President. ONYX. Honor. Society member
-::

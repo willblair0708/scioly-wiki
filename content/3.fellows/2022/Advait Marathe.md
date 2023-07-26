@@ -6,8 +6,8 @@ Class of 2022
 Associate Product Manager Intern at Duolingo
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 8
+::
+::badge{type="info"}
+Number of Past Jobs: 19
+::
+::badge{type="info"}
+Number of Organizations: 16
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Advait Marathe is a fellow from the class of 2022 who is currently working as a Associate Product Manager Intern at Duolingo, a Others company based in San Diego. Over the course of their career, they have worked at 16 organizations, including SearchForce <searchforce.com>; NVIDIA <nvidia.com>; Duolingo <duolingo.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; ServiceNow Ventures <servicenow.com>; Amazon Web Services <amazonaws.com>; KPCB <kleinerperkins.com>; Kleiner Perkins <kleinerperkins.com>; Safari Kid <kido.school>; Open Scout <openscout.vc>; ClickED - Fotografia <clicked.com>; Product Space <productspace.org>; Data Science Society at Berkeley <dssberkeley.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Missionedu <missioneduk12.org>, and held 19 different job titles, such as Undergraduate Student Researcher; Scout; Fellow + Growth Committee; External Vice President; Student Researcher; Software Engineering Intern; Machine Learning Consultant; Project Manager; Programming Instructor; Software Engineer Intern; Engineering Fellow; Pm; Director Of Consulting; Founder; Fellowship Director; Product And Engineering; Associate Product Manager Intern; Solution Consulting Intern; Co Founder And Advisor. They have amassed 1 years of experience and have acquired 8 skills, including Communication; Public Speaking; Python; Web Design; Microsoft Office; Java; Sql; Community Outreach. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -130,9 +151,3 @@ Roles
 - **Co Founder And Advisor**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-thot. Nikhil. Thota. Technical. Staff @ Perplexity. AI personal -YBY- 🤓 United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. LIMITED_WORKING. Computer. Software. CodePath. University. Top. App. Won top app at. CodePath for social media app: Vente. CodePath. Solstice. Mobile's. Best. Use of. Emerging. Tech to. Make an. Impact. Hack. HackIllinois. Grand. Prize - Oculus. Rift based startup that involves a traveling gaming bus that incorporates virtual reality - Technical lead, in charge of transferring games into. Virtual. Reality through. Unity and developing infrastructure to incorporate onto bus. Gainesville. Startup. Weekend. President's. List. University of. Florida. National. AP. Scholar. CollegeBoard. Perplexity. AI. San. Francisco, California, United. States. Perplexity. AI. Technical. Staff. Full-time. Leadership. Software. Development. Full-Stack. Development. C++ Crypto. Erlang. Distributed. Systems. True aravind-srinivas- Aravind. Srinivas. Co-founder & CEO, Perplexity. AI ohharsen. Arsen. Ohanyan. Perplexity. AI | ex-Palantir | ZFellow nickjalbert. Nick. Jalbert. Full. Stack. Software. Engineer samyakparajuli. Samyak. Parajuli. Research. Engineer | Berkeley. AI. Research aarashy. Aarash. Heydari. Cloud. Infrastructure at. Perplexity. AI kevin-s-hu. Kevin. Hu. Technical. Staff @ Perplexity. AI alexywang. Alex. Wang iOS. Developer @ Perplexity. AI | Previously. Coursera aditi-khare- Aditi. Khare. AWS & Generative. AI. Specialist-Principal. Applied. AI. Large-Scale. End to. End. Product. Engineer & Solutions. Architect | IIM-A | Open-Source. Contributor | Mojo | LLMOPS | LangChain | | Transformers. Agents🤗| Quantum. AI rolstenhouse. Rob. Olsthoorn. Eng denisyarats. Denis. Yarats. Cofounder & CTO, Perplexity. AI. Telugu. NATIVE_OR_BILINGUAL. National. Merit. Scholar. NMSC. Association of. Computer. Engineers. Founding. Team & Project. Manager. Swamphacks. Director of. Technology. GatorVR. Co-founder. Circuits. Computational. Linear. Algebra. Computer. Organization. Data. Structures and. Algorithms. Databases. Fundementals. Design. Patterns. Differential. Equations. Tech. Guy. Florida. Community. Innovation. Foundation. HEALTH. React.js. React. Native. Multicultural and. Diversity. Affairs. Webmaster, Student. Ambassador. Digital. Logic and. Computer. Systems. Discrete. Structures. Intro to. Software. Engineering. Programming. Fundementals (Java) Programming. Fundementals (C++) Volunteer. Coordinator / Camp. Counselor. Museum of. Science & Industry (MOSI) SCIENCE_AND_TECHNOLOGY. Managed a floor of other student volunteers by giving teaching them how all of the exhibits work and providing them with information whenever necessary. Helped set up a summer science camp program (with a. Harry. Potter theme), and was a counselor for the grade and grade iterations. PHP. Python (Programming. Language) Vue.js. Ruby on. Rails. Redis. Virtual. Reality (VR) Machine. Learning. Data. Engineering. Big. Data. Teaching
-::

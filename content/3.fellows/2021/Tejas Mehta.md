@@ -6,8 +6,8 @@ Class of 2021
 Associate Product Manager Intern at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 45
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 12
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Tejas Mehta is a fellow from the class of 2021 who is currently working as a Associate Product Manager Intern at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Slack <slack.com>; NASA - National Aeronautics and Space Administration <nasa.gov>; Zimperium <zimperium.com>; Google <google.com>; University of North Texas <unt.edu>; Amazon Web Services <amazonaws.com>; Kanarys <kanarys.com>; The Home Depot <homedepot.com>; ZCrystalball <iamtejasmehta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Upliftstress <upliftstress.com>; Locoeats <locoeats.org>, and held 14 different job titles, such as Vice President Of Technology; Software Engineering Intern; Freelance Developer; Founder; Senator; Product Management Intern; Co-Founder; Software Development Intern; Associate Product Manager; High School Aerospace Scholar; Engineering Fellow; Research Fellow; Student, Cssi-Coursera; Associate Product Manager Intern. They have amassed 2 years of experience and have acquired 45 skills, including Microsoft Powerpoint; Microsoft Office; Creo; Html; Figma; Cascading Style Sheets; Microsoft Excel; Flutter; Sql; Leadership; Python; Matlab; Imovie; Microsoft Word; Object Oriented Programming; Interaction Design; Microsoft Outlook; Public Speaking; Keynote; Java; Ansible; Full Stack Development; C (Programming Language; Pytorch; Research; Google Cloud Platform; User Interface Prototyping; Shell Scripting; Web Development; Version Control; Flask; Agile Methodologies; C++; Javascript; Data Analysis; React.Js; Autodesk Fusion 360; Debate; R; Firebase; Github; Machine Learning; Git; User Experience Design; Solidworks. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -224,9 +245,3 @@ Roles
 - **Associate Product Manager Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-andybojiang. Andy. J. - personal. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Information. Technology & Services. A* Capital. A* Capital. A* Partners is a venture capital firm focused on investing in consumer and fintech companies from seed to late stage. A* was founded by. Kevin. Hartz (founder. Xoom, Eventbrite), Gautam. Gupta (former finance executive. Uber, Opendoor), and. Bennett. Siegel (former partner at. Coatue). Worked on investments such as: syndicate.io, starlight.money, exponential.fi, disco.xyz, barracuda.io, ansiblelabs.xyz, and others. Investor. Internship. Public. Speaking. Leadership. Research. Software. Development. Product. Management. True ismailazam. Ismail. Azam. AI/ML. Product. Leader @ Microsoft, Stanford, New. Relic | Former. UC. Berkeley. Instructor | Keynote. Speaker bassil-shama- Bassil. Shama. Core. Dev. Intern @ Jump. Trading | UC. Berkeley. EECS | Formerly @ HRT, Slack, Roblox hartz. Kevin. Hartz. Co-Founder & General. Partner at. A*, Chairman & Co-Founder of. Eventbrite (NYSE: EB) vikramramakrishnan. Vikram. Ramakrishnan. Investor victoriayli. Victoria. Li. Product. Designer & Engineer | Prev. Design @ Redfin pauldesadeleer. Paul. De. Sadeleer. Investor at. A* Capital sachpat. Sachin. Patel. Investor aidenywl. Aiden. Low. Engineering at. Applied. Intuition | Kleiner. Perkins. Fellow joelenelatief. Joelene. L. Engineer @ Retool justinryanwong. Justin. R. Wong. Software. Engineer | CS and. Data @ Berkeley
-::

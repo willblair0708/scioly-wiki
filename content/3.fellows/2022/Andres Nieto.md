@@ -6,8 +6,8 @@ Class of 2022
 Back End Engineer at Waltz Health
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 45
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Andres Nieto is a fellow from the class of 2022 who is currently working as a Back End Engineer at Waltz Health, a Others company based in Chicago. Over the course of their career, they have worked at 7 organizations, including CTRL <ctrl-tv.com>; University of Chicago <uchicago.edu>; Shelf Engine <shelfengine.com>; U.S. Digital Response <usdigitalresponse.org>; Meta <meta.com>; Waltz Health <waltzhealth.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Data Science Volunteer; Data Science Intern; Back End Engineer; Co-Founder And Product Manager; Product Growth Intern; Teaching Assistant; Experienced Associate; Engineering Fellow. They have amassed 1 years of experience and have acquired 45 skills, including Operations Management; Business Analytics; Data Engineering; Deep Learning; Flask; Leadership; Agile Methodologies; Data Analysis; Teamwork; Python; Market Research; Spanish; Numpy; Pandas; Data Science; Transform; Machine Learning; Business Development; Product Management; Sql; Data Analytics; Tableau; Business Strategy; Statistics; Business Insights; Apache Spark; Neural Networks; Entrepreneurship; Extract; Project Management; Artificial Neural Networks; Go; Amazon Web Services; Critical Thinking; Business Intelligence; Public Speaking; Github; Natural Language Processing; Corporate Strategy; Load; R; Business Operations; Forecasting; Research; Artificial Intelligence. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -203,9 +224,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-angelinerao. Angeline. R. Investor at. Costanoa. Ventures personal. Most active here: United. States. United. States. True. False. Chinese. PROFESSIONAL_WORKING. German. LIMITED_WORKING. Computer. Software -time. USA. Junior. Mathematics. Olympiad (USAJMO) Qualifier. MIT. Math. Prize for. Girls. Honorable. Mention, Olympiad. Qualifier. Internationally ranked. Regional. Finalist, Siemens. Competition in. Math. Science and. Technology. Research. Shing-Tung. Yau. High. School. Mathematics. Award. Finalist. One of nationally. Summer. Program for. Applied. Rationality and. Cognition (SPARC) Costanoa. Ventures. Costanoa. Ventures. Investment. Team. True mckenzie-parks- McKenzie. Parks. Investor at. Costanoa. Ventures prathika-kasireddy. Prathika. Kasireddy. Product. Management at. Carfax taronayroohafzaii. Taronay. Roohafzaii. Product. Manager at. Bolt tobyttan. Toby. Tan. Product. Lead at. Bolt andrewlawrencewang. Andrew. L. Wang. Product @ Bolt. Andrew. Kim. Head of. Compensation at. Bolt ⚡️ liucathy. Cathy. X. Liu. Building something new sera-yang. Sera. Yang. Software. Engineer at. Bolt majukuruvilla. Maju. Kuruvilla⚡️ CEO @ Bolt. Greg. Greiner. Chief. Product. Officer at. Bolt. A. Characterization of. Oriented. Hypergraphic. Balance via. Signed. Weak. Walks. Linear. Algebra and its. Applications. Angeline. R. Investor at. Costanoa. Ventures. SAT
-::

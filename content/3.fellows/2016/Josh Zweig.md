@@ -7,7 +7,7 @@ Co-Founder at Zip Security
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 14
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Josh Zweig is a fellow from the class of 2016 who is currently working as a Co-Founder at Zip Security, a Startup company based in New York. Over the course of their career, they have worked at 11 organizations, including Columbia University <columbia.edu>; Area 1 Security <area1security.com>; Zip Security <zipsecurity.es>; Palantir Technologies <palantir.com>; Microsoft <microsoft.com>; Nav Talent <navtalent.com>; Stealth Mode Startup Company <appcito.net>; Stealth Startup; Stealth; Ohm Security; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer; Software Development Intern; Co-Founder; Engineering Fellow; Entrepreneur In Residence; Civil Liberties Engineering Intern; Head Teaching Assistant; Civil Liberties Engineer. They have amassed 7 years of experience and have acquired 14 skills, including C++; Entrepreneurship; Google Apps Scripting Language; Teamwork; Computer Science; Git; Public Speaking; Html; Event Planning; Java; Ruby On Rails; Data Analysis; Eclipse; Thought Leadership. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -113,9 +134,3 @@ Roles
 - **Civil Liberties Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-amisola. Chia. Amisola ( Figma + Philippine. Internet. Archive ) personal. In radical pursuit of the web, words, & worlding by systems, infrastructures, & environments. → CV → Influences → I also write & speak on design, worlding, computational justice — such as at the. Grace. Hopper. Celebration and @ Asia's largest design conf, UX+. Not open to work! ( I will not accept connection requests without messages. ♥️ ) Current interests—Tech labor rights, digital preservation, media archaeology, net.art, creative tooling, systems, infrastructure, distribution ♡ Longer bio—— Chia. Amisola is an internet / ambient artist. Their (web)site-specific art explores web worldmaking to construct spaces, systems, and tools imagining a world where creation is synonymous with liberation. They are a. Filipino tech worker, the. Founder of. Developh, a community of practice towards critical technology based in. Manila, Philippines since , and are the. Steward & Archivist of the. Philippine. Internet. Archive. Their work uses strategies of defaults, compression, and infrastructure-building to explore the politics of ambiences & visibilities and poetic reclamations of technology in its love, labor, and liberty. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. Design. Louis. Sudler. Prize in the. Performing and. Creative. Arts. The. Louis. Sudler. Prize in the. Performing and. Creative. Arts is awarded annually to two graduating. Seniors who, in the opinion of the. Faculty, have demonstrated excellence or the highest standards of proficiency in performance or execution, and in the field of composition in one of the following general areas: architecture and design, creative writing, dance, film and video, music, theater, painting, sculpture, photography, and digital arts. Yale. University. Processing. Fellow. Processing. Foundation. Adobe. Design. Circle. Scholar. Do not apply to this or trust. IEEE/Adobe programs. They did not adequately inform me of financial aid coverage, denied to offer me financial assistance for extreme extenuating circumstances that they had offered other scholars, and redirected me to 'mentorship resources' as a 'substitute' for financial aid. If you are in legitimate financial need, IEEE & Adobe distribute their assistance extremely late — if your institution charges additional late fees, you will not be covered in time and will have to face the burden of these fees. Adobe & IEEE are incredibly uncooperative, will acknowledge your extenuating circumstances, and then refuse contact with you for an entire month. Their staff was incredibly rude and dismissive in our exchanges, and the program faced several employee turnovers in a span of two years—if that is any additional indicator. They are not interested in assisting students with actual financial need and are moreso interested in tax cuts. Even. Palantir was better at distributing financial assistance than. Adobe. of in. Adobe's inaugural scholarship for undergraduates in design. Adobe & IEEE. Palantir. Women in. Technology. Scholarship. I needed the money. Lesbians. Who. Tech. Next. Gen. Cohort. Lesbians. Who. Tech. Figma. San. Francisco, California, United. States. Figma. Prototyping (designing anything you do interactively on. Figma!) Product. Designer. Full-time. True bradartziniega. Brad. Artziniega. Design nickhiotis. Nick. Hiotis. Senior. Product. Designer at. Figma kylie-t. Kylie. To. Product. Designer @ Figma heatheratompkins. Heather. Tompkins. Product. Designer at. Figma mariagaston. Maria. G. Gaston. Product. Designer at. Figma amanda-yeh. Amanda. Yeh. Designer keeyenyeo. Keeyen. Yeo. Product. Designer at. Figma nikolas-klein- Nikolas. Klein. Product. Designer shanahu. Shana. Hu. Product. Designer at. Figma madlee. Madeleine. Lee. Product. Designer at. Figma. Hopper. Down. Under. Speaker. Spoke at the first. Asia-Pacific. Grace. Hopper. Celebration event on computational justice! Global. Teen. Leader. Carefully selected and curated from hundreds of applicants, the. Global. Teen. Leaders are made up of – year-old teens from around the world who are innovating technology and harnessing creativity to keep our water systems clean, rethink approaches to cancer research, put youth at the forefront of civic engagement, transform urban forestry industries, and use machine learning to tackle modern day crises, among other vital challenges. They are addressing some of the world's most pressing issues across the spectrum. We. Are. Family. Foundation. Student of. Vision. Abie. Award. Spoke on the. GHC. Keynote stage in front of ,+ technologists. The. Student of. Vision. Abie. Award honors young women dedicated to creating a future where the people who imagine and build technology mirror the people and societies for which they build. FactSet is the sponsor of the. Student of. Vision. Abie. Award. “AnitaB.org is thrilled to honor. Chiara. Amisola with the. Student of. Vision. Abie. Award,” said. Brenda. Darden. Wilkerson, the organization’s. CEO and. President. “Even before she graduated from high school, Chiara was supporting her fellow women technologists and creating products that empower young people in the. Philippines. We look forward to seeing what the future holds for her, and for the technology teams we expect her to lead.” AnitaB.org. Jose. P. Laurel. Memorial. Award. For. Academic. Excellence, conferred by. De. La. Salle. Santiago. Zobel and the. Jose. P. Laurel. Memorial. Foundation for graduating. Valedictorian with the highest grade point average and for overall academic excellence. Jose. P. Laurel. Foundation, De. La. Salle. Santiago. Zobel. Microsoft. Imagine. Cup. Philippines. Place. Won in the national finals for startup application, Batid. Only high school team among the finalists. Microsoft. Philippines. Youth. Excellence in. Science. Award () An annual award given by the. Philippine. Department of. Science and. Technology for students who excel in. STEM (aka won an award in a competition that they recognize internationally). Department of. Science and. Technology
-::

@@ -6,8 +6,8 @@ Class of 2019
 Software Engineer at Plaid
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 13
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Melanie Chen is a fellow from the class of 2019 who is currently working as a Software Engineer at Plaid, a Others company based in Seattle. Over the course of their career, they have worked at 11 organizations, including IBM <ibm.com>; Airbnb <airbnb.com>; Plaid <plaid.com>; Two Sigma <twosigma.com>; Hitachi Data Systems <hds.com>; MIT Media Lab <media.mit.edu>; Microsoft <microsoft.com>; Five Rings Capital <fiveringscapital.com>; Bellevue Arts Museum <bellevuearts.org>; Mit Csail; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 13 different job titles, such as Kp Engineering Fellow; Urop With Scalable Cooperation; Intelligence And Decision Technologies Intern; Software Engineer Intern; Software Engineer; Intern; Teacher; Instructor; Software Development Intern; Superurop; High School Intern; Software Engineering Intern; Docent. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -85,9 +106,3 @@ Roles
 - **Docent**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-chrso. Chris. S. Engineering at. Ambrook personal. ACoAAAyPArMBMFkTfTg- United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Computer. Software. Certificate of. Distinction for. Academic. Excellence - Department of. Computer. Science. Columbia. University. Computer. Engineering. Award of. Excellence. Columbia. University. Dean’s. Award for. Leadership. Excellence. Columbia. University. King’s. Crown. Leadership. Award – Health & Wellness. Columbia. University. National. AP. Scholar. College. Board echo. A mobile-based social application that allows users to quote their friends. Place. Winner (mobile) at. HackPrinceton . Chris. S. Engineering at. Ambrook. Ambrook. New. York, New. York. Ambrook. Building for farms, ranches, and the folks who run them. Banking, payments, accounting, and more. TBA. Software. Engineer. Full-time. Technical. Leadership. Systems. Design. Software. Design. Software. Development. Application. Development. Distributed. Systems. Databases. Cloud. Computing. False. National. Merit. Scholar. National. Merit. Scholarship. Corporation. Rishi. Narang. Co-founder & CEO @ Pioneer. Director (CEO), Crew. Chief. Columbia. University. Emergency. Medical. Service. Led the executive team and + corps members to provide / service to the. Columbia. University and greater. Morningside. Heights community. Managed patient care delivery, transport, and hand-off. Coached, trained, and mentored fellow corps members. Past certifications & training: EMT-B (NY, NJ), CEVO. III. Google. Cloud. Platform (GCP) Google. BigQuery. Tau. Beta. Pi. Momchil. Tomov. Senior. Research. Scientist at. Motional. Research. Assistant. Neurotrauma and. Repair. Laboratory at. Columbia. University. Built tools to streamline researchers' data analysis and processing workflows. Project: Quantification and prediction of electrophysiological function in the hippocampus after in vitro traumatic brain injury. Java. JavaScript. TypeScript. Node.js. Next.js. React.js. SQL. C. Python. Matlab. Jacob. Simon. Co-founder @ Exponent | Posting about tech trends, engineering, product
-::

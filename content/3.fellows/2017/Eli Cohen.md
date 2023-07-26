@@ -6,8 +6,8 @@ Class of 2017
 Software Engineer at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Eli Cohen is a fellow from the class of 2017 who is currently working as a Software Engineer at Google, a Big Tech company based in Washington. Over the course of their career, they have worked at 5 organizations, including Google <google.com>; MTailor <mtailor.com>; Ripcord <ripcord.com>; Northwestern University <northwestern.edu>; Ford Motor <ford.com>, and held 5 different job titles, such as Research Assistant; Lead Consultant; Software Developer; Product Development Intern; Software Engineer. They have amassed 6 years of experience and have acquired 19 skills, including Customer Service; Git; C++; Css; Manufacturing; Collaborative Leadership; Product Development; C; Html; Teamwork; Public Speaking; Robotics; Web Development; Solidworks; Python; Research; Matlab; Github; Opencv. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -116,9 +137,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-maggie-bi- Maggie. Bi. Product at. Stripe personal -aAXqNyBc. I'm passionate about helping mission-driven companies create products that customers want and need while making the world a little better. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Mandarin. NATIVE_OR_BILINGUAL. Computer. Software. Stripe. New. York, New. York, United. States. Stripe. Financial. Connections - Customer. UX. Streamline the customer experience and operations of bank account linking to enable. Financial. Connections. Product. Manager. Full-time. Statistics. Mandarin. Python. Microsoft. Office. Java. Photoshop. HTML. True adepablor. Alberto de. Pablo. Engineering. Manager at. Stripe. Jiajie. Chen. Software. Engineer at. Stripe nicholascreegan. Nick. Creegan. Product at. Lyft mfrumin. Michael. Frumin. Director of. Product and. Data. Science at. Lyft for. Transit, Bikes, and. Scooters eugenekwak. Eugene. K. Director of. Product- Lyft. Transit,Bikes,and. Scooters patboony. Pat. Boonyarittipong. Product. Manager frank-hebbert. Frank. Hebbert. Bikes, Scooters and. Transit at. Lyft. Mihir. Mathur. Product. Manager ikonst. Ilya. Priven. Senior. SWE james-rizzo. James. Rizzo. Head of. Product, Lyft. Business. PHP. Microsoft. SQL. Server. Cornell. Global. China. Focus. Global. China. Connection, Cornell. Chapter. Maggie. Bi. Product at. Stripe. Translation. Illustrator. InDesign. Publications. Production. CSS. Cascading. Style. Sheets (CSS) Maggie. Bi. Product at. Stripe. Rapidly generating help access point user interface flows us. Paris. Hsu. Product. Manager @ Google 🐼
-::

@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Watershedclimate
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Environment; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 34
+::
+::badge{type="info"}
+Number of Past Jobs: 5
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Henry Trinh is a fellow from the class of 2022 who is currently working as a Software Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Two Sigma <twosigma.com>; Google <google.com>; Nuro <nuro.ai>; Amazon Web Services <amazonaws.com>; Tesla <tesla.com>; Snap <snap.com>; Watershedclimate <watershedclimate.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Software Development Engineer Intern; Undergraduate Student Researcher; Software Engineer Intern; Software Engineer; Engineering Fellow. They have amassed 1 years of experience and have acquired 34 skills, including Problem Solving; Front End Development; Web Development; Design; Python; Diversity; Microsoft Excel; Javascript; C (Programming Language; Node.Js; C++; Tutoring; Algorithms; Full Stack Development; Android; Public Speaking; Android Development; Microsoft Powerpoint; Java; Reliability; Gatsbyjs; Teamwork; Continuous Integration; Leadership; React.Js; Html; Git; Spreadsheets; Typescript; Django; Cascading Style Sheets; English; Github; Back End Web Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -170,9 +191,3 @@ Roles
 - **Engineering Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-joao-batalha. Joao. Batalha. Founder @ Amplemarket & Fermat's. Library (hiring! personal. ACoAAAYaNDgBrPybHUeARaMXDvbZ- Studied. Computer. Science & Engineering at. MIT. Interested in physics, mathematics and computer science. Founded. Amplemarket with the premise that sales teams should have one main system that manages the different sales flows that generate qualified meetings. Co-founder of. Fermat's. Library, an annotation platform for scientific papers. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Kleiner. Perkins. Caufield. Byers. Fellow. Kleiner. Perkins. Caufield. Byers. Amplemarket. San. Francisco. Bay. Area. Amplemarket. We believe that sales teams should have one main system that manages the different sales flows that generate qualified meetings. Co-Founder & CEO. Full-time. Python. Java. C++ HTML. JavaScript. PHP. SQL. Photoshop. True. Computer. Networks . Computer. Systems. Security . Machine. Learning . Network and. Computer. Security . Operating. System. Engineering . Matlab. Linux. Computer. Science. MySQL. Programming. Machine. Learning
-::

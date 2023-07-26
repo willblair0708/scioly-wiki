@@ -6,8 +6,8 @@ Class of 2021
 Founding Partner at Moth Fund
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 50
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 12
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Molly Mielke is a fellow from the class of 2021 who is currently working as a Founding Partner at Moth Fund, a Others company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Stripe <stripe.com>; Figma <figma.com>; Notion <notion.so>; Peak Design <peakdesign.com>; Entireworld <theentireworld.com>; Discovery <discovery.com>; The Browser Company <thebrowser.company>; Pogo <joinpogo.com>; Molly Mielke <mollymielke.com>; Mindset Like A Mother <lifestylelogiccoaching.com>; Moth Fund; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Marketing Intern; Marketing; Design Fellow; Founder; Fellow; Product Design Intern; Intern; Product Design And Creative Intern; Freelance Researcher, Writer, And Designer; Founding Partner; Junior Graphic Designer; Graphic Design Intern; Stripe Press Editor; Product Designer. They have amassed 2 years of experience and have acquired 50 skills, including Video Color Grading; Online Social Networking; Adobe Indesign; Competitive Analysis; Image Editing; Time Management; Adobe Photoshop; Short Films; Graphic Design; People Skills; Microsoft Word; Social Media; Production Assistance; Camera/Film Equipment; Illustration; Painting; Logo Design; Storytelling; Photography; Adobe Illustrator; Event Planning; Microsoft Excel; Film Production; Film; Leadership; Video; Media Production; Set Photographer; Electronics; Video Production; Adobe Creative Suite; Research; Movie Posters; Audio Recording; Motion Graphics; Drawing; Organizational Services; Writing; Customer Service; Html; Advertising; Teamwork; Online Store; Typography; Data Analysis; Audio Editing; Microsoft Powerpoint; Studio Recording; Web Content; Written Communication. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -236,9 +257,3 @@ Roles
 - **Product Designer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-alicehli. Alice. L. ubc ' • prev ☁️📊, 👻, 🏰 personal - dual degree & quadruple major graduate in computer science 👩‍💻, mis and international business 🌎📈 & politics and government ⚖️! interested in all things tech, policy, and start-up related (: Canada. Canada. False. False. Chinese. FULL_PROFESSIONAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Citadel. New. York. City. Metropolitan. Area. Citadel. Credit. Engineering 💳 Quantitative. Developer. Intern. Internship 🥔 👉👈 Public. Speaking. Leadership 👁👄👁 Event. Management. Public. Relations. Logistics. Management. True dnaliu. Danna. L. Building @ PoplarML (YC ) Jon. Kim. Product. Manager @Microsoft | UBC. BUCS. Grad ' Samarth. Goel. Algo. Dev. Intern @ HRT | UC. Berkeley. CS, Business, and. Stats | Formerly at. IMC. Trading, Goldman. Sachs bentorn. Ben. Torn. Software. Engineer at. Citadel. Securities philip-yungu-ko. Philip. K. SDE. Intern @ Amazon audrey-ho. Audrey. Ho. UWaterloo. CS jisoo-kang. Jisoo. Kang. VC @ Forum. Ventures | ex. Microsoft, Intuit edending. Eden. Ding. Quantitative. Developer at. Citadel marco-fortin. Marc-Olivier. Fortin. Incoming. SWE @Citadel | CS @UWaterloo. Anne. Guo software engineer @ apple. French. FULL_PROFESSIONAL. Scholar. Neo. SCIENCE_AND_TECHNOLOGY. Event. Planning. Research. Engineering. Fellow. Kleiner. Perkins. Data. Science. Fellow. Bluebonnet. Data. POLITICS • Volunteered as a tech fellow with non-profit organization. Protect. Our. Election to impact national progressive causes and improve civic education and accessibility. Website. Developer, Outreach & Sponsorship. Lead. UBC. Rocket. SCIENCE_AND_TECHNOLOGY • Created a sponsorship and outreach plan for one of. UBC’s largest design team, dedicated to engineering sounding rockets. • Maintained website for team using. HTML, CSS, and. JavaScript. Community. Outreach. Nonprofit. Organizations. Strategy. Photoshop. Microsoft. Word. Microsoft. Office. Microsoft. Excel. Clip. Studio. Paint. Java. Microsoft. Access. German. ELEMENTARY
-::

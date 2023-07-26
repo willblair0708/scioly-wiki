@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Anni Chai is a fellow from the class of 2022 who is currently working as a Software Engineer at Stripe, a Others company based in Berkeley. Over the course of their career, they have worked at 10 organizations, including Genentech <gene.com>; Stripe <stripe.com>; UC Berkeley <berkeley.edu>; Capital One <capitalone.com>; Coda <coda.io>; Cisco Meraki - DWN <dwn.vn>; Rewriting the Code <rewritingthecode.org>; Kleiner Perkins <kleinerperkins.com>; UCSF Benioff Children's Hospital <ucsf.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Incoming Software Engineer Intern; Software Engineer; Fellow; Software Engineer And Data Science Intern; Accounts Receivable And Vr Intern; Predictive Analytics Intern, Gred Ecd; Growth Fellow; Engineering Fellow; Neuroscience Research Assistant. They have amassed 1 years of experience and have acquired 1 skills, including Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -81,9 +102,3 @@ Roles
 - **Neuroscience Research Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-irvinzhan. Irvin. Zhan. I'm hiring! Helping startups build product. UI faster personal. Frontend & product-focused. Passionate about no-code/low-code platforms and design tools. LinkedIn may be outdated – please reach out directly! United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Summa. Cum. Laude. Graduated. Princeton. University with. Highest. Honors in. Computer. Science. Tau. Beta. Pi. Engineering. Honor. Society. Subframe. San. Francisco. Bay. Area. Subframe. Subframe is a design-to-code tool that lets teams visually build their entire product. UI in just minutes. Interested in learning more? Check us out at or reach out directly at. Founder. Full-time. JavaScript. Front-end. Design. ReactJS. Ruby on. Rails iOS development. Information. Security. Open. Source. CSS. True jamesmcgillicuddy. James. McGillicuddy. Building. BRM kushal-byatnal- Kushal. Byatnal. Co-founder & CEO @ Extend. Fabian. Frank. Building. BRM reginalarre. Regina. Larre. Campuzano. Mission. Driven. Designer | Futurist in. Training. Alex. Lee. Co-founder, CEO at. Truewind (YC ) matthew-turnshek- Matthew. Turnshek. Founder at. Iliad (YC ) hansenq. Hansen. Qian. Co-Founder, Lightski felipearp. Felipe. Aragão. Founder at. Portalform (YC ) adamginzberg. Adam. Ginzberg. Building something new felicia-chang- Felicia. Chang. CS/Art @ Yale. University. Advanced. Graph. Theory. MAT. Artificial. Intelligence. COS. Cryptography. COS. Functional. Programming. COS. Honors. Analysis. MAT. Information. Retrieval, Discovery, and. Delivery. COS. Information. Security. COS. Graph. Theory. Java. Operating. Systems. COS. Probability and. Stochastic. Systems. ORF. Theory of. Algorithms. COS. Agile. Methodologies. HTML. CoffeeScript. Ember.js jQuery. Business. Development. Applied. Mathematics. Algorithms. Android. Development. Pure. Mathematics
-::

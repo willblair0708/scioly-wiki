@@ -6,8 +6,8 @@ Class of 2020
 Software Engineer at Stripe
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 16
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Matthew Krager is a fellow from the class of 2020 who is currently working as a Software Engineer at Stripe, a Others company based in Perry. Over the course of their career, they have worked at 7 organizations, including Yelp <yelp.com>; Stripe <stripe.com>; Google <google.com>; Koder <koder.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Oridronal Studios <oridronal.com>, and held 11 different job titles, such as Investor; Software Developer; Kp Engineering Fellow; Google Codeu; Software Intern; Core Ios Software Intern; Vice President Of Design Engineering; President; Software Engineer; Ios Consultant; Head Of Programming. They have amassed 3 years of experience and have acquired 16 skills, including Debate; Java; Leadership; Programming; Organizational Behavior; Website Development; Mathematics; Robotics; Swift; Objective C; Python; Public Speaking; Html; Web Crawling; Ios Development; App Store. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -119,9 +140,3 @@ Roles
 - **Head Of Programming**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-rick-song- Rick. Song. Co-Founder & CEO at. Persona personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Computer. Software. Persona. San. Francisco. Bay. Area. Persona. Co-Founder & CEO. True alexyen. Alex. Yen. Head of. Growth at. Persona christie-kim- Christie. Kim. COO at. Persona. We're. Hiring! justinsayarath. Justin. Sayarath. Product. Growth at. Persona sasha-dobrolioubov- Sasha. Dobrolioubov. Head of. Partnerships @ Persona caldesliu. Etra. Caldes-Liu. Business. Talent. Lead at. Persona nicolaschinot. Nico. Chinot. Company. Building 🚧 🛠️ 👷 saltesta. Salvatore. Testa. Engineering. Manager at. Persona charlesyeh. Charles. Yeh. Co-Founder & CTO at. Persona dylanfield. Dylan. Field. CEO & Co-founder of. Figma ryanroslansky. Ryan. Roslansky. CEO at. LinkedIn. Rick. Song. Co-Founder & CEO at. Persona. Apparatuses, methods, and systems for generating interactive digital receipts us
-::

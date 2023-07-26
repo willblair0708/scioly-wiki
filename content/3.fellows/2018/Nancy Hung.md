@@ -6,8 +6,8 @@ Class of 2018
 Software Engineer at Mosaic ML
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 5
+::
+::badge{type="info"}
+Number of Skills: 13
+::
+::badge{type="info"}
+Number of Past Jobs: 4
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Nancy Hung is a fellow from the class of 2018 who is currently working as a Software Engineer at Mosaic ML, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Stripe <stripe.com>; Nuna Incorporated <nuna.com>; MIT Alumni Association <alum.mit.edu>; Mosaic ML <mosaicml.com>; Window Therapeutics, <windowtx.com>, and held 4 different job titles, such as Postdoctoral Researcher; Undergraduate Researcher; Software Engineer; Software Engineer Ii. They have amassed 5 years of experience and have acquired 13 skills, including Python; Event Planning; Research; Matlab; Html; Public Speaking; Leadership; Java; Teamwork; Microsoft Office; Data Analysis; Powerpoint; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -97,9 +118,3 @@ Roles
 - **Software Engineer Ii**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-yanlamko. Yanlam. K. Software. Engineer at. Stripe personal. ACoAACiQ- United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Computer. Software. Stripe. New. York, New. York, United. States. Stripe. Software. Engineer. Swift. Software. Development. UI/UX. Design. Python. Figma. JavaScript. Java. Xcode. True. Git. Sketch. TypeScript iOS. Product. Design
-::

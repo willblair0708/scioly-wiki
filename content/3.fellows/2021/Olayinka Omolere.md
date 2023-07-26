@@ -7,7 +7,7 @@ Founder at EY Seren
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Finance; Data Science
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Olayinka Omolere is a fellow from the class of 2021 who is currently working as a Founder at EY Seren, a Startup company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Cisco <cisco.com>; Seren <seren.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; Asoko Insight <asokoinsight.com>; Dalberg Global Development Advisors <dalberg.com>; Berkeley SkyDeck Fund <skydeck.vc>; EY Seren <ey-seren.com>; KPCB <kleinerperkins.com>; EY <ey.com>; PAL Pensions <palpensions.com>; Veem <aligncommerce.com>; Founder; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as School; MBA; Research Analyst; Mba Candidate- Class Of 2021; Kleiner Perkins Product Fellow; Founder; Fall 2020 Incubator Cohort; Product Manager Intern; Analyst, $1 Billion Pension Fund; Kleiner Perkins Product Fellow, Founder; Product Manager, Business To Business Fintech; Associate Consultant. They have amassed 2 years of experience and have acquired 19 skills, including Business Analysis; Analysis; Strategic Planning; Research; Analytical Skills; Leadership; Data Analysis; Management; Microsoft Excel; Teamwork; Creative Writing; Finance; Team Leadership; Financial Analysis; Business Strategy; Cre; Project Management; Microsoft Office; Customer Service. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -147,9 +168,3 @@ Roles
 - **Associate Consultant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jerrywzhang. Jerry. Z. Engineer personal. I studied. Computer. Science and. Business. Administration at the. University of. California, Berkeley. I have experiences working in a variety of fields including real estate, teaching, IT, finance, operations, and hardware and software engineering. A tinkerer at heart, I love learning how different products work and building things from scratch, and. I am always looking for new projects to work on! My interests include entrepreneurship, product management, and venture capital. Something unique about me is my love for making music, and. I'm first in my family to study business. I am always interested in meeting new people - feel free to reach out to me! United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. False. False. Computer. Software. Cal. Alumni. Leadership. Award. Regents' and. Chancellor's. Scholarship. Kleiner. Perkins. Kleiner. Perkins. Engineering. Fellow. Management. Leadership. Project. Management. Strategic. Planning. Research. Microsoft. Office. Python (Programming. Language) Java. True liu-anita. Anita. Liu. SWE. Intern @ Citadel | EECS + Business @ UC. Berkeley. M.E.T. imaansultan. Imaan. Sultan. PM. Intern @ Mastercard. I. ASUC. Senator. I. Founder @ AZURE. I. Business + Environmental. Econ & Policy @ UC. Berkeley. Haas michellebnguyen. Michelle. Nguyen. PM. Intern @ Salesforce | Business & Data. Science @ UC. Berkeley advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum sumanth-gurram. Sumanth. Gurram. Engineering @ Zip hannahshineli. Hannah. Li. TPM intern @Tesla | UC. Berkeley. Haas neal-kothari. Neal. Kothari. Business & Data. Science at. UC. Berkeley. Anjali. P. CS @ UC. Berkeley krishh-kumar. Krish. Kumar. Product. Manager. Intern @ EA | CS/DS @ UC. Berkeley | VP of. Development @ Product. Space raymondmengji. Raymond. Ji. Software. Engineer at. Databricks. Bioinspired. Design. IB. Data. Structures. CS. Designing. Information. Devices and. Systems. I & II. EECS & EECS. Discrete. Mathematics and. Probability. Theory. CS. Efficient. Algorithms and. Intractable. Problems. CS. Great. Ideas in. Computer. Architecture (Machine. Structures) CS. Introduction to. Artificial. Intelligence. CS. Volunteer. Ronald. McDonald. House. Charities. Bay. Area. JavaScript. React.js. Multivariable. Calculus. Math. Principles and. Techniques of. Data. Science. DATA. Principles of. Business. UGBA. Probability for. Data. Science. DATA. Structure and. Interpretation of. Computer. Programs. CS. MongoDB. Customer. Service. Teamwork
-::

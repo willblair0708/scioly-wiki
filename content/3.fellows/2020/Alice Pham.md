@@ -6,8 +6,8 @@ Class of 2020
 Product Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 3
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Alice Pham is a fellow from the class of 2020 who is currently working as a Product Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including BuzzFeed <buzzfeed.com>; RingCentral Engage Digital <ringcentral.com>; Jumpstart <jstart.org>; Modern Health <modernhealth.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; Cornell Design & Tech Initiative <cornelldti.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Product Manager; Product And Strategy Intern; Founder, Co-Lead; Product Fellow; Software Engineering Intern; Product Management Intern. They have amassed 3 years of experience and have acquired 3 skills, including Research; Public Speaking; Product Management. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -78,9 +99,3 @@ Roles
 - **Product Management Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-zhangwenhan. Wenhan. Zhang. PM @ Moveworks | KP. Product. Fellow' | Harvard & Penn personal - Hi, I'm. Han. 🙂👋 I come from. Singapore and. China. I majored in. Philosophy and. Computer. Science at. Penn and got an. MSc in. Computational. Science and. Engineering from. Harvard. University. I also hold diplomas in playing the piano and the erhu. My lifelong goal is to build an organization that uses technology, business creativity and the arts to bring happiness and solace to humanity. United. States. Mountain. View, California. Mountain. View. California. Mountain. View, California, United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. Moveworks. Mountain. View, California, United. States. Moveworks. Data. Products. Product. Manager. Full-time. Research. Project. Management. Programming. Journalism. Writing. Design. Product. Development. Python (Programming. Language) True karenruikan. Karen. Kan. Product@Moveworks | Wharton. MBA amrutha-palaniyappan. Amrutha. Palaniyappan. Kleiner. Perkins. Fellow | Product. Designer at. Moveworks annalinwang. Anna. Wang. CS/DMD @ Penn. Ana. Parra. Product @ Moveworks 👩🏻🪄💻 kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow sofieyang. Sofie. Yang. Product. Manager @ Uber yatinag. Yatin. Agarwal. Product @ Moveworks | CS @ UC. Berkeley fadynaeim. Fady. Naeim. Product @ Moveworks rahulkayala. Rahul. Kayala. Building. AI copilots for the enterprise emilylcho. Emily. Cho. Product @ Uber | Waterloo. Mechatronics. French. ELEMENTARY. Mountain. View, California, United. States. Moveworks. Product. Operations. Manager. Full-time
-::

@@ -6,8 +6,8 @@ Class of 2022
 Graduate Research Assistant at Hoover Institution at Stanford University
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 5
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jefferson Dixon is a fellow from the class of 2022 who is currently working as a Graduate Research Assistant at Hoover Institution at Stanford University, a Others company based in Stanford. Over the course of their career, they have worked at 7 organizations, including Hoover Institution at Stanford University <hoover.org>; Sozo Ventures <sozo.ventures>; Georgia Tech <gatech.edu>; Rebelliondefense <rebelliondefense.com>; Standford Alumni <stanfordalumni.org>; Rebellion Defense <rebelliondefense.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Graduate Research Assistant; Intern; Mechanical Engineering; Stanford University; Undergraduate Research Assistant; Engineering Fellow; Summer Associate; Mission Success Intern; Engineering Intern, Savannah River Site. They have amassed 1 years of experience and have acquired 5 skills, including Research; Html; Matlab; Vpython; Microsoft Office. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -84,9 +105,3 @@ Roles
 - **Engineering Intern, Savannah River Site**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-zweigjoshua. Joshua. Zweig. Co-Founder @ Zip. Security personal. Solving hard security problems so you don't have to. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Computer. Software. Young. Scientist. Invited by the. World. Economic. Forum to the. Annual. Meeting of. New. Champions in. Tianjin, China as part of the. Student. Scholars program to contribute to take part in discussions regarding a variety of topics, especially data science and its role in today's world and how it will contribute to future human development. World. Economic. Forum. Semifinalist. The. Intel. Science. Talent. Search (Intel. STS), a program of. Society for. Science & the. Public, is the nation’s oldest and most prestigious pre-college science competition. It honors exceptional high school seniors for their scientific research and their potential as future leaders in the scientific community. Intel. Science. Talent. Search. Finalist. Intel. International. Science and. Engineering. Fair. C% Programming. Language. C% is a. C like language designed for the easy implementation of cryptographic protocols. Joshua. Zweig. Co-Founder @ Zip. Security. Lion's. Tracks: A. Quantified. Self. App. Design. Challenge for the. Columbia. Community. Grand. Prize. Winner. Shiv. Sakhuja and. I participated in the. Columbia. Health. Data. Science. Institute's. Design. Challenge to create an application that allows users to track their own health data and compare their data with other's (on aggregate) in the. Columbia. University. Community. Joshua. Zweig. Co-Founder @ Zip. Security. Zip. Security. New. York, New. York, United. States. Zip. Security. Co-Founder. Full-time. Computer. Science. Public. Speaking. Entrepreneurship. Thought. Leadership. Java. Data. Analysis. Teamwork. Ruby on. Rails. True aaronloganchurba. Aaron. Churba. Director of. Sales @ Zip | CEO @ Consultify ashleyemeuser. Ashley. Meuser. Software. Engineer thomasshouler. Thomas. Shouler. Engineer rcshen. Rochelle. Shen. Founder and. CEO at. Stealth. Michael. Mattheakis. Co-founder & CTO @ Comulate | Former. Brex. Engineer sophiardong. Sophia. Dong. Software. Engineer rossmechanic. Ross. Mechanic. Co-Founder/CEO at. Maybern itamar-rahabi- Itamar. Rahabi. Co-Founder & CEO @Twelve ashwin-raghu- Ashwin. Raghu. Co-Founder / CTO at. Maybern yonisebag. Yoni. Sebag (Jonathan) Co-Founder & COO at. Noetica. Maggie. Mallernee. Garden. Leave at. Two. Sigma. Shiv. Sakhuja. Co-Founder of. Magik (YC ) C++ HTML. Zachary. Silber. Software. Engineer at. Chronosphere. Semi-Secure. Numbers? Augmenting. SSNs in the. Authentication. Use. Case. Journal of. Law, Technology and. Policy. Joshua. Zweig. Co-Founder @ Zip. Security. Eclipse. Google. Apps. Scripting. Language. Git. Event. Planning. Research. Team. Spirit. Joshua. Zweig. Co-Founder @ Zip. Security. Data. Permissioning. Through. Data. Replication /, Michael. Tong. Bioinformatics. Intern at. Brigham. Women's. Hospital
-::

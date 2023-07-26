@@ -6,8 +6,8 @@ Class of 2022
  at University of Pennsylvania
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 1
+::
+::badge{type="info"}
+Number of Organizations: 2
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Dayo Adetu is a fellow from the class of 2022 who is currently working as a nan at University of Pennsylvania, a Others company based in San Francisco. Over the course of their career, they have worked at 2 organizations, including University of Pennsylvania <upenn.edu>; AMERICAN RESEARCH INSTITUTE IN TURKEY <ccat.sas.upenn.edu>, and held 1 different job titles, such as Strategic Projects. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -49,9 +70,3 @@ Roles
 - **Strategic Projects**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-yolandayeh. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor personal - United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. True. False. English. NATIVE_OR_BILINGUAL. Mandarin. Chinese. NATIVE_OR_BILINGUAL. Internet. Facet.ai. Facet.ai. Head of. Product. Product. Management. Leadership. True. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating content to be shared between users. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating and maintaining group messaging threads for ephemeral content. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Display screen or portion thereof with a graphical user interface. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Presenting endorsements using analytics and insights. Yolanda. Yeh. Head of. Product @ Facet | ex. Instagram, LinkedIn | Angel. Investor. Generating content to be shared between users
-::

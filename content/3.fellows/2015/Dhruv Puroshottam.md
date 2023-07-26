@@ -6,8 +6,8 @@ Class of 2015
 Director Of Technology at Finexus Group
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; Data Science
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 11
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Dhruv Puroshottam is a fellow from the class of 2015 who is currently working as a Director Of Technology at Finexus Group, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including LendingClub <lendingclub.com>; Spotify <spotify.com>; Columbia University <columbia.edu>; Teach For India <teachforindia.org>; Palantir Technologies <palantir.com>; Abnormal Security <abnormalsecurity.com>; Finexus Group <finexusgroup.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Engineering Manager; Orientation Leader, International Student Pre-Orientation Program; Forward Software Deployed Engineer; Director Of Technology; Software Engineering Intern; Campus Catalyst; Software Engineer; Engineering Fellow; Teaching Assistant, Columbia University Mathematics Department; Intern, Digital Media And Communications; Software Engineering Intern, Mobile. They have amassed 8 years of experience and have acquired 19 skills, including Android Development; Programming; C; Writing; Photography; Mathematics; C Language; Groovy; Web Development; Agile Methodologies; Data Analysis; Java; Spring Framework; Public Speaking; C++; Node.Js; Matlab; Mongodb; Algorithms. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -131,9 +152,3 @@ Roles
 - **Software Engineering Intern, Mobile**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-roseliu. Rose. Liu. Product @ Reddit | Kleiner. Perkins. Fellow | ex-LinkedIn personal -- Product. Leader for consumer products with domain experience in social networks, marketplaces, real estate and staffing. *** Contact information: at. United. States. San. Francisco. Bay. Area. San. Francisco. Bay. Area. True. False. Chinese. Internet. Reddit, Inc. Reddit, Inc. Group. Product. Manager. Mandarin. Microsoft. Office. VBA. Analysis. Strategy. Project. Management. Management. Financial. Analysis. False kyu-shim- Kyu. Shim. Group. Product. Manager at. Reddit leejasonm. Jason. Lee. Group. Product. Manager at. Reddit mobilegrowth. Spiros. Christakopoulos. Sr. Group. Product. Manager at. Reddit, Inc. xiaotong-li- Xiaotong. Li. Group. Product. Manager at. Reddit | ex-Google tiffany-ong- Tiffany. Ong. Product. Manager at. Reddit justin-wong- Justin. Wong. Product. Leadership at. Reddit ibmujir. Ibbi. Mujir. Product @ Reddit stevenssong. Steven. Song. Senior. Group. Product. Manager at. Reddit vinayak-sathyamoorthy- Vinayak. Sathyamoorthy. Product at. Reddit, Inc. bvnarayanan. Brahma. Narayanan. Group. Product. Manager at. Reddit. Data. Analysis. Strategic. Planning. Financial. Modeling. Valuation. Investment. Banking. Microsoft. Excel. Finance. Product. Development. Product. Management. Investments. Series. Completed. Series. Completed
-::

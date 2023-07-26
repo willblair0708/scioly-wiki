@@ -6,8 +6,8 @@ Class of 2013
 Engineering Manager, Machine Learning at PayPal
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 10
+::
+::badge{type="info"}
+Number of Skills: 54
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Bill DeRose is a fellow from the class of 2013 who is currently working as a Engineering Manager, Machine Learning at PayPal, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including PayPal <paypal.com>; MongoDB <mongodb.com>; Pomona College <pomona.edu>; Bellarmine College Preparatory <bcp.org>; Microsoft <microsoft.com>; Breckenridge Outdoor Education Center <boec.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Graduate Student Researcher; Phd Student + Graduate Student Researcher; Kp Engineering Fellow; Software Engineer; Software Engineer Intern; Oec Staff; Engineering Manager, Machine Learning; Undergraduate Research Assistant; Geometry Teaching Assistant; Staff Machine Learning Engineer. They have amassed 10 years of experience and have acquired 54 skills, including Programming; Sql; Computer Vision; Object Oriented Programming; Optimization; R; Mathematica; Matlab; Git; Apache Spark; Linear Programming; Go; Scala; Scipy; Mathematics; Latex; Research; Mongodb; Keras; Docker; Powershell; Apache Airflow; Functional Programming; Convex Optimization; Data Analysis; Underscore.Js; Stochastic Optimization; Javascript; Python; React.Js; Stochastic Calculus; Postgresql; Numpy; Stochastic Processes; Regression Models; Computer Science; Machine Learning; Bash; C#; Typescript; Stochastic Methods; Backbone.Js; Statistics; Tensorflow; Robotics; Writing; Mysql; Flux; Statistical Modeling; Algorithms; Gulp.Js; Bower; Java; Stochastic Modeling. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -232,9 +253,3 @@ Roles
 - **Staff Machine Learning Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jonathan-s-li. Jonathan. Li cs at ut austin | kp fellow | prev at stripe, google, datadog personal. Hi! I'm a. Computer. Science student at. UT. Austin interested in backend and. API development roles. Feel free to reach out at jonathansli@utexas.edu. United. States. Austin, Texas. Austin. Texas. Austin, Texas, United. States. False. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. World. University. Games. Qualifier- USA. Table. Tennis. Speaker at the. SEICCGTC. Speaker at the. Southeastern. International. Conference on. Combinatorics, Graph. Theory & Computing. Analyzed the ratio between. Greedy and. Linear. Programming. Relaxation on sparse graphs with constant arboricity as well as dense graphs. American. Invitational. Math. Exam. Qualifier-/ time. American. Invitational. Mathematics. Examination (AIME) Qualifier. HackUTA. Best. Design/ Place. Empowerpoint- a live, fully automated presentation creator. UT. Arlington. Julian. C. Stanley. Award for. Mathematics. Julian. C. Stanley. Award/Scholarship for. Mathematical. Research and. Aptitude at. TAMS: Sole. Winner. Awarded for. Graph. Theory research and mathematics coursework. Texas. Academy of. Math and. Science. Datadog. New. York. City. Metropolitan. Area. Datadog. AAA - Identity 🐶 Software. Engineer. Intern. Full-time. Python (Programming. Language) Deep. Learning. Algorithms. Object-Oriented. Programming (OOP) Data. Structures. React.js. JavaScript. Flask. True suket-shah. Suket. Shah. Incoming. Software. Engineer at. Google abhonsley. Adithya. Bhonsley. SWE. Intern @ Jump. Trading | Prev @ Microsoft | Turing. Scholar @ UT-Austin priyankabarve. Priyanka. Barve. Incoming. Software. Engineer @ Bloomberg helen-fang. Helen. Fang. CS @ UT. Austin timothy-situ- Timothy. Situ. Former. SWE intern @ Google, Amazon | CS @ UT. Austin preeth-kanamangala- Preeth. Kanamangala. Software. Engineer @ Capital. One rohanjagannathan. Rohan. Jagannathan. CS + Math @ UT. Austin calebapark. Caleb. Park. CS @ UT. Austin joshuacho. Joshua. Cho. Software. Engineer at. Two. Sigma. Caleb. Yu. CS. Honors & Business. Honors/Finance @ UT. Austin. USA. National. Cadet. Team. Member-Table. Tennis. Algorithms. Applied. Statistics. Artificial. Intelligence. Computer. Architecture. Data. Structures-Honors. Differential. Equations. MATH. Introduction to. Deep. Learning (Graduate) CSCE. Math. Tutor. Sam. Houston. Elementary. School. SCIENCE_AND_TECHNOLOGY on tutoring with mathematically challenged elementary students. TensorFlow. PyTorch. A performance study of some approximation algorithms for minimum dominating set in a graph. Algorithms- MDPI. Jonathan. Li cs at ut austin | kp fellow | prev at stripe, google, datadog. Multivariable. Calculus. MATH. Operating. Systems. ReaI. Analysis. I/II. MATH / LaTeX. R. Java. C. CPLEX. Graph. Theory. Go. Full-Stack. Development
-::

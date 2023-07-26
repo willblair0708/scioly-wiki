@@ -6,8 +6,8 @@ Class of 2018
 Software Engineer at BATCH
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 5
+::
+::badge{type="info"}
+Number of Skills: 8
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Kyungchan Koh is a fellow from the class of 2018 who is currently working as a Software Engineer at BATCH, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Airbnb <airbnb.com>; Rice University <rice.edu>; Mizzou <missouri.edu>; Indus OS <indusos.com>; BATCH <getbatch.com>; Fin.com <fin.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Lead Backend Software Developer; Software Engineering Intern; Product Engineer Intern; Software Engineer; Keeper Of Coffee; Engineering Fellow; Head Teaching Assistant; External Vice President; Bioinformatics Research Assistant. They have amassed 5 years of experience and have acquired 8 skills, including Html5; Sql; Autocad; Css; Java; Ni Multisim; Microsoft Office; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -96,9 +117,3 @@ Roles
 - **Bioinformatics Research Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-connorsoltas. Connor. Soltas. Product. Designer at. Uber personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. French. FULL_PROFESSIONAL. Design. Prepify. College prep app offering personalized. SAT prep to underserved students for free. Generated revenue by charging college recruiters for introductions to students using our platform. Connor. Soltas. Product. Designer at. Uber. Shutterclub. Marketplace for booking local photographers. Recognized as of student startups from around the world invited to. Stanford's. BASES conference. Connor. Soltas. Product. Designer at. Uber. Uber. San. Francisco, CA. Uber. Product. Designer. User. Interface. Design. Public. Speaking. HTML. CSS jQuery. Pitching. Graphic. Design. Adobe. Creative. Suite. True spencer-thurston- Spencer. Thurston. Lead. Product. Designer at. Uber andretamiazzo. Andre. Tamiazzo. Senior. Product. Designer at. Uber | Co-founder at. Get. In app jeffjura. Jeff. Jura. Leading. Design. Systems @Uber maygha-puri. Maygha. Puri. Product. Designer at. Uber amandaluhan. Amanda. Han. Product. Designer @ Uber nancyybui. Trinh. Bui. Product. Designer at. Uber stephzyhsu. Stephanie. ZY. Hsu. Product. Designer at. Uber yukiasakura. Yuki. Asakura. Product. Designer at. Uber mohinivora. Mohini. Rustagi. Vora. Design. Manager, Uber. Rider. Experience bernadette-faller. Bernadette. F. Product. Designer at. Uber. Edge (UChicago. Entrepreneurship. Society) Co-Founder & Co-Director. Exbooks. Online marketplace for on-campus textbook resale. Connor. Soltas. Product. Designer at. Uber. Editing. Product. Design. Photoshop. Bootstrap. French. Interaction. Design. Design. Thinking. Final. Cut. Pro. Social. Media. Microsoft. Office
-::

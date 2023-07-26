@@ -7,7 +7,7 @@ Co-Founder at Pylon Manufacturing
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 22
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Advith Chelikani is a fellow from the class of 2017 who is currently working as a Co-Founder at Pylon Manufacturing, a Startup company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Slack <slack.com>; Nutanix <nutanix.com>; Coursera <coursera.org>; CityScan <cityscan.com>; NASA Jet Propulsion Laboratory <jpl.nasa.gov>; Samsara <samsara.com>; HackTech <gohacktech.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pylon <usepylon.com>; Pylon Manufacturing <pylonhq.com>, and held 6 different job titles, such as Head Organizer; Undergraduate Research Fellow; Kpcb Engineering Fellow; Software Engineering Intern; Software Engineer; Co-Founder. They have amassed 6 years of experience and have acquired 22 skills, including Html5; Hackathons; Javascript; Drupal; Python; Underscore.Js; R; Mysql; Node.Js; Research; Matlab; Jquery; Unity3D; Mathematica; Flask; Java; Css; Ocaml; Bootstrap; Web Development; C++; Backbone.Js. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -141,9 +162,3 @@ Roles
 - **Co-Founder**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-byronbenharris. Ben. Harris. Software. Engineer @ Nova. Credit | Kleiner. Perkins. Engineering. Fellow personal. United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. False. False. Computer. Software. Nova. Credit. Nova. Credit. Software. Engineer. Full-time. Java. Python. Software. Development. Web. Development. LaTeX. HTML. CSS. Creative. Problem. Solving. True james-peralta. James. Peralta. Software. Engineer at. Nova. Credit | Kleiner. Perkins. Fellow dhivyaa-mailvaganam. Dhivyaa. N. Mailvaganam. Software. Engineer at. Nova. Credit alyssa-nickow. Alyssa. Nickow. Software. Engineer at. Nova. Credit priyanakra. Priya. Nakra. Head of. Product at. Nova. Credit mishaesipov. Misha. Esipov. Co-Founder & CEO at. Nova. Credit [We're. Hiring] francis-chalissery. Francis. Chalissery. EECS @ UC. Berkeley | Kleiner. Perkins. Fellow | SWE. Intern @ Retool, Moveworks, Amazon kjwu. Katherine. Wu. SWE @ Stripe alix-cui. Alix. Cui. Glean | KP. Engineering fellow | CS @ Stanford joslinsome. Joslin. S. Kleiner. Perkins. Engineering. Fellow • Co-Founder @ OmniLens • CSE @ Uiowa. Anna. Lee. Data. Science. Engineer @ Garner. Health | KP. Product. Fellow. SolidWorks. AutoCAD. Graphic. Design. Video. Production. Public. Speaking. SQL. Django. REST. Framework. Django. Redux.js. React.js. JavaScript. GraphQL
-::

@@ -6,8 +6,8 @@ Class of 2016
 Senior Product Designer at Addepar
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 36
+::
+::badge{type="info"}
+Number of Past Jobs: 4
+::
+::badge{type="info"}
+Number of Organizations: 4
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Monica Vathanavarin is a fellow from the class of 2016 who is currently working as a Senior Product Designer at Addepar, a Others company based in New York. Over the course of their career, they have worked at 4 organizations, including TaskRabbit <taskrabbit.com>; Addepar <addepar.com>; UC Berkeley <berkeley.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 4 different job titles, such as Marketing Intern; 2016 Design Fellow; Senior Product Designer; Marketing And Copywriting. They have amassed 7 years of experience and have acquired 36 skills, including Talent Management; App Store Optimization; Illustrator; Microsoft Word; User Experience; Social Media; Adobe Illustrator; Python; Communication; Copywriting; C#; User Interface Design; Photoshop; Powerpoint; Jquery; Community Management; Microsoft Powerpoint; Indesign; Content Strategy; Event Planning; Html; Cascading Style Sheets; Css; Digital Production; Thai; C++; Research; Teamwork; Customer Service; Great Personality; Photography; Microsoft Excel; Leadership; Microsoft Office; Java; Public Relations. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -163,9 +184,3 @@ Roles
 - **Marketing And Copywriting**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-roneilr. Roneil. Rumburg. Co-Founder & CEO at. Audius personal. United. States. United. States. False. False. Spanish. Internet. KPCB. Engineering. Fellow. Kleiner. Perkins. Caufield & Byers. Eagle. Scout. Boy. Scouts of. America. Audius. Audius. Co-Founder & CEO. Python. Java. PHP. Programming. C. HTML. JavaScript. Linux. True isaacsolo. Isaac. Solo. Software. Engineer at. Audius forrestbrowning. Forrest. Browning. Co-Founder & Chief. Product. Officer at. Audius | Forbes. Under sabrina-kiamilev- Sabrina. Kiamilev. Software. Engineer at. Audius raymond-lee-quivr. Raymond. Lee. Co-founder of. Quivr - where you can authenticate your #digitalsoul josephwhan. Joseph. Lee. Engineer at. Audius dylan-jeffers- Dylan. Jeffers. Engineering. Manager at. Audius tilie. Theo. Ilie. Software. Engineer @ Audius | ex-Amazon nicoback. Nikki. Kang. Engineer at. Audius michael-piazza- Michael. Piazza. Engineering. Manager @ Audius. Swarthmore & CalArts grad. jacobsonraymond. Raymond. Jacobson. VP of. Engineering @ Audius | We're. Hiring! MySQL. CSS. SQL. Web. Development. System. Administration. Unix. Software. Development. Hardware. Git. Analysis. Statistics. Computer. Repair
-::

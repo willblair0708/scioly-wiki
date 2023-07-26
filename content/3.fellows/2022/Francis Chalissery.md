@@ -6,8 +6,8 @@ Class of 2022
 Engineering Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Francis Chalissery is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Menlo Park. Over the course of their career, they have worked at 9 organizations, including UC Berkeley <berkeley.edu>; Technology Student Association <tsaweb.org>; Moveworks <moveworks.ai>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; HMetrix <hmetrix.com>; Mobile Developers of Berkeley <mobiledevsberkeley.org>; Retool <retool.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Director And Screenwriter; Aerodynamics Engineer; Engineering Fellow; Pa State President; Software Development Engineer Intern; Undergraduate Researcher; Software Engineer Intern; President. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -77,9 +98,3 @@ Roles
 - **President**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-merrill-lutsky. Merrill. Lutsky. Graphite personal - United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. KPCB. Product. Fellowship. KPCB. Kairos. Award. Kairos. Society. Innovation. Challenge. Winner. Harvard. Innovation. Challenge. Graphite. New. York, United. States. Graphite. Co-Founder. Web. Development. Entrepreneurship. Product. Management. User. Experience. Business. Development. Data. Visualization. Front-end. Design. Financial. Analysis. True nicholasyyan. Nicholas. Yan. Software. Engineer at. Graphite aryamannaik. Aryaman. Naik. Software. Engineer at. Graphite huijiawu. Emily (Huijia) Wu. Software. Engineer, ex-Management. Consultant jorge-lugo- Jorge. Lugo. Engineering. Manager at. Graphite - Hiring! torasmu. Tom. Rasmussen. Senior. Software. Engineer at. Graphite xiulung. Xiulung. Choy. Design @ Graphite yogeshlalwani. Yogesh. Lalwani. Product. Lead at. Graphite dbradf. David. Bradford. Senior. Code. Exorcist at. Graphite jacobgold. Jacob. Gold. Founding. Engineer @ Graphite - We're hiring! kush-gupta. Kushagra. Gupta. Engineering @ Graphite. Product. Development
-::

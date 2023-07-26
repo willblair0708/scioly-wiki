@@ -7,7 +7,7 @@ Founder, Design Lead at Justin Lai Studios
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 8
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Justin Lai is a fellow from the class of 2016 who is currently working as a Founder, Design Lead at Justin Lai Studios, a Startup company based in Brooklyn. Over the course of their career, they have worked at 8 organizations, including Uber <uber.com>; Hoover Institution at Stanford University <hoover.org>; Parlio <parlio.com>; Bonnier Corporation <bonniercorp.com>; Atlas <atlasmh.com>; Austin Monthly <austinmonthly.com>; Justin Lai Studios; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Student; Intern; Cofounder, Product And Design; Design Fellow; Design Lead; Design Consultant; Symbolic Systems Research Assistant; Design Intern; Founder, Design Lead. They have amassed 7 years of experience and have acquired 17 skills, including Photos; Web Design; Editing; Magazine Design; Magazines; Image Editing; Front End Development; Css; Wordpress; Editorial; Photography; Adobe Creative Suite; Javascript; Html 5; Graphic Design; Portrait Photography; Indesign. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -120,9 +141,3 @@ Roles
 - **Founder, Design Lead**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-christianmarek. Christian. Marek. Sr. Director. Product. Management @ DocuSign | Ex-Facebook. PM | Kleiner. Perkins. Product. Fellow | MIT. Sloan. MBA personal. Principled product leader with an extensive background in new product launches, growth and core product innovation. I'm passionate about building diverse teams, framing ambiguous problems and executing with a clear focus on impact. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. English. NATIVE_OR_BILINGUAL. French. ELEMENTARY. Internet. Bill. Mitchell. Design. Award. Consulting project for. PT. Global. Digital. Niaga. We provide consulting services for one of the largest eCommerce companies in. Indonesia. We're helping them capitalize on eCommerce market trends, such as increasing internet penetration, mobile, social and local. Christian. Marek. Sr. Director. Product. Management @ DocuSign | Ex-Facebook. PM | Kleiner. Perkins. Product. Fellow | MIT. Sloan. MBA. Google. Product. Management. Summit. Selected as one of participants to attend a highly selective two-day summit geared towards. Product. Management at. Google. Christian. Marek. Sr. Director. Product. Management @ DocuSign | Ex-Facebook. PM | Kleiner. Perkins. Product. Fellow | MIT. Sloan. MBA. DocuSign. San. Francisco. Bay. Area. DocuSign. I currently lead the product management team overseeing. DocuSign's eSignature experiences for both paying customers and consumers. My team is focused on helping all users complete agreements. Previously, I lead the team for. DocuSign's core eSignature product serving customers ranging. SMB to enterprise. Sr. Director, Product. Management / - Present. Director, Product. Management / - / Senior. Director of. Product. Management. Full-time. Entrepreneurship. Product. Management. Project. Management. Product. Development. Consulting. Cross-functional. Team. Leadership. Data. Analysis. Strategy. True dashlock. Drew. Ashlock. Director, Product. Management at. DocuSign remiprice. Rebecca. Denman. Sr. Director, Product. Management at. DocuSign. Larry. Jin. Sr. Director of. Product. Management at. DocuSign pay-prashant. Prashant. Sharma. Senior. Director - Commerce majonchi. Marcello. Majonchi. VP of. Product at. DocuSign | Startup. Investor, Advisor and. Board. Member igal-mordkovich. Igal. Mordkovich. Sr. Director of. Product. Management at. DocuSign gregoireguetat. Gregoire. Guetat. Director of product management at. DocuSign prakash-nanduri- Prakash. Nanduri. CEO/GM, Enterprise. SW products leveraging data and algorithmic intelligence; Advisor, BOD. Member thedoctorjones. Derek. Jones. Sr. Director, Product. Design abhijitsalvi. Abhijit. Salvi. Senior. Director. Product. Management | Stanford. GSB | Product. Leader | Innovation | Artificial. Intelligence | Machine. Learning | Platform | Revenue. Growth | HCM | Security | Data. Analytics. German. NATIVE_OR_BILINGUAL. Constance. Zhu. Managing. Director at. State. Street. GoogleServe. Google. SOCIAL_SERVICES. Leadership. IT. Management. Dina. Grossman. Product @ Oak. Street. Health. Claims-based. Authentication and. Authorization in. VRESCo. Christian. Marek. Sr. Director. Product. Management @ DocuSign | Ex-Facebook. PM | Kleiner. Perkins. Product. Fellow | MIT. Sloan. MBA. Team. Leadership. Presentations. Information. Security. IT. Strategy. Management. Business. Strategy. User. Experience. Spanish. ELEMENTARY. Vaishal. Patel. Associate. Director at. Wayfair
-::

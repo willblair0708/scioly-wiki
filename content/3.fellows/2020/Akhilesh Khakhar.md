@@ -6,8 +6,8 @@ Class of 2020
  at 
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 13
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 3
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Akhilesh Khakhar is a fellow from the class of 2020 who is currently working as a nan at nan, a Others company based in New York. Over the course of their career, they have worked at 3 organizations, including Wharton <wharton.upenn.edu>; Kleiner Perkins <kleinerperkins.com>; Standford Alumni <stanfordalumni.org>, and held 3 different job titles, such as Management; Computer Science; 9C47F1E1340Fca88882B6402A37Be35C30Ade42B. They have amassed 3 years of experience and have acquired 13 skills, including Business Analysis; Business Planning; Public Speaking; Entrepreneurship; Marketing; Marketing Management; Marketing Strategy; Educational Technology; Small Business Development; Leadership; Business Strategy; Social Media Marketing; Business Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -90,9 +111,3 @@ Roles
 - **9C47F1E1340Fca88882B6402A37Be35C30Ade42B**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-nikhilro. Nikhil. Gupta. Co-Founder @ Superpowered (YC ) personal. Building in the productivity space. uWaterloo dropout. How can. I help: nikhil@superpowered.me. Canada. Toronto, Ontario. Toronto. Ontario. Toronto, Ontario, Canada. False. False. English. NATIVE_OR_BILINGUAL. Hindi. NATIVE_OR_BILINGUAL. Internet. Superpowered. Superpowered (YC ) Co-Founder. Leadership. Teamwork. Public. Speaking. Event. Planning. Project. Management. Mathematics. Research. Social. Media. True ibrahimirfan. Ibrahim. I. Co-Founder @ Superpowered (YC ) jordandearsley. Jordan. Dearsley. Co-Founder @ Superpowered (YC ) Aaron. Paul. Co-founder | CEO @ Tyltgo (YC ) tylerbarrfinancial. Tyler. Barr. Most. Trusted. CFO. Consulting and. Bookkeeping. Partner for. Startups and. High. Growth. Companies etai-mizrahi- Etai. Mizrahi. CEO and. Co-Founder @ Secoda (YC ) - We're hiring! mderival. Mackenzie. Dérival ✌🏾 Co-Founder @ Node. App (Techstars ') | Ex-Google. Designer gavinathompson. Gavin. T. Founder and. Co-CEO at. Phoenix | YC (We're. Hiring!) kevinbache. Kevin. Bache. Founder/Co-CEO at. Phoenix | YC (We're. Hiring!) pbio. Prashanth. Balasubramanian. Founder, CEO & CTO @ Striga (YC ) lucasplayford. Lucas. Playford. Product at. Tread | Y. Combinator. Alum () Sanskrit. ELEMENTARY. Developer. Impact. Labs. Marketing. JavaScript. React.js. Node.js. Scala. C. C++ Microsoft. Office. Team. Leadership. Teaching. Management. Communication
-::

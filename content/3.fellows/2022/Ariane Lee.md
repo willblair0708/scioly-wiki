@@ -6,8 +6,8 @@ Class of 2022
 Incoming Swe Intern at Apple
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: Tech; Finance
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ariane Lee is a fellow from the class of 2022 who is currently working as a Incoming Swe Intern at Apple, a Big Tech company based in New York. Over the course of their career, they have worked at 11 organizations, including Blackstone Group <blackstone.com>; New Jersey Institute of Technology <njit.edu>; Stanford Marketing <stanfordmarketing.org>; TreeHacks <treehacks.com>; Kode with Klossy <kodewithklossy.com>; Bumble <bumble.com>; Apple <apple.com>; Stanford University School Of Engineering; Kleiner Perkins Caufield & Byers <kpcb.com>; Fizz (Yc S21); Picnic Supermarkets <picnic.nl>, and held 15 different job titles, such as Campus Workshop Facilitator; Marketing, User Interface And User Experience Design, And Swe Intern; Aapis For Biden Newsletter Team Leader And Graphics Intern; Incoming Swe Intern; Front End Developer, Carta; Design Fellow; Bereal Consultant; Vc3 Director; Web Developer; Designer; Blackstone Future Women Leader'S Program; Campus Impact Manager; Growth Equity Investment Intern; Bootcamp Fellow; Researcher. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -84,9 +105,3 @@ Roles
 - **Researcher**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-gokceguven. Gökçe. Güven. Building. Loyalty . @ Kalder | Ex-OpenSea, Celo, Robinhood. Crypto personal. Building the future of powered loyalty infrastructure for brands and creators. Join us - kalder.xyz about me -- gokceguven.xyz. United. States. Berkeley, California. Berkeley. California. Berkeley, California, United. States. True. False. Computer. Software. Kalder. Kalder. Redefining the future of brand loyalty powered by . Backed by top investors from. Accel, , Human. Capital, VC and more. As seen in. Vogue. Business, Fortune, Forbes and more. Founder & CEO. Full-time. Entrepreneurship. Sustainable. Design. Product. Development. Project. Management. Networking. True kmhuang. Matt. Huang. Co-Founder at. Paradigm itskevinjin. Kevin. Jin. Co-Founder & CTO at. Kalder | Formerly @ Compound, Robinhood, Google, Tesla, Flexport fredehrsam. Fred. Ehrsam. Paradigm askorniakoffpalmedo. Alana. Palmedo. Managing. Partner and. Chief. Operating. Officer gakonst. Georgios. Konstantopoulos. CTO and. Research. Partner at. Paradigm jacksondahl. Jackson. Dahl. Venture. Partner at. Paradigm samczsun samczsun. Research. Partner at. Paradigm robert-m-abbott. Robert. Abbott. Software. Engineer at. Paradigm danielprobinson. Daniel. Robinson. Research. Partner and. Head of. Research at. Paradigm caitlin-pintavorn. Caitlin. Pintavorn. Investment. Partner @ Paradigm. Y. Combinator. Future. Founders' Blockchain at. Berkeley. Kleiner. Perkins. Fellows. Fellow. National. Finalist, UNDP
-::

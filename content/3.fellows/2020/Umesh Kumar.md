@@ -6,8 +6,8 @@ Class of 2020
 Product Manager : Underwriting at Middesk
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Data Science
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 26
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 17
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Umesh Kumar is a fellow from the class of 2020 who is currently working as a Product Manager : Underwriting at Middesk, a Others company based in New York. Over the course of their career, they have worked at 17 organizations, including Sequoia Capital <sequoiacap.com>; Credit Karma <creditkarma.com>; TD <td.com>; Flexport <flexport.com>; Bayer <bayer.com>; Jumpstart <jumpstart.me>; VO Group <vogroup.com>; Front Row Ventures <frontrow.ventures>; Clearbanc <clearbanc.com>; Middesk <middesk.com>; We Love Toast, Inc. <welovetoast.com>; Amina Health <aminahealth.com>; Webmefy - Shopify plus consultant <webmefy.com>; Nearside <hatchcard.com>; Sequoia Capital India <sequoiacap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pylon <usepylon.com>, and held 15 different job titles, such as Software Engineering Intern; Founder; Investor; Sequoia Scout; Product Manager : Business Checking; Investment Associate; Product Manager : Underwriting; Solutions Engineering Intern; Grants4Apps Accelerator Cohort 2015; Product Manager : Monetization; Kp Product Fellow; Product Manager : Flexport Capital; Advisor; Product Engineering Intern; Product Manager : Analytics. They have amassed 3 years of experience and have acquired 26 skills, including Research; Highly Adaptive; Web Development; Windows; Javascript; Data Analysis; Management; Customer Service; Analysis; Microsoft Excel; Teamwork; C++; Finance; Marketing; Leadership; Time Management; Team Leadership; C#; Project Management; Entrepreneurship; Android; Software Development; Microsoft Office; Critical Thinking; Public Speaking; Java. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -183,9 +204,3 @@ Roles
 - **Product Manager : Analytics**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-chris-munene-kinyua. Christopher. Kinyua. Founding. Engineer @ Fizz | KP. Fellow | Harvard ' personal - Loves building cool stuff. Passionate about using technology to better people's lives. United. States. United. States. True. False. Internet. Speech. API. Project. A simple web-page that uses the web-speech-API to read text input in various languages and accents. Christopher. Kinyua. Founding. Engineer @ Fizz | KP. Fellow | Harvard ' FreshTable. Freshtable is a grocery management app created to help users keep track of the groceries they buy and their expiry dates. Christopher. Kinyua. Founding. Engineer @ Fizz | KP. Fellow | Harvard ' Fizz (YC ) New. York, United. States. Fizz. Building the financial ally for young adults. Founding. Engineer. Full-time. Front-end. Development. User. Interface. Design. Web. Development. Android. Development. Web. Design. Project. Management. Software. Development. User. Experience (UX) True alefisch. Alejandro. Fischer. Engineering @ Fizz sam-forman- Sam. Forman. CS @ UMich cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow. Jun. Park. Software. Engineer @ Glean | Yale ‘ | Previously @ X, the moonshot factory (formerly. Google [x]) andrewtbriggs. Andrew. Briggs. Product leader | Angel investor carlokobe. Carlo. Köbe. Co-Founder at. Fizz (YC ) - We are hiring! | Forbes adit-gupta. Adit. Gupta. Yale. CS | KP. Eng. Fellow, Neo. Fellow karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T caitlyn-chen. Caitlyn. Chen. Software. Engineer @Rippling | CS @Columbia. Kleiner. Perkins. Fellow justscottsmith. Scott. S. Co-Founder and. COO at. Fizz. Caman. JS. Image. Editor. A simple app that allows users to edit images online. Made while playing around with the. FileReader. API and. CamanJS. Image. Manipulation. Christopher. Kinyua. Founding. Engineer @ Fizz | KP. Fellow | Harvard ' Autonomous. Robot. Systems. CS. Computer. Graphics and. Visualization. Data. Visualization. CS. Design of. Useful and. Useable. Interactive. Systems. Front-End. Web. Development. Introduction to. Computer. Science. Mobile. Software. Development. Data. Visualization. Graphics. Software. Engineering in the. Arts and. Humanities. Systems. Programming and. Machine. Organization. User. Experience. Design. Node.js. React.js. Vue.js. JavaScript jQuery. Firebase. Prototyping. Django. React. Native. Flutter
-::

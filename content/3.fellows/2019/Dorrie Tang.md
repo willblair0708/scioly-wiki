@@ -6,8 +6,8 @@ Class of 2019
 Software Engineer at Airbnb
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 4
+::
+::badge{type="info"}
+Number of Skills: 17
+::
+::badge{type="info"}
+Number of Past Jobs: 6
+::
+::badge{type="info"}
+Number of Organizations: 6
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Dorrie Tang is a fellow from the class of 2019 who is currently working as a Software Engineer at Airbnb, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Airbnb <airbnb.com>; Columbia University <columbia.edu>; Google <google.com>; Nuna Incorporated <nuna.com>; Otter.ai (AISense Inc.) <otter.ai>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Software Engineering Intern; Engineering Fellow; Engineering Practicum Intern; Undergraduate Researcher; Teaching Assistant; Software Engineer. They have amassed 4 years of experience and have acquired 17 skills, including Html; Css; Adobe Indesign; Python; Javascript; Junit; Scala; Imagej; Java; Audacity; Swift; Newspaper Design; C++; Matlab; Android Studio; Mockito; Git. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -114,9 +135,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-spenceryen. Spencer. Y. Building @ Uniswap. Labs personal. I believe in a thoughtful bias for action 😊 United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Chinese. LIMITED_WORKING. English. NATIVE_OR_BILINGUAL. Computer. Software. WWDC. Student. Scholarship. Receipient asked craig federighi to sign my iphone, he said no got tim's though. California. FBLA. Mobile. App. Dev. Place. State champion for. California. FBLA. Mobile. Application. Development. Eagle. Scout. Boy. Scouts of. America. Uniswap. Labs. New. York, United. States. Uniswap. Labs we're hiring, reach out spencer@uniswap.org! Software. Engineer. Full-time. Objective-C. Customer. Service. WordPress. HTML. Java. Windows. Photoshop. JavaScript. True. Web. Design. Web. Development. Git. Graphic. Design iOS development iOS. Software. Engineering iOS. Development. CSS. Python. HTML
-::

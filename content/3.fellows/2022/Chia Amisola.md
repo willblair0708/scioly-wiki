@@ -6,8 +6,8 @@ Class of 2022
 Product Designer at Figma
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 21
+::
+::badge{type="info"}
+Number of Past Jobs: 16
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Chia Amisola is a fellow from the class of 2022 who is currently working as a Product Designer at Figma, a Others company based in New York. Over the course of their career, they have worked at 11 organizations, including Twitter <twitter.com>; Spotify <spotify.com>; Figma <figma.com>; Rappler <rappler.com>; DevelopHer <developherchallenge.org>; YouthHack <youthhack.net>; Edukasyon.ph <edukasyon.ph>; Kumu Holdings <kumu.ph>; Teleport <goteleport.com>; Yale Helix <yalehelix.com>; Works Of Heart <worksofhe.art>, and held 16 different job titles, such as Founder; Design; Student Advisory Board Member; Study Abroad And Web Intern; Design And Software Fellow; Center For Collaborative Arts And Media, Studio Fellow; Technology Intern; Earlybird19; Core; Product Design Intern; Associate Product Designer; Design And Product; Software Engineering And Design; Product Designer; Design Intern; Product And Design Intern. They have amassed 1 years of experience and have acquired 21 skills, including Entrepreneurship; Front End Engineering; Project Management; Product Design; Nonprofit; Leadership; Ux Research; Research; Visual Design; Graphic Design; User Experience; Start Ups; Adobe Creative Suite; Product Management; Javascript; Public Speaking; Web Design; Social Innovation; Web Development; Creative Strategy; Social Entrepreneurship. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -151,9 +172,3 @@ Roles
 - **Product And Design Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-oliver-zou. Oliver. Zou. Product @ Uber personal. Building 🛠 United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Cantonese. PROFESSIONAL_WORKING. Chinese. PROFESSIONAL_WORKING. Computer. Software. Uber. San. Francisco, California, United. States. Uber. Curr. Ads and. Offers. Prev. ML personalization. Product. Youth. Mentoring. Writing. Chinese. Culture. Video. Production. Squarespace. True kevchenx. Kevin. Chen. APM @ Uber | Harvard. CS. Grad rongfei-lu. Rongfei. Lu. Product @ Uber whitney-omoruyi- Whitney. Omoruyi. Product. Management. Intern, Tech @ Uber | Kleiner. Perkins. Product. Fellow briantzhou. Brian. Zhou. Product @ Uber | Kleiner. Perkins. Product. Fellow emilylcho. Emily. Cho. Product @ Uber | Waterloo. Mechatronics sofieyang. Sofie. Yang. Product. Manager @ Uber nicoleorsak. Nicole. Orsak. Product @ Uber | Kleiner. Perkins. Fellow | Stanford. MS&E karenzxy. XinYi(Karen) Zheng. Product @ Uber | Kleiner. Perkins. Fellow | CS + Business @ UPenn. M&T lucasrollo. Lucas. Rollo. Product @ Moveworks | Kleiner. Perkins. Fellow | Honors. CS @ Texas. A&M victoria-toli- Victoria. Toli. Product. Manager @ Uber | Kleiner. Perkins. Product. Fellow | Stanford. Graduate. English. NATIVE_OR_BILINGUAL. Co-Founder. New. Zealand. Economics. Olympiad. EDUCATION
-::

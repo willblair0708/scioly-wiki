@@ -6,8 +6,8 @@ Class of 2016
 Investor at SpringBank TechVentures
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 29
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Brian Nguyen is a fellow from the class of 2016 who is currently working as a Investor at SpringBank TechVentures, a Others company based in New York. Over the course of their career, they have worked at 9 organizations, including Adobe Systems <adobe.com>; SpringBank TechVentures <sbtechventures.com>; Uber <uber.com>; Helix <helix.com>; Unite Us <uniteus.com>; Vyrill <vyrill.com>; Social Innovation Ventures <socialinnovationventures.co>; Springbank Collective <springbankcollective.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Lead Product Designer; Product And Design | Co-Founder; Venture Fellow; Product Design Intern; Lead Product Designer, Product; Design Fellow; Researcher; Product Manager, Core And Growth; Investor. They have amassed 7 years of experience and have acquired 29 skills, including Illustrator; Data Analysis; Human Computer Interaction; Product Design; User Experience; Objective C; User Experience Design; Photoshop; Microsoft Word; Python; Javascript; Xcode; Social Media; Community Service; Powerpoint; Graphic Design; Html; Teamwork; Public Speaking; Java; User Interface Design; After Effects; Photography; Android Development; Object Oriented Design; Css; Microsoft Excel; Ios Development; Indesign. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -162,9 +183,3 @@ Roles
 - **Investor**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-fidelsalgado. Fidel. Salgado. Software. Engineer personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. True. False. Spanish. NATIVE_OR_BILINGUAL. Internet. Second. Year. Fellow. Second summer as a. Fellow. As a second year fellow, I provided guidance and mentorship to first year. Fellows, and participated in networking events exclusively for second year fellows. Fellow. A program that places high performing. Black and. Latino software engineering students in internships with top tech companies and provides them with mentorship and network development. Jack. Kent. Cooke. Undergraduate. Transfer. Scholar. Largest private scholarship awarded to top community college students who are transferring to a four-year university. Stripe. San. Francisco. Bay. Area. Stripe. Worked in. Global. Latam where. I built. OXXO and. Boleto payment methods. Software. Engineer. Node.js. Python. C. Scala. Java. C++ Amazon. Web. Services (AWS) API. Development. True bharathsrivatsan. Bharath. Srivatsan. Software. Engineer at. Stripe. Michelle. Zhang. Engineer @ Stripe ishaan-singal. Ishaan. Singal. Staff. Software. Engineer at. Stripe alexander-thiemann. Alexander. Thiemann. Principal. Software. Engineer at. Stripe christinaahuang. Christina. H. Staff. Software. Engineer at. Stripe x-liu. Xiao. Liu. Software. Engineer madelinesaviano. Madeline. Saviano. Staff. Software. Engineer at. Stripe yixizhang. Yixi. Zhang. Engineering. Manager at. Stripe, ex-Facebook katexyu. Kate. Yu. Software. Engineer at. Stripe striglia. Scott. Triglia. Making money programmable at. Stripe. Teaching. Spanish. Tutoring. Matlab. Research. Unix. Git. PowerPoint. Microsoft. Word. Microsoft. Excel. Data. Analysis. AutoCAD. San. Francisco. Bay. Area. Stripe. Worked on the. Treasury team where. I mostly worked on building. Stripe's internal ledger software. As part of the team. I designed/built the ledger integration for paper checks, redesigned the ledger. API and significantly improved our payout ledger integration. Software. Engineer
-::

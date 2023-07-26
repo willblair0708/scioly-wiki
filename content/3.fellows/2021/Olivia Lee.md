@@ -6,8 +6,8 @@ Class of 2021
 Software Engineer at Brex
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 19
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Olivia Lee is a fellow from the class of 2021 who is currently working as a Software Engineer at Brex, a Others company based in Fullerton. Over the course of their career, they have worked at 10 organizations, including HBO <hbo.com>; Uber <uber.com>; UC Berkeley <berkeley.edu>; Brex <brex.com>; Amazon.com <amazon.es>; Pi Sigma Epsilon <berkeleypse.org>; Let's Eat! <letseat.company>; ZC Consulting <zc-consulting.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cod.Ed Education Corp <coded.academy>, and held 12 different job titles, such as Swe Career Prep Fellow; Director Of Design; Software Development Engineer Intern; User Interface And User Experience Design Intern; Technical Program Manager Intern; Engineering Fellow; Computer Lab Assistant; Budget Analyst - Committee On Student Fees And Services; Director Of Technology And Web Development; Project Analyst; Ask Coding Instructor; Software Engineer. They have amassed 2 years of experience and have acquired 19 skills, including User Experience; Javascript; Microsoft Word; Product Design; Adobe Photoshop; User Interface Design; Microsoft Excel; User Centered Design; Journalism; Ui; Java; Html5; Indesign; Python; Customer Service; Team Leadership; Microsoft Powerpoint; Css; Product Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -138,9 +159,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-karinabao. Karina. Bao. Consultant at. McKinsey & Company personal. United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. Food & Beverages. McKinsey & Company. New. York, United. States. McKinsey & Company. Business. Analyst. Full-time. Leadership. Logistics. Management. Design. Thinking. Public. Speaking. Computer. Science. True sanjana-akula- Sanjana. Akula. Vagelos. Life. Sciences & Management. Program merrick-eng. Merrick. Eng. McKinsey. Business. Analyst | Wharton. Alum | Harvard. Business. School + | Retail. Enthusiast sarah-saxe. Sarah. Saxe. Senior. Business. Analyst at. McKinsey & Company rohanmdalvi. Rohan. Dalvi. Senior. Business. Analyst at. McKinsey & Company ethan-franzblau- Ethan. Franzblau. Business. Analyst at. McKinsey & Company griffin-mclaughlin. Griffin. McLaughlin. Business. Analyst at. McKinsey & Company caroline-deitch- Caroline. Deitch. Business. Analyst at. McKinsey & Company elinor-martinez. Elinor. Martinez. Business. Analyst at. McKinsey & Company zimo-li- Zimo. Li. Business. Analyst at. McKinsey & Company anatoly-brevnov- Anatoly. Brevnov. Senior. Digital. Business. Analyst at. McKinsey & Company
-::

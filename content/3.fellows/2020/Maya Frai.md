@@ -6,8 +6,8 @@ Class of 2020
 Entrepreneur In Residence at Greylock
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 12
+::
+::badge{type="info"}
+Number of Past Jobs: 17
+::
+::badge{type="info"}
+Number of Organizations: 56
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Maya Frai is a fellow from the class of 2020 who is currently working as a Entrepreneur In Residence at Greylock, a Others company based in San Francisco. Over the course of their career, they have worked at 56 organizations, including GV <gv.com>; Andreessen Horowitz <a16z.com>; Rent the Runway <renttherunway.com>; Cornell University <cornell.edu>; Google <google.com>; Greylock <greylock.com>; Sailo <sailo.com>; Re Email <re-email.com>; re—inc <re-website.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>; Bkyd <bkyd.community>; Myoutlines <myoutlines.com>; Killer Ivy Swimwear <killerivyswimwear.com>, and held 17 different job titles, such as Associate Product Manager Intern; Product Manager; Founder And Managing Editor; Investor; Generation Design; Software Developer; Chief Executive Officer; Product Design Intern; Product Intern; Vc; Co-Founder; Advisor; Product And Gtm Lead; Product Fellow; Product Manager, Youtube; Product Management Intern; Entrepreneur In Residence. They have amassed 3 years of experience and have acquired 12 skills, including Social Media; Adobe Creative Cloud; Public Speaking; Team Leadership; Python; Product Design; Business Strategy; Java; Website Development; Management; Entrepreneurship; Ios Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -260,9 +281,3 @@ Roles
 - **Entrepreneur In Residence**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-fredericksantiago. Frederick. Santiago. Incoming. Software. Engineer at. Figma personal. I enjoy building with code 😁 United. States. New. York. City. Metropolitan. Area. New. York. City. Metropolitan. Area. True. False. English. NATIVE_OR_BILINGUAL. Spanish. NATIVE_OR_BILINGUAL. Computer. Software. Figma. New. York, New. York, United. States. Figma. Incoming. Software. Engineer. True. Society of. Hispanic. Professional. Engineers. Secretary, Vice. President. Computer. Science. Mentor. SHPE. UCF. Vice. President. SHPE. UCF. Secretary. SHPE. UCF. Children's. Leader. Christ. Fellowship. Church. CHILDREN. I was a leader for the children who attended children's school. Some of my tasks include, teaching children, organizing/cleaning, and. I was in charge of outdoor activities.
-::

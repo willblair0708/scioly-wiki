@@ -6,8 +6,8 @@ Class of 2015
 Staff Software Engineer, Tech Lead at Coursera
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 8
+::
+::badge{type="info"}
+Number of Skills: 22
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 5
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Cody Lieu is a fellow from the class of 2015 who is currently working as a Staff Software Engineer, Tech Lead at Coursera, a Others company based in Mountain View. Over the course of their career, they have worked at 5 organizations, including Indiegogo <indiegogo.com>; Duke University <duke.edu>; Guidewire Software <guidewire.com>; Coursera <coursera.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Staff Software Engineer; Tech Lead; Staff Software Engineer, Tech Lead; Software Engineer; Senior Software Engineer, Tech Lead Apprentice; Software Engineer Intern; Software Engineer Ii; 2015 Kpcb Engineering Fellow; Undergraduate Teaching Assistant. They have amassed 8 years of experience and have acquired 22 skills, including C; Ruby On Rails; Heroku; Yeoman; Mongodb; Angularjs; Intellij Idea; Sml; Css; Numerical Analysis; Javascript; Python; Html; Postgresql; Java; Matlab; Twitter Bootstrap; Eclipse; Ruby; Latex; Computer Science; Git. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -129,9 +150,3 @@ Roles
 - **Undergraduate Teaching Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-david-wang- David. Wang. Course. Assistant at. Stanford. University personal. United. States. United. States. False. False. Computer. Software. Psychology. One. Scholar. Award. Nominee. Awarded to students who complete outstanding. Research and. Writing projects in. Intro to. Psychology. Stanford. Department of. Psychology. KPCB. Engineering. Fellow. Our. KPCB. Fellows. Program offers outstanding college students from across the. United. States an opportunity to gain significant experience working on unique and challenging technical, design and product problems, and to develop new relationships that are meaningful to their careers. Kleiner. Perkins. Caufield & Byers. AP. Scholar with. Distinction. College. Board. National. Merit. Finalist. National. Merit. Scholarship. Corporation. Stanford. University. Stanford. University. CS : Computer. Organization and. Systems. CS : Introduction to. Probability for. Computer. Scientists. CS : Principles of. Computer. Systems. Course. Assistant. Software. Engineering. Java. C++ Research. Linux. Teaching. True
-::

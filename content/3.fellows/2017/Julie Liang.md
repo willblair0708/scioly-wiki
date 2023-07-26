@@ -6,8 +6,8 @@ Class of 2017
 Lead Product Designer at Hinge Capital
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 22
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 7
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Julie Liang is a fellow from the class of 2017 who is currently working as a Lead Product Designer at Hinge Capital, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Uber <uber.com>; Punchcut <punchcut.com>; Hinge <hinge.co>; Rhode Island School of Design <risd.edu>; Hinge Capital <hingecapital.com>; Better World by Design <abetterworldbydesign.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Teacher Assistant; 2017 Design Fellow; User Interface And User Experience Design Intern; Product Designer; Student Ambassador; Industrial Design Intern; Lead Product Designer; Product Design Intern; Project Manager, President. They have amassed 6 years of experience and have acquired 22 skills, including Graphic Design; Art; Cad/Cam; Photography; Indesign; Painting; Sketching; Microsoft Office; Photoshop; Design Thinking; Adobe Photoshop; Product Design; Solidworks; Model Making; User Experience; Drawing; Rhino; Adobe Illustrator; Uix; Illustrator; Industrial Design; Adobe Creative Suite. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -135,9 +156,3 @@ Roles
 - **Project Manager, President**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-mayankmakwana. Mayank. Makwana building something new | ex lyft, kp, startups personal. Check out my website @ United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. French. LIMITED_WORKING. Internet. International. Collegiate. Programming. Competition. Regional. Finalist. Competed in one of the world's largest programming competitions and finished as a regional finalist. Association for. Computing. Machinery. Zero. Robotics. International. Finalist. Won place in an international competition which required programming robots, in. C, on the. International. Space. Station. Collaborated with international teams to achieve this ranking. Massachusetts. Institute of. Technology and. National. Aeronautics and. Space. Administration. MuseThinks. MuseThinks is a seizure detecting. IoT device that is able to interact with your phone and contact authorities/emergency contacts upon seizure detection. It uses the. Muse. Headband as the primary device to detect seizures (we analyzed brainwaves using it's. EEG sensor), as well as the. Intel. Edison as the primary. IoT interactions. We connected. Arduino's to the. Edison for allowing many larger scale. IoT interactions, such as unlocking the door to allow medical staff to easily come in the home and help the patient. Mayank. Makwana building something new | ex lyft, kp, startups. CourseConvert. This web application takes in a video. URL as input and translates it into any language allowing viewers from any country to understand the contents of the video. The translations take the audio of the video, translate it to text and convert the text into the user-specified language. Code can be found on. Github. Mayank. Makwana building something new | ex lyft, kp, startups. Stealth. San. Francisco. Bay. Area. Stealth. Co-Founder. Full-time. Swift. Objective-C. C++ Java. Python. Management. JavaScript iOS. Development. True hansenlillemark. Hansen. Lillemark. Building. Stealth ahry-jeon. Ahry. Jeon starting something new zainamro. Zain. Amro. Co-Founder at. Stealth — Hiring. Engineers & Designers zanfack. Neek. Zanfack. Co-Founder at. Stealth naseem-al-naji. Naseem. Al-Naji. Co-founder @ Stealth. Company onlyhamza. Hamza. Khawaja. Founding team at. Atlas, formerly. Hadith, KP. Product, Google, Microsoft, Salesforce, Tesla. Berkeley. CS, Data. Science shawn-samra- Shawn. Samra. Co-Founder at. Stealth— Hiring. Designers & Engineers ryan-schiller. Ryan. Schiller. Building... scottloftin. Scott. Loftin. A little busy right now rameez-remsudeen. Rameez. R. Co-founder at. Nuvo. Gujarati. NATIVE_OR_BILINGUAL. HackPSU. Executive. Director. Association of. Computing. Machinery. Webmaster. InnoBlue. VP of. Finance. John. B. Software. Engineer at. Microsoft. Andrew. Ge. Hardware. Engineer at. Amazon. Technology. Captain. Penn. State. THON™ CHILDREN. Develop main management system in. Python's. Django framework for largest student-run philanthropy in the world. React. Native. React.js. Penn. State. Panhellenic. Dance. MaraTHON. Technology. Captain. Matthew. Heilman. Student at. Penn. State. University. Volunteer. Rotary. International. POVERTY_ALLEVIATION. Volunteered at. Chefs of the. Burbs, a fundraiser to help raise money for the. Rotary. Club’s different philanthropy. Volunteered in many smaller events like painting churches, and working at local festivals. Volunteer. Bharatiya. Temple. SOCIAL_SERVICES. Helped run many cultural events at the temple to raise money for religious services. Entrepreneurship. Customer. Service. Social. Media. Teamwork. Sales. Public. Speaking. PowerPoint. Microsoft. Word. Microsoft. Office. Facebook. Mayank. Makwana building something new | ex lyft, kp, startups. LIGHTWEIGHT. DOCKING. STATION. FOR. MICROMOBILITY. TRANSIT. VEHICLES. SYSTEMS. AND. METHODS us. Hindi. LIMITED_WORKING
-::

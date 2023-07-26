@@ -6,8 +6,8 @@ Class of 2021
 Fellow at Paradigm
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 9
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 13
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Gokce Guven is a fellow from the class of 2021 who is currently working as a Fellow at Paradigm, a Others company based in Berkeley. Over the course of their career, they have worked at 13 organizations, including Accel <accel.com>; Adobe Systems <adobe.com>; OpenSearchServer <open-search-server.com>; Robinhood <robinhood.com>; Hoover Institution at Stanford University <hoover.org>; UC Berkeley <berkeley.edu>; Celonis <celonis.com>; OpenSea <opensea.io>; Paradigm <paradigm.xyz>; IDEO CoLab Ventures <ideocolab.com>; Kalder <kalder.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>; Kızlar Sahada Akademi (Girls On The Field Academy) <kizlarsahadaakademi.com>, and held 14 different job titles, such as Design Circle Scholar; Researcher, Carol Dweck'S Growth Mindset Lab; Project Developer; Product Lead; Fellow; Experience + Design Intern; Kleiner Perkins Fellow; Product Designer | Crypto; Accel Scholar; Summer User Experience Fellow And Makeathon Technologist | Crypto; Product Designer; Founder; Product Design Intern; Product Design. They have amassed 2 years of experience and have acquired 9 skills, including P2P; Circular Economy; Project Management; Entrepreneurship; Social Entrepreneurship; Team Leadership; Product Development; Networking; Sustainable Design. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -119,9 +140,3 @@ Roles
 - **Product Design**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-dfinzer. Devin. Finzer. Co-founder and. CEO at. OpenSea (YC ). We're hiring! personal. ACoAAANPP-kB-PUA- United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. Spanish. PROFESSIONAL_WORKING. Computer. Software. KPCB. Fellow. The. Kleiner. Perkins. Caufield & Byers. Fellowship. Program offers top. U.S. college and graduate students a chance to work inside innovative. Silicon. Valley startups. Kleiner. Perkins. Caufield & Byers. Place, LinkedIn. Hackday. Place at. LinkedIn. Hackday. LinkedIn. Eye. Chart. Pro. A suite of mobile apps (Eye. Chart. Pro) for vision testing that have been installed over . million times and are in wide use in the medical community. Technology has been independently validated in. American. Journal of. Ophthalmology and deployed in a variety of long-term clinical studies. Devin. Finzer. Co-founder and. CEO at. OpenSea (YC ). We're hiring! OpenSea. Greater. New. York. City. Area. OpenSea. Co-founded. OpenSea, the first peer-to-peer marketplace for blockchain-based assets. We're funded by. YCombinator, Founders. Fund, Coinbase. Ventures, , and. Blockchain. Capital, and are currently the largest general marketplace for user-owned digital items. The team has backgrounds from. Google, Facebook, Pinterest, Palantir, and. Stanford. Co-Founder and. CEO. Full-time. Python. MapReduce. Java. JavaScript. Hadoop. Ruby. C++ Machine. Learning. True jrfine. Jeremy. Fine. Head of. Partnerships and. Corporate. Development at. OpenSea mikomatsumura. Miko. Matsumura. Managing. Partner, gCC (gumi. Cryptos. Capital) parth-chopra. Parth. Chopra. Product at. OpenSea sophiahuard. Sophia. Huard. Strategy & Operations @ OpenSea calderzwerling. Calder. Zwerling. Head of. Recruiting at. OpenSea | Strategic. Advisor at. Variant lorenshuculak. Lorens. Huculak. Co-Founder of. Gem brendan-forster- Brendan. Forster. Strategist @ OpenSea; fmr co-founder & COO @ Dharma mitchellkogan. Mitchell. Kogan. Product at. OpenSea shivar. Shiva. Rajaraman. OpenSea, formerly. Google, Meta, Spotify | Board. Director | Investor nadav-hollander- Nadav. Hollander. CTO @ OpenSea. Scalability. User. Interface. Design. Swift. Objective-C. MySQL
-::

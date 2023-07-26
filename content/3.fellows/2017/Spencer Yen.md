@@ -6,8 +6,8 @@ Class of 2017
 Software Engineer at Uniswap Labs
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 21
+::
+::badge{type="info"}
+Number of Past Jobs: 9
+::
+::badge{type="info"}
+Number of Organizations: 11
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Spencer Yen is a fellow from the class of 2017 who is currently working as a Software Engineer at Uniswap Labs, a Others company based in Saratoga. Over the course of their career, they have worked at 11 organizations, including FWD.us <fwd.us>; DoorDash <doordash.com>; Dorm Room Fund <dormroomfund.com>; superlabs <superlabs.io>; Everteam <everteam.com>; Nav Talent <navtalent.com>; Snackpass <snackpass.co>; HSHacks <hshacks.com>; Ever <everalbum.com>; Uniswap Labs; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Software Engineering Intern; Investment Partner; Campus Leader; Engineering And Product; Kpcb Engineering Fellow; Co-Director; Incoming Software Engineering Intern; Ios Volunteer; Software Engineer. They have amassed 6 years of experience and have acquired 21 skills, including Html; Web Development; Ios Development; Objective C; Javascript; Graphic Design; Html5; Web Design; Python; Html 5; Software Engineering; Windows; Social Media; Photoshop; Java; Git; Css; Wordpress; Public Speaking; Ios; Customer Service. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -141,9 +162,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-cyrus-from-taiwan 驊軒. Cyrus. Chuang. Product. Design @ Simple. HealthKit | ' KP. Fellows personal. I want my design to help people walk further and walk faster. I like working with people because faster feedback and alignment push me forward and give me more confidence over the strength of the design. Communication, feedback, and inclusivity are at the core of my design. 👉 I'm looking forward to work in an energetic company where. I can continue to grow my knowledge and work on product that help people have a better life. I am continuing my education at the. Minerva. University, an innovative undergraduate university that highlights problem solving. I have traveled to six world cities to work with different organizations and identify sustainable ways to solve problems. Topics. I am very interested in right now include 🏡 housing justice, 💧gender equality, and 🍱 food security. If you are interested in talking about design, sustainability or potential collaboration, shoot me a message! United. Kingdom. London, England. London. England. London, England, United. Kingdom. False. False. Chinese. NATIVE_OR_BILINGUAL. English. FULL_PROFESSIONAL. Venture. Capital & Private. Equity. Kleiner. Perkins. San. Francisco. Bay. Area. Kleiner. Perkins. Design. Fellow. User. Experience. Design (UED) User. Research. User. Interface. Design. Product. Design. Graphic. Design. Photography. Event. Planning. Nonprofit. Organizations. True tinateng. Tina. Teng. Product. Design isaiah-wellington-lynn- Isaiah. M. Wellington-Lynn. On a mission to tell stories about people (PhD @ Oxford), products (Anthropologist @ TwentyFirstCenturyBrand), and problem-solving (Founding. Faculty @ LIS) - always interested in anything that fits with the mission caamorrow. Cody. Morrow. Leading. Design at. Minerva. Project abdul-ahmed- Abdul. Ahmed. Software. Engineer linnayao. Linna. Yao. Motion designer cindy-sheng. Cindy. Sheng. Product. Design. Intern @ Zumper • Kleiner. Perkins. Fellow soyeepark. Soyee. P. Product. Designer generous generous yeh ux designer , paypal · kleiner perkins fellow · uw hcde yashvi-jaju. Yashvi. Jaju. CS, Business, Philosophy at. USC | Kleiner. Perkins. Fellow | Incoming. SWE. Intern at. Two. Sigma | President at. TroyLabs | Previously at. Slack. Ivan. Zhao drawing shapes 偏鄉教育服務 大孩子老師. I designed the courses and activities for students at. Da-Keng. Elementary. School. Project. Management. Social. Media. Outreach. Program. Designer. San. Francisco. Collaborative. Against. Human. Trafficking. HUMAN_RIGHTS. Together with my classmates, we cooperated with. San. Francisco. Collaborative. Against. Human. Trafficking (SFCAHT) to revamp their outreach program for the annual poster/writing contest. We performed a problem analysis to identify the main pain points and designed a command center, along with an awareness video and a promotion poster/flyer, to help. SFCAHT build an efficient system. Adobe. Illustrator. Microsoft. PowerPoint. Teamwork. Communication. Leadership. Problem. Solving. Critical. Thinking. Social. Issues. Tour. Planning. Street. Photography
-::

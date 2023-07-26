@@ -6,8 +6,8 @@ Class of 2022
 Associate Product Manager at Uber
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 16
+::
+::badge{type="info"}
+Number of Organizations: 15
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Oliver Osei-Asibey is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Uber, a Others company based in nan. Over the course of their career, they have worked at 15 organizations, including PayPal <paypal.com>; Accenture <accenture.com>; Open Labs <openlabs.com>; Uber <uber.com>; Wharton <wharton.upenn.edu>; Wharton Social Venture Fund <whartonimpactinvestingpartners.com>; Fudan University <fudan.edu.cn>; HS2 <hs2.org.uk>; Elivade <elivade.com>; Connected Mobile <connectedmobile.co>; Ako Capital <akocapital.com>; Future Leaders Foundation <futureleaders.org>; Paravane Ventures <paravaneventures.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Projectaccess.Co <projectaccess.co>, and held 16 different job titles, such as Investment Associate; Market Research Intern; Product Strategy Case Analyst; Associate Product Manager; Information Technology Summer Intern; Fellow; Marketing Intern; Product Manager, Venmo Cryptocurrency; Growth Intern; Consulting Analyst; Summer Business Analyst And Researcher; Product Fellow; Business And Technology Consulting Analyst; Co-Founder And Campus Director - Pa University Of Pennsylvania; Director Of Us Product; Fisf International Entrepreneurship Competition Participant. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -103,9 +124,3 @@ Roles
 - **Fisf International Entrepreneurship Competition Participant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-devin-cintron. Devin. C. Eng at. Comun 💳 (prev: KP fellow, Bain) personal - United. States. New. York, New. York. New. York. New. York. New. York, New. York, United. States. True. False. Financial. Services. Comun. New. York. City. Metropolitan. Area. Comun. Comun is on a mission to enable upward mobility for. Latinos living in the. US. Mobile. Engineer. Full-time. False abielg. Abiel. Gutierrez. Co-Founder / CTO at. Comun elliott-jobson. Elliott. Jobson. Engineering at. Comun 💳 kate-bonner. Kate. Bonner. UX/UI. Engineer, Designer 🚀 luisfvarela. Luis. Fernando. Varela. Eleta. Engineering at. Comun 💳 - we’re hiring! | Prev. at. Brex robertoyoc. Roberto. Yoc. Engineering at. Comun 💳 santos-andres. Andres. Santos. Co-founder / CEO at. Comun charisseyeh. Charisse. Y. Founding. Product. Designer at. Comun alvaro-siman. Alvaro. Siman. Product at. Comun 💳 🚀 Daniel. Michael. Algo. Dev at. HRT | Stanford. Alum joshlatour. Josh. LaTour. LDR. Manager. Yield. Solutions. Group/RefiJet
-::

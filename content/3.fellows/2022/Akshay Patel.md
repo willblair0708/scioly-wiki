@@ -6,8 +6,8 @@ Class of 2022
 M.E.T @ Berkeley | Pear Vc | Kp Fellow at Pear Vc Bonfire Kleiner Perkins
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 25
+::
+::badge{type="info"}
+Number of Past Jobs: 15
+::
+::badge{type="info"}
+Number of Organizations: 15
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Akshay Patel is a fellow from the class of 2022 who is currently working as a M.E.T @ Berkeley | Pear Vc | Kp Fellow at Pear Vc Bonfire Kleiner Perkins, a Others company based in San Francisco. Over the course of their career, they have worked at 15 organizations, including NASA - National Aeronautics and Space Administration <nasa.gov>; The University of Texas at Austin <utexas.edu>; Zighra <zighra.com>; UC Berkeley <berkeley.edu>; Pear VC <pear.vc>; Blendoor <blendoor.com>; Savitude <savitude.com>; Trashbots <trashbots.co>; 1910 Genetics <1910genetics.com>; LoopChat <loopchat.us>; Amazon.com <amazon.es>; Avance Venture Lab <avancevl.com>; Getbonfire <getbonfire.xyz>; Pear Vc Bonfire Kleiner Perkins; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 15 different job titles, such as Associate; Software Engineer Intern; Engineering Fellow; Product Manager; Software Development Engineer Intern; Machine Learning Infrastructure Engineer Intern; Pm Intern; Formula Sae: Member Of The Frame Subteam; Venture Fellow; Curriculum Designer; M.E.T @ Berkeley | Pear Vc | Kp Fellow; Internship; Data Analyst; Software Engineer; Co-Founder. They have amassed 1 years of experience and have acquired 25 skills, including Autodesk Fusion 360; Entrepreneurship; Public Speaking; Problem Solving; Mathematics; Java; Object Oriented Programming; Computer Aided Design; Data Presentation; Leadership; Stem; Javascript; Data Analysis; Microsoft Office; Rstudio; Management; Python; Data Analytics; C++; R; Time Management; Product Management; Data Structures; Data Science; Project Management. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -171,9 +192,3 @@ Roles
 - **Co-Founder**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-danielle-limcaoco- Danielle. Limcaoco. Product. Designer at. Robinhood personal - drawing rectangles @ robinhood. United. Kingdom. United. Kingdom. False. False. English. NATIVE_OR_BILINGUAL. Filipino. LIMITED_WORKING. Internet. High. School. Valedictorian. Awarded to the student with the highest average. GPA. Moon. Koo. Lee. Outstanding. Senior. Award. Awarded to three seniors from the graduating class. Awarded to "those students that have regularly displayed the highest levels of integrity, service and merit, our. ISM core values." Bryn. Mawr. College. President’s. Book. Award program () Awarded to one woman per year to recognize her "academic, personal, and extracurricular achievements." Cum. Laude. Society () National. Art. Honor. Society () Robinhood. London, England, United. Kingdom. Robinhood. Product. Designer. Full-time. User. Experience (UX) Figma. Product. Design. Wireframing. Storyboarding. Rapid. Prototyping. Printing. Design. Thinking. True katherinevogt. Kate. Vogt. Product. Design. Manager at. Robinhood soyeepark. Soyee. P. Product. Designer kelsey-kong- Kelsey. Kong. Product. Designer uclaannieyu. Annie. Yu. Product. Designer @ Notion alvinplee. Alvin. Lee. Director of. Product. Design at. Crunchyroll jasmine-lee- Jasmine. Lee. Product. Designer at. Robinhood jinrachel. Rachel. Jin. Design @ Robinhood samchieng. Sam. Chieng. Lead. Product. Designer at. Faire elizabethmay. Lizzie. May. Senior. Product. Designer at. Robinhood eleanortrinh. Eleanor. Trinh. Design @ Robinhood. National. Honor. Society ( & ) Board. Member. Stanford. Alumni. Association. EDUCATION. Serving as one of. Board. Members of the. Stanford. Alumni. Association. Board of. Directors, representing more than , alumni around the world. Ethnographic. Research. User. Research. Quill & Scroll. Honor. Society () Gen. Z. Advisory. Board. Member. Origin. Ventures. Co-Founder. Librery. EDUCATION. My sister and. I started. Librery to help bring good quality books and libraries to provinces in the. Philippines. Menlo. Park, California, United. States. Robinhood. Product. Designer. Full-time
-::

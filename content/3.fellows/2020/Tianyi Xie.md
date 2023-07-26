@@ -6,8 +6,8 @@ Class of 2020
 Senior Interaction Designer at Google
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="info"}
 Current Company: Big Tech
@@ -15,6 +15,27 @@ Current Company: Big Tech
 
 ::badge{type="success"}
 Sector: AI
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 18
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 9
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Tianyi Xie is a fellow from the class of 2020 who is currently working as a Senior Interaction Designer at Google, a Big Tech company based in Cupertino. Over the course of their career, they have worked at 9 organizations, including CVSHealth <cvshealth.com>; Kent State University <kent.edu>; Google <google.com>; New York University <nyu.edu>; Shiseido <shiseido.com>; C3.ai <c3energy.com>; Nearside <hatchcard.com>; Flourish <flouriship.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Product Head, Founding Member @ Giaran; Experience Design Intern; Visual And User Experience Designer; Design Fellow; Undergrad Intern Â Mobile Experience Design; Kp Design Fellow At Nearside; Senior Product Designer; Creative Artist; Product Designer; User Interface And User Experience Designer; Senior Interaction Designer; Teacher Assistant. They have amassed 3 years of experience and have acquired 18 skills, including Public Speaking; Graphics; Microsoft Office; Indesign; Graphic Design; Adobe Creative Suite; Illustrator; Advertising; Illustration; Art; Photoshop; Creative Direction; Microsoft Excel; Typography; Research; Photography; Microsoft Word; Powerpoint. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -132,9 +153,3 @@ Roles
 - **Teacher Assistant**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-elainexzhou. Elaine. Zhou. Product. Designer at. Airtable personal. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. Mandarin. Chinese. NATIVE_OR_BILINGUAL. Design. Airtable. Airtable. Product. Designer. Public. Speaking. Java. CSS. Research. JavaScript. HTML. Data. Analysis. Git. True kellyoshaughnessy. Kelly. O'Shaughnessy. Product. Lead at. Airtable jaime-mariko-mcfarland- Jaime. Mariko. McFarland. Head of. Core. Product. Design at. Airtable allan-yu- Allan. Yu. Product. Designer at. Airtable kaustubhbarde. Kaustubh. Barde. Product. Designer at. Airtable ygev. Yana. G. Product. Designer at. Airtable hichristineyeh. Christine. Yeh. Product. Designer at. Airtable leahpirani. Leah. Pirani. Senior. Product. Designer at. Square • Previously at. Airtable, Amazon. Jerry. Hong. Product. Design at. Airtable | CS & Design at. Stanford joel-lewenstein. Joel. Lewenstein. Design. Management at. Airtable mollyyee. Molly. Y. Product. Designer at. Airtable. Design. Thinking. Sketch. Keynote. Teamwork. Photoshop. Rapid. Prototyping. C++ C
-::

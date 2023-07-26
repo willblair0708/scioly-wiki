@@ -6,8 +6,8 @@ Class of 2020
 Software Engineer at Syndicate Bank
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech
+::
+::badge{type="info"}
+Years of Experience: 3
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Luis Clague is a fellow from the class of 2020 who is currently working as a Software Engineer at Syndicate Bank, a Others company based in Houston. Over the course of their career, they have worked at 10 organizations, including Slack <slack.com>; Rice University <rice.edu>; Pear VC <pear.vc>; Google <google.com>; Contrary <contrarycap.com>; Unshackled <unshackled.co>; Syndicate Bank <syndicatebank.in>; Syndicate <syndicateprotocol.org>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Fellow; Software Engineer Intern; Engineering Practicum Intern; Pear Garage Fellow; Venture Partner; Unshackled Fellow; Software Engineer; Fullstack Developer. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -80,9 +101,3 @@ Roles
 - **Fullstack Developer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-david-thomas- David. Thomas. Machine. Learning. Engineer | Stanford. Applied. Math. Ph.D. | Former. HFT. Quant personal. United. States. Menlo. Park, California. Menlo. Park. California. Menlo. Park, California, United. States. False. False. Research. Stripe. Stripe. Tech lead for -person. Fraud. Actioning team. Senior. Machine. Learning. Engineer. Programming. Machine. Learning. Distributed. Systems. True. Planning. Commissioner. City of. Menlo. Park. Parks and. Recreation. Commissioner. City of. Menlo. Park. Chair
-::

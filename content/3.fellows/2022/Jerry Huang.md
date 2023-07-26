@@ -6,8 +6,8 @@ Class of 2022
 Software Engineer at Glean
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Education
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 3
+::
+::badge{type="info"}
+Number of Organizations: 2
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jerry Huang is a fellow from the class of 2022 who is currently working as a Software Engineer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 2 organizations, including TikTok <tiktok.com>; Glean <glean.com>, and held 3 different job titles, such as Software Engineer Intern; Teaching Assistant; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -51,9 +72,3 @@ Roles
 - **Software Engineer**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-moeamadou. Moe. A. SWE @ Figma | KP. Fellow | Waterloo. CS | ex-Stripe, LinkedIn, Accenture personal. Thanks for stopping by! 😁 Please don't hesitate to reach out to me about any of my experiences, skills, or interests. If nothing else, I'd love to connect with you—either online or over a coffee—about music, social innovation, and otherwise cool things. Cheers, Moe 🥂 United. States. Brooklyn, New. York. Brooklyn. New. York. Brooklyn, New. York, United. States. False. False. English. NATIVE_OR_BILINGUAL. French. PROFESSIONAL_WORKING. Computer. Software. Changemaker. Innovation. Challenge (Runner-Up) Competed against more than teams to map the causes, existing solutions, and areas for improvement with respect to a current humanitarian issue—including a visual map, a ,-word essay, and a -minute presentation. The. Changemaker. Innovation. Challenge is. Wilfrid. Laurier. University's preliminary qualifier for. Map the. System. Canada. The. Schlegel. Centre for. Entrepreneurship and. Social. Innovation. PepsiCo. Pitch. Competition (Semi-Finalist) One of students selected from a pool of + on the basis of persuasiveness and presentation skills in an elevator pitch. Lazaridis. School of. Business & Economics. Parking. Boxx. Scholarship $ USD. Scholarship awarded to the student who proposed the most innovative and compelling solution to streamlining the parking experience in the. Parking. Boxx. Essay. Contest. Parking. Boxx. Starbucks. Live. Case. Competition (Semi-Finalist) One of teams selected from a group of + students on the basis of innovation and persuasiveness in a solution to improving. Starbucks. Rewards usership. Lazaridis. School of. Business & Economics. University of. Waterloo. President's. Scholarship of. Distinction. Awarded to incoming students of the. Faculty of. Mathematics with an admissions average above %. University of. Waterloo. Figma. New. York, New. York, United. States. Figma. Prototyping. Team. Software. Engineer. Full-time. Leadership. Public. Speaking. Management. Python. C++ React.js. HTML/CSS. JavaScript. True shaonb. Shaon. Bhuiyan. Engineering. Manager at. Figma alejandro-neff- Alejandro. Neff. Software. Engineer at. Figma silastsui. Silas. Tsui. Software. Engineer at. Figma stanhuan. Stanley. Huang. Software. Engineer @ Figma kjchang. Jung. Chang. Software. Engineer bwdrebing. Benjamin. Drebing. Software. Engineer at. Figma. Justin. H. Software. Engineer @ Figma robbiezhuang. Robbie. Z. Software. Engineer at. Figma chaochingchang. Diana. Chang. Software. Engineer @ Figma catherinehwu. Catherine. Hwu. EECS @ UC. Berkeley | Figma. SWE. Intern | GHC | Greylock. Techfair. OCDSB. Silver. Medal. Awarded to a secondary school student who has achieved an average above % in all academic courses taken—maintained throughout grades , , , and . Ottawa-Carleton. District. School. Board. Amazon. Web. Services (AWS) SQL. Valedictorian. Elected by a graduating class consisting of over + students, the valedictorian delivers the valedictory address at the annual. Earl of. March commencement ceremony. Earl of. March. Secondary. School. Schulich. Leader. Nominee. Issued to the. Earl of. March. S.S. candidate for the $ Schulich. Leader. Scholarship, who is selected from a pool of + students on the basis of. Leadership and. Academic. Excellence. The. Schulich. Foundation. Best. Pit. Orchestra. Awarded at the annual. Cappies. Gala to. Ottawa's best. Pit. Orchestra in a musical production. The. Cappies. Critics and. Awards. Program for. High. School. Theater and. Journalism. Ruby. Communication. Elixir. Android. Java. Flask. Blockchain. SAT
-::

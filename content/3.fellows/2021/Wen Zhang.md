@@ -6,8 +6,8 @@ Class of 2021
 Product Manager at Moveworks
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI
+::
+::badge{type="info"}
+Years of Experience: 2
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 10
+::
+::badge{type="info"}
+Number of Organizations: 10
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Wen Zhang is a fellow from the class of 2021 who is currently working as a Product Manager at Moveworks, a Others company based in Mountain View. Over the course of their career, they have worked at 10 organizations, including Singapore Press Holdings <sph.com.sg>; Google <google.com>; Civil Aviation Authority of Singapore - (CAAS) <caas.gov.sg>; Pegaxis <pegaxis.com>; GovTech Singapore <tech.gov.sg>; Moveworks <moveworks.ai>; KPCB <kleinerperkins.com>; Lingxi AR <lx-ar.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Soulsmile Club <soulsmile.club>, and held 10 different job titles, such as Founder; Software Engineer Intern; Product Intern; Chinese Journalism Intern; Operations Intern; Software Engineering Intern; Product Manager; Product Operations Manager; Product Fellow; Intern, Futures And Planning Office. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -82,9 +103,3 @@ Roles
 - **Intern, Futures And Planning Office**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-francis-chalissery. Francis. Chalissery. EECS @ UC. Berkeley | Kleiner. Perkins. Fellow | SWE. Intern @ Retool, Moveworks, Amazon personal. Always looking to learn. United. States. Berkeley, California. Berkeley. California. Berkeley, California, United. States. False. False. English. NATIVE_OR_BILINGUAL. French. LIMITED_WORKING. Computer. Software. Edward. F. Kraft. Award. UC. Berkeley. National. Webmaster. Champion. Technology. Student. Association. National. Merit. Scholar. United. States. Presidential. Scholar. Candidate. Kleiner. Perkins. Menlo. Park, California, United. States. Kleiner. Perkins. Engineering. Fellow. Retool. Mobile. Application. Development. Python (Programming. Language) Pandas (Software) Android. Development. Adobe. Illustrator. Adobe. Premiere. Pro. After. Effects. True joelenelatief. Joelene. L. Engineer @ Retool anni-chai. Anni. Chai. Software. Engineer @ Stripe kaili-liang. Kaili. Liang. Incoming. Software. Engineer at. Slack | Kleiner. Perkins. Fellow akshay-patel- Akshay. Patel. M.E.T @ Berkeley | Pear. VC | KP. Fellow annie-d-wang. Annie. W. UC. Berkeley. CS ' | KP. Fellow | SWE @ Figma, Retool, Facebook neel-saswade. Neel. Saswade. Product. Designer at. Glean • KP. Fellow bbqiu. Bryan. Qiu. EECS @ UC. Berkeley advaitumarathe. Advait. Marathe. CS & Business. Berkeley. Alum. Janvi. Shah. SWE. Intern @ IMC. Trading | Prev @ Meta | CS + Statistics @ UC. Berkeley | Regents' Scholar sam-forman- Sam. Forman. CS @ UMich. CS. Intro to. Database. Systems. Computer. Architecture. CS. Computer. Security. CS. Data. Structures. CS. Decentralized. Finance. CS - Designing. Information. Devices and. Systems. EECS /B. Discrete. Math and. Probability. Theory. EECS. SOLIDWORKS. AutoCAD. Efficient. Algorithms. CS. Game. Theory. STAT. Machine. Learning. CS. Mulitvariable. Calculus. Math. Operating. Systems. CS. Optimization. Models. EECS. Physics for. Scientists and. Engineers. Physics /B. Structure and. Interpretation of. Computer. Programs. CS. Visualization for. Design. ENGIN. Java. REST. API. Firebase. Computer. Numerical. Control (CNC) ANSYS. Plotly. Public. Speaking. Apache. Spark
-::

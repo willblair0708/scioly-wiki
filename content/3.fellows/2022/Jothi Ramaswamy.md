@@ -6,8 +6,8 @@ Class of 2022
 2022 Kleiner Perkins Fellow at Kleiner Perkins Caufield & Byers
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; Finance; Education; AI
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 14
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jothi Ramaswamy is a fellow from the class of 2022 who is currently working as a 2022 Kleiner Perkins Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Mohegan Lake. Over the course of their career, they have worked at 14 organizations, including XO Group, Inc. <xogroupinc.com>; IBM <ibm.com>; MongoDB <mongodb.com>; Acorda Therapeutics <acorda.com>; Duolingo <duolingo.com>; Columbia University <columbia.edu>; Harvard University <harvard.edu>; Pear VC <pear.vc>; Strategic Financial Solutions <stratfs.com>; ThinkSTEAM <thinksteam4girls.org>; Apple <apple.com>; Accelerated <acceleratedusa.net>; MailChimp <campaign-archive.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Founder; Software Engineer Intern; Campus Ambassador; Summer Intern; Intern - Ios Developer; Venture Fellow; Founder And Executive Director; 2022 Kleiner Perkins Fellow; Swe Intern; Executive Producer And Host; Cs50 Teaching Fellow; Research Intern; Finance Intern; Science Honors Program Student. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -98,9 +119,3 @@ Roles
 - **Science Honors Program Student**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-willkoh. Will. Koh. Helping people shape and share their ideas @ Tome personal -YsSI. Software. Engineer. I have experience developing in. Java, C, Ruby, Javascript (React/Redux), Go, and. Python. My interests are in distributed systems, networks, and data management/storage. United. States. San. Francisco, California. San. Francisco. California. San. Francisco, California, United. States. False. False. English. Korean. Computer. Software. Tome. San. Francisco, California, United. States. Tome @ the. Paper. Team, working on building core features that allow people to tell a more compelling and expressive story. Software. Engineer. Full-time. Project. Management. Java. C. C++ Python. C# Linux. Kernel. SQL. True mayline-zhong. Mayline. Zhong. Software. Engineer at. Retool austinbae. Austin. Bae. Software. Engineer at. Benchling sungsoocho. Anthony. Cho. Software. Engineer at. Google napasu. Napas. Udomsak. Software. Engineer at. Phantom. Justin. Fan. Indie. Hacker | Solo. Entrepreneur | Ex-Engineering @ Blend. Spencer. Chang. Independent. Researcher elizabethtian. Elizabeth. T. Software. Engineer at. Airbnb brennan-han- Brennan. Han. Software. Engineer at. Enverus gabriel-vacaliuc- Gabriel. Vacaliuc. Software. Engineer at. Included. Health jay-ryu- Jay. Ryu. Founding. Engineer @ Glencoco. Software. Engineering. Practices. Software. Development. Object-Oriented. Programming (OOP) Functional. Programming. Machine. Learning. Artificial. Intelligence. Ruby on. Rails. React.js. Redux. JavaScript. Distributed. Systems
-::

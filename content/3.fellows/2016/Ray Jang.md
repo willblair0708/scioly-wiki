@@ -7,7 +7,7 @@ Founder And Chief Executive Officer at sceniusxyz
 ::
 
 ::badge{type="success"}
-Founder
+Entrepreneurship Experience
 ::
 ::badge{type="success"}
 Current Company: Startup
@@ -15,6 +15,27 @@ Current Company: Startup
 
 ::badge{type="success"}
 Sector: Tech; Data Science
+::
+::badge{type="info"}
+Years of Experience: 7
+::
+::badge{type="info"}
+Number of Skills: 14
+::
+::badge{type="info"}
+Number of Past Jobs: 12
+::
+::badge{type="info"}
+Number of Organizations: 14
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Ray Jang is a fellow from the class of 2016 who is currently working as a Founder And Chief Executive Officer at sceniusxyz, a Startup company based in nan. Over the course of their career, they have worked at 14 organizations, including OnDeck <ondeck.com>; TikTok <tiktok.com>; Toutiao <toutiao.com>; Flexport <flexport.com>; OneDegree <onedegree.hk>; Omegapoint <omegapoint.se>; 24 Hour Race <24hourrace.org>; Electric8 <e8growth.com>; deepblue networks <db-n.com>; Angel Investor <karenbergman.co>; Nadim Karam <nadimkaram.com>; Stealth Mode Startup Company <appcito.net>; sceniusxyz <joinscenius.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Product Manager; Fellow; Design Intern; Project Leader; Senior Product Manager; Product Design Intern; Founder And Chief Executive Officer; Founding Team Member And Co-Director; Operations; Design Fellow; Angel Investor; Product Management And Partnership. They have amassed 7 years of experience and have acquired 14 skills, including Analytical Skills; Information Architecture; Key Performance Indicators; Product Management; Wireframing; End User Research; Product Requirements; Ux Research; User Experience; Data Analysis; Usability Testing; Management; Technical Analysis; Product Design. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -135,9 +156,3 @@ Roles
 - **Product Management And Partnership**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-Jenny. Wang. Always learning. personal. Features in. Vogue. Magazine, Vogue. Business, WSJ, ELLE. Magazine, L’Officiel. Italia, Forbes. Previous investments: Convex, OfficeTogether, Orum, Lumos, Whist, Graphite, Skiff, Arrived. Homes, Hook, Kalshi, Rutter. API, Ideaflow, Bubble. Goods, Diveplane. AI, Memora. Health. United. States. United. States. True. False. Chinese. NATIVE_OR_BILINGUAL. English. NATIVE_OR_BILINGUAL. Computer. Software. National. Center for. Women & Information. Technology (NCWIT) Award. Davidson. Fellow. Chime for. Change. Hackathon. Winner. AR iOS app to break down the language barrier and empower refugee girls to continue their education & expand their literacy skills via contextual learning. Winner of the. Gucci. Innovation & Creativity. Award. Built in hours. Jenny. Wang. Always learning. The. United. States of. Gerrymandering. Showing the impact of gerrymandering on fair representation in. US politics. Jenny. Wang. Always learning. , AI, e-commerce , AI, e-commerce. Serve as a technology advisor for designer brands. Features in. Vogue, & L'Officiel. Italia. My column for. Forbes. Digital. Assets (covering. Crypto and. AI) is. Advisor, New projects. Research. Leadership. Computer. Science. Public. Speaking. Mathematical. Modeling. Statistics. Science. Entrepreneurship. False. Eli. Cohen. Software. Engineer at. Google. Jenny. Fan. Product. Designer / Researcher. GreyLockScreen. Greylock. Hackfest. Top. AI assistant to predict your mobile actions before you've even thought of picking up your phone. Developed. NLP, speech recognition, and server-side scripting in hours, and pitched to final judges. Jenny. Wang. Always learning. Harvard. Celebrity. Stalker ( Final. Project) Texts you when celebrities are on campus by performing. NLP on geotagged twitter streams and matching names to a. SQL celebrity database. Tech used: Twitter. API, Python, PHP, SQL, Javascript, HTML/CSS, Bash. Featured on. Top. Projects video. Jenny. Wang. Always learning. Data. Analysis. Teamwork. James. Lennon. Staff. Engineer and. Manager, Scale. AI. Kevin. Yang. Will. Hang. ML. Systems @ Snorkel. AI. STEM. Sells: What is higher education really worth? SIAM. Undergraduate. Online. Research. Journal. Jenny. Wang. Always learning. Particle. Swarm. Optimization for. Sustainable. Development in. Zambia. Consortium for. Mathematics and. Its. Applications (COMAP) Jenny. Wang. Always learning. Qualitative. Research. Teaching. Scientific. Writing. Matlab. Java. Python. Venture. Capital. Henry. Bristol. McKinsey | World. Economic. Forum
-::

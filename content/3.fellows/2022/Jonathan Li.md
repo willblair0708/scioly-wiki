@@ -6,8 +6,8 @@ Class of 2022
 Senior Principal Scientist at Datadog
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: 
+::
+::badge{type="info"}
+Years of Experience: 1
+::
+::badge{type="info"}
+Number of Skills: 1
+::
+::badge{type="info"}
+Number of Past Jobs: 1
+::
+::badge{type="info"}
+Number of Organizations: 3
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Jonathan Li is a fellow from the class of 2022 who is currently working as a Senior Principal Scientist at Datadog, a Others company based in St. Louis. Over the course of their career, they have worked at 3 organizations, including The University of Texas at Austin <utexas.edu>; Careers with Nestlé <nestlejobs.com>; Datadog <datadoghq.com>, and held 1 different job titles, such as Postdoctoral Fellow. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -52,9 +73,3 @@ Roles
 - **Postdoctoral Fellow**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-jeffersondixon. Jefferson. Dixon. PhD. Candidate at. Stanford personal. United. States. Stanford, California. Stanford. California. Stanford, California, United. States. False. False. Nanotechnology. Stanford. University. Stanford, CA. Stanford. University. Graduate. Research. Assistant. Research. Matlab. Numerical. Modeling. Optical. Design. Nanofabrication. Spectroscopy. True ethan-hellman- Ethan. Hellman. Researcher, Fellow, Founder, and. Student jackdiprete. Jack. DiPrete. Staff. Mechanical. Design. Engineer at. Tesla david-alman- David. Alman. Engineer | Officer | Analyst jennifer-dionne- Jennifer. Dionne. Chan. Zuckerberg. Investigator; Professor of. Materials. Science and of. Radiology; Deputy. Director, Q-Next. Kimberly. Ross. Senior. Software. Engineer at. Rebellion. Defense elainathompson. Elaina. Thompson. Design. Manager at. Growth. Australia annatrudel. Anna. Fleming. Customer. Success. Advisor | Tech and. Services. Leader | Startup. Exec | Culture. Advocate | Leadership. Coach maggie-lagos. Maggie. Lagos. Software. Engineer at. Rebellion. Defense andrewtoner. Andrew. Toner. Software. Engineering. Type stephenpounds. Stephen. Pounds. Innovation | Engineering | New. Product. Development. Jefferson. Dixon. Google. Scholar profile. Jefferson. Dixon. PhD. Candidate at. Stanford
-::

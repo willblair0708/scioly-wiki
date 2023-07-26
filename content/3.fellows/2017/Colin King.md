@@ -6,8 +6,8 @@ Class of 2017
 Software Engineer at LISA Airplanes
 ::
 
-::badge{type="danger"}
-Founder
+::badge{type="success"}
+Entrepreneurship Experience
 ::
 ::badge{type="warning"}
 Current Company: Others
@@ -15,6 +15,27 @@ Current Company: Others
 
 ::badge{type="success"}
 Sector: Tech; AI; Data Science
+::
+::badge{type="info"}
+Years of Experience: 6
+::
+::badge{type="info"}
+Number of Skills: 47
+::
+::badge{type="info"}
+Number of Past Jobs: 8
+::
+::badge{type="info"}
+Number of Organizations: 12
+::
+::badge{type="info"}
+Advanced Skills: Yes
+::
+::callout{type="info"}
+#summary
+Summary
+#content
+Colin King is a fellow from the class of 2017 who is currently working as a Software Engineer at LISA Airplanes, a Others company based in New York. Over the course of their career, they have worked at 12 organizations, including Gallup <gallup.com>; University of Maryland <umd.edu>; Nextdoor <nextdoor.com>; Segment <segment.com>; Google <google.com>; LISA Airplanes <lisa-airplanes.com>; Contrary <contrarycap.com>; Airplane <airplane.dev>; Project Delta <projectdelta.io>; Airplane Painter <airplane.aero>; Colinking <colinking.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer; Senior Software Engineer; Course Founder; System Application Developer Intern And Growth Hacker; Venture Partner + Engineering Lead; Engineering Fellow; Co-Founder And Project Manager; Software Engineering Intern. They have amassed 6 years of experience and have acquired 47 skills, including Database Design; Prolog; Javascript; React; Python; Swift; Node.Js; Web Development; Back End Development; .Net; C#; Php; Illustrator; R; Microsoft Sql Server; Software Engineering; Data Analysis; Web Design; Os X; Statistics; Linux; Leadership; Objective C; Git; Java; Artificial Intelligence; Api Development; Computer Science; Ruby; Sketch; Unix; C; Gulp; Ios; Project Management; Amazon Web Services; Mongodb; Front End Development; Computer Security; Html; Full Stack Development; Programming; Cybersecurity; Ocaml; Photoshop; Css; Latex. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
 ::
 ::callout{type="info"}
 #summary
@@ -224,9 +245,3 @@ Roles
 - **Software Engineering Intern**
 ::
 
-::callout{type="info"}
-#summary
-About
-#content
-elitcohen. Eli. Cohen. Software. Engineer at. Google personal - United. States. Washington, District of. Columbia. Washington. District of. Columbia. Washington, District of. Columbia, United. States. False. False. English. NATIVE_OR_BILINGUAL. Computer. Software. Google. Google. Software. Engineer. Full-time. True knappjordan. Jordan. Knapp. VP of. Engineering, MTailor marubin. Micah. Rubin. Software. Engineer at. Google johnearlfranklin. John. Franklin. Product. Manager @ Google alek-descotes- Alek. Descotes. Operations and. International. Customer. Support. Manager at. MTailor milespenn. Miles. Penn. AI / Deep. Learning & Apparel gandhianurag. Anurag. G. Manager. Corporate. Strategy at. T-Mobile haynes-winkler. Haynes. Winkler. Head of. Product. Operations and. CRM cougies. Cougar. Oswald. CEO @ Montage / Freelance. Product. Designer joe-ferrante- Joe. Ferrante. Product. Manager ripcord. Alex. Fielding. CEO and. Chairman at. Privateer. Space! Founder at. Ripcord. NURobotics. Northwestern. Delta. Lab. Northwestern. Formula. Racing. Team. Lead, Electronics
-::
