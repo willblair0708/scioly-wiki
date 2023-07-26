@@ -6,7 +6,7 @@ Class of 2016
 Co-Founder at Pylon Manufacturing
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

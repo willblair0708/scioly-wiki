@@ -6,7 +6,7 @@ Class of 2014
 Founder at Atomic
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

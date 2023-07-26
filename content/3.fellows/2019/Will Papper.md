@@ -6,7 +6,7 @@ Class of 2019
 Co-Founder at Syndicate Protocol
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

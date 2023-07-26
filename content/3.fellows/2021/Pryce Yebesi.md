@@ -6,7 +6,7 @@ Class of 2021
 Co-Founder And Chief Operations Officer at Utopia Labs
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

@@ -6,7 +6,7 @@ Class of 2017
 Co-Founder at Bonfire Ventures
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

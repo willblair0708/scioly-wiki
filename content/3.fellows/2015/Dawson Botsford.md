@@ -6,7 +6,7 @@ Class of 2015
 Founder at Earnifi
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

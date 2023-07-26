@@ -6,7 +6,7 @@ Class of 2019
 Co-Founder And Chief Technology Officer at SellScale
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

@@ -6,7 +6,7 @@ Class of 2022
 Co-Founder at Jailed For Melanin
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

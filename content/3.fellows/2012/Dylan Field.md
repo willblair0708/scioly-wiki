@@ -6,7 +6,7 @@ Class of 2012
 Chief Executive Officer And Co-Founder Of Figma at Figma
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

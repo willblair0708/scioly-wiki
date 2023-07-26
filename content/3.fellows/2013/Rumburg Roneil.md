@@ -6,7 +6,7 @@ Class of 2013
 Co-Founder And Chief Technology Officer at Audius
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

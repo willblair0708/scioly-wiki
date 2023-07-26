@@ -6,7 +6,7 @@ Class of 2018
 Co-Founder at Quest Labs
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

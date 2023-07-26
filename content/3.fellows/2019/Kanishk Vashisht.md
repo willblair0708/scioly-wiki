@@ -6,7 +6,7 @@ Class of 2019
 Founder Fellowship 4 at South Park Commons
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

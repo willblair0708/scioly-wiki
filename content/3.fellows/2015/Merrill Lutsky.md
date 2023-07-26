@@ -6,7 +6,7 @@ Class of 2015
 Co-Founder at ScreenPlay
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

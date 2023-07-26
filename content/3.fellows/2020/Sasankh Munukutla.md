@@ -6,7 +6,7 @@ Class of 2020
 Co-Founder at Terradot
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

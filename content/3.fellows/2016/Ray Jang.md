@@ -6,7 +6,7 @@ Class of 2016
 Founder And Chief Executive Officer at sceniusxyz
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

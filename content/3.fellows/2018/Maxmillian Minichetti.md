@@ -6,7 +6,7 @@ Class of 2018
 Founder at Stealth Mode Startup Company
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}

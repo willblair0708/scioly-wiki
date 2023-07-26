@@ -6,7 +6,7 @@ Class of 2012
 Co-Founder And Chief Executive Officer at OpenSea
 ::
 
-::badge{type="danger"}
+::badge{type="success"}
 Founder
 ::
 ::badge{type="success"}
