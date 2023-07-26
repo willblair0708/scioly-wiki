@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Yolanda Yeh is a fellow from the class of 2014 who is currently working as a Product at Aalto, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including LinkedIn <linkedin.com>; Instagram <instagram.com>; Tally Solutions <tallysolutions.com>; Aalto <aalto.co.za>; Aalto Homes <aaltohomes.com>; Aalto <aalto.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Product; Product Manager; Associate Product Manager; Staff Product Manager; Kpcb Engineering Fellow. They have amassed 9 years of experience and have acquired 18 skills, including Web Products; Cross Functional Team Leadership; User Experience; Java; Product Development; Product Management; Creative Problem Solving; Communication; Programming; Data Analysis; Strategy; Leadership; Entrepreneurship; Public Speaking; Mobile Product Development; Python; Design Thinking; Consumer Products. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Yolanda Yeh is a member of the class of 2014, currently serving as the Product at Aalto, a Others company based in New York. During their career, they've contributed to 8 organizations, including LinkedIn, Instagram, Tally Solutions, and others. They've held various roles, such as Product, Product Manager, Associate Product Manager, and more. Equipped with a repertoire of 18 skills, they are proficient in Web Products, Cross Functional Team Leadership, User Experience, Java, Product Development, among others.  With 9 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

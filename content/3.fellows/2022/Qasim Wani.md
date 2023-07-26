@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Qasim Wani is a fellow from the class of 2022 who is currently working as a Machine Learning Engineer at PathAI, a Others company based in Boston. Over the course of their career, they have worked at 10 organizations, including Y Combinator <ycombinator.com>; Virginia Tech <vt.edu>; 8VC <8vc.com>; Qualcomm <qualcomm.com>; PathAI <pathai.com>; Infinitus <infinitus.ai>; On Deck <beondeck.com>; HitchHiqe <hitchhiqe.ga>; LeetHub <leethub.tech>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Machine Learning Researcher; Fellow; Y Combinator Startup School; Member Of Technical Staff; Engineering Fellow; Machine Learning Engineer; Founders Fellow; Open Source Developer; Founder. They have amassed 1 years of experience and have acquired 25 skills, including Research; Arduino; Node.Js; Representational State Transfer; Java; C++; Brain Computer Interfaces; Web Scraping; Algorithms; Natural Language Processing; Relevance Feedback Algorithms; Javascript; Data Structures; Machine Learning; Opencv; Express.Js; Steganography; Python; Full Stack Development; Mongodb; Google Cloud Platform; Bayesian Inference; Semantic Ui; Pwa; Microsoft Azure. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Qasim Wani is a member of the class of 2022, currently serving as the Machine Learning Engineer at PathAI, a Others company based in Boston. During their career, they've contributed to 10 organizations, including Y Combinator, Virginia Tech, 8VC, and others. They've held various roles, such as Machine Learning Researcher, Fellow, Y Combinator Startup School, and more. Equipped with a repertoire of 25 skills, they are proficient in Research, Arduino, Node.Js, Representational State Transfer, Java, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

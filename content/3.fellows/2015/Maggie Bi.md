@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Maggie Bi is a fellow from the class of 2015 who is currently working as a Product Manager at Lyft, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Lyft <lyft.com>; Flipboard <flipboard.com>; Cornell University <cornell.edu>; Mastercard Türkiye <mastercard.com.tr>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Engineering Fellow; Front End Developer And Ios Developer; Product Manager; Software Engineering Intern; Software Engineer; Engineering Fellow 2015; Emgerging Payments Summer Intern. They have amassed 8 years of experience and have acquired 17 skills, including Photoshop; Microsoft Sql Server; Statistics; Java; Cascading Style Sheets; Publications Production; Translation; Illustrator; Python; Css; Html 5; Indesign; Microsoft Office; Mandarin; Css3; Php; Html5. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Maggie Bi is a member of the class of 2015, currently serving as the Product Manager at Lyft, a Others company based in New York. During their career, they've contributed to 6 organizations, including Lyft, Flipboard, Cornell University, and others. They've held various roles, such as Engineering Fellow, Front End Developer And Ios Developer, Product Manager, and more. Equipped with a repertoire of 17 skills, they are proficient in Photoshop, Microsoft Sql Server, Statistics, Java, Cascading Style Sheets, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

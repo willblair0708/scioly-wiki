@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Victor Hua is a fellow from the class of 2021 who is currently working as a Software Engineer at Google, a Big Tech company based in Stanford. Over the course of their career, they have worked at 6 organizations, including Goldman Sachs <goldmansachs.com>; Uber <uber.com>; Google <google.com>; Nightwatch <nightwatch.io>; Illumna <illumna.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kp Engineering Fellow; Quantitative Strategist Intern; Software Engineering Intern; Chief Operating Officer; Product Engineering Intern; Software Engineer. They have amassed 2 years of experience and have acquired 5 skills, including Leadership; Project Management; Start Ups Management; Java; Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Victor Hua is a member of the class of 2021, currently serving as the Software Engineer at Google, a Big Tech company based in Stanford. During their career, they've contributed to 6 organizations, including Goldman Sachs, Uber, Google, and others. They've held various roles, such as Kp Engineering Fellow, Quantitative Strategist Intern, Software Engineering Intern, and more. Equipped with a repertoire of 5 skills, they are proficient in Leadership, Project Management, Start Ups Management, Java, Research, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

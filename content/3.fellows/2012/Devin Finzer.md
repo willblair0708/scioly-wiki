@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Devin Finzer is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at OpenSea, a Startup company based in New York. Over the course of their career, they have worked at 9 organizations, including Credit Karma <creditkarma.com>; Wikimedia Foundation <wikimediafoundation.org>; Flipboard <flipboard.com>; Google <google.com>; Claimdog <claimdog.com>; OpenSea <opensea.io>; William Megelich <pinterest.dk>; IRIS Wellness Labs <iriswellnesslabs.com>; Pinterest <pinterest.com.au>, and held 8 different job titles, such as Senior Software Engineer; Co-Founder And Chief Executive Officer; Software Engineer; Co-Founder; Engineering Manager; Software Engineer Intern; Analytics Intern; Software Engineer Intern, Google Cloud Platform. They have amassed 11 years of experience and have acquired 13 skills, including Ruby; Objective C; C++; Machine Learning; Scalability; User Interface Design; Mysql; Java; Javascript; Hadoop; Mapreduce; Swift; Python. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Devin Finzer is a member of the class of 2012, currently serving as the Co-Founder And Chief Executive Officer at OpenSea, a Startup company based in New York. During their career, they've contributed to 9 organizations, including Credit Karma, Wikimedia Foundation, Flipboard, and others. They've held various roles, such as Senior Software Engineer, Co-Founder And Chief Executive Officer, Software Engineer, and more. Equipped with a repertoire of 13 skills, they are proficient in Ruby, Objective C, C++, Machine Learning, Scalability, among others. Their expertise also encompasses advanced skills. With 11 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

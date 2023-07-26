@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Esmeralda Montas is a fellow from the class of 2021 who is currently working as a Software Engineer at Imprint, a Others company based in New York. Over the course of their career, they have worked at 4 organizations, including Stochastic Research <stochasticresearch.com>; Brown University <brown.edu>; Imprint <imprint.co>; Stochastic <stochastic.ai>, and held 5 different job titles, such as Embedded Systems Engineer; Software Engineer; Hardware Design Intern; Undergraduate Research Assistant; Undergraduate Teaching Assistant. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Esmeralda Montas is a member of the class of 2021, currently serving as the Software Engineer at Imprint, a Others company based in New York. During their career, they've contributed to 4 organizations, including Stochastic Research, Brown University, Imprint, and others. They've held various roles, such as Embedded Systems Engineer, Software Engineer, Hardware Design Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

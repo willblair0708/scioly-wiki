@@ -28,14 +28,11 @@ Number of Past Jobs: 20
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Shaantam Chawla is a fellow from the class of 2021 who is currently working as a Engineering at PRIVATEER, a Others company based in Los Angeles. Over the course of their career, they have worked at 14 organizations, including Princeton Plasma Physics Lab - PPPL <pppl.gov>; UC Berkeley <berkeley.edu>; Ceres Imaging <ceresimaging.net>; Free Ventures <freeventures.org>; NASA International Space Apps Challenge <spaceappschallenge.org>; SpinLaunch <spinlaunch.com>; Newlio <newlio.com>; Quantgene <quantgene.com>; NSCAI <nscai.gov>; PRIVATEER <privateer.com>; Scsp <scsp.ai>; Privateer Space; Kleiner Perkins Caufield & Byers <kpcb.com>; Invention Corps <inventioncorps.com>, and held 20 different job titles, such as Undergraduate Research Assistant - Autonomous Vehicle Interaction; Research Assistant; Ai Research Intern; Intern; Hackathon Organizer; Special Projects Intern; Engineering Intern; Project Lead; Chief Projects Officer; External Vice President; Research Intern; Undergraduate Research Assistant - Human-Av Interaction; Director; Engineering Fellow; Software Engineering Intern, Ml And Cv; Computational Research Intern; Engineering; Undergraduate Research Assistant - Av Simulation; Maker, Design Consultant; Autonomous Lunar Resource Rover Team Member. They have amassed 2 years of experience and have acquired 35 skills, including Public Speaking; Robot Operating System; Design; Design Thinking; D3.Js; Python; Startup Strategy; Artificial Intelligence; Matplotlib; Computer Vision; Robotics; Software Engineering; Arduino; Project Management; Pitching Ideas; C++; Research; Scientific Presentation; Ux Research; Machine Learning; Mathematica; Rapid Prototyping; Scientific Visualization; Biotechnology; Mongodb; Prototyping; Javascript; Flask; Figma; Mathematics; Ux; Market Research; Java; Scientific Writing; Ui. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Shaantam Chawla is a member of the class of 2021, currently serving as the Engineering at PRIVATEER, a Others company based in Los Angeles. During their career, they've contributed to 14 organizations, including Princeton Plasma Physics Lab - PPPL, UC Berkeley, Ceres Imaging, and others. They've held various roles, such as Undergraduate Research Assistant - Autonomous Vehicle Interaction, Research Assistant, Ai Research Intern, and more. Equipped with a repertoire of 35 skills, they are proficient in Public Speaking, Robot Operating System, Design, Design Thinking, D3.Js, among others. Their expertise also encompasses advanced skills. With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

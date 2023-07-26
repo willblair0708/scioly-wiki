@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kelsey Namba is a fellow from the class of 2020 who is currently working as a Software Engineer at Handshake, a Others company based in Denver. Over the course of their career, they have worked at 4 organizations, including Columbia University <columbia.edu>; Handshake <joinhandshake.com>; Truste Solutions <trustesolutions.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Software Engineering Intern; Engineering Fellow; Undergraduate Research Assistant; Mathematics Tutor; Software Developer Intern; Software Engineer. They have amassed 3 years of experience and have acquired 25 skills, including Web Applications; Angular Material; Mongodb; Node.Js; Mongoose Web Server; C (Programming Language; Heroku; C#; Jquery; Chinese; Express.Js; Computer Science; Adobe Photoshop; Asp.Net; Amazon Web Services; Parsing; Documentation; Java; Russian; Nosql; Microsoft Office; Geometry; Social Media; Javascript; C++. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kelsey Namba is a member of the class of 2020, currently serving as the Software Engineer at Handshake, a Others company based in Denver. During their career, they've contributed to 4 organizations, including Columbia University, Handshake, Truste Solutions, and others. They've held various roles, such as Software Engineering Intern, Engineering Fellow, Undergraduate Research Assistant, and more. Equipped with a repertoire of 25 skills, they are proficient in Web Applications, Angular Material, Mongodb, Node.Js, Mongoose Web Server, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alice Pham is a fellow from the class of 2020 who is currently working as a Product Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including BuzzFeed <buzzfeed.com>; RingCentral Engage Digital <ringcentral.com>; Jumpstart <jstart.org>; Modern Health <modernhealth.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; Cornell Design & Tech Initiative <cornelldti.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Product Manager; Product And Strategy Intern; Founder, Co-Lead; Product Fellow; Software Engineering Intern; Product Management Intern. They have amassed 3 years of experience and have acquired 3 skills, including Research; Public Speaking; Product Management. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Alice Pham is a member of the class of 2020, currently serving as the Product Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including BuzzFeed, RingCentral Engage Digital, Jumpstart, and others. They've held various roles, such as Product Manager, Product And Strategy Intern, Founder, Co-Lead, and more. Equipped with a repertoire of 3 skills, they are proficient in Research, Public Speaking, Product Management, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Steve Jiang is a fellow from the class of 2022 who is currently working as a Dod at Glean, a Others company based in San Francisco Bay Area. Over the course of their career, they have worked at 5 organizations, including PayPal <paypal.com>; Databricks <databricks.com>; Glean <glean.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Dod; Engineering Fellow; Software Engineering Intern. They have amassed 1 years of experience and have acquired 16 skills, including Html; Graphql; Python; C++; Java; Matlab; Tensorflow; Research; Web Development; Swift; Node.Js; C (Programming Language; React.Js; Machine Learning; Javascript; Sql. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Steve Jiang is a member of the class of 2022, currently serving as the Dod at Glean, a Others company based in San Francisco Bay Area. During their career, they've contributed to 5 organizations, including PayPal, Databricks, Glean, and others. They've held various roles, such as Dod, Engineering Fellow, Software Engineering Intern, and more. Equipped with a repertoire of 16 skills, they are proficient in Html, Graphql, Python, C++, Java, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

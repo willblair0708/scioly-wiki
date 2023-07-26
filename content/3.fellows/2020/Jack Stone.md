@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jack Stone is a fellow from the class of 2020 who is currently working as a Senior Product Manager at Better Place, a Others company based in Boston. Over the course of their career, they have worked at 14 organizations, including LinkedIn <linkedin.com>; Glance Networks <glance.net>; Better Place <betterplace.com>; U.S. Department of State <state.gov>; Pingup <pingup.com>; Massachusetts General Hospital <massgeneral.org>; Better.com <better.com>; Third & Grove <thirdandgrove.com>; Coding it Forward <codingitforward.com>; TAVtech <taventure.org>; Slavin Family Foundation <slavinfoundation.org>; SafeSide Surgical <safesidesurgical.com>; Clockout <joinclockout.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Senior Product Manager; Associate Product Manager Intern; Associate Product Manager; Software Engineering Intern; Civic Digital Fellow; Slavin Fellow; Kpcb Product Management Fellow; Product Manager Intern And Civic Digital Fellow; Artificial Intelligence Fellow; Chief Technology Officer And Co-Founder; Business Intelligence Engineering Intern; Technical Advisor. They have amassed 3 years of experience and have acquired 22 skills, including User Experience; Trombone; Javascript; Java; Classical Music; C; Chamber Music; Curl; Mysql; Html; Web Development; Product Management; Design; Ux Research; Mobile Application Development; Php; Angularjs; Cascading Style Sheets; Jquery; Orchestral Music; Objective C; Css. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jack Stone is a member of the class of 2020, currently serving as the Senior Product Manager at Better Place, a Others company based in Boston. During their career, they've contributed to 14 organizations, including LinkedIn, Glance Networks, Better Place, and others. They've held various roles, such as Senior Product Manager, Associate Product Manager Intern, Associate Product Manager, and more. Equipped with a repertoire of 22 skills, they are proficient in User Experience, Trombone, Javascript, Java, Classical Music, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

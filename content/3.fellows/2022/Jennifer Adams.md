@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jennifer Adams is a fellow from the class of 2022 who is currently working as a Software Engineer at Stripe, a Others company based in Seattle. Over the course of their career, they have worked at 4 organizations, including Stripe <stripe.com>; Rice University <rice.edu>; Johnson & Johnson <jnj.com>; Vanguard Hong Kong <vanguard.com.hk>, and held 9 different job titles, such as Computer Science; Mechanic; App Development Intern; Internal President; Manager On Shift; External President; Software Engineer; Research And Development Intern; Underclassmen Representative. They have amassed 1 years of experience and have acquired 15 skills, including Cardiopulmonary Resuscitation; Cascading Style Sheets; Computer Science; Web Development; Web Design; Graphic Design; C++; Arduino; Physics; Leadership; Html; Github; Git; Javascript; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jennifer Adams is a member of the class of 2022, currently serving as the Software Engineer at Stripe, a Others company based in Seattle. During their career, they've contributed to 4 organizations, including Stripe, Rice University, Johnson & Johnson, and others. They've held various roles, such as Computer Science, Mechanic, App Development Intern, and more. Equipped with a repertoire of 15 skills, they are proficient in Cardiopulmonary Resuscitation, Cascading Style Sheets, Computer Science, Web Development, Web Design, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

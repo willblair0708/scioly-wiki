@@ -28,14 +28,11 @@ Number of Past Jobs: 21
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Manav Rathod is a fellow from the class of 2022 who is currently working as a Software Engineer at Glean, a Others company based in Palo Alto. Over the course of their career, they have worked at 8 organizations, including AppLovin <applovin.com>; Reveal <revealdata.com>; UC Berkeley <berkeley.edu>; Zippity <zippitycars.com>; Michigan State University <msu.edu>; Mathnasium <mathnasium.com>; Glean <glean.com>; Meta <meta.com>, and held 21 different job titles, such as Undergraduate Student Instructor; Hci Researcher; Research Assistant, Benning Lab; Content Developer Cs 169; Instructor; Software Engineer; Software Engineering Intern; Software Team Engineer Structure And Interpretation Of Computer Programs; Course Tutor Cs 189; Nlp Researcher; Undergraduate Student Instructor Eecs 16B; Nlp Intern; Researcher, Edger Lab; Lab Teaching Assistant Ee 16A; Founder; Lead Researcher; Academic Intern Cs 61A; Machine Learning Engineering Intern; President; Teaching Assistant Info 159; Vice President Social Relations. They have amassed 1 years of experience and have acquired 44 skills, including Strategic Planning; Leadership; Hack; Java; Opencv; Agile Methodologies; Windows; Sql; Javascript; Communication; Numpy; Public Speaking; Python; Scikit Learn; Research; Microsoft Word; Powerpoint; Data Analysis; Cascading Style Sheets; Mercurial; Flask; Teamwork; React.Js; Scheme; C++; Scrum; Teaching; Php; R; Graphql; Json; Git; Tutoring; Project Management; Software Development; Microsoft Office; Event Planning; Tensorflow; Microsoft Excel; Time Management; Agile Project Management; Community Outreach; Writing; Html. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Manav Rathod is a member of the class of 2022, currently serving as the Software Engineer at Glean, a Others company based in Palo Alto. During their career, they've contributed to 8 organizations, including AppLovin, Reveal, UC Berkeley, and others. They've held various roles, such as Undergraduate Student Instructor, Hci Researcher, Research Assistant, Benning Lab, and more. Equipped with a repertoire of 44 skills, they are proficient in Strategic Planning, Leadership, Hack, Java, Opencv, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

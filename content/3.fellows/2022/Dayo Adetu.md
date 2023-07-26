@@ -28,14 +28,11 @@ Number of Past Jobs: 1
 ::badge{type="info"}
 Number of Organizations: 2
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Dayo Adetu is a fellow from the class of 2022 who is currently working as a nan at University of Pennsylvania, a Others company based in San Francisco. Over the course of their career, they have worked at 2 organizations, including University of Pennsylvania <upenn.edu>; AMERICAN RESEARCH INSTITUTE IN TURKEY <ccat.sas.upenn.edu>, and held 1 different job titles, such as Strategic Projects. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Dayo Adetu is a member of the class of 2022, currently serving as the nan at University of Pennsylvania, a Others company based in San Francisco. During their career, they've contributed to 2 organizations, including University of Pennsylvania, AMERICAN RESEARCH INSTITUTE IN TURKEY, and others. They've held various roles, such as Strategic Projects, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-David Wang is a fellow from the class of 2013 who is currently working as a Course Assistant at nan, a Others company based in Saratoga. Over the course of their career, they have worked at 7 organizations, including Nebula <nebula.com>; Khan Academy <khanacademy.org>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; Standford Alumni <stanfordalumni.org>; Meta <meta.com>; Stanford University School Of Medicine, and held 8 different job titles, such as Course Assistant; Software Engineering Intern; Bioinformatics Research Intern; Cs106 Section Leader; Research Intern; Undergraduate Research Assistant; Student Researcher; Technical Intern. They have amassed 10 years of experience and have acquired 6 skills, including Java; Linux; Research; C++; Teaching; Software Engineering. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+David Wang is a member of the class of 2013, currently serving as the Course Assistant at nan, a Others company based in Saratoga. During their career, they've contributed to 7 organizations, including Nebula, Khan Academy, Hoover Institution at Stanford University, and others. They've held various roles, such as Course Assistant, Software Engineering Intern, Bioinformatics Research Intern, and more. Equipped with a repertoire of 6 skills, they are proficient in Java, Linux, Research, C++, Teaching, among others.  With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

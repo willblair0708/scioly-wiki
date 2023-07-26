@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Selwyn Kancharla is a fellow from the class of 2016 who is currently working as a Product Designer at Meta, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Oracle <oracle.com>; Uber <uber.com>; FusionCharts <fusioncharts.com>; University of Michigan <umich.edu>; Meta <meta.com>; Salesforce.com <fullsecsolutions.com>; Meta Downhole <metacareers.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Product Design Intern; Design Fellow; Product Designer Ii; Product Designer; Curriculum Developer; User Experience Engineer; User Experience Design Intern; Senior Product Designer; Data Visualization Developer. They have amassed 7 years of experience and have acquired 23 skills, including Music Production; D3.Js; Visual Design; Google App Engine; Adobe Cc; Php; Jquery; Design Patterns; Interaction Design; User Experience Design; Python; Javascript; Git; Codeigniter; Sketch.App; Html 5; Framer.Js; Java; C; Django; Mysql; Linux; Bootstrap. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Selwyn Kancharla is a member of the class of 2016, currently serving as the Product Designer at Meta, a Big Tech company based in San Francisco. During their career, they've contributed to 8 organizations, including Oracle, Uber, FusionCharts, and others. They've held various roles, such as Product Design Intern, Design Fellow, Product Designer Ii, and more. Equipped with a repertoire of 23 skills, they are proficient in Music Production, D3.Js, Visual Design, Google App Engine, Adobe Cc, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

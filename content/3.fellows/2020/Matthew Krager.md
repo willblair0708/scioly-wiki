@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Matthew Krager is a fellow from the class of 2020 who is currently working as a Software Engineer at Stripe, a Others company based in Perry. Over the course of their career, they have worked at 7 organizations, including Yelp <yelp.com>; Stripe <stripe.com>; Google <google.com>; Koder <koder.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Oridronal Studios <oridronal.com>, and held 11 different job titles, such as Investor; Software Developer; Kp Engineering Fellow; Google Codeu; Software Intern; Core Ios Software Intern; Vice President Of Design Engineering; President; Software Engineer; Ios Consultant; Head Of Programming. They have amassed 3 years of experience and have acquired 16 skills, including Debate; Java; Leadership; Programming; Organizational Behavior; Website Development; Mathematics; Robotics; Swift; Objective C; Python; Public Speaking; Html; Web Crawling; Ios Development; App Store. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Matthew Krager is a member of the class of 2020, currently serving as the Software Engineer at Stripe, a Others company based in Perry. During their career, they've contributed to 7 organizations, including Yelp, Stripe, Google, and others. They've held various roles, such as Investor, Software Developer, Kp Engineering Fellow, and more. Equipped with a repertoire of 16 skills, they are proficient in Debate, Java, Leadership, Programming, Organizational Behavior, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

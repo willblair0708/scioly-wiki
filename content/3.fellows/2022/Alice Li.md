@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alice Li is a fellow from the class of 2022 who is currently working as a Quantitative Developer Intern at Citadel, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including University of British Columbia <ubc.ca>; Citadel <citadel.com>; Snap <snap.com>; William Megelich <pinterest.dk>; Social Diversity for Children Foundation <socialdiversity.org>; Salesforce.com <fullsecsolutions.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 7 different job titles, such as Software Engineer Intern; Undergraduate Level Teaching Assistant; Graduate And Undergraduate Level Teaching Assistant; Director Of Community Outreach; Engineering Fellow; Engage Scholar; Quantitative Developer Intern. They have amassed 1 years of experience and have acquired 19 skills, including Public Speaking; Nonprofit Organizations; Research; Microsoft Word; Logistics Management; Leadership; Community Outreach; Clip Studio Paint; Public Relations; Paint Tool Sai; Team Leadership; Event Planning; Microsoft Office; Customer Service; Microsoft Excel; Event Management; Photoshop; Fundraising; Management. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Alice Li is a member of the class of 2022, currently serving as the Quantitative Developer Intern at Citadel, a Others company based in New York. During their career, they've contributed to 8 organizations, including University of British Columbia, Citadel, Snap, and others. They've held various roles, such as Software Engineer Intern, Undergraduate Level Teaching Assistant, Graduate And Undergraduate Level Teaching Assistant, and more. Equipped with a repertoire of 19 skills, they are proficient in Public Speaking, Nonprofit Organizations, Research, Microsoft Word, Logistics Management, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

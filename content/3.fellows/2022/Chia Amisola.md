@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Chia Amisola is a fellow from the class of 2022 who is currently working as a Product Designer at Figma, a Others company based in New York. Over the course of their career, they have worked at 11 organizations, including Twitter <twitter.com>; Spotify <spotify.com>; Figma <figma.com>; Rappler <rappler.com>; DevelopHer <developherchallenge.org>; YouthHack <youthhack.net>; Edukasyon.ph <edukasyon.ph>; Kumu Holdings <kumu.ph>; Teleport <goteleport.com>; Yale Helix <yalehelix.com>; Works Of Heart <worksofhe.art>, and held 16 different job titles, such as Founder; Design; Student Advisory Board Member; Study Abroad And Web Intern; Design And Software Fellow; Center For Collaborative Arts And Media, Studio Fellow; Technology Intern; Earlybird19; Core; Product Design Intern; Associate Product Designer; Design And Product; Software Engineering And Design; Product Designer; Design Intern; Product And Design Intern. They have amassed 1 years of experience and have acquired 21 skills, including Entrepreneurship; Front End Engineering; Project Management; Product Design; Nonprofit; Leadership; Ux Research; Research; Visual Design; Graphic Design; User Experience; Start Ups; Adobe Creative Suite; Product Management; Javascript; Public Speaking; Web Design; Social Innovation; Web Development; Creative Strategy; Social Entrepreneurship. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Chia Amisola is a member of the class of 2022, currently serving as the Product Designer at Figma, a Others company based in New York. During their career, they've contributed to 11 organizations, including Twitter, Spotify, Figma, and others. They've held various roles, such as Founder, Design, Student Advisory Board Member, and more. Equipped with a repertoire of 21 skills, they are proficient in Entrepreneurship, Front End Engineering, Project Management, Product Design, Nonprofit, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

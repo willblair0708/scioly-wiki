@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-David Ogbogu is a fellow from the class of 2021 who is currently working as a Fellow at 8VC, a Others company based in San Francisco. Over the course of their career, they have worked at 4 organizations, including Bessemer Venture Partners <bvp.com>; 8VC <8vc.com>; Winden <winden.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 4 different job titles, such as Support Engineer; Kleiner Perkins Engineering Fellow; Campus Associate; Fellow. They have amassed 2 years of experience and have acquired 5 skills, including Sql; Python; Javascript; C++; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+David Ogbogu is a member of the class of 2021, currently serving as the Fellow at 8VC, a Others company based in San Francisco. During their career, they've contributed to 4 organizations, including Bessemer Venture Partners, 8VC, Winden, and others. They've held various roles, such as Support Engineer, Kleiner Perkins Engineering Fellow, Campus Associate, and more. Equipped with a repertoire of 5 skills, they are proficient in Sql, Python, Javascript, C++, Java, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

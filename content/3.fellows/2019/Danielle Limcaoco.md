@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Danielle Limcaoco is a fellow from the class of 2019 who is currently working as a nan at nan, a Others company based in Stanford. Over the course of their career, they have worked at 14 organizations, including Unilever <unilever.com>; Nextdoor <nextdoor.com>; Robinhood <robinhood.com>; Rappler <rappler.com>; Stanford Biodesign Alumni Association <biodesignalumni.com>; CollegeVine <collegevine.com>; Olelo <olelohq.com>; CYNGN <cyngn.com>; Stanford Graduate School of Business <gsb.stanford.edu>; Standford Alumni <stanfordalumni.org>; AIC Education <jq-edu.com>; rapidhirerecruiting <rapidhirerecruiting.com>; Hasso Plattner Institute of Design at Stanford ( d.school ) <dschool.stanford.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Product Designer; Product Design Intern; Kleiner Perkins Design Fellow; Brand Building Intern For Unilever Premium Beauty Products; User Interface And User Experience Design Consultant; Events Intern; Product Development Intern; Presidential Campaign Intern; Design For Extreme Affordability Product Designer; Intern For The Balikbayan Section; Brand Strategist @ Topt; Reunion Homecoming Team Leader; Product Design Intern, Cyngn; D.School K12 Design Research Intern. They have amassed 4 years of experience and have acquired 42 skills, including Design Thinking; Autodesk Fusion 360; Startups; Journalism; Social Media; Sketch; User Experience; Teaching; Invision; Ethnographic Research; Social Entrepreneurship; Laser Cutting; Html; Event Planning; Adobe Illustrator; Java; Silversmithing; Public Speaking; Microsoft Powerpoint; Research; Microsoft Word; Heuristic Evaluation; Project Management; Photoshop; User Research; Microsoft Office; Rapid Prototyping; Early Stage Startups; Fundraising; Powerpoint; Solidworks; 3D Printing; Leadership; Microsoft Excel; Wireframing; Storyboarding; Teamwork; Nonprofits; Css; Program Management; Business Strategy; Interaction Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Danielle Limcaoco is a member of the class of 2019, currently serving as the nan at nan, a Others company based in Stanford. During their career, they've contributed to 14 organizations, including Unilever, Nextdoor, Robinhood, and others. They've held various roles, such as Product Designer, Product Design Intern, Kleiner Perkins Design Fellow, and more. Equipped with a repertoire of 42 skills, they are proficient in Design Thinking, Autodesk Fusion 360, Startups, Journalism, Social Media, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

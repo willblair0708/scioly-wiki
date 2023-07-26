@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kristina Inouye is a fellow from the class of 2022 who is currently working as a Associate User Experience Researcher at Duolingo, a Others company based in Huntington Beach. Over the course of their career, they have worked at 10 organizations, including Formlabs <formlabs.com>; Duolingo <duolingo.com>; Hoover Institution at Stanford University <hoover.org>; Lightspeed Venture Partners <lsvp.com>; Heali AI <heali.ai>; Invicted <invicted.com>; Standford Alumni <stanfordalumni.org>; Stanford Blood Center <stanfordbloodcenter.org>; Stanford University School Of Engineering; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 16 different job titles, such as Course Assistant; Product Fellow; Design Lead; User Experience Design Consultant; Associate User Experience Researcher; Product Designer | Design Systems; Course Assistant: Introduction To Human-Computer Interaction Design; Product Design Lead @ Cartalab; Course Assistant: Design For Understanding; Participating Scholar Stanford Summer Engineering Academy; Product Design Intern; Summer Entrepreneurship Fellow; Head Course Assistant: Introduction To Human-Computer Interaction Design; Course Assistant: User Interface Design Project; Residential Assistant And Course Assistant Stanford Summer Engineering Academy; Residential Computer Consultant. They have amassed 1 years of experience and have acquired 49 skills, including Design; Figma; C++; Html; Sketchup; Public Speaking; Laser Cutting; Ux Research; Javascript; Experience Design; Android Development; Java; Milling; C; Rapid Prototyping; Wireframing; Microsoft Word; Powerpoint; User Centered Design; Adobe Creative Suite; Computer Aided Design; Adobe Photoshop; Photoshop Elements; Leadership; Sketching; Rite Testing; Adobe Illustrator; Prototyping; Arduino; Teamwork; Communication; Blender; User Interviews; User Experience; Cascading Style Sheets; Sketch; Lathe; User Interface Design; Woodworking; Human Computer Interaction; Oxy Acetylene Welding; Teaching; Design Thinking; Fusion 360; Interaction Design; A/B Testing; User Experience Design; Microsoft Office; Product Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kristina Inouye is a member of the class of 2022, currently serving as the Associate User Experience Researcher at Duolingo, a Others company based in Huntington Beach. During their career, they've contributed to 10 organizations, including Formlabs, Duolingo, Hoover Institution at Stanford University, and others. They've held various roles, such as Course Assistant, Product Fellow, Design Lead, and more. Equipped with a repertoire of 49 skills, they are proficient in Design, Figma, C++, Html, Sketchup, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

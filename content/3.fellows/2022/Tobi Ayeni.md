@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Tobi Ayeni is a fellow from the class of 2022 who is currently working as a nan at Watershedclimate, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Princeton University <princeton.edu>; SolarKal <solarkal.com>; EY-Parthenon <ey-parthenon.de>; Watershedclimate <watershedclimate.com>; Reclaim Energies <reclaim-energies.com>; New York Tigertrek <nytigertrek.com>, and held 9 different job titles, such as Engineering; Student; Marketing; Operations Intern; Carbon Data Analyst; Incoming Summer Associate; Summer Associate; Co-Director; Founder. They have amassed 1 years of experience and have acquired 20 skills, including R; Research; Project Management; Entrepreneurship; Microsoft Word; Data Analysis; Microsoft Office; Youth Development; Matlab; Web Design; Public Speaking; Java; Environmental Engineering; Yoruba; Sql; Leadership; Adobe Premiere Pro; Microsoft Excel; Engineering; Microsoft Powerpoint. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Tobi Ayeni is a member of the class of 2022, currently serving as the nan at Watershedclimate, a Others company based in New York. During their career, they've contributed to 6 organizations, including Princeton University, SolarKal, EY-Parthenon, and others. They've held various roles, such as Engineering, Student, Marketing, and more. Equipped with a repertoire of 20 skills, they are proficient in R, Research, Project Management, Entrepreneurship, Microsoft Word, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 17
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Mikaela Reyes is a fellow from the class of 2017 who is currently working as a Co-Founder And Chief Executive Officer at Parallax MicroSystems, a Startup company based in San Francisco. Over the course of their career, they have worked at 15 organizations, including LinkedIn <linkedin.com>; Wesleyan University <wesleyan.edu>; ROBOTERRA, Inc <roboterra.com>; Dorm Room Fund <dormroomfund.com>; Stride School <strideschool.com>; Strides Arcolab Limited <stridesarco.com>; Ripcord <ripcord.com>; Horizons <joinhorizons.com>; Parallax MicroSystems <parallax.com>; Kumu Holdings <kumu.ph>; MedGrocer <medgrocer.com>; Kleiner Perkins <kleinerperkins.com>; Cognity Labs <cognitylabs.com>; Stealth Mode Startup Company <appcito.net>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 17 different job titles, such as 2017 KPCB Product Fellow; Female Founder Track Participant; Product Manager; Advisor; Operations And Growth Analyst; Co-Founder; Founding Partner; Kpcb Product Fellow; User Experience And User Interface Designer And Product Manager Intern; Associate Product Manager; Student Instructor; Co-Founder And Chief Executive Officer; Computer Science Teaching Assistant And Peer Tutor; Co-Founder And Co-President; Web3 And Crypto Stuff; Product Manager And Growth; Associate Product Manager Intern. They have amassed 6 years of experience and have acquired 24 skills, including Teaching; Entrepreneurship; Social Media Marketing; Front End Development; Social Networking; Public Speaking; Human Centered Design; Research; Managing Meetings; Graphic Design; Leadership; Ux Research; User Experience; Project Planning; Writing; User Interviews; Startups; Social Skills; Design Thinking; Product Management; Social Media; Community Engagement; Event Planning; Project Management. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Mikaela Reyes is a member of the class of 2017, currently serving as the Co-Founder And Chief Executive Officer at Parallax MicroSystems, a Startup company based in San Francisco. During their career, they've contributed to 15 organizations, including LinkedIn, Wesleyan University, ROBOTERRA, Inc, and others. They've held various roles, such as 2017 KPCB Product Fellow, Female Founder Track Participant, Product Manager, and more. Equipped with a repertoire of 24 skills, they are proficient in Teaching, Entrepreneurship, Social Media Marketing, Front End Development, Social Networking, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alex Zhao is a fellow from the class of 2022 who is currently working as a Software Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including POLITICO <politico.com>; Pivotal <pivotal.io>; UC Berkeley <berkeley.edu>; Zalando SE <zalando.com>; Coral Genomics <coralgenomics.com>; Watershedclimate <watershedclimate.com>, and held 5 different job titles, such as Administrative Assistant; Machine Learning Intern; Software Engineering Intern; Interactive News Intern; Software Engineer. They have amassed 1 years of experience and have acquired 16 skills, including Leadership; Amazon Web Services; Sql; Python; Go; Research; Cloud Computing; Scheme; Distributed Systems; Linux; Git; Public Speaking; Java; Data Analysis; Microsoft Excel; Vim. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Alex Zhao is a member of the class of 2022, currently serving as the Software Engineer at Watershedclimate, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including POLITICO, Pivotal, UC Berkeley, and others. They've held various roles, such as Administrative Assistant, Machine Learning Intern, Software Engineering Intern, and more. Equipped with a repertoire of 16 skills, they are proficient in Leadership, Amazon Web Services, Sql, Python, Go, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Matt Alston is a fellow from the class of 2017 who is currently working as a Co-Founder at Bonfire Ventures, a Startup company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including Goldman Sachs <goldmansachs.com>; Duke University <duke.edu>; Uber <uber.com>; OnDeck <ondeck.com>; Emory University <emory.edu>; Zana <zana.io>; Bonfire Ventures <bonfirevc.com>; Georgia Tech <gatech.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Associate Product Manager; Co-Founder; Business Software Engineer; Howard Hughes Summer Research Fellow; Fellowship; Research Assistant; Growth Analyst; Product Fellow. They have amassed 6 years of experience and have acquired 18 skills, including Teamwork; Java; Microsoft Office; Venture Capital; Entrepreneurship; Social Media; Powerpoint; Start Ups; Business Strategy; Swift; Data Analysis; Microsoft Excel; Growth Strategies; Public Speaking; Matlab; Research; Microsoft Word; Leadership. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Matt Alston is a member of the class of 2017, currently serving as the Co-Founder at Bonfire Ventures, a Startup company based in San Francisco. During their career, they've contributed to 9 organizations, including Goldman Sachs, Duke University, Uber, and others. They've held various roles, such as Associate Product Manager, Co-Founder, Business Software Engineer, and more. Equipped with a repertoire of 18 skills, they are proficient in Teamwork, Java, Microsoft Office, Venture Capital, Entrepreneurship, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

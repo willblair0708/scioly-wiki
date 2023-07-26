@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-David Thomas is a fellow from the class of 2013 who is currently working as a Senior Machine Learning Engineer at Stripe, a Others company based in Menlo Park. Over the course of their career, they have worked at 8 organizations, including Twitter <twitter.com>; Morgan Stanley <morganstanley.com>; Shopify <shopify.com>; Stripe <stripe.com>; Teza Technologies <teza.com>; Citadel <citadel.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Quantitative Researcher; Credit Strategist Intern; Software Engineer Intern; Developer Intern; Engineering Fellow; Quantitative Research Intern; Applied Ml Researcher; Software Engineer Intern, Machine Learning. They have amassed 10 years of experience and have acquired 3 skills, including Distributed Systems; Programming; Machine Learning. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+David Thomas is a member of the class of 2013, currently serving as the Senior Machine Learning Engineer at Stripe, a Others company based in Menlo Park. During their career, they've contributed to 8 organizations, including Twitter, Morgan Stanley, Shopify, and others. They've held various roles, such as Quantitative Researcher, Credit Strategist Intern, Software Engineer Intern, and more. Equipped with a repertoire of 3 skills, they are proficient in Distributed Systems, Programming, Machine Learning, among others. Their expertise also encompasses advanced skills. With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

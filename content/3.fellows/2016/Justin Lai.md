@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Justin Lai is a fellow from the class of 2016 who is currently working as a Founder, Design Lead at Justin Lai Studios, a Startup company based in Brooklyn. Over the course of their career, they have worked at 8 organizations, including Uber <uber.com>; Hoover Institution at Stanford University <hoover.org>; Parlio <parlio.com>; Bonnier Corporation <bonniercorp.com>; Atlas <atlasmh.com>; Austin Monthly <austinmonthly.com>; Justin Lai Studios; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Student; Intern; Cofounder, Product And Design; Design Fellow; Design Lead; Design Consultant; Symbolic Systems Research Assistant; Design Intern; Founder, Design Lead. They have amassed 7 years of experience and have acquired 17 skills, including Photos; Web Design; Editing; Magazine Design; Magazines; Image Editing; Front End Development; Css; Wordpress; Editorial; Photography; Adobe Creative Suite; Javascript; Html 5; Graphic Design; Portrait Photography; Indesign. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Justin Lai is a member of the class of 2016, currently serving as the Founder, Design Lead at Justin Lai Studios, a Startup company based in Brooklyn. During their career, they've contributed to 8 organizations, including Uber, Hoover Institution at Stanford University, Parlio, and others. They've held various roles, such as Student, Intern, Cofounder, Product And Design, and more. Equipped with a repertoire of 17 skills, they are proficient in Photos, Web Design, Editing, Magazine Design, Magazines, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Sehmon Burnam is a fellow from the class of 2017 who is currently working as a Product Manager at Google, a Big Tech company based in Evanston. Over the course of their career, they have worked at 6 organizations, including Zumper <zumper.com>; Google <google.com>; Chimad <chimad.northwestern.edu>; Northwestern University <northwestern.edu>; Union County Vocational-Technical Schools <tec.nj.us>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Teaching Assistant; Associate Product Manager; Software Engineering Intern; Sta Technology Intern; Engineering Practicum Intern; Product Manager; Student Fellow; Associate Product Manager Intern; Engineering Fellow - 2017. They have amassed 6 years of experience and have acquired 22 skills, including Python; Java; Linux; Microsoft Word; Public Speaking; Social Media; Html; Unix; Research; Web Design; Web Development; Leadership; Javascript; Microsoft Excel; C++; Engineering; Css; Software Development; Microsoft Office; People Skills; Microsoft Powerpoint; Electronics. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Sehmon Burnam is a member of the class of 2017, currently serving as the Product Manager at Google, a Big Tech company based in Evanston. During their career, they've contributed to 6 organizations, including Zumper, Google, Chimad, and others. They've held various roles, such as Teaching Assistant, Associate Product Manager, Software Engineering Intern, and more. Equipped with a repertoire of 22 skills, they are proficient in Python, Java, Linux, Microsoft Word, Public Speaking, among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

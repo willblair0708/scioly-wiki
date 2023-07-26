@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Harish Kamath is a fellow from the class of 2020 who is currently working as a Machine Learning Research Engineer at Scale AI, a Others company based in Cumming. Over the course of their career, they have worked at 7 organizations, including Raymond James <raymondjames.com>; Emory University <emory.edu>; Scale AI <scale.com>; Ripcord <ripcord.com>; Georgia Tech <gatech.edu>; Amazon.com <amazon.es>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Teaching Assistant; Ai And Ml Intern; Software Development Intern; Research Assistant - Emory Healthcare Innovations And Translational Informatics; Kleiner Perkins Fellow; Machine Learning Research Engineer; Teaching Assistant - Cs 2200, Systems And Networks; Amazon Software Development Engineering Intern. They have amassed 3 years of experience and have acquired 9 skills, including Automation; Python; Circuit Design; Microcontrollers; Java; Microchip Pic; C++; C#; Xcode. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Harish Kamath is a member of the class of 2020, currently serving as the Machine Learning Research Engineer at Scale AI, a Others company based in Cumming. During their career, they've contributed to 7 organizations, including Raymond James, Emory University, Scale AI, and others. They've held various roles, such as Teaching Assistant, Ai And Ml Intern, Software Development Intern, and more. Equipped with a repertoire of 9 skills, they are proficient in Automation, Python, Circuit Design, Microcontrollers, Java, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

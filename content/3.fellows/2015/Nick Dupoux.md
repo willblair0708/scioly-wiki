@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Nick Dupoux is a fellow from the class of 2015 who is currently working as a Senior Software Engineer at Attentive, a Others company based in New York. Over the course of their career, they have worked at 7 organizations, including Addepar <addepar.com>; Hoover Institution at Stanford University <hoover.org>; Shape Security <shapesecurity.com>; iD Tech Camps <idtech.com>; Attentive <attentivemobile.com>; Standford Alumni <stanfordalumni.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Software Developer; Engineering Fellow; Software Engineer; Cs106 Section Leader; Senior Software Engineer; Software Development Research Assistant @ Virtual Human Interaction Lab; Software Engineering Intern; Instructor; Core Developer. They have amassed 8 years of experience and have acquired 45 skills, including English; C++; Computer Science; Os X; Software Development; Web Development; Go; Databases; Jquery; Json; Django; Haskell; Java; Git; University Teaching; Programming; Agile Methodologies; Project Management; Html; Ruby; Python; Node.Js; Javascript; Unix; Rust; Team Leadership; Mongodb; Open Source; C; Css; Postgresql; Debugging; Teamwork; Linux; Windows; Web Applications; Computer Security; Algorithms; Software Engineering; Mysql; Software Design; Matlab; Latex; Sql; Teaching. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Nick Dupoux is a member of the class of 2015, currently serving as the Senior Software Engineer at Attentive, a Others company based in New York. During their career, they've contributed to 7 organizations, including Addepar, Hoover Institution at Stanford University, Shape Security, and others. They've held various roles, such as Software Developer, Engineering Fellow, Software Engineer, and more. Equipped with a repertoire of 45 skills, they are proficient in English, C++, Computer Science, Os X, Software Development, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

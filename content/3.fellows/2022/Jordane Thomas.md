@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jordane Thomas is a fellow from the class of 2022 who is currently working as a Software Engineer at Uber, a Others company based in New York. Over the course of their career, they have worked at 9 organizations, including Uber <uber.com>; hackNY <hackny.org>; PureWow <purewow.com>; CODE2040 <code2040.org>; Alto <alto.com>; Roadtrip Nation <roadtripnation.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Datadog <datadoghq.com>; Time Warner Inc. <timewarner.com>, and held 5 different job titles, such as Project Manager; Software Engineer; Engineering Fellow; Fellow; Interviewer. They have amassed 1 years of experience and have acquired 32 skills, including Numpy; Pandas; Graphql; Cascading Style Sheets; Swiftui; Data Structures; C (Programming Language; Matplotlib; Stm32; Arm Assembly; Embedded Systems; Ruby; Rest Apis; Public Speaking; Html; Java; C++; Full Stack Development; Matlab; Web Development; Swift; Flask; Leadership; Javascript; Data Analysis; Ios Development; React.Js; Python; Mobile Application Development; Ruby On Rails; Redux.Js; React Native. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jordane Thomas is a member of the class of 2022, currently serving as the Software Engineer at Uber, a Others company based in New York. During their career, they've contributed to 9 organizations, including Uber, hackNY, PureWow, and others. They've held various roles, such as Project Manager, Software Engineer, Engineering Fellow, and more. Equipped with a repertoire of 32 skills, they are proficient in Numpy, Pandas, Graphql, Cascading Style Sheets, Swiftui, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

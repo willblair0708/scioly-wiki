@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Serena Tam is a fellow from the class of 2020 who is currently working as a Ios Engineer at Slack, a Others company based in New York. Over the course of their career, they have worked at 5 organizations, including Slack <slack.com>; Yale University <yale.edu>; Columbia University <columbia.edu>; Microsoft <microsoft.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Ios Engineer; Software Engineer Intern; Research Intern, Software Systems Lab; New Technologist Intern; Kleiner Perkins Engineering Fellow; Summer Research Intern. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Serena Tam is a member of the class of 2020, currently serving as the Ios Engineer at Slack, a Others company based in New York. During their career, they've contributed to 5 organizations, including Slack, Yale University, Columbia University, and others. They've held various roles, such as Ios Engineer, Software Engineer Intern, Research Intern, Software Systems Lab, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jianna Liu is a fellow from the class of 2022 who is currently working as a Investment Partner at Dorm Room Fund, a Others company based in Boston. Over the course of their career, they have worked at 9 organizations, including NVIDIA <nvidia.com>; DoorDash <doordash.com>; Dorm Room Fund <dormroomfund.com>; MITIMCo <mitimco.org>; Massachusetts Institute of Technology <mit.edu>; Unicamp <unicamp.br>; Skale Education <theskale.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer Intern; Deep Learning Research Intern; Astrophysics Research Intern; Kp Fellow; Investment Partner; Machine Learning Research Assistant; Undergraduate Teaching Assistant; Undergraduate Student Researcher. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jianna Liu is a member of the class of 2022, currently serving as the Investment Partner at Dorm Room Fund, a Others company based in Boston. During their career, they've contributed to 9 organizations, including NVIDIA, DoorDash, Dorm Room Fund, and others. They've held various roles, such as Software Engineer Intern, Deep Learning Research Intern, Astrophysics Research Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kristine Zhang is a fellow from the class of 2018 who is currently working as a Algorithm Developer at Hudson River Trading, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Slack <slack.com>; UC Santa Cruz <ucsc.edu>; Hudson River Trading <hudson-trading.com>; Boltzmann <boltzmann.io>; Massachusetts Institute of Technology <mit.edu>; Meta <meta.com>, and held 7 different job titles, such as Kpcb Engineering Fellow; Algorithm Developer; Computational Nanotechnology Research Intern; Biochemistry Research Intern; Research Science Institute Scholar; Fbu Engineering Intern; Back End Development Intern. They have amassed 5 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kristine Zhang is a member of the class of 2018, currently serving as the Algorithm Developer at Hudson River Trading, a Others company based in New York. During their career, they've contributed to 6 organizations, including Slack, UC Santa Cruz, Hudson River Trading, and others. They've held various roles, such as Kpcb Engineering Fellow, Algorithm Developer, Computational Nanotechnology Research Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

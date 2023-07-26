@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ray Jang is a fellow from the class of 2016 who is currently working as a Founder And Chief Executive Officer at sceniusxyz, a Startup company based in nan. Over the course of their career, they have worked at 14 organizations, including OnDeck <ondeck.com>; TikTok <tiktok.com>; Toutiao <toutiao.com>; Flexport <flexport.com>; OneDegree <onedegree.hk>; Omegapoint <omegapoint.se>; 24 Hour Race <24hourrace.org>; Electric8 <e8growth.com>; deepblue networks <db-n.com>; Angel Investor <karenbergman.co>; Nadim Karam <nadimkaram.com>; Stealth Mode Startup Company <appcito.net>; sceniusxyz <joinscenius.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Product Manager; Fellow; Design Intern; Project Leader; Senior Product Manager; Product Design Intern; Founder And Chief Executive Officer; Founding Team Member And Co-Director; Operations; Design Fellow; Angel Investor; Product Management And Partnership. They have amassed 7 years of experience and have acquired 14 skills, including Analytical Skills; Information Architecture; Key Performance Indicators; Product Management; Wireframing; End User Research; Product Requirements; Ux Research; User Experience; Data Analysis; Usability Testing; Management; Technical Analysis; Product Design. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ray Jang is a member of the class of 2016, currently serving as the Founder And Chief Executive Officer at sceniusxyz, a Startup company based in nan. During their career, they've contributed to 14 organizations, including OnDeck, TikTok, Toutiao, and others. They've held various roles, such as Product Manager, Fellow, Design Intern, and more. Equipped with a repertoire of 14 skills, they are proficient in Analytical Skills, Information Architecture, Key Performance Indicators, Product Management, Wireframing, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

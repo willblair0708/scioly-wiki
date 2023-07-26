@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jennifer Li is a fellow from the class of 2016 who is currently working as a Enterprise Investment Partner, Deal Team at Andreessen Horowitz, a Others company based in Menlo Park. Over the course of their career, they have worked at 13 organizations, including Muxtape <muxtape.com>; Andreessen Horowitz <a16z.com>; AppDynamics <appdynamics.com>; Solvvy <solvvy.com>; Netlify <netlify.com>; Rasa <rasa.com>; Fivetran <fivetran.com>; Preset <preset.io>; Crossbeam <crossbeam.com>; Fishtown Analytics <fishtownanalytics.com>; Variant <variant.fund>; Stacker <stacker.app>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Partner; Board Member; Product Fellow; Product Manager; Senior Product Manager; Enterprise Investment Partner, Deal Team; Board Observer. They have amassed 7 years of experience and have acquired 31 skills, including Data Analysis; Android Development; Java; Financial Analysis; User Research; Software As A Service; Photoshop; User Requirements; Operations Management; Email Marketing; Marketing Strategy; Social Media Marketing; Market Analysis; Market Research; Product Marketing; Html; C++; Matlab; Database Systems; Product Strategy; Web Analytics; Product Management; Internet Marketing; Project Management; Presentation Skills; Customer Interaction; Leadership; Public Speaking; Node.Js; Python; Saas. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jennifer Li is a member of the class of 2016, currently serving as the Enterprise Investment Partner, Deal Team at Andreessen Horowitz, a Others company based in Menlo Park. During their career, they've contributed to 13 organizations, including Muxtape, Andreessen Horowitz, AppDynamics, and others. They've held various roles, such as Partner, Board Member, Product Fellow, and more. Equipped with a repertoire of 31 skills, they are proficient in Data Analysis, Android Development, Java, Financial Analysis, User Research, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

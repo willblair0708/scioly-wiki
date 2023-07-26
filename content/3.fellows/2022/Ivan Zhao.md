@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ivan Zhao is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Blend <blend.com>; Dorm Room Fund <dormroomfund.com>; 8VC <8vc.com>; Loftium <loftium.com>; KPCB <kleinerperkins.com>; IDEO CoLab Ventures <ideocolab.com>; Intus Care <intuscare.com>; Van Wickle Ventures <vanwickleventures.com>; SHL Capital <shl.capital>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Engineering Fellow; Software Engineer And Product Manager; Devops Intern; Associate; Partner; Fellow; Co-Founder; Scout; Intern; Software Engineer. They have amassed 1 years of experience and have acquired 23 skills, including Microsoft Office; Social Media; Social Media Marketing; Baking; Html; User Experience; C (Programming Language; Youth Leadership; Java; Jquery; Python; Graphic Design; Climbing; Javascript; Public Speaking; Scala; Tutor; Research; React Native; Entrepreneurship; Ruby; Cascading Style Sheets; React. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ivan Zhao is a member of the class of 2022, currently serving as the Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Francisco. During their career, they've contributed to 10 organizations, including Blend, Dorm Room Fund, 8VC, and others. They've held various roles, such as Engineering Fellow, Software Engineer And Product Manager, Devops Intern, and more. Equipped with a repertoire of 23 skills, they are proficient in Microsoft Office, Social Media, Social Media Marketing, Baking, Html, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

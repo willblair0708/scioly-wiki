@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Maria Shimizu is a fellow from the class of 2016 who is currently working as a Designer at TBWA\HAKUHODO, a Others company based in Tokyo. Over the course of their career, they have worked at 8 organizations, including IDEO <ideo.com>; Landor Associates <landor.com>; QUANTUM Japan <quantum.ne.jp>; TBWA\HAKUHODO <tbwahakuhodo.co.jp>; gravis Japan <gravisfootwear.com>; Mariashimizu <mariashimizu.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cocoroé, Inc. <cocoroe.co.jp>, and held 7 different job titles, such as Food + Future Colab Fellow; Product Design Intern; Communication Design Intern; Freelance Translator; Design Intern; 2016 Design Fellow; Designer. They have amassed 7 years of experience and have acquired 21 skills, including Visual Communication; Painting; Branding And Identity; Design Thinking; User Interface Design; Creative Direction; Drawing; Concept Development; Adobe Creative Suite; Graphic Design; Packaging; Web Design; Layout; Portrait Photography; Book Design; Conceptual Design; Typography; User Experience Design; Logo Design; Indesign; Product Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Maria Shimizu is a member of the class of 2016, currently serving as the Designer at TBWA\HAKUHODO, a Others company based in Tokyo. During their career, they've contributed to 8 organizations, including IDEO, Landor Associates, QUANTUM Japan, and others. They've held various roles, such as Food + Future Colab Fellow, Product Design Intern, Communication Design Intern, and more. Equipped with a repertoire of 21 skills, they are proficient in Visual Communication, Painting, Branding And Identity, Design Thinking, User Interface Design, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

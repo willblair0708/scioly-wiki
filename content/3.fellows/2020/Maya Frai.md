@@ -28,14 +28,11 @@ Number of Past Jobs: 17
 ::badge{type="info"}
 Number of Organizations: 56
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Maya Frai is a fellow from the class of 2020 who is currently working as a Entrepreneur In Residence at Greylock, a Others company based in San Francisco. Over the course of their career, they have worked at 56 organizations, including GV <gv.com>; Andreessen Horowitz <a16z.com>; Rent the Runway <renttherunway.com>; Cornell University <cornell.edu>; Google <google.com>; Greylock <greylock.com>; Sailo <sailo.com>; Re Email <re-email.com>; re—inc <re-website.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Google <google.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>; Bkyd <bkyd.community>; Myoutlines <myoutlines.com>; Killer Ivy Swimwear <killerivyswimwear.com>, and held 17 different job titles, such as Associate Product Manager Intern; Product Manager; Founder And Managing Editor; Investor; Generation Design; Software Developer; Chief Executive Officer; Product Design Intern; Product Intern; Vc; Co-Founder; Advisor; Product And Gtm Lead; Product Fellow; Product Manager, Youtube; Product Management Intern; Entrepreneur In Residence. They have amassed 3 years of experience and have acquired 12 skills, including Social Media; Adobe Creative Cloud; Public Speaking; Team Leadership; Python; Product Design; Business Strategy; Java; Website Development; Management; Entrepreneurship; Ios Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Maya Frai is a member of the class of 2020, currently serving as the Entrepreneur In Residence at Greylock, a Others company based in San Francisco. During their career, they've contributed to 56 organizations, including GV, Andreessen Horowitz, Rent the Runway, and others. They've held various roles, such as Associate Product Manager Intern, Product Manager, Founder And Managing Editor, and more. Equipped with a repertoire of 12 skills, they are proficient in Social Media, Adobe Creative Cloud, Public Speaking, Team Leadership, Python, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

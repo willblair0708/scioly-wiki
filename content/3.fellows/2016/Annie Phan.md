@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Annie Phan is a fellow from the class of 2016 who is currently working as a Senior Software Engineer at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Intel <intel.com>; DataStax <datastax.com>; Uber <uber.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Software Engineering Intern; Senior Software Engineer; Kpcb Engineering Fellow; Head Tutor And Ta - Cse 11 Intro To Java; Software Engineer Ii. They have amassed 7 years of experience and have acquired 28 skills, including Integration; C; Software Engineering; Web Development; Javascript; Data Analysis; Android Development; Oop; Python; Django; Web Applications; C++; Subversion; Latex; Google Apps; Object Oriented Design; Jquery; Html5; Computer Science; Programming; C#; Bash; Git; Linux; Unix; Html; Ruby; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Annie Phan is a member of the class of 2016, currently serving as the Senior Software Engineer at Uber, a Others company based in San Francisco. During their career, they've contributed to 5 organizations, including Intel, DataStax, Uber, and others. They've held various roles, such as Software Engineering Intern, Senior Software Engineer, Kpcb Engineering Fellow, and more. Equipped with a repertoire of 28 skills, they are proficient in Integration, C, Software Engineering, Web Development, Javascript, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

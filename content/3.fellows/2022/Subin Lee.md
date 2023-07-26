@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Subin Lee is a fellow from the class of 2022 who is currently working as a Software Engineer at Coda, a Others company based in Philadelphia. Over the course of their career, they have worked at 9 organizations, including MongoDB <mongodb.com>; Google <google.com>; Penn Engineering <pemnet.com>; Wharton <wharton.upenn.edu>; Clockwise <getclockwise.com>; Coda <coda.io>; Hack4Impact <hack4impact.org>; Kartik Hosanagar - Professor at The Wharton School <hosanagar.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Teaching Assistant; Teaching Assistant - Computer Science; Product Management Intern; Software Engineering Intern; Software Engineer; Teaching Assistant - Acct 101; Engineering Fellow; Product Manager And Full Stack Developer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Subin Lee is a member of the class of 2022, currently serving as the Software Engineer at Coda, a Others company based in Philadelphia. During their career, they've contributed to 9 organizations, including MongoDB, Google, Penn Engineering, and others. They've held various roles, such as Teaching Assistant, Teaching Assistant - Computer Science, Product Management Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

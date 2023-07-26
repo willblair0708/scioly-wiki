@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Austin Moninger is a fellow from the class of 2020 who is currently working as a Engineer at Retool, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including ViaSat <viasat.com>; Rice University <rice.edu>; Nylas <nylas.com>; 8VC <8vc.com>; Contrary <contrarycap.com>; Retool <retool.in>; National Science Foundation <nsf.gov>; Cognite <cognite.com>; Austin Moninger <moninger.org>; Retool <retool.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Engineer; Fellow; Engineering Fellow; Venture Partner; Software Engineer; Research. They have amassed 3 years of experience and have acquired 19 skills, including Html; Sql; Node; Research; Kubernetes; Docker; Apache Spark; C; Redis; Elasticsearch; Java; Css; Python; Scala; Javascript; Amazon Web Services; Jenkins; React; Git. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Austin Moninger is a member of the class of 2020, currently serving as the Engineer at Retool, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including ViaSat, Rice University, Nylas, and others. They've held various roles, such as Engineer, Fellow, Engineering Fellow, and more. Equipped with a repertoire of 19 skills, they are proficient in Html, Sql, Node, Research, Kubernetes, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

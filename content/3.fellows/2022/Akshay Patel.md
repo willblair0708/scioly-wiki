@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Akshay Patel is a fellow from the class of 2022 who is currently working as a M.E.T @ Berkeley | Pear Vc | Kp Fellow at Pear Vc Bonfire Kleiner Perkins, a Others company based in San Francisco. Over the course of their career, they have worked at 15 organizations, including NASA - National Aeronautics and Space Administration <nasa.gov>; The University of Texas at Austin <utexas.edu>; Zighra <zighra.com>; UC Berkeley <berkeley.edu>; Pear VC <pear.vc>; Blendoor <blendoor.com>; Savitude <savitude.com>; Trashbots <trashbots.co>; 1910 Genetics <1910genetics.com>; LoopChat <loopchat.us>; Amazon.com <amazon.es>; Avance Venture Lab <avancevl.com>; Getbonfire <getbonfire.xyz>; Pear Vc Bonfire Kleiner Perkins; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 15 different job titles, such as Associate; Software Engineer Intern; Engineering Fellow; Product Manager; Software Development Engineer Intern; Machine Learning Infrastructure Engineer Intern; Pm Intern; Formula Sae: Member Of The Frame Subteam; Venture Fellow; Curriculum Designer; M.E.T @ Berkeley | Pear Vc | Kp Fellow; Internship; Data Analyst; Software Engineer; Co-Founder. They have amassed 1 years of experience and have acquired 25 skills, including Autodesk Fusion 360; Entrepreneurship; Public Speaking; Problem Solving; Mathematics; Java; Object Oriented Programming; Computer Aided Design; Data Presentation; Leadership; Stem; Javascript; Data Analysis; Microsoft Office; Rstudio; Management; Python; Data Analytics; C++; R; Time Management; Product Management; Data Structures; Data Science; Project Management. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Akshay Patel is a member of the class of 2022, currently serving as the M.E.T @ Berkeley | Pear Vc | Kp Fellow at Pear Vc Bonfire Kleiner Perkins, a Others company based in San Francisco. During their career, they've contributed to 15 organizations, including NASA - National Aeronautics and Space Administration, The University of Texas at Austin, Zighra, and others. They've held various roles, such as Associate, Software Engineer Intern, Engineering Fellow, and more. Equipped with a repertoire of 25 skills, they are proficient in Autodesk Fusion 360, Entrepreneurship, Public Speaking, Problem Solving, Mathematics, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

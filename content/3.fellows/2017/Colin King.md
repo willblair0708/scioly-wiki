@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Colin King is a fellow from the class of 2017 who is currently working as a Software Engineer at LISA Airplanes, a Others company based in New York. Over the course of their career, they have worked at 12 organizations, including Gallup <gallup.com>; University of Maryland <umd.edu>; Nextdoor <nextdoor.com>; Segment <segment.com>; Google <google.com>; LISA Airplanes <lisa-airplanes.com>; Contrary <contrarycap.com>; Airplane <airplane.dev>; Project Delta <projectdelta.io>; Airplane Painter <airplane.aero>; Colinking <colinking.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer; Senior Software Engineer; Course Founder; System Application Developer Intern And Growth Hacker; Venture Partner + Engineering Lead; Engineering Fellow; Co-Founder And Project Manager; Software Engineering Intern. They have amassed 6 years of experience and have acquired 47 skills, including Database Design; Prolog; Javascript; React; Python; Swift; Node.Js; Web Development; Back End Development; .Net; C#; Php; Illustrator; R; Microsoft Sql Server; Software Engineering; Data Analysis; Web Design; Os X; Statistics; Linux; Leadership; Objective C; Git; Java; Artificial Intelligence; Api Development; Computer Science; Ruby; Sketch; Unix; C; Gulp; Ios; Project Management; Amazon Web Services; Mongodb; Front End Development; Computer Security; Html; Full Stack Development; Programming; Cybersecurity; Ocaml; Photoshop; Css; Latex. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Colin King is a member of the class of 2017, currently serving as the Software Engineer at LISA Airplanes, a Others company based in New York. During their career, they've contributed to 12 organizations, including Gallup, University of Maryland, Nextdoor, and others. They've held various roles, such as Software Engineer, Senior Software Engineer, Course Founder, and more. Equipped with a repertoire of 47 skills, they are proficient in Database Design, Prolog, Javascript, React, Python, among others. Their expertise also encompasses advanced skills. With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

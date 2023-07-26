@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Dorrie Tang is a fellow from the class of 2019 who is currently working as a Software Engineer at Airbnb, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Airbnb <airbnb.com>; Columbia University <columbia.edu>; Google <google.com>; Nuna Incorporated <nuna.com>; Otter.ai (AISense Inc.) <otter.ai>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Software Engineering Intern; Engineering Fellow; Engineering Practicum Intern; Undergraduate Researcher; Teaching Assistant; Software Engineer. They have amassed 4 years of experience and have acquired 17 skills, including Html; Css; Adobe Indesign; Python; Javascript; Junit; Scala; Imagej; Java; Audacity; Swift; Newspaper Design; C++; Matlab; Android Studio; Mockito; Git. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Dorrie Tang is a member of the class of 2019, currently serving as the Software Engineer at Airbnb, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Airbnb, Columbia University, Google, and others. They've held various roles, such as Software Engineering Intern, Engineering Fellow, Engineering Practicum Intern, and more. Equipped with a repertoire of 17 skills, they are proficient in Html, Css, Adobe Indesign, Python, Javascript, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rachel He is a fellow from the class of 2018 who is currently working as a Design Lead at Carbon Direct, a Others company based in New York. Over the course of their career, they have worked at 10 organizations, including Spotify <spotify.com>; IDEO <ideo.com>; Airbnb <airbnb.com>; DoorDash <doordash.com>; LINK3D <link3d.co>; Peloton <pelotoncycle.com>; Up2Code <up2code-nyc.com>; Carbon Direct <carbon-direct.com>; rachel <rachelyhe.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Designer; Product Designer; Ideo Colab Makeathon; Kpcb Design Fellow; Product Design Intern; Senior Product Designer; Experience Design Intern; User Interface And User Experience Designer; Design Lead. They have amassed 5 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Rachel He is a member of the class of 2018, currently serving as the Design Lead at Carbon Direct, a Others company based in New York. During their career, they've contributed to 10 organizations, including Spotify, IDEO, Airbnb, and others. They've held various roles, such as Designer, Product Designer, Ideo Colab Makeathon, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

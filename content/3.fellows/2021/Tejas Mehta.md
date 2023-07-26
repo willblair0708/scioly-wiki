@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Tejas Mehta is a fellow from the class of 2021 who is currently working as a Associate Product Manager Intern at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Slack <slack.com>; NASA - National Aeronautics and Space Administration <nasa.gov>; Zimperium <zimperium.com>; Google <google.com>; University of North Texas <unt.edu>; Amazon Web Services <amazonaws.com>; Kanarys <kanarys.com>; The Home Depot <homedepot.com>; ZCrystalball <iamtejasmehta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Upliftstress <upliftstress.com>; Locoeats <locoeats.org>, and held 14 different job titles, such as Vice President Of Technology; Software Engineering Intern; Freelance Developer; Founder; Senator; Product Management Intern; Co-Founder; Software Development Intern; Associate Product Manager; High School Aerospace Scholar; Engineering Fellow; Research Fellow; Student, Cssi-Coursera; Associate Product Manager Intern. They have amassed 2 years of experience and have acquired 45 skills, including Microsoft Powerpoint; Microsoft Office; Creo; Html; Figma; Cascading Style Sheets; Microsoft Excel; Flutter; Sql; Leadership; Python; Matlab; Imovie; Microsoft Word; Object Oriented Programming; Interaction Design; Microsoft Outlook; Public Speaking; Keynote; Java; Ansible; Full Stack Development; C (Programming Language; Pytorch; Research; Google Cloud Platform; User Interface Prototyping; Shell Scripting; Web Development; Version Control; Flask; Agile Methodologies; C++; Javascript; Data Analysis; React.Js; Autodesk Fusion 360; Debate; R; Firebase; Github; Machine Learning; Git; User Experience Design; Solidworks. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Tejas Mehta is a member of the class of 2021, currently serving as the Associate Product Manager Intern at Google, a Big Tech company based in San Francisco. During their career, they've contributed to 12 organizations, including Slack, NASA - National Aeronautics and Space Administration, Zimperium, and others. They've held various roles, such as Vice President Of Technology, Software Engineering Intern, Freelance Developer, and more. Equipped with a repertoire of 45 skills, they are proficient in Microsoft Powerpoint, Microsoft Office, Creo, Html, Figma, among others. Their expertise also encompasses advanced skills. With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

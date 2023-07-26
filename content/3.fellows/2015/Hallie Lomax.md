@@ -28,14 +28,11 @@ Number of Past Jobs: 13
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Hallie Lomax is a fellow from the class of 2015 who is currently working as a Senior Software Engineer at Sorare, a Others company based in San Francisco. Over the course of their career, they have worked at 15 organizations, including Spark Capital <sparkcapital.com>; Lyft <lyft.com>; Opower <opower.com>; LendUp <lendup.com>; Agnes Scott College <agnesscott.edu>; Google <google.com>; Howard University <howard.edu>; United Negro College Fund <uncf.org>; Synergy Software Design <synergysoftwaredesign.com>; William Megelich <pinterest.dk>; Sorare <sorare.com>; VotePlz <voteplz.org>; ResumeLife <resumelifenow.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 13 different job titles, such as Senior Software Engineer; Engineering Practicum Intern; Founder; Associate Software Engineer; Web Application Development Intern; Residence Assistant; Engineering Intern; Research Assistant And Tutor; Computer Science Tutor; Volunteer Software Engineer; Intern; Kpcb Engineering Fellow; Tutor. They have amassed 8 years of experience and have acquired 12 skills, including Programming; C; Javascript; C++; Computer Science; Public Speaking; Unix; Html; Hugs; Python; Java; Artistic Abilities. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Hallie Lomax is a member of the class of 2015, currently serving as the Senior Software Engineer at Sorare, a Others company based in San Francisco. During their career, they've contributed to 15 organizations, including Spark Capital, Lyft, Opower, and others. They've held various roles, such as Senior Software Engineer, Engineering Practicum Intern, Founder, and more. Equipped with a repertoire of 12 skills, they are proficient in Programming, C, Javascript, C++, Computer Science, among others.  With 8 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

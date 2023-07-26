@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Bryan Beh is a fellow from the class of 2022 who is currently working as a Software Engineer at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Nestlé <nestle.com>; Uber <uber.com>; Imperial College London <imperial.ac.uk>; United Overseas Bank <uobgroup.com>; Marshall Wace <mwam.com>; Contrary <contrarycap.com>; Tesla <tesla.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Engineering Fellow; Global Markets Intern; Contrary Fellow; Software Engineer; Performance Engineer Intern; Software Engineer Intern; Research Intern. They have amassed 1 years of experience and have acquired 17 skills, including Api; Mental Arithmetic; Github; Node.Js; Java; C++; Unix; C#; Microsoft Office; Go; Machine Learning; Python; Git; C (Programming Language; Sql; Javascript; Microsoft Excel. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Bryan Beh is a member of the class of 2022, currently serving as the Software Engineer at Uber, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Nestlé, Uber, Imperial College London, and others. They've held various roles, such as Engineering Fellow, Global Markets Intern, Contrary Fellow, and more. Equipped with a repertoire of 17 skills, they are proficient in Api, Mental Arithmetic, Github, Node.Js, Java, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

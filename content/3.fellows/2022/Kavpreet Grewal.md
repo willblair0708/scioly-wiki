@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kavpreet Grewal is a fellow from the class of 2022 who is currently working as a Software Engineer Intern at Robinhood, a Others company based in Vancouver. Over the course of their career, they have worked at 6 organizations, including Robinhood <robinhood.com>; Rivian <rivian.com>; Ubc Launch Pad <ubclaunchpad.com>; Fractional <fractional.app>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Programming Team Lead; Tech Lead; Software Engineer Intern; Fellow; Mentor - Programming Team; Software Developer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kavpreet Grewal is a member of the class of 2022, currently serving as the Software Engineer Intern at Robinhood, a Others company based in Vancouver. During their career, they've contributed to 6 organizations, including Robinhood, Rivian, Ubc Launch Pad, and others. They've held various roles, such as Programming Team Lead, Tech Lead, Software Engineer Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

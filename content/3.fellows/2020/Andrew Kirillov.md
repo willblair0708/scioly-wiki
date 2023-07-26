@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Andrew Kirillov is a fellow from the class of 2020 who is currently working as a Cryptography And Systems Engineer at Renegade Games, a Others company based in Charlotte. Over the course of their career, they have worked at 13 organizations, including Progress <progress.com>; Renegade Games <renegadegames.co.uk>; University of Maryland <umd.edu>; Zoom Video Communications <zoom.us>; ProtonMail <protonmail.com>; UC Berkeley <berkeley.edu>; Polychain Capital <polychain.capital>; Sentiance <sentiance.com>; Paradigm <paradigm.xyz>; Kirillov <kirillov.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; The Association For Community Living <theassociationinc.org>; Haas Business School Association (Hbsa) <berkeleyhbsa.org>, and held 16 different job titles, such as Software Engineer Intern; Vice President External Relations; Ai Researcher; Technical Marketing Intern; Crypto Ops Infrastructure Engineer Intern; Co-Head Of Education Department; Marketplace Developer Intern; Co-Founder; Software Engineer; Director Of M.E.T. Integration; Head Of Begin Website; Researcher And Instructor; Engineering Fellow; Cryptography Engineer; Crypto Ops Infrastructure Engineer; Cryptography And Systems Engineer. They have amassed 3 years of experience and have acquired 24 skills, including User Experience; Social Entrepreneurship; Public Speaking; Conflict Resolution; Networking; Java; Educational Technology; Full Stack Development; Web Development; Entrepreneurship; Pytorch; Node.Js; Agile Methodologies; Javascript; Team Facilitation; React.Js; Python; Web Applications; React; Artificial Intelligence; Jquery; Project Management; Angularjs; Leadership. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Andrew Kirillov is a member of the class of 2020, currently serving as the Cryptography And Systems Engineer at Renegade Games, a Others company based in Charlotte. During their career, they've contributed to 13 organizations, including Progress, Renegade Games, University of Maryland, and others. They've held various roles, such as Software Engineer Intern, Vice President External Relations, Ai Researcher, and more. Equipped with a repertoire of 24 skills, they are proficient in User Experience, Social Entrepreneurship, Public Speaking, Conflict Resolution, Networking, among others. Their expertise also encompasses advanced skills. With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

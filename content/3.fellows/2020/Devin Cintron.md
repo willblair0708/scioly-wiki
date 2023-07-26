@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Devin Cintron is a fellow from the class of 2020 who is currently working as a Software Engineer at Comun, a Others company based in Fairfax. Over the course of their career, they have worked at 8 organizations, including Comunitae <comunitae.com>; Google <google.com>; Bain & Company <bain.com>; Cameo <cameo.com>; MotoRefi <motorefi.com>; Stealth Mode Startup Company <appcito.net>; Comun <comun.app>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Intern; Engineering Fellow; Engineering; Software Engineer; Associate Consultant; Product. They have amassed 3 years of experience and have acquired 5 skills, including Go To Market Strategy; Project Management; Research; Java; Team Leadership. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Devin Cintron is a member of the class of 2020, currently serving as the Software Engineer at Comun, a Others company based in Fairfax. During their career, they've contributed to 8 organizations, including Comunitae, Google, Bain & Company, and others. They've held various roles, such as Intern, Engineering Fellow, Engineering, and more. Equipped with a repertoire of 5 skills, they are proficient in Go To Market Strategy, Project Management, Research, Java, Team Leadership, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Akarshan Kumar is a fellow from the class of 2012 who is currently working as a Product Lead, Offers And Merchant Sales at Uber, a Others company based in New York. Over the course of their career, they have worked at 9 organizations, including Twitter <twitter.com>; Uber <uber.com>; Clothia <clothia.com>; hackNY <hackny.org>; Princeton University <princeton.edu>; PATH <path.org>; Microsoft <microsoft.com>; VisCap <viscapfunds.com>; Kpcb Fellows Program <kpcbfellows.com>, and held 12 different job titles, such as Product Manager; Hackny 2011 Fellow; Product Lead, Uber Health; Ios; Product Manager And Creator Of The Twitter Heart; Program Manager; Independent Work Project; Engineering Fellow; Product Lead, Offers And Merchant Sales; Research Associate; Ios Summer Intern; Product Manager, Driver Experience. They have amassed 11 years of experience and have acquired 14 skills, including Product Management; Objective C; Entrepreneurship; Javascript; Algorithms; Mobile Devices; R; C++; User Interface; C; Python; Java; Software Development; Matlab. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Akarshan Kumar is a member of the class of 2012, currently serving as the Product Lead, Offers And Merchant Sales at Uber, a Others company based in New York. During their career, they've contributed to 9 organizations, including Twitter, Uber, Clothia, and others. They've held various roles, such as Product Manager, Hackny 2011 Fellow, Product Lead, Uber Health, and more. Equipped with a repertoire of 14 skills, they are proficient in Product Management, Objective C, Entrepreneurship, Javascript, Algorithms, among others.  With 11 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

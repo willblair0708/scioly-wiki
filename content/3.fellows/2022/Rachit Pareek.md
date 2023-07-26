@@ -28,14 +28,11 @@ Number of Past Jobs: 18
 ::badge{type="info"}
 Number of Organizations: 16
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rachit Pareek is a fellow from the class of 2022 who is currently working as a Software Engineer at Roblox, a Others company based in San Mateo. Over the course of their career, they have worked at 16 organizations, including Kaiser Permanente <kp.org>; Acumen <acumen.org>; Robinhood <robinhood.com>; UC Berkeley <berkeley.edu>; VSCO <vsco.co>; Spirit Airlines <spirit.com>; Amazon Web Services <amazonaws.com>; Roblox <roblox.com>; Smart Security Systems <sss.network>; Foresight Mental Health <foresightmentalhealth.com>; Synocate <synocate.com>; AcreTrader <acretrader.com>; Berkeley Business Society <berkeleybusinesssociety.com>; Fremont Debate Academy <fremontdebateacademy.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Berkeley Phi Beta Lambda <berkeleypbl.com>, and held 18 different job titles, such as Business Development Intern; Senior Strategy Consultant; Kp Engineering Fellow; Financial Strategy Consultant; Software Engineering Intern; Marketing Strategy Consultant; Digital Strategy And Software Engineering Intern; Software Development Engineer Intern; Founder; Software Engineer; Data Scientist; Sql Course Teacher; Founder And Chief Financial Officer; Strategy Consultant; Cohort Chair; Data Science Intern; Cs 61Bl | Academic Intern; Philanthropy Chair. They have amassed 1 years of experience and have acquired 11 skills, including Alto Saxophone; Project Management; Public Speaking; Social Media Marketing; Operations; Java Programming; Statistical Data Analysis; Python; Microsoft Office; Oboe; Operations Analysis. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Rachit Pareek is a member of the class of 2022, currently serving as the Software Engineer at Roblox, a Others company based in San Mateo. During their career, they've contributed to 16 organizations, including Kaiser Permanente, Acumen, Robinhood, and others. They've held various roles, such as Business Development Intern, Senior Strategy Consultant, Kp Engineering Fellow, and more. Equipped with a repertoire of 11 skills, they are proficient in Alto Saxophone, Project Management, Public Speaking, Social Media Marketing, Operations, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

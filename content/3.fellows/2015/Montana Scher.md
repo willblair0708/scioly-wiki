@@ -28,14 +28,11 @@ Number of Past Jobs: 13
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Montana Scher is a fellow from the class of 2015 who is currently working as a Co-Founder, Chief Executive Officer at Karl Morf, a Startup company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Square <squareup.com>; KineMed <kinemed.com>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; SupraSensor <climate.com>; Karl Morf <morf-ag.ch>; oclo <oclo.io>; Morf <morf.health>; Parsley Health <parslyhealth.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Partech Ventures <partechventures.com>; Ideel Inc <ideel.com>, and held 13 different job titles, such as Entrepreneur In Residence; Cs 110 Teaching Assistant; Product Development; Senior Product Manager; Software Engineering; Product Management Intern; Product Intern; Co-Founder, Chief Executive Officer; Cs 107 Teaching Assistant; Product Fellow; Software Engineering Intern; Product Manager; Public Relations And Research Intern. They have amassed 8 years of experience and have acquired 5 skills, including User Experience; Product Management; Web; Project Management; Product Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Montana Scher is a member of the class of 2015, currently serving as the Co-Founder, Chief Executive Officer at Karl Morf, a Startup company based in San Francisco. During their career, they've contributed to 12 organizations, including Square, KineMed, Hoover Institution at Stanford University, and others. They've held various roles, such as Entrepreneur In Residence, Cs 110 Teaching Assistant, Product Development, and more. Equipped with a repertoire of 5 skills, they are proficient in User Experience, Product Management, Web, Project Management, Product Development, among others.  With 8 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

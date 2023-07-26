@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Angeline Rao is a fellow from the class of 2017 who is currently working as a Bolt | Susa Ventures at Bolt, a Others company based in Cambridge. Over the course of their career, they have worked at 9 organizations, including Morgan Stanley <morganstanley.com>; Airbnb <airbnb.com>; Teach for America <teachforamerica.org>; Bolt <bolt.eu>; Susa Ventures <susaventures.com>; Harvard University <harvard.edu>; Bolt <bolt.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Product, Alternative And Consumer Payments; Fellow; Venture Fellow; Machine Learning Engineering Intern; Bolt | Susa Ventures; Head Machine Learning Teaching Fellow; Fbu Engineering Intern; Investment Banking Summer Analyst, Global Technology Group; Special Projects, Office Of The Executive Director New York; Product, Payments And Personalization And Ml; Product And Engineering. They have amassed 6 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Angeline Rao is a member of the class of 2017, currently serving as the Bolt | Susa Ventures at Bolt, a Others company based in Cambridge. During their career, they've contributed to 9 organizations, including Morgan Stanley, Airbnb, Teach for America, and others. They've held various roles, such as Product, Alternative And Consumer Payments, Fellow, Venture Fellow, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

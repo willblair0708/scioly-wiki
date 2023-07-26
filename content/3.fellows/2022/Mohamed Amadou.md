@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Mohamed Amadou is a fellow from the class of 2022 who is currently working as a Software Engineering Intern at Figma, a Others company based in Brooklyn. Over the course of their career, they have worked at 8 organizations, including LinkedIn <linkedin.com>; Accenture <accenture.com>; PagerDuty <pagerduty.com>; Stripe <stripe.com>; Figma <figma.com>; TD <td.com>; Hack the North <hackthenorth.com>; Ashby <ashbyhq.com>, and held 3 different job titles, such as Software Engineering Intern; Software Engineer Intern; Workshops And Mentorship Director. They have amassed 1 years of experience and have acquired 17 skills, including Android; Ruby; C++; Communication; Sql; Elixir; Flask; Java; Html/Css; Public Speaking; Leadership; Amazon Web Services; Javascript; Management; Python; React.Js; Blockchain. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Mohamed Amadou is a member of the class of 2022, currently serving as the Software Engineering Intern at Figma, a Others company based in Brooklyn. During their career, they've contributed to 8 organizations, including LinkedIn, Accenture, PagerDuty, and others. They've held various roles, such as Software Engineering Intern, Software Engineer Intern, Workshops And Mentorship Director, and more. Equipped with a repertoire of 17 skills, they are proficient in Android, Ruby, C++, Communication, Sql, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

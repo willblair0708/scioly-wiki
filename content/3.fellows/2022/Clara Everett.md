@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Clara Everett is a fellow from the class of 2022 who is currently working as a Junior User Interface Intern at NextHealth Technologies, a Others company based in Stanford. Over the course of their career, they have worked at 6 organizations, including Google <google.com>; NextHealth Technologies <nexthealthtechnologies.com>; Dearest <dearest.io>; Cooper Union for the Advancement of Science and Art <cooper.edu>; Standford Alumni <stanfordalumni.org>; Saugatuck <saugatuckrowing.com>, and held 6 different job titles, such as Beam Engineering Associate; Student Athlete; Student At The Google Computer Science Summer Institute; Cooper Union Engineering Student Researcher; Business Development Specialist; Junior User Interface Intern. They have amassed 1 years of experience and have acquired 9 skills, including Html; Javascript; Css; Sql; Adobe Illustrator; Adobe Photoshop; Java; C; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Clara Everett is a member of the class of 2022, currently serving as the Junior User Interface Intern at NextHealth Technologies, a Others company based in Stanford. During their career, they've contributed to 6 organizations, including Google, NextHealth Technologies, Dearest, and others. They've held various roles, such as Beam Engineering Associate, Student Athlete, Student At The Google Computer Science Summer Institute, and more. Equipped with a repertoire of 9 skills, they are proficient in Html, Javascript, Css, Sql, Adobe Illustrator, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

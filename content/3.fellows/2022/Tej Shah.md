@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Tej Shah is a fellow from the class of 2022 who is currently working as a Product Manager Intern at Interos Solutions, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Rutgers University <rutgers.edu>; FIRST <firstinspires.org>; Interos Solutions <interos.net>; MIT Launch <launchsummer.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Nets Daily News <netsdailynews.com>, and held 8 different job titles, such as Marketing And Support Intern @Mit; Product Manager Intern; Application Reviewer; Co-Founder; Technical Writer And Cad Designer; 2022 Summer Kleiner Perkins Fellow; Kleiner Perkins Fellow; Research And Software Engineering Intern. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Tej Shah is a member of the class of 2022, currently serving as the Product Manager Intern at Interos Solutions, a Others company based in New York. During their career, they've contributed to 6 organizations, including Rutgers University, FIRST, Interos Solutions, and others. They've held various roles, such as Marketing And Support Intern @Mit, Product Manager Intern, Application Reviewer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jessie Alvarez is a fellow from the class of 2016 who is currently working as a Software Engineer at Figma, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Hoover Institution at Stanford University <hoover.org>; Figma <figma.com>; Google <google.com>; Startup Shell <startupshell.org>; William Megelich <pinterest.dk>; Plastic Pollutes <plasticpollutioncoalition.org>; AFM & SAG-AFTRA Intellectual Property Rights Distribution Fund <afmsagaftrafund.org>; Mayfair House <mayfairhouse.com>; The Hot Sheet <hotsheetpub.com>; Meta <meta.com>; Pinterest <pinterest.com.au>, and held 9 different job titles, such as Software Engineer; Cs106 Section Leader; Computer Science Summer Institute Participant; Webmaster; Software Engineering Intern; Data Analyst; Engineering Practicum Intern; Web Director; Ambassador And Intern. They have amassed 7 years of experience and have acquired 27 skills, including Django; Social Media; Python; Computer Science; Objective C; C; Javascript; Unix; Node.Js; Tutoring; Css; Google App Engine; Programming; Asyncdisplaykit; Software Engineering; Web Development; Swift; Html; C++; Html 5; Mysql; Photoshop; Java; User Interface Design; Wordpress; Web Applications; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jessie Alvarez is a member of the class of 2016, currently serving as the Software Engineer at Figma, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including Hoover Institution at Stanford University, Figma, Google, and others. They've held various roles, such as Software Engineer, Cs106 Section Leader, Computer Science Summer Institute Participant, and more. Equipped with a repertoire of 27 skills, they are proficient in Django, Social Media, Python, Computer Science, Objective C, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

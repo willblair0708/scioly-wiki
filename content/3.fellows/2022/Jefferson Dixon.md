@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jefferson Dixon is a fellow from the class of 2022 who is currently working as a Graduate Research Assistant at Hoover Institution at Stanford University, a Others company based in Stanford. Over the course of their career, they have worked at 7 organizations, including Hoover Institution at Stanford University <hoover.org>; Sozo Ventures <sozo.ventures>; Georgia Tech <gatech.edu>; Rebelliondefense <rebelliondefense.com>; Standford Alumni <stanfordalumni.org>; Rebellion Defense <rebelliondefense.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Graduate Research Assistant; Intern; Mechanical Engineering; Stanford University; Undergraduate Research Assistant; Engineering Fellow; Summer Associate; Mission Success Intern; Engineering Intern, Savannah River Site. They have amassed 1 years of experience and have acquired 5 skills, including Research; Html; Matlab; Vpython; Microsoft Office. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jefferson Dixon is a member of the class of 2022, currently serving as the Graduate Research Assistant at Hoover Institution at Stanford University, a Others company based in Stanford. During their career, they've contributed to 7 organizations, including Hoover Institution at Stanford University, Sozo Ventures, Georgia Tech, and others. They've held various roles, such as Graduate Research Assistant, Intern, Mechanical Engineering, and more. Equipped with a repertoire of 5 skills, they are proficient in Research, Html, Matlab, Vpython, Microsoft Office, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

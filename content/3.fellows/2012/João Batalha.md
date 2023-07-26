@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-João Batalha is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at Amplemarket, a Startup company based in San Francisco. Over the course of their career, they have worked at 4 organizations, including Path <path.com>; Orankl <orankl.com>; PATH <path.org>; Amplemarket <amplemarket.com>, and held 4 different job titles, such as CEO; Co-Founder; Software Engineer; Co-Founder And Chief Executive Officer. They have amassed 11 years of experience and have acquired 14 skills, including Javascript; Computer Science; Programming; Linux; Php; Python; Photoshop; Mysql; Sql; Html; C++; Matlab; Java; Machine Learning. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+João Batalha is a member of the class of 2012, currently serving as the Co-Founder And Chief Executive Officer at Amplemarket, a Startup company based in San Francisco. During their career, they've contributed to 4 organizations, including Path, Orankl, PATH, and others. They've held various roles, such as CEO, Co-Founder, Software Engineer, and more. Equipped with a repertoire of 14 skills, they are proficient in Javascript, Computer Science, Programming, Linux, Php, among others. Their expertise also encompasses advanced skills. With 11 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

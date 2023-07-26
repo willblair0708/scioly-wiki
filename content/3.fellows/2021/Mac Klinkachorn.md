@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Mac Klinkachorn is a fellow from the class of 2021 who is currently working as a Research Engineer at Hoover Institution at Stanford University, a Others company based in Stanford. Over the course of their career, they have worked at 8 organizations, including Hoover Institution at Stanford University <hoover.org>; GE Healthcare <gehealthcare.com>; Moveworks <moveworks.ai>; Cresta <cresta.com>; Standford Alumni <stanfordalumni.org>; Amazon.com <amazon.es>; Truera <truera.com>; Stanford University School Of Medicine, and held 4 different job titles, such as Machine Learning Engineer; Software Engineer; Research Engineer; Computational Biology Researcher, Allen Discovery Center For System Modelling. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Mac Klinkachorn is a member of the class of 2021, currently serving as the Research Engineer at Hoover Institution at Stanford University, a Others company based in Stanford. During their career, they've contributed to 8 organizations, including Hoover Institution at Stanford University, GE Healthcare, Moveworks, and others. They've held various roles, such as Machine Learning Engineer, Software Engineer, Research Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

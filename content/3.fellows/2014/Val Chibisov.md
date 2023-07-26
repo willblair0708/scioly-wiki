@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 3
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Val Chibisov is a fellow from the class of 2014 who is currently working as a General Partner at Crownholdt Estate, a Others company based in San Francisco. Over the course of their career, they have worked at 3 organizations, including AppDynamics <appdynamics.com>; Business Development Centre <bdc-canada.com>; Crownholdt Estate, and held 4 different job titles, such as Software Engineer; Senior Product Manager; General Partner; Software Developer. They have amassed 9 years of experience and have acquired 19 skills, including C++; Eclipse; Software Engineering; Agile Methodologies; Enterprise Software; Software Development; Product Management; User Experience; Embedded Systems; Saas; Php; Android; Python; Cloud Computing; Git; Software Design; Product Road Mapping; Mobile Applications; Java. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Val Chibisov is a member of the class of 2014, currently serving as the General Partner at Crownholdt Estate, a Others company based in San Francisco. During their career, they've contributed to 3 organizations, including AppDynamics, Business Development Centre, Crownholdt Estate, and others. They've held various roles, such as Software Engineer, Senior Product Manager, General Partner, and more. Equipped with a repertoire of 19 skills, they are proficient in C++, Eclipse, Software Engineering, Agile Methodologies, Enterprise Software, among others.  With 9 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

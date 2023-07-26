@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jeff Grimes is a fellow from the class of 2012 who is currently working as a Associate Product Manager at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Sequoia Capital <sequoiacap.com>; Foundation Capital <foundationcapital.com>; klout <klout.com>; Yale University <yale.edu>; Google <google.com>; All-Stars Helping Kids <allstarshelpingkids.org>; Uproar PR <uproarpr.com>; Shades <take3app.com>; regardeR solO a staR warS storY streaminG vF gratuiTcompleT <i.af>; Meta <meta.com>; Google <goo.gle>; Sequoia Capital India <sequoiacap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Grimesphotos.Com <grimesphotos.com>, and held 12 different job titles, such as Associate Product Manager; Ios Development Intern, Mobile Team; Founder And Chief Executive Officer; Volunteer Summer Intern; Sequoia Capital Scout; Co-Creator And Iphone App Developer; Kpcb Engineering Fellow; Ios Development Intern, Facebook Messenger Team; Creator And Ipad App Developer; Associate Product Manager Intern; Co-Creator And Iphone Game Developer; Venture Capital Intern. They have amassed 11 years of experience and have acquired 35 skills, including Leadership; Marketing; Objective C; Java; Ios Development; Ruby On Rails; Mobile Applications; Strategy; Mobile Devices; Management; Gwt; Mongodb; Iphone; Cloud Computing; Blogging; Gaming; Star Wars; E Commerce; Mobile Payments; Assembly Language; Hadoop; Writing; Ruby; Market Research; Saas; Php; User Experience; Ios; Product Management; Business Development; Sql; Git; Software Development; Entrepreneurship; Start Ups. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jeff Grimes is a member of the class of 2012, currently serving as the Associate Product Manager at Google, a Big Tech company based in San Francisco. During their career, they've contributed to 14 organizations, including Sequoia Capital, Foundation Capital, klout, and others. They've held various roles, such as Associate Product Manager, Ios Development Intern, Mobile Team, Founder And Chief Executive Officer, and more. Equipped with a repertoire of 35 skills, they are proficient in Leadership, Marketing, Objective C, Java, Ios Development, among others.  With 11 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

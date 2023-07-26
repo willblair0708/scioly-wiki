@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Zachary Kirby is a fellow from the class of 2019 who is currently working as a Co-Founder at Vesselfintech, a Startup company based in Murrieta. Over the course of their career, they have worked at 13 organizations, including Intuit <intuit.com>; Glynn Capital Management <glynncapital.com>; vesseltracker.com <vesseltracker.com>; Gusto <gusto.com>; UC Berkeley <berkeley.edu>; Cal Hacks <calhacks.io>; Productiv <productiv.com>; Web Design DeCal <wdd.io>; Meta <meta.com>; Vessel <vessel.api>; Vesselfintech <vesselfintech.com>; Vessel <vessel.dev>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Undergraduate Student Researcher; University Investment Fellow; Executive Director; User Experience Research Extern; Co-Founder; Frontend Developer; Head Instructor; Software Engineering Intern; Kp Engineering Fellow; Frontend Engineering Intern. They have amassed 4 years of experience and have acquired 24 skills, including Web Design; Communication; Sass; Ionic; Python; Express.Js; Cooperation; Adobe Illustrator; Film; Scheme; Front End Development; Mongodb; Team Leadership; Bootstrap; Html5; Team Management; React.Js; Teaching; Javascript; Jquery; Angularjs; Adobe Photoshop; Writing; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Zachary Kirby is a member of the class of 2019, currently serving as the Co-Founder at Vesselfintech, a Startup company based in Murrieta. During their career, they've contributed to 13 organizations, including Intuit, Glynn Capital Management, vesseltracker.com, and others. They've held various roles, such as Undergraduate Student Researcher, University Investment Fellow, Executive Director, and more. Equipped with a repertoire of 24 skills, they are proficient in Web Design, Communication, Sass, Ionic, Python, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

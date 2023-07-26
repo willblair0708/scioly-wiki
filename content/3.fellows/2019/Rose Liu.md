@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rose Liu is a fellow from the class of 2019 who is currently working as a Senior Product Manager at Reddit, a Others company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including LinkedIn <linkedin.com>; Reddit <reddit.com>; Deutsche Bank <db.com>; Zumper <zumper.com>; AXA Investment Managers <axa-im.com>; Jitjatjo <jitjatjo.com>; Roblox <roblox.com>; Edge Principal Advisors <edgepe.com>; JLL <jll.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Senior Product Manager; Product Fellow; Associate - Acquisitions; Product Manager; Analyst - Commercial Real Estate; Product Lead; Product Manager, Smb Marketplace; Senior Associate - Acquisitions; Product Strategy, Jobs Marketplace. They have amassed 4 years of experience and have acquired 18 skills, including Product Management; Strategic Planning; Investments; Vba; Finance; Management; Project Management; Data Analysis; Microsoft Office; Microsoft Excel; Mandarin; Financial Analysis; Financial Modeling; Analysis; Investment Banking; Product Development; Valuation; Strategy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Rose Liu is a member of the class of 2019, currently serving as the Senior Product Manager at Reddit, a Others company based in San Francisco. During their career, they've contributed to 10 organizations, including LinkedIn, Reddit, Deutsche Bank, and others. They've held various roles, such as Senior Product Manager, Product Fellow, Associate - Acquisitions, and more. Equipped with a repertoire of 18 skills, they are proficient in Product Management, Strategic Planning, Investments, Vba, Finance, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

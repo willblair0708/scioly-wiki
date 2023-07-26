@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ganeshkumar Ashokavardhanan is a fellow from the class of 2018 who is currently working as a Software Engineer at Microsoft, a Big Tech company based in Redmond. Over the course of their career, they have worked at 6 organizations, including Accel <accel.com>; UC Berkeley <berkeley.edu>; Area 1 Security <area1security.com>; Microsoft <microsoft.com>; Kleiner Perkins <kleinerperkins.com>; Qatar Computing Research Institute <qcri.qa>, and held 7 different job titles, such as Engineering; Business; Software Engineer; Kpcb Engineering Fellow; Software Engineering Intern; Accel Scholar; Summer Research Intern. They have amassed 5 years of experience and have acquired 23 skills, including Computer Science; Research; Cluster Analysis; Mysql; Data Mining; Product Management; Python; Data Visualization; Logical Reasoning; Statistics; Entrepreneurship; C++; Android Development; Computer Vision; Sql; Machine Learning; Scheme; Java; Data Analysis; R; Team Leadership; Microsoft Excel; Linear Algebra. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Ganeshkumar Ashokavardhanan is a member of the class of 2018, currently serving as the Software Engineer at Microsoft, a Big Tech company based in Redmond. During their career, they've contributed to 6 organizations, including Accel, UC Berkeley, Area 1 Security, and others. They've held various roles, such as Engineering, Business, Software Engineer, and more. Equipped with a repertoire of 23 skills, they are proficient in Computer Science, Research, Cluster Analysis, Mysql, Data Mining, among others. Their expertise also encompasses advanced skills. With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

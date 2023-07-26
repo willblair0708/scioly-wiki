@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Carolyn Zhang is a fellow from the class of 2014 who is currently working as a Independent Software Designer at Twitter, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including Twitter <twitter.com>; Adobe Systems <adobe.com>; Square <squareup.com>; UENO. <ueno.co>; Microsoft <microsoft.com>; School of Visual Arts <sva.edu>; Massachusetts Institute of Technology <mit.edu>; caro ✨ <carolynzhang.com>, and held 12 different job titles, such as Undergraduate Ta, 6.170 Software Studio; Adjunct Professor; Mobile Software Engineering And User Experience Intern; Design Lead; Design Intern; Design Lead, Twitter Spaces; Undergraduate Ta, 6.813 User Interface Design; Program Manager Intern; Digital Designer; Lab Assistant, 6.S083 Building Mobile Apps; Undergraduate Researcher; Independent Software Designer. They have amassed 9 years of experience and have acquired 2 skills, including Gui; User Experience. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Carolyn Zhang is a member of the class of 2014, currently serving as the Independent Software Designer at Twitter, a Others company based in New York. During their career, they've contributed to 8 organizations, including Twitter, Adobe Systems, Square, and others. They've held various roles, such as Undergraduate Ta, 6.170 Software Studio, Adjunct Professor, Mobile Software Engineering And User Experience Intern, and more. Equipped with a repertoire of 2 skills, they are proficient in Gui, User Experience, among others.  With 9 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

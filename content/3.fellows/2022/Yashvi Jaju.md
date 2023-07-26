@@ -28,14 +28,11 @@ Number of Past Jobs: 24
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Yashvi Jaju is a fellow from the class of 2022 who is currently working as a President at Troy Labs, a Others company based in Los Angeles. Over the course of their career, they have worked at 15 organizations, including A2zdesignwork <a2zdesignwork.com>; University of Southern California <usc.edu>; Slack <slack.com>; McDonald's <mcdonalds.com>; BookMyShow <bookmyshow.com>; LavaLab USC <usclavalab.org>; Trust for Retailers and Retail Associates of India <trrain.org>; Troy Labs <troylabs.vc>; Uniflow Power <uniflowpower.com>; First WalkIn Technologies <getwalk.in>; USC Annenberg Media <uscannenbergmedia.com>; Host Your Voice <hostyourvoice.org>; Trojan Venture Partners <trojanventurepartners.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Workbench Sc <workbenchsc.com>, and held 24 different job titles, such as Strategic Projects; Director of Engineering; Software Tester; Experiential Learning Center Programmer In-Training; Head Of Tech; Partner; Full Stack Software Engineer; Marketing Intern; Startup Consultant And Engineer; Product Development Intern; Kleiner Perkins Engineering Fellow 2022; Director Of Engineering; Induction; Developer, Co-Founder; Executive Editor And Founder; Software Analyst; Co-Founder; Board Member; President; Lead Developer; Software Engineer; Director Of Tech; Software Engineer Intern; Safety Specialist. They have amassed 1 years of experience and have acquired 15 skills, including Plotly; Jquery; Adobe Illustrator; React.Js; Html; Css; Next.Js; Cascading Style Sheets; Computer Science; C++; Web Development; Mongodb; Typography; Material Ui; Adobe Photoshop. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Yashvi Jaju is a member of the class of 2022, currently serving as the President at Troy Labs, a Others company based in Los Angeles. During their career, they've contributed to 15 organizations, including A2zdesignwork, University of Southern California, Slack, and others. They've held various roles, such as Strategic Projects, Director of Engineering, Software Tester, and more. Equipped with a repertoire of 15 skills, they are proficient in Plotly, Jquery, Adobe Illustrator, React.Js, Html, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

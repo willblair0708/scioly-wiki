@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Eli Cohen is a fellow from the class of 2017 who is currently working as a Software Engineer at Google, a Big Tech company based in Washington. Over the course of their career, they have worked at 5 organizations, including Google <google.com>; MTailor <mtailor.com>; Ripcord <ripcord.com>; Northwestern University <northwestern.edu>; Ford Motor <ford.com>, and held 5 different job titles, such as Research Assistant; Lead Consultant; Software Developer; Product Development Intern; Software Engineer. They have amassed 6 years of experience and have acquired 19 skills, including Customer Service; Git; C++; Css; Manufacturing; Collaborative Leadership; Product Development; C; Html; Teamwork; Public Speaking; Robotics; Web Development; Solidworks; Python; Research; Matlab; Github; Opencv. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Eli Cohen is a member of the class of 2017, currently serving as the Software Engineer at Google, a Big Tech company based in Washington. During their career, they've contributed to 5 organizations, including Google, MTailor, Ripcord, and others. They've held various roles, such as Research Assistant, Lead Consultant, Software Developer, and more. Equipped with a repertoire of 19 skills, they are proficient in Customer Service, Git, C++, Css, Manufacturing, among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

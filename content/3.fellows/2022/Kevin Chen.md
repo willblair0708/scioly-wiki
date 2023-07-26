@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kevin Chen is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Uber <uber.com>; The Harvard Crimson <thecrimson.com>; Mastercard Türkiye <mastercard.com.tr>; Meta <meta.com>; Harvard John A. Paulson School Of Engineering And Applied Sciences; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kleiner Perkins Product Fellow; Engineering Manager And Associate News Editor; Software Engineer Intern; Associate Product Manager; Teaching Fellow; Software Development Engineer Intern. They have amassed 1 years of experience and have acquired 12 skills, including Python; R; Research; Mathematica; Public Speaking; C++; Management; Matlab; Programming; Leadership; Java; Data Analysis. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kevin Chen is a member of the class of 2022, currently serving as the Associate Product Manager at Uber, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Uber, The Harvard Crimson, Mastercard Türkiye, and others. They've held various roles, such as Kleiner Perkins Product Fellow, Engineering Manager And Associate News Editor, Software Engineer Intern, and more. Equipped with a repertoire of 12 skills, they are proficient in Python, R, Research, Mathematica, Public Speaking, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

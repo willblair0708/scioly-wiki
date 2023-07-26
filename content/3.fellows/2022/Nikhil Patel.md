@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Nikhil Patel is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Los Angeles. Over the course of their career, they have worked at 9 organizations, including Avail Health <availhealth.com>; University of Southern California <usc.edu>; Stripe <stripe.com>; LavaLab USC <usclavalab.org>; Tribute <tribute.co>; Arity <arity.com>; KPCB <kleinerperkins.com>; Cloud Arch Studio <cloud-arch.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Full Stack Engineering Intern; Front-End Engineering And Data Analyst Intern; Data Science Lab Undergraduate Research Fellow; Engineering Fellow; Machine Learning And Data Analytics Intern; Director Of Development; President; Architectural Intern; Machine Learning Intern; Melady Lab Undergraduate Research Fellow; Software Developer; Software Engineering Intern. They have amassed 1 years of experience and have acquired 31 skills, including Android Development; Digital Fabrication; Robotics; Tableau; Agile Web Development; Design Thinking; Recurrent Neural Networks; Solidworks; 3D Rendering; Apache Cordova; Pandas; Data Analysis; 3D Printing; Programming; Gitflow; Python; Revit; Web Development; React; Java; Jupyter Notebook; Clustering Algorithms; Ios Development; Dynamic Programming; Machine Learning; Convolutional Neural Networks; Neural Networks; Building Information Modeling; Rhino 3D; Data Analytics; Git. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Nikhil Patel is a member of the class of 2022, currently serving as the Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Los Angeles. During their career, they've contributed to 9 organizations, including Avail Health, University of Southern California, Stripe, and others. They've held various roles, such as Full Stack Engineering Intern, Front-End Engineering And Data Analyst Intern, Data Science Lab Undergraduate Research Fellow, and more. Equipped with a repertoire of 31 skills, they are proficient in Android Development, Digital Fabrication, Robotics, Tableau, Agile Web Development, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

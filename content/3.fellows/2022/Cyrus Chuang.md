@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Cyrus Chuang is a fellow from the class of 2022 who is currently working as a Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in London. Over the course of their career, they have worked at 9 organizations, including Liberty in North Korea <libertyinnorthkorea.org>; Simplehealthkit <simplehealthkit.com>; KPCB <kleinerperkins.com>; Minerva Project <minervaproject.com>; Ovio <ovio.org>; Umeedonline - NGO <umeedonline.com>; Minerva <minerva.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>; Minerva Hackathon <minervahackathon.com>, and held 11 different job titles, such as User Research, Team Lead; Director Of Academic Affairs; Professional Learning Analyst; Design Fellow; Associate Product Designer Ii; Marketing Director And Event Experience Disgner; Engagement Consultant And Event Organizer; Communication Design Intern; Product Design Intern; Tour Guide; Event And Campaign Assistant. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Cyrus Chuang is a member of the class of 2022, currently serving as the Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in London. During their career, they've contributed to 9 organizations, including Liberty in North Korea, Simplehealthkit, KPCB, and others. They've held various roles, such as User Research, Team Lead, Director Of Academic Affairs, Professional Learning Analyst, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

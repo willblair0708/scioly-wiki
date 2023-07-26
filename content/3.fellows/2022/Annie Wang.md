@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Annie Wang is a fellow from the class of 2022 who is currently working as a Vice President Of Technology at Blueprint, a Others company based in Berkeley. Over the course of their career, they have worked at 10 organizations, including Accel <accel.com>; National Institutes of Health <nih.gov>; Figma <figma.com>; UC Berkeley <berkeley.edu>; DC Central Kitchen <dccentralkitchen.org>; Blueprint <calblueprint.org>; Treet <treet.co>; Meta <meta.com>; Retool <retool.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Took A Break; Project Leader - Dc Central Kitchen; Project Developer - Mee Panyar; Vice President Of Technology; Vice President Of Projects; Software Engineer Intern; Engineering Fellow; Full-Stack Developer; Product Designer - Dc Central Kitchen; Civic Digital Fellow; Project Developer - Friends Of Alemany Farm; Enterprise Engineering Intern; Accel Scholar; Project Developer - Vouchers 4 Veggies. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Annie Wang is a member of the class of 2022, currently serving as the Vice President Of Technology at Blueprint, a Others company based in Berkeley. During their career, they've contributed to 10 organizations, including Accel, National Institutes of Health, Figma, and others. They've held various roles, such as Took A Break, Project Leader - Dc Central Kitchen, Project Developer - Mee Panyar, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

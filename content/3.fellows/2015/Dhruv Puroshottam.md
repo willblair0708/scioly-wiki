@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Dhruv Puroshottam is a fellow from the class of 2015 who is currently working as a Director Of Technology at Finexus Group, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including LendingClub <lendingclub.com>; Spotify <spotify.com>; Columbia University <columbia.edu>; Teach For India <teachforindia.org>; Palantir Technologies <palantir.com>; Abnormal Security <abnormalsecurity.com>; Finexus Group <finexusgroup.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Engineering Manager; Orientation Leader, International Student Pre-Orientation Program; Forward Software Deployed Engineer; Director Of Technology; Software Engineering Intern; Campus Catalyst; Software Engineer; Engineering Fellow; Teaching Assistant, Columbia University Mathematics Department; Intern, Digital Media And Communications; Software Engineering Intern, Mobile. They have amassed 8 years of experience and have acquired 19 skills, including Android Development; Programming; C; Writing; Photography; Mathematics; C Language; Groovy; Web Development; Agile Methodologies; Data Analysis; Java; Spring Framework; Public Speaking; C++; Node.Js; Matlab; Mongodb; Algorithms. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Dhruv Puroshottam is a member of the class of 2015, currently serving as the Director Of Technology at Finexus Group, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including LendingClub, Spotify, Columbia University, and others. They've held various roles, such as Engineering Manager, Orientation Leader, International Student Pre-Orientation Program, Forward Software Deployed Engineer, and more. Equipped with a repertoire of 19 skills, they are proficient in Android Development, Programming, C, Writing, Photography, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

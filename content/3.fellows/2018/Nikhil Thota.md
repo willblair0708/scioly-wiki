@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Nikhil Thota is a fellow from the class of 2018 who is currently working as a Startup Explorations at Various startups, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Ultimate Software <ultimatesoftware.com>; WhatsApp <whatsapp.com>; Various startups <variousstartups.com>; Karat <trykarat.com>; dOrg <dorg.tech>; Association Of Computer Engineers (Uf) <gatorace.org>, and held 4 different job titles, such as Engineering; Startup Explorations; Software Engineering Intern; Project Manager. They have amassed 5 years of experience and have acquired 22 skills, including Windows; Microsoft Word; C++; Microsoft Excel; Ios; Sql; Leadership; Research; Html; Software Development; Css; Java; Microsoft Office; Powerpoint; C; Management; Photoshop; Programming; English; Cascading Style Sheets; Music; Sales. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Nikhil Thota is a member of the class of 2018, currently serving as the Startup Explorations at Various startups, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Ultimate Software, WhatsApp, Various startups, and others. They've held various roles, such as Engineering, Startup Explorations, Software Engineering Intern, and more. Equipped with a repertoire of 22 skills, they are proficient in Windows, Microsoft Word, C++, Microsoft Excel, Ios, among others.  With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Dawson Botsford is a fellow from the class of 2015 who is currently working as a Founder at Earnifi, a Startup company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Uber <uber.com>; Shape Security <shapesecurity.com>; Driver, Inc. <driver.xyz>; HackCU <hackcu.org>; Linktree <linktr.ee>; Earnifi <earni.fi>; Kleiner Perkins Caufield & Byers <kpcb.com>; Major League Hacking <majorleaguehacking.com>, and held 12 different job titles, such as Director Of Operations; Software Consultant And Founder; Software Developer; Engineering Fellow; Computational Researcher; Lead Software Engineer; Hackathon Coach; Founder; Co-Founder And Director Of Operations; Full Stack Software Engineer Intern; Full Stack Software Engineer; Part-Time Software Engineer. They have amassed 8 years of experience and have acquired 24 skills, including Programming; Javascript; Node.Js; Bitcoin; Cryptocurrency; Css; Solidity; Bash; Entrepreneurship; Git; Hackathons; Freelance; Html; Public Speaking; Web Scraping; Event Planning; Redux; Vim; Web Development; Start Ups; React.Js; Technical Writing; Linux; Computer Science. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Dawson Botsford is a member of the class of 2015, currently serving as the Founder at Earnifi, a Startup company based in San Francisco. During their career, they've contributed to 8 organizations, including Uber, Shape Security, Driver, Inc., and others. They've held various roles, such as Director Of Operations, Software Consultant And Founder, Software Developer, and more. Equipped with a repertoire of 24 skills, they are proficient in Programming, Javascript, Node.Js, Bitcoin, Cryptocurrency, among others.  With 8 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

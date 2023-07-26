@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Diana Voronin is a fellow from the class of 2022 who is currently working as a Investment Partner at Dorm Room Fund, a Others company based in Cambridge. Over the course of their career, they have worked at 11 organizations, including Intel <intel.com>; Square <squareup.com>; Rutgers University <rutgers.edu>; Dorm Room Fund <dormroomfund.com>; Founders Fund <foundersfund.com>; QC Ware <qcware.com>; Microsoft <microsoft.com>; MITIMCo <mitimco.org>; Massachusetts Institute of Technology <mit.edu>; Imprint <imprint.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Lab Assistant For 6.100: Introduction To Cs And Programming Using Python; Software Development Intern; Investment Partner; Lab Assistant For 6.9010: Introduction To Eecs Via Interconnected Embedded Systems; Software Engineering Intern; Undergraduate Research Assistant; Maker Intern, New Technologies Group; Instructor For Global Teaching Labs - Germany; 2022 Kleiner Perkins Fellow; Researcher, Department Of Mechanical Engineering And Aerospace; Motivateme: A Wearable To Motivate Stroke Patients W And Real-Time Rehabilitation Performance Feedback. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Diana Voronin is a member of the class of 2022, currently serving as the Investment Partner at Dorm Room Fund, a Others company based in Cambridge. During their career, they've contributed to 11 organizations, including Intel, Square, Rutgers University, and others. They've held various roles, such as Lab Assistant For 6.100: Introduction To Cs And Programming Using Python, Software Development Intern, Investment Partner, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 1
 ::badge{type="info"}
 Number of Organizations: 3
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jonathan Li is a fellow from the class of 2022 who is currently working as a Senior Principal Scientist at Datadog, a Others company based in St. Louis. Over the course of their career, they have worked at 3 organizations, including The University of Texas at Austin <utexas.edu>; Careers with Nestlé <nestlejobs.com>; Datadog <datadoghq.com>, and held 1 different job titles, such as Postdoctoral Fellow. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jonathan Li is a member of the class of 2022, currently serving as the Senior Principal Scientist at Datadog, a Others company based in St. Louis. During their career, they've contributed to 3 organizations, including The University of Texas at Austin, Careers with Nestlé, Datadog, and others. They've held various roles, such as Postdoctoral Fellow, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

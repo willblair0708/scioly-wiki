@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jialin Zhuo is a fellow from the class of 2022 who is currently working as a Software Engineer at Pinterest, a Others company based in Oakland Gardens. Over the course of their career, they have worked at 7 organizations, including Oaktree Capital Management <oaktreecapital.com>; William Megelich <pinterest.dk>; menon labs <menonlabs.com>; Stanford University School Of Medicine; Rfk Science Research Institute <rfksri.org>; Fe Maidens First Robotics Team (Frc 2265) <femaidens2265.org>; Pinterest <pinterest.com.au>, and held 9 different job titles, such as Web Developer; Pinterest Engage Scholar; Head Of Electronics; Researcher; Software Engineer; Application Development Intern; Research Assistant; Extreme Mobility Team Member; Mit Beaverworks Summer Institute. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jialin Zhuo is a member of the class of 2022, currently serving as the Software Engineer at Pinterest, a Others company based in Oakland Gardens. During their career, they've contributed to 7 organizations, including Oaktree Capital Management, William Megelich, menon labs, and others. They've held various roles, such as Web Developer, Pinterest Engage Scholar, Head Of Electronics, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

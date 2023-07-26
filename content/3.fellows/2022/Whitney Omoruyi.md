@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Whitney Omoruyi is a fellow from the class of 2022 who is currently working as a Kleiner Perkins Product Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Boston. Over the course of their career, they have worked at 7 organizations, including Uber <uber.com>; Washington University in St. Louis <wustl.edu>; RippleMatch <ripplematch.com>; Cisco Meraki - DWN <dwn.vn>; Bumble <bumble.com>; JPMorgan Chase & Co. <jpmorganchase.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Campus Marketing Manager; Product Management Intern, Iot Mobile; Incoming Leadership Development Intern; Software Engineer Intern; Product Management Intern, Global Crm; Kp Product Fellow; It Staffer And Media Assistant; Product Management Intern, Tech @ Uber; Kleiner Perkins Product Fellow. They have amassed 1 years of experience and have acquired 7 skills, including Java; Marketing Strategy; Media Marketing; Data Analysis; Campaigns; Social Media Marketing; Digital Marketing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Whitney Omoruyi is a member of the class of 2022, currently serving as the Kleiner Perkins Product Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Boston. During their career, they've contributed to 7 organizations, including Uber, Washington University in St. Louis, RippleMatch, and others. They've held various roles, such as Campus Marketing Manager, Product Management Intern, Iot Mobile, Incoming Leadership Development Intern, and more. Equipped with a repertoire of 7 skills, they are proficient in Java, Marketing Strategy, Media Marketing, Data Analysis, Campaigns, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

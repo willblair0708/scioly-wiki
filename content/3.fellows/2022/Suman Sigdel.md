@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Suman Sigdel is a fellow from the class of 2022 who is currently working as a Swe Intern at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Uber <uber.com>; Bennington College <bennington.edu>; Wolfram Research <wolfram.com>; KPCB <kleinerperkins.com>; Coinbase <coinbase.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kp Engineering Fellow; Swe Intern; Summer Research Student; Member; Incoming Swe Intern; Student Ambassador. They have amassed 1 years of experience and have acquired 31 skills, including Object Oriented Programming; Service Integration; Html; Deep Learning; Mobile Application Development; Algorithms; Artificial Neural Networks; Cascading Style Sheets; Sql; Arduino; User Experience; Computer Science; Mathematica; Problem Solving; Java; Wolfram Language; Javascript; Ios Development; Python; Cryptography; Cryptocurrency Trading; Tensorflow; Facial Recognition System; Communication; Core Ml; Machine Learning; Convolutional Neural Networks; Git; Data Structures; Bitcoin; Neural Networks. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Suman Sigdel is a member of the class of 2022, currently serving as the Swe Intern at Uber, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Uber, Bennington College, Wolfram Research, and others. They've held various roles, such as Kp Engineering Fellow, Swe Intern, Summer Research Student, and more. Equipped with a repertoire of 31 skills, they are proficient in Object Oriented Programming, Service Integration, Html, Deep Learning, Mobile Application Development, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Merrill Lutsky is a fellow from the class of 2015 who is currently working as a Co-Founder at ScreenPlay, a Startup company based in New York. Over the course of their career, they have worked at 8 organizations, including Square <squareup.com>; Posmetrics <posmetrics.com>; Oscar Health <hioscar.com>; Productboard <productboard.com>; Cosmopolitan Dynamic Results Catalyst <selfmade.life>; ScreenPlay <screenplayinc.com>; Graphite.dev <graphite.dev>; DailyFeats <dailyfeats.com>, and held 7 different job titles, such as Product Manager; Software Engineer; Software Development Intern; Product; Chief Executive Officer; Co-Founder; Product Consultant. They have amassed 8 years of experience and have acquired 9 skills, including Business Development; Financial Analysis; Front End Design; User Experience; Data Visualization; Entrepreneurship; Product Management; Web Development; Product Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Merrill Lutsky is a member of the class of 2015, currently serving as the Co-Founder at ScreenPlay, a Startup company based in New York. During their career, they've contributed to 8 organizations, including Square, Posmetrics, Oscar Health, and others. They've held various roles, such as Product Manager, Software Engineer, Software Development Intern, and more. Equipped with a repertoire of 9 skills, they are proficient in Business Development, Financial Analysis, Front End Design, User Experience, Data Visualization, among others.  With 8 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Karina Popovich is a fellow from the class of 2022 who is currently working as a Founder And Creative Director at Inertia Beverage Group, a Startup company based in Brooklyn. Over the course of their career, they have worked at 11 organizations, including Inertia Beverage Group <inertiabev.com>; Women in 3D Printing <womenin3dprinting.com>; LEAP <leapnyc.org>; Makers For Change <makersforchange.org>; Amazon.com <amazon.es>; #GetUsPPE <getusppe.org>; AlphaPR <wearealphapr.com>; Girls Who Code <girlswhocode.com>; Tech Savvy Team - Connecting You With Technology! <tstnyc.com>; Avalanche <avax.network>; Makers For Covid-19 <makersforcovid19.com>, and held 11 different job titles, such as Software Development Engineer Intern; Microreactor And Machine Learning Research; Maker Lead; Microsoft Summer Intern; Founder; Marketing Coordinator; Makerspace Teaching Assistant Intern; Head Of Impact; Head Of Education And Policy; Founder And Creative Director; Elementary School Robotics Teacher And Robotics Team Coach. They have amassed 1 years of experience and have acquired 14 skills, including Arduino; Cascading Style Sheets; Autodesk Inventor; Adobe Photoshop; Leadership; Public Speaking; Management; Matlab; Html; Project Management; Product Development; Spanish; Microsoft Office; Russian. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Karina Popovich is a member of the class of 2022, currently serving as the Founder And Creative Director at Inertia Beverage Group, a Startup company based in Brooklyn. During their career, they've contributed to 11 organizations, including Inertia Beverage Group, Women in 3D Printing, LEAP, and others. They've held various roles, such as Software Development Engineer Intern, Microreactor And Machine Learning Research, Maker Lead, and more. Equipped with a repertoire of 14 skills, they are proficient in Arduino, Cascading Style Sheets, Autodesk Inventor, Adobe Photoshop, Leadership, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

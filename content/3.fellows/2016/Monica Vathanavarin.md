@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Monica Vathanavarin is a fellow from the class of 2016 who is currently working as a Senior Product Designer at Addepar, a Others company based in New York. Over the course of their career, they have worked at 4 organizations, including TaskRabbit <taskrabbit.com>; Addepar <addepar.com>; UC Berkeley <berkeley.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 4 different job titles, such as Marketing Intern; 2016 Design Fellow; Senior Product Designer; Marketing And Copywriting. They have amassed 7 years of experience and have acquired 36 skills, including Talent Management; App Store Optimization; Illustrator; Microsoft Word; User Experience; Social Media; Adobe Illustrator; Python; Communication; Copywriting; C#; User Interface Design; Photoshop; Powerpoint; Jquery; Community Management; Microsoft Powerpoint; Indesign; Content Strategy; Event Planning; Html; Cascading Style Sheets; Css; Digital Production; Thai; C++; Research; Teamwork; Customer Service; Great Personality; Photography; Microsoft Excel; Leadership; Microsoft Office; Java; Public Relations. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Monica Vathanavarin is a member of the class of 2016, currently serving as the Senior Product Designer at Addepar, a Others company based in New York. During their career, they've contributed to 4 organizations, including TaskRabbit, Addepar, UC Berkeley, and others. They've held various roles, such as Marketing Intern, 2016 Design Fellow, Senior Product Designer, and more. Equipped with a repertoire of 36 skills, they are proficient in Talent Management, App Store Optimization, Illustrator, Microsoft Word, User Experience, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

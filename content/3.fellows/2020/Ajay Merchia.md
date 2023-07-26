@@ -28,14 +28,11 @@ Number of Past Jobs: 17
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ajay Merchia is a fellow from the class of 2020 who is currently working as a Group Product Manager at Moveworks, a Others company based in Cupertino. Over the course of their career, they have worked at 11 organizations, including UC Berkeley <berkeley.edu>; Intero Real Estate Services <interorealestate.com>; Memory Labs, Inc. <memory-labs.com>; Moveworks <moveworks.ai>; Illumix <illumix.com>; The Andrew Goodman Foundation <andrewgoodman.org>; Boxlet Storage <boxletstorage.com>; Mobile Developers of Berkeley <mobiledevsberkeley.org>; Market Games <marketgames.io>; Kleiner Perkins Caufield & Byers <kpcb.com>; Intacct Corporation <intacct.com>, and held 17 different job titles, such as Product Fellow; Product Manager; Group Product Manager; Financial Resources Coordinator; Chief Financial Officer; Marketing Intern; Vote Everywhere Campus Ambassador; Demand Generation Intern; Product Management Intern; Real Estate Agent; Dance Instructor; Business Development Intern; Co-Founder And Product Manager; CFO; Business Administration; Bs Candidate; BA Candidate. They have amassed 3 years of experience and have acquired 36 skills, including Microsoft Excel; Final Cut Pro; Express.Js; Google Maps Api; Salesforce.Com; Team Leadership; Dance; Python; Event Planning; Ios Development; Public Speaking; Photoshop; Marketing; Promotional Marketing; Google Analytics; Business Financial Planning; Marketing Automation; Java; Spanish; Web Development; Marketo; Teaching; Heroku; 2D Animation; Data Analysis; Adobe Audition; Node.Js; Firebase; Photography; Juvenile Law; Sql; Online Marketing; Google Adwords; Fb Api; R; Apple Motion. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ajay Merchia is a member of the class of 2020, currently serving as the Group Product Manager at Moveworks, a Others company based in Cupertino. During their career, they've contributed to 11 organizations, including UC Berkeley, Intero Real Estate Services, Memory Labs, Inc., and others. They've held various roles, such as Product Fellow, Product Manager, Group Product Manager, and more. Equipped with a repertoire of 36 skills, they are proficient in Microsoft Excel, Final Cut Pro, Express.Js, Google Maps Api, Salesforce.Com, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

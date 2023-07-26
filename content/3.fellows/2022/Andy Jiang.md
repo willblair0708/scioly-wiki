@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Andy Jiang is a fellow from the class of 2022 who is currently working as a Investor at Capital.lv, a Others company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including UC Berkeley <berkeley.edu>; Truebill <truebill.com>; Microsoft <microsoft.com>; Buck.ai <buck.ai>; Run The World <runtheworld.today>; one <a-star.co>; Stealth Mode Startup Company <appcito.net>; Capital.lv <capital.lv>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Engineering Fellow; Investor; Product Manager; Cloud And Virtual Network Researcher; Product; Building; Crypto Research And Education. They have amassed 1 years of experience and have acquired 6 skills, including Leadership; Public Speaking; Research; Management; Software Development; Marketing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Andy Jiang is a member of the class of 2022, currently serving as the Investor at Capital.lv, a Others company based in San Francisco. During their career, they've contributed to 9 organizations, including UC Berkeley, Truebill, Microsoft, and others. They've held various roles, such as Engineering Fellow, Investor, Product Manager, and more. Equipped with a repertoire of 6 skills, they are proficient in Leadership, Public Speaking, Research, Management, Software Development, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

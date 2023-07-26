@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Brian Nguyen is a fellow from the class of 2016 who is currently working as a Investor at SpringBank TechVentures, a Others company based in New York. Over the course of their career, they have worked at 9 organizations, including Adobe Systems <adobe.com>; SpringBank TechVentures <sbtechventures.com>; Uber <uber.com>; Helix <helix.com>; Unite Us <uniteus.com>; Vyrill <vyrill.com>; Social Innovation Ventures <socialinnovationventures.co>; Springbank Collective <springbankcollective.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Lead Product Designer; Product And Design | Co-Founder; Venture Fellow; Product Design Intern; Lead Product Designer, Product; Design Fellow; Researcher; Product Manager, Core And Growth; Investor. They have amassed 7 years of experience and have acquired 29 skills, including Illustrator; Data Analysis; Human Computer Interaction; Product Design; User Experience; Objective C; User Experience Design; Photoshop; Microsoft Word; Python; Javascript; Xcode; Social Media; Community Service; Powerpoint; Graphic Design; Html; Teamwork; Public Speaking; Java; User Interface Design; After Effects; Photography; Android Development; Object Oriented Design; Css; Microsoft Excel; Ios Development; Indesign. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Brian Nguyen is a member of the class of 2016, currently serving as the Investor at SpringBank TechVentures, a Others company based in New York. During their career, they've contributed to 9 organizations, including Adobe Systems, SpringBank TechVentures, Uber, and others. They've held various roles, such as Lead Product Designer, Product And Design | Co-Founder, Venture Fellow, and more. Equipped with a repertoire of 29 skills, they are proficient in Illustrator, Data Analysis, Human Computer Interaction, Product Design, User Experience, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

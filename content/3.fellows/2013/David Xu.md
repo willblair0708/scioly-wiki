@@ -28,14 +28,11 @@ Number of Past Jobs: 1
 ::badge{type="info"}
 Number of Organizations: 3
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-David Xu is a fellow from the class of 2013 who is currently working as a Senior Software Engineer Technical Lead at nan, a Others company based in San Francisco. Over the course of their career, they have worked at 3 organizations, including Upthere <upthere.com>; Google <google.com>; Google <goo.gle>, and held 1 different job titles, such as Software Engineer. They have amassed 10 years of experience and have acquired 17 skills, including Multithreading; Javascript; Signature; Interface; Relational Database; Ocaml; Templates; Syntax; Express; Scala; Receive; Module; Node.Js; Handlebars.Js; Actor; Structure; Mergesort. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+David Xu is a member of the class of 2013, currently serving as the Senior Software Engineer Technical Lead at nan, a Others company based in San Francisco. During their career, they've contributed to 3 organizations, including Upthere, Google, Google, and others. They've held various roles, such as Software Engineer, and more. Equipped with a repertoire of 17 skills, they are proficient in Multithreading, Javascript, Signature, Interface, Relational Database, among others.  With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 1
 ::badge{type="info"}
 Number of Organizations: 1
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Aashish Jain is a fellow from the class of 2020 who is currently working as a nan at nan, a Others company based in Saratoga. Over the course of their career, they have worked at 1 organizations, including Stripe <stripe.com>, and held 1 different job titles, such as nan. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Aashish Jain is a member of the class of 2020, currently serving as the nan at nan, a Others company based in Saratoga. During their career, they've contributed to 1 organizations, including Stripe, and others. They've held various roles, such as , and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

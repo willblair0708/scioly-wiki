@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Selamawit Moges is a fellow from the class of 2019 who is currently working as a nan at nan, a Others company based in New York. Over the course of their career, they have worked at 13 organizations, including Kinetic Global Markets <kinetictradingllc.com>; Black Girls CODE <blackgirlscode.com>; Yeshiva University <yu.edu>; Google <google.com>; New York University <nyu.edu>; Livongo <livongo.com>; ēdn <edntech.com>; Apella <apella.vote>; Snap <snap.com>; NYU Entrepreneurial Institute <entrepreneur.nyu.edu>; A.I. For Anyone <aiforanyone.org>; Project Happy (501c3) <projecthappy.world>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Research Assistant; Software Engineer; Swimming Instructor; Undergraduate Research Fellow; Intern; Workshop Facilitator; President; Opportunities Program Ambassador; Kliener Perkins Fellow; Lead Graphic Designer| Community Leadership Program; Technical Instructor. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Selamawit Moges is a member of the class of 2019, currently serving as the nan at nan, a Others company based in New York. During their career, they've contributed to 13 organizations, including Kinetic Global Markets, Black Girls CODE, Yeshiva University, and others. They've held various roles, such as Research Assistant, Software Engineer, Swimming Instructor, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Cheng Lin is a fellow from the class of 2022 who is currently working as a Software Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Stripe <stripe.com>; Canada Pension Plan Investment Board <cppib.com>; McGill University <mcgill.ca>; ThinkData Works Inc. <thinkdataworks.com>; Neo <neo.com>; Watershedclimate <watershedclimate.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Scholar; Data Science Intern; Research Assistant | .Txtlab @ Mcgill; Software Engineer Intern | Billing Invoices; Research Assistant | Raise Lab; Software Engineer; Intern Analyst | Quantitative Equities; Engineering Fellow. They have amassed 1 years of experience and have acquired 5 skills, including Public Speaking; Java; Teamwork; Python; Leadership. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Cheng Lin is a member of the class of 2022, currently serving as the Software Engineer at Watershedclimate, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including Stripe, Canada Pension Plan Investment Board, McGill University, and others. They've held various roles, such as Scholar, Data Science Intern, Research Assistant | .Txtlab @ Mcgill, and more. Equipped with a repertoire of 5 skills, they are proficient in Public Speaking, Java, Teamwork, Python, Leadership, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Connor Soltas is a fellow from the class of 2016 who is currently working as a Product Designer at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Uber <uber.com>; SeedSumo <seedsumo.com>; Techstars <techstars.com>; University of Chicago <uchicago.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Lead Design Associate; Instructor And Curriculum Development Volunteer; Product Design Intern; Designer And Frontend Development Intern; 2016 Kpcb Design Fellow; Product Designer; Design And Code Associate. They have amassed 7 years of experience and have acquired 24 skills, including Public Speaking; Data Analysis; User Interface Design; Microsoft Word; Adobe Creative Suite; French; Graphic Design; Jquery; Bootstrap; Css3; Html5; Leadership; Microsoft Excel; Final Cut Pro; Editing; Design Thinking; Pitching; Social Media; Photoshop; Interaction Design; Css; Microsoft Office; Html 5; Product Design. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Connor Soltas is a member of the class of 2016, currently serving as the Product Designer at Uber, a Others company based in San Francisco. During their career, they've contributed to 5 organizations, including Uber, SeedSumo, Techstars, and others. They've held various roles, such as Lead Design Associate, Instructor And Curriculum Development Volunteer, Product Design Intern, and more. Equipped with a repertoire of 24 skills, they are proficient in Public Speaking, Data Analysis, User Interface Design, Microsoft Word, Adobe Creative Suite, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

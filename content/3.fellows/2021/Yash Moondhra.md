@@ -28,14 +28,11 @@ Number of Past Jobs: 17
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Yash Moondhra is a fellow from the class of 2021 who is currently working as a Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. Over the course of their career, they have worked at 13 organizations, including Robinhood <robinhood.com>; Bruin Entrepreneurs <bruinentrepreneurs.org>; Wendy's <wendys.com>; South Park Commons <southparkcommons.com>; NortonLifeLock <nortonlifelock.com>; Foley's Department Store <en.wikipedia.org>; LSAT Engine <lsatengine.com>; Duffl <duffl.com>; Stealth Mode Startup Company <appcito.net>; North Broward Preparatory School <mynbps.org>; Awaken - Web3 tax software that actually works. <awaken.tax>; Kleiner Perkins Caufield & Byers <kpcb.com>; Bruin Bridges <bruinbridges.com>, and held 17 different job titles, such as Computer Science; Software Engineering Intern; Director Of Engineering; Percussion Captain; Software Engineer; Product And Engineering; Founder Fellow; Frontend Engineer; Chief Technology Officer; Fellow; Student Fellow; President And Founder Of Interact Club; Director Of Events And Founding Member; Incoming Backend Engineering Intern; Founder; Cashier; Co-Founder. They have amassed 2 years of experience and have acquired 26 skills, including Jquery; Sql; C#; C (Programming Language; Productivity Improvement; Teaching; Public Speaking; C++; Percussion; Time Management; Html5; Python; Asp.Net Mvc; Drum Set; Java; Organization Skills; React Native; Figma; Leadership; Programming; Javascript; React.Js; Django; Django Rest Framework; Teamwork; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Yash Moondhra is a member of the class of 2021, currently serving as the Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. During their career, they've contributed to 13 organizations, including Robinhood, Bruin Entrepreneurs, Wendy's, and others. They've held various roles, such as Computer Science, Software Engineering Intern, Director Of Engineering, and more. Equipped with a repertoire of 26 skills, they are proficient in Jquery, Sql, C#, C (Programming Language, Productivity Improvement, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

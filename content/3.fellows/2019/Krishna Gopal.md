@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Krishna Gopal is a fellow from the class of 2019 who is currently working as a Software Engineer at Pinterest, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including University of Southern California <usc.edu>; iD Tech Camps <idtech.com>; William Megelich <pinterest.dk>; Jelly <askjelly.com>; USC Viterbi School of Engineering <viterbi.usc.edu>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 7 different job titles, such as Student; Instructor; Software Engineer; Software Engineering Intern; Information Technology Intern; Kleiner Perkins Engineering Fellow; Course Producer. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Krishna Gopal is a member of the class of 2019, currently serving as the Software Engineer at Pinterest, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including University of Southern California, iD Tech Camps, William Megelich, and others. They've held various roles, such as Student, Instructor, Software Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

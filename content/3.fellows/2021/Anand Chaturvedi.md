@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Anand Chaturvedi is a fellow from the class of 2021 who is currently working as a nan at Dili.ai, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including LinkedIn <linkedin.com>; Cradlepoint <cradlepoint.com>; Microsoft <microsoft.com>; Kleiner Perkins <kleinerperkins.com>; Apple <apple.com>; This Is Water <thisiswaterllc.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Dili.ai <diliai.com>, and held 9 different job titles, such as Technology; Computer Science; Georgia Institute Of Technology; Software Engineer And Product Manager; Associate Product Manager Intern; Software Engineer Intern; Founder; Product Fellow; Computer Vision Research, Technology Investigation Team. They have amassed 2 years of experience and have acquired 9 skills, including Uix; Copy Editing; Web Development; Animation; Microsoft Excel; Java; C++; Javascript; Writing. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Anand Chaturvedi is a member of the class of 2021, currently serving as the nan at Dili.ai, a Others company based in New York. During their career, they've contributed to 8 organizations, including LinkedIn, Cradlepoint, Microsoft, and others. They've held various roles, such as Technology, Computer Science, Georgia Institute Of Technology, and more. Equipped with a repertoire of 9 skills, they are proficient in Uix, Copy Editing, Web Development, Animation, Microsoft Excel, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

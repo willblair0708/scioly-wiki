@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Matt Safian is a fellow from the class of 2013 who is currently working as a Senior Product Designer at Frame.io, a Others company based in New York. Over the course of their career, they have worked at 8 organizations, including Adobe Systems <adobe.com>; Dropbox <dropbox.com>; Flipboard <flipboard.com>; Frog Design <frogdesign.com>; Luvocracy <luvocracy.com>; Frame.io <frame.io>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Product Design Intern; Product Design Lead; Senior Product Designer; Design Fellow; Visual Design Intern; Product Designer; Visual Design And Knowledge Management Intern. They have amassed 10 years of experience and have acquired 16 skills, including Branding And Identity; Photoshop; Html; User Interface Design; Visual Design; Graphic Design; Illustrator; Php; Indesign; Javascript; Posters; Web Design; Css; Wordpress; Mysql; Adobe Creative Suite. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Matt Safian is a member of the class of 2013, currently serving as the Senior Product Designer at Frame.io, a Others company based in New York. During their career, they've contributed to 8 organizations, including Adobe Systems, Dropbox, Flipboard, and others. They've held various roles, such as Product Design Intern, Product Design Lead, Senior Product Designer, and more. Equipped with a repertoire of 16 skills, they are proficient in Branding And Identity, Photoshop, Html, User Interface Design, Visual Design, among others.  With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

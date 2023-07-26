@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jeff An is a fellow from the class of 2020 who is currently working as a Technical Lead And Senior Software Engineer at Robinhood, a Others company based in Menlo Park. Over the course of their career, they have worked at 9 organizations, including Robinhood <robinhood.com>; Google <google.com>; Open Mind <openmind-japan.com>; Cosmopolitan Dynamic Results Catalyst <selfmade.life>; Teranet <teranet.ca>; McKinsey & Company <mckinsey.com>; Contrary <contrarycap.com>; Splunk <splunk.com>; Olympiads School <olympiads.ca>, and held 10 different job titles, such as Tech Lead; Technical Lead And Senior Software Engineer; Software Engineering Intern; Machine Learning Intern; Venture Partner; Cloud Software Engineering Intern; Co-Founder, Lead Application Engineer; Student Consultant; Instructor; Full Stack Developer Intern. They have amassed 3 years of experience and have acquired 42 skills, including Mongodb; Computer Science; Report Writing; Angularjs; Biology; Teaching; Leadership; Alto Saxophone; Spring Mvc; Public Speaking; Reporting And Analysis; React.Js; Teamwork; Management; Powerpoint; Jira; Social Media; Mathematics; Essays; Business Analysis; Node.Js; Jenkins; Online Research; Functional Programming; Git; Microsoft Office; Vim; Nonprofits; Consulting; Debate; Business Strategy; Sql; Hibernate; Racket; Chemistry; Docker; Team Leadership; Javascript; Java; Standardized Testing; Research; Game Of Thrones. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jeff An is a member of the class of 2020, currently serving as the Technical Lead And Senior Software Engineer at Robinhood, a Others company based in Menlo Park. During their career, they've contributed to 9 organizations, including Robinhood, Google, Open Mind, and others. They've held various roles, such as Tech Lead, Technical Lead And Senior Software Engineer, Software Engineering Intern, and more. Equipped with a repertoire of 42 skills, they are proficient in Mongodb, Computer Science, Report Writing, Angularjs, Biology, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kyungchan Koh is a fellow from the class of 2018 who is currently working as a Software Engineer at BATCH, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Airbnb <airbnb.com>; Rice University <rice.edu>; Mizzou <missouri.edu>; Indus OS <indusos.com>; BATCH <getbatch.com>; Fin.com <fin.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Lead Backend Software Developer; Software Engineering Intern; Product Engineer Intern; Software Engineer; Keeper Of Coffee; Engineering Fellow; Head Teaching Assistant; External Vice President; Bioinformatics Research Assistant. They have amassed 5 years of experience and have acquired 8 skills, including Html5; Sql; Autocad; Css; Java; Ni Multisim; Microsoft Office; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kyungchan Koh is a member of the class of 2018, currently serving as the Software Engineer at BATCH, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Airbnb, Rice University, Mizzou, and others. They've held various roles, such as Lead Backend Software Developer, Software Engineering Intern, Product Engineer Intern, and more. Equipped with a repertoire of 8 skills, they are proficient in Html5, Sql, Autocad, Css, Java, among others.  With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

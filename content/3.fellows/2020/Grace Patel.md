@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Grace Patel is a fellow from the class of 2020 who is currently working as a Corporate Strategy at Adobe Systems, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Adobe Systems <adobe.com>; Appian <appian.com>; CTL <ctl.net>; Alphatec Spine <alphatecspine.com>; LEK Consulting <lek.com>; Artemis Connection <artemisconnection.com>; Athleisure, Inc. dba: Sun Diego Boardshops <sundiego.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Innovation; Incoming Engineering Fellow; Software Engineering Intern; Strategy Consulting Fellow; Strategy Consulting Intern; Corporate Strategy; Incoming Associate; User Interface And User Experience Designer; Sales Associate; Product Marketing Intern. They have amassed 3 years of experience and have acquired 13 skills, including Unity; Unreal Engine; Github; Adobe Photoshop; Public Speaking; Leadership; Ux Research; Java; Data Analysis; Engineering Design; Python; React; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Grace Patel is a member of the class of 2020, currently serving as the Corporate Strategy at Adobe Systems, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Adobe Systems, Appian, CTL, and others. They've held various roles, such as Innovation, Incoming Engineering Fellow, Software Engineering Intern, and more. Equipped with a repertoire of 13 skills, they are proficient in Unity, Unreal Engine, Github, Adobe Photoshop, Public Speaking, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

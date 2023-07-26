@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Christian Marek is a fellow from the class of 2015 who is currently working as a Senior Director Of Product Management at DocuSign, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Google <google.com>; DocuSign <docusign.com>; Wiener Borse AG - Vienna Stock Exchange <wienerborse.at>; Massachusetts Institute of Technology <mit.edu>; EY <ey.com>; Fb <fb.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Director of Product Management; Software Engineer; Product Manager; Senior Director Of Product Management; Senior Consultant; Product Fellow; Master Of Business Administration , Entrepreneurship And Innovation; Gtech Product Manager Intern; Senior Product Manager. They have amassed 8 years of experience and have acquired 17 skills, including Business Strategy; Consulting; Leadership; Presentations; Product Development; Cross Functional Team Leadership; Information Security; Team Leadership; Management; Entrepreneurship; Strategy; Data Analysis; It Management; User Experience; Project Management; Product Management; It Strategy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Christian Marek is a member of the class of 2015, currently serving as the Senior Director Of Product Management at DocuSign, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Google, DocuSign, Wiener Borse AG - Vienna Stock Exchange, and others. They've held various roles, such as Director of Product Management, Software Engineer, Product Manager, and more. Equipped with a repertoire of 17 skills, they are proficient in Business Strategy, Consulting, Leadership, Presentations, Product Development, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

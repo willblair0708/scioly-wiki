@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ronak Shah is a fellow from the class of 2021 who is currently working as a Product Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Platte River Ventures <platteriverventures.com>; San Diego Supercomputer Center <sdsc.edu>; Gusto <gusto.com>; Zesty.io <zesty.io>; U.S. Digital Service <usds.gov>; Buddy.ai <buddy.ai>; Optic <useoptic.com>; Coding it Forward <codingitforward.com>; Apple Inc. <apps.apple.com>; Apple <apple.com>; Watershedclimate <watershedclimate.com>; ACM UCSD <acmucsd.com>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Senior Software Architect; Growth And Swe Intern; Product Engineer; Civic Digital Fellow; Chief Executive Officer And Co-Founder; Founder And President; Software Engineer Intern; Founder And Vice President; Software Engineering Intern; Product Manager; Instructional Assistant; Software Engineer; Engineering Fellow; Data Mining And Computer Vision Engineer. They have amassed 2 years of experience and have acquired 32 skills, including Ios Development; Python; C++; Ios; Github; Computer Science; Programming; Product Management; Government; Software Development; Entrepreneurship; Javascript; Linux; Firebase; Html/Css; Virtual Reality; Graphic Design; Leadership; Management; Team Management; Java; Research; Web Design; Web Development; Teamwork; Swift; Project Management; Customer Service; Start Ups; Git; Public Speaking; Html. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ronak Shah is a member of the class of 2021, currently serving as the Product Engineer at Watershedclimate, a Others company based in San Francisco. During their career, they've contributed to 14 organizations, including Platte River Ventures, San Diego Supercomputer Center, Gusto, and others. They've held various roles, such as Senior Software Architect, Growth And Swe Intern, Product Engineer, and more. Equipped with a repertoire of 32 skills, they are proficient in Ios Development, Python, C++, Ios, Github, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

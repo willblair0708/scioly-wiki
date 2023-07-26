@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kevin Xu is a fellow from the class of 2022 who is currently working as a Product Engineer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Cisco <cisco.com>; Bloomberg <bloomberg.com>; Nuro <nuro.ai>; Lumos <lumosidentity.com>; Kartik Hosanagar - Professor at The Wharton School <hosanagar.com>; Glean <glean.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Fellow; Product Engineer; Software Engineering Intern; Incoming Software Engineering Intern; Software Engineer Intern; Incoming; Research Assistant; Teaching Assistant. They have amassed 1 years of experience and have acquired 12 skills, including Javascript; Ssh; Java; Netlogo; Bash; Mathematica; Public Speaking; R; Json; Microsoft Powerpoint; Python; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kevin Xu is a member of the class of 2022, currently serving as the Product Engineer at Glean, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including Cisco, Bloomberg, Nuro, and others. They've held various roles, such as Engineering Fellow, Product Engineer, Software Engineering Intern, and more. Equipped with a repertoire of 12 skills, they are proficient in Javascript, Ssh, Java, Netlogo, Bash, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

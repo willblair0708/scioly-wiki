@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jasmine Wang is a fellow from the class of 2019 who is currently working as a Cofounder And Board Member at Copysmith, a Startup company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Lyft <lyft.com>; Square <squareup.com>; Breather <breather.com>; OpenAI <openai.com>; Mila - Quebec Artificial Intelligence Institute <mila.quebec>; Microsoft <microsoft.com>; Partnership on AI <partnershiponai.org>; Watershedclimate <watershedclimate.com>; Copysmith <copysmith.ai>; Jasmine 🦋 <jasminew.me>, and held 8 different job titles, such as Research Fellow; Summer Research Fellow; Product Manager; Research Intern; Software Engineering Intern; Cofounder And Board Member; Researcher; Data Science Intern, Risk. They have amassed 4 years of experience and have acquired 16 skills, including Strategic Planning; Python; Project Management; Sustainability; Futures Studies; Classical Piano; Communication; Venture Capital; Public Speaking; Leadership; Design; Research; Public Policy; Fundraising; Teamwork; Strategy. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jasmine Wang is a member of the class of 2019, currently serving as the Cofounder And Board Member at Copysmith, a Startup company based in San Francisco. During their career, they've contributed to 10 organizations, including Lyft, Square, Breather, and others. They've held various roles, such as Research Fellow, Summer Research Fellow, Product Manager, and more. Equipped with a repertoire of 16 skills, they are proficient in Strategic Planning, Python, Project Management, Sustainability, Futures Studies, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

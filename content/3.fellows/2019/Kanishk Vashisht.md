@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kanishk Vashisht is a fellow from the class of 2019 who is currently working as a Founder Fellowship 4 at South Park Commons, a Startup company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including American Express <americanexpress.com>; Affirm <affirm.com>; Gusto <gusto.com>; Columbia University <columbia.edu>; Columbia School of Business <gsb.columbia.edu>; South Park Commons <southparkcommons.com>; Agora <helloagora.com>; Accessos <accessos.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as CEO Co-founder; Research Assistant; Software Engineering Intern; Software Engineer; Kp Engineering Fellow; Special Projects; Founder Fellowship 4; Summer Intern, Global Commercial Payments Division - Data Strategies And Insights Group. They have amassed 4 years of experience and have acquired 15 skills, including Web Development; Php; Mysql; Public Speaking; Html; Leadership; Css; Team Leadership; Java; Microcontrollers; Javascript; R; Model United Nations; Project Management; Arduino. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Kanishk Vashisht is a member of the class of 2019, currently serving as the Founder Fellowship 4 at South Park Commons, a Startup company based in San Francisco. During their career, they've contributed to 9 organizations, including American Express, Affirm, Gusto, and others. They've held various roles, such as CEO Co-founder, Research Assistant, Software Engineering Intern, and more. Equipped with a repertoire of 15 skills, they are proficient in Web Development, Php, Mysql, Public Speaking, Html, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 20
 ::badge{type="info"}
 Number of Organizations: 18
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Daniela Velez is a fellow from the class of 2021 who is currently working as a Incoming Software Engineer at Stealth Mode Startup Company, a Others company based in Cambridge. Over the course of their career, they have worked at 18 organizations, including Motorola Solutions <motorolasolutions.com>; Carnegie Mellon University <cmu.edu>; Figma <figma.com>; Pear VC <pear.vc>; Google <google.com>; StartLabs <startlabs.co>; Kumo <kumonetwork.com>; Patient Portal Technologies <patientportal.com>; MIT Media Lab <media.mit.edu>; Microsoft <microsoft.com>; Zoe Christian Fellowship of Whittier <zcf.org>; IMUNA <imuna.org>; Stealth Mode Startup Company <appcito.net>; Meta <meta.com>; Womxn Ignite <womxnignite.com>; Novtech <novtech.com.br>; Mit Csail; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 20 different job titles, such as Associate Product Management Intern; Software Engineer Intern; Director Of Education; Undergraduate Researcher; Incoming Software Engineer; Shadow; Computer Science Summer Institute; Software Engineer; Undergraduate Researcher In The City Science Group; Head Of Operations; Pear Venture Fellow; Undergraduate Researcher In The Distributed Robotics Lab; Co-Director; Z Fellow; Engineering Fellow; Fellow; Vice President Of Events; Summer Academy For Math And Science; Grader; Assistant Director. They have amassed 2 years of experience and have acquired 27 skills, including Public Speaking; Html; Java; Research; Leadership; Microsoft Word; Css; Music; Creativity Skills; Data Mining; Mongodb; Graphic Design; Bootstrap; Javascript; Data Analysis; Social Media; Management; Microsoft Excel; Python; Writing; Communication; Engineering; Microsoft Powerpoint; Computer Science; Website Building; Project Management; Microsoft Office. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Daniela Velez is a member of the class of 2021, currently serving as the Incoming Software Engineer at Stealth Mode Startup Company, a Others company based in Cambridge. During their career, they've contributed to 18 organizations, including Motorola Solutions, Carnegie Mellon University, Figma, and others. They've held various roles, such as Associate Product Management Intern, Software Engineer Intern, Director Of Education, and more. Equipped with a repertoire of 27 skills, they are proficient in Public Speaking, Html, Java, Research, Leadership, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

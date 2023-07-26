@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Gokce Guven is a fellow from the class of 2021 who is currently working as a Fellow at Paradigm, a Others company based in Berkeley. Over the course of their career, they have worked at 13 organizations, including Accel <accel.com>; Adobe Systems <adobe.com>; OpenSearchServer <open-search-server.com>; Robinhood <robinhood.com>; Hoover Institution at Stanford University <hoover.org>; UC Berkeley <berkeley.edu>; Celonis <celonis.com>; OpenSea <opensea.io>; Paradigm <paradigm.xyz>; IDEO CoLab Ventures <ideocolab.com>; Kalder <kalder.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>; Kızlar Sahada Akademi (Girls On The Field Academy) <kizlarsahadaakademi.com>, and held 14 different job titles, such as Design Circle Scholar; Researcher, Carol Dweck'S Growth Mindset Lab; Project Developer; Product Lead; Fellow; Experience + Design Intern; Kleiner Perkins Fellow; Product Designer | Crypto; Accel Scholar; Summer User Experience Fellow And Makeathon Technologist | Crypto; Product Designer; Founder; Product Design Intern; Product Design. They have amassed 2 years of experience and have acquired 9 skills, including P2P; Circular Economy; Project Management; Entrepreneurship; Social Entrepreneurship; Team Leadership; Product Development; Networking; Sustainable Design. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Gokce Guven is a member of the class of 2021, currently serving as the Fellow at Paradigm, a Others company based in Berkeley. During their career, they've contributed to 13 organizations, including Accel, Adobe Systems, OpenSearchServer, and others. They've held various roles, such as Design Circle Scholar, Researcher, Carol Dweck'S Growth Mindset Lab, Project Developer, and more. Equipped with a repertoire of 9 skills, they are proficient in P2P, Circular Economy, Project Management, Entrepreneurship, Social Entrepreneurship, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jeff Wang is a fellow from the class of 2017 who is currently working as a Product Design Lead at GENEVA SOFTWARE TECHNOLOGIES LTD, a Others company based in Boulder. Over the course of their career, they have worked at 12 organizations, including GENEVA SOFTWARE TECHNOLOGIES LTD <genevasoftech.com>; WillowTree <willowtreeapps.com>; MojoTech <mojotech.com>; Nextdoor <nextdoor.com>; Stream <getstream.io>; Red Tettemer O'Connell + Partners <rtop.com>; Monthly <learnmonthly.com>; PRC <pacificrowingclub.org>; ADPList <adplist.org>; Root Technologies <root.com.mx>; On Deck <beondeck.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Founding Designer; Senior User Interface And User Experience Designer; Summer Rowing Coach; Design Mentor; Design Fellow; Odd2 Design Fellow - Design Management; Co-Founder And Design Lead; Head Of Design; Product Designer; Freelance; Product Design Lead; Interactive Design Intern. They have amassed 6 years of experience and have acquired 14 skills, including Wireframing; Adobe Creative Suite; Balsamiq; Graphic Design; Html5; Sketch3; Visual Design; User Interface Design; User Research; Interaction Design; Omnigraffle; Ux Design; Css; Research. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jeff Wang is a member of the class of 2017, currently serving as the Product Design Lead at GENEVA SOFTWARE TECHNOLOGIES LTD, a Others company based in Boulder. During their career, they've contributed to 12 organizations, including GENEVA SOFTWARE TECHNOLOGIES LTD, WillowTree, MojoTech, and others. They've held various roles, such as Founding Designer, Senior User Interface And User Experience Designer, Summer Rowing Coach, and more. Equipped with a repertoire of 14 skills, they are proficient in Wireframing, Adobe Creative Suite, Balsamiq, Graphic Design, Html5, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

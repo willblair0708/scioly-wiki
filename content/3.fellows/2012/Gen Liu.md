@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Gen Liu is a fellow from the class of 2012 who is currently working as a Senior Software Engineer at Waymo, a Others company based in San Francisco. Over the course of their career, they have worked at 4 organizations, including Zynga <zynga.com>; Google <google.com>; Waymo <waymo.com>; UCSD <ucsd.edu.do>, and held 5 different job titles, such as Student; Software Engineer Sre; Teaching Assistant; Software Engineer Intern; Senior Software Engineer. They have amassed 11 years of experience and have acquired 18 skills, including Php; Css; Git; Java; Javascript; Jsp; Linux; Java Enterprise Edition; Hadoop; C; Sql; Nosql; J2Ee; Subversion; Android; Html; Python; Hbase. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Gen Liu is a member of the class of 2012, currently serving as the Senior Software Engineer at Waymo, a Others company based in San Francisco. During their career, they've contributed to 4 organizations, including Zynga, Google, Waymo, and others. They've held various roles, such as Student, Software Engineer Sre, Teaching Assistant, and more. Equipped with a repertoire of 18 skills, they are proficient in Php, Css, Git, Java, Javascript, among others.  With 11 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Stéphane Colas is a fellow from the class of 2015 who is currently working as a Head Of Product at Mindbloom, a Others company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including Zynga <zynga.com>; Bell Labs <bell-labs.com>; ETH Zurich <ethz.ch>; Sonder <sonder.com>; McKinsey & Company <mckinsey.com>; Ethiopian Agricultural Transformation Agency <ata.gov.et>; Mindbloom <mindbloom.co>; ETH juniors <ethjuniors.ch>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Lead Product Manager; Director Of Product Management; Summer Intern; Public Relations; Teaching Assistant; Group Product Manager; Product Fellow; Senior Product Manager; Head Of Product; Fellow Associate; Senior Program Associate. They have amassed 8 years of experience and have acquired 23 skills, including Strategy; Telecommunications; It Business Strategy; Business Strategy; Matlab; Mobile Games; Leadership; Strategic Planning; Game Design; Web Development; Management Consulting; Mathematical Programming; Data Analysis; C++; Latex; Product Management; Analytics; Data Analytics; Operational Excellence; Organizational Design; Analysis; Outsourcing; Competitive Analysis. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Stéphane Colas is a member of the class of 2015, currently serving as the Head Of Product at Mindbloom, a Others company based in San Francisco. During their career, they've contributed to 9 organizations, including Zynga, Bell Labs, ETH Zurich, and others. They've held various roles, such as Lead Product Manager, Director Of Product Management, Summer Intern, and more. Equipped with a repertoire of 23 skills, they are proficient in Strategy, Telecommunications, It Business Strategy, Business Strategy, Matlab, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

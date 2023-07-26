@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ben Harris is a fellow from the class of 2022 who is currently working as a Software Engineer at Neednova, a Others company based in Houston. Over the course of their career, they have worked at 5 organizations, including Neednova <neednova.com>; KPCB <kleinerperkins.com>; Babylon <babylonmicrofarms.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Engineering Fellow; Enterprise Engineer; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Ben Harris is a member of the class of 2022, currently serving as the Software Engineer at Neednova, a Others company based in Houston. During their career, they've contributed to 5 organizations, including Neednova, KPCB, Babylon, and others. They've held various roles, such as Engineering Fellow, Enterprise Engineer, Software Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

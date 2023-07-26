@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Gregory Owen is a fellow from the class of 2013 who is currently working as a Software Engineer at Sigma Computing, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Amyris <amyris.com>; Huawei Symantec Technologies <huaweisymantec.com>; Nebula <nebula.com>; Databricks <databricks.com>; Princeton University <princeton.edu>; Sigma Computing <sigmacomputing.com>, and held 8 different job titles, such as Software Developer; Software Engineering Intern; Cloud Security Intern; Founder And President; Software Engineer; Intern; Senior Software Engineer; Security Intern. They have amassed 10 years of experience and have acquired 3 skills, including Computer Science; Chocolate; Research. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Gregory Owen is a member of the class of 2013, currently serving as the Software Engineer at Sigma Computing, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Amyris, Huawei Symantec Technologies, Nebula, and others. They've held various roles, such as Software Developer, Software Engineering Intern, Cloud Security Intern, and more. Equipped with a repertoire of 3 skills, they are proficient in Computer Science, Chocolate, Research, among others.  With 10 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

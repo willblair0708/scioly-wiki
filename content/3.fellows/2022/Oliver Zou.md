@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Oliver Zou is a fellow from the class of 2022 who is currently working as a Product at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Uber <uber.com>; University of Pennsylvania <upenn.edu>; McKinsey & Company <mckinsey.com>; Snackpass <snackpass.co>; AMERICAN RESEARCH INSTITUTE IN TURKEY <ccat.sas.upenn.edu>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Associate Product Manager; Product Management Intern; Kp Product Fellow; Summer Business Analyst; Product. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Oliver Zou is a member of the class of 2022, currently serving as the Product at Uber, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Uber, University of Pennsylvania, McKinsey & Company, and others. They've held various roles, such as Associate Product Manager, Product Management Intern, Kp Product Fellow, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

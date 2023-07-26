@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Robert Eng is a fellow from the class of 2016 who is currently working as a Co-Founder at Pylon Manufacturing, a Startup company based in Saratoga. Over the course of their career, they have worked at 10 organizations, including UC Santa Cruz <ucsc.edu>; DoorDash <doordash.com>; Speedy Packets <speedypackets.com>; Affinity <affinity.co>; Ikasi.ai <ikasi.ai>; California Institute of Technology <caltech.edu>; Hacktech <hacktech.io>; Meta <meta.com>; Pylon <usepylon.com>; Pylon Manufacturing <pylonhq.com>, and held 10 different job titles, such as Donut Devteam; Astronomy Research Intern; Software Engineer; Kpcb Engineering Fellow And Infrastructure Software Engineering Intern; Co-Head Director; Co-Founder; Information Security Intern; Software Engineer Internship; Teaching Assistant; Network Software Engineer Intern. They have amassed 7 years of experience and have acquired 17 skills, including Html; Python; C++; Sql; Javascript; Jquery; Xml; Node.Js; Mysql; C; Mongodb; Ejs; Socket.Io; Css; Adobe Illustrator; Php; Java. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Robert Eng is a member of the class of 2016, currently serving as the Co-Founder at Pylon Manufacturing, a Startup company based in Saratoga. During their career, they've contributed to 10 organizations, including UC Santa Cruz, DoorDash, Speedy Packets, and others. They've held various roles, such as Donut Devteam, Astronomy Research Intern, Software Engineer, and more. Equipped with a repertoire of 17 skills, they are proficient in Html, Python, C++, Sql, Javascript, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

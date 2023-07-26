@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Aiden Low Yew Woei is a fellow from the class of 2022 who is currently working as a Engineering at Applied Intuition, a Others company based in Mountain View. Over the course of their career, they have worked at 12 organizations, including NVIDIA <nvidia.com>; DSO National Laboratories <dso.org.sg>; Carousell <carousell.com>; National University of Singapore <nus.edu.sg>; Fellow Robots <fellowrobots.com>; National University Hospital <nuh.com.sg>; Applied Intuition <appliedintuition.com>; NUS Students' Computing Club <nuscomputing.com>; Open Government Products <open.gov.sg>; Meta <meta.com>; Stanford University School Of Medicine; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Research And Development Intern; Kleiner Perkins Engineering Fellow; Engineering; Software Engineer Intern; National University Hospital Job Shadowing Programme; Teaching Assistant; Enterprise Software Engineer; Product Manager; Founder; Research Intern, Ashley Lab; Artillery Recce And Survey Gunnery Assistant. They have amassed 1 years of experience and have acquired 10 skills, including Teamwork; React.Js; Leadership; Web Development; C; Javascript; Teaching; Negotiation; Python; Writing. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Aiden Low Yew Woei is a member of the class of 2022, currently serving as the Engineering at Applied Intuition, a Others company based in Mountain View. During their career, they've contributed to 12 organizations, including NVIDIA, DSO National Laboratories, Carousell, and others. They've held various roles, such as Research And Development Intern, Kleiner Perkins Engineering Fellow, Engineering, and more. Equipped with a repertoire of 10 skills, they are proficient in Teamwork, React.Js, Leadership, Web Development, C, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

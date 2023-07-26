@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ariane Lee is a fellow from the class of 2022 who is currently working as a Incoming Swe Intern at Apple, a Big Tech company based in New York. Over the course of their career, they have worked at 11 organizations, including Blackstone Group <blackstone.com>; New Jersey Institute of Technology <njit.edu>; Stanford Marketing <stanfordmarketing.org>; TreeHacks <treehacks.com>; Kode with Klossy <kodewithklossy.com>; Bumble <bumble.com>; Apple <apple.com>; Stanford University School Of Engineering; Kleiner Perkins Caufield & Byers <kpcb.com>; Fizz (Yc S21); Picnic Supermarkets <picnic.nl>, and held 15 different job titles, such as Campus Workshop Facilitator; Marketing, User Interface And User Experience Design, And Swe Intern; Aapis For Biden Newsletter Team Leader And Graphics Intern; Incoming Swe Intern; Front End Developer, Carta; Design Fellow; Bereal Consultant; Vc3 Director; Web Developer; Designer; Blackstone Future Women Leader'S Program; Campus Impact Manager; Growth Equity Investment Intern; Bootcamp Fellow; Researcher. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Ariane Lee is a member of the class of 2022, currently serving as the Incoming Swe Intern at Apple, a Big Tech company based in New York. During their career, they've contributed to 11 organizations, including Blackstone Group, New Jersey Institute of Technology, Stanford Marketing, and others. They've held various roles, such as Campus Workshop Facilitator, Marketing, User Interface And User Experience Design, And Swe Intern, Aapis For Biden Newsletter Team Leader And Graphics Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

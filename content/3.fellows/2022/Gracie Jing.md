@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Gracie Jing is a fellow from the class of 2022 who is currently working as a Software Engineer at Brex, a Others company based in Houston. Over the course of their career, they have worked at 9 organizations, including Fidelity Investments <fidelity.com>; Cornell University <cornell.edu>; Ezra Box <ezrabox.com>; Juni Learning <junilearning.com>; Brex <brex.com>; Amazon.com <amazon.es>; Paravane Ventures <paravaneventures.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>, and held 9 different job titles, such as Software Development Engineer Intern; Business Developer - Host Acquisition; Engineering Fellow; Product Designer; Software Engineer Intern; Market Research And Strategy Winter Analyst; Product Marketing And Operations; Software Engineer; Senior Computer Science Instructor. They have amassed 1 years of experience and have acquired 12 skills, including Microsoft Office; Html; Chinese; Microsoft Excel; Java; Css; Spanish; English; Python; Javascript; Market Research; Social Media. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Gracie Jing is a member of the class of 2022, currently serving as the Software Engineer at Brex, a Others company based in Houston. During their career, they've contributed to 9 organizations, including Fidelity Investments, Cornell University, Ezra Box, and others. They've held various roles, such as Software Development Engineer Intern, Business Developer - Host Acquisition, Engineering Fellow, and more. Equipped with a repertoire of 12 skills, they are proficient in Microsoft Office, Html, Chinese, Microsoft Excel, Java, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

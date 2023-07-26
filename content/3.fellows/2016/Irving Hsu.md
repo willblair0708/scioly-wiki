@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Irving Hsu is a fellow from the class of 2016 who is currently working as a Investment Partner at The MBA Fund, a Others company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including LinkedIn <linkedin.com>; Airbnb <airbnb.com>; Slack <slack.com>; Instagram <instagram.com>; Sandia National Labs <sandia.gov>; OnDeck <ondeck.com>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; Ethos Life <ethoslife.com>; Stanford Hospital & Clinics <stanfordhealthcare.org>; The MBA Fund <thembafund.com>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Probability And Statistics For Computer Science Teaching Assistant; Software Engineering Intern, Search And Travel; Data Scientist, Product Analytics; Investment Partner; Product Manager And Analytics Lead; Cybersecurity Research Intern; Kleiner Perkins Fellow | Machine Learning And Growth; Machine Learning Software Engineer, Growth; Founder Fellow; Software Engineering And Product Intern; Senior Data Scientist, Growth; Bioinformatics Research Intern; Software Engineering Intern, Social Graph; Kleiner Perkins Fellow. They have amassed 7 years of experience and have acquired 14 skills, including Html; Data Analysis; C++; R; Ruby On Rails; Matlab; Linux; Mysql; Jira; Java; Css; Javascript; C; Python. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Irving Hsu is a member of the class of 2016, currently serving as the Investment Partner at The MBA Fund, a Others company based in San Francisco. During their career, they've contributed to 13 organizations, including LinkedIn, Airbnb, Slack, and others. They've held various roles, such as Probability And Statistics For Computer Science Teaching Assistant, Software Engineering Intern, Search And Travel, Data Scientist, Product Analytics, and more. Equipped with a repertoire of 14 skills, they are proficient in Html, Data Analysis, C++, R, Ruby On Rails, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

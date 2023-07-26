@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rishik Lad is a fellow from the class of 2022 who is currently working as a Ml Engineer Intern at Moveworks, a Others company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Dartmouth College <dartmouth.edu>; Resonext Communications <resonext.com>; Fishball <fishball.us>; Contrary <contrarycap.com>; Aperian Global <aperianglobal.com>; Ground Up Ventures <groundup.vc>; Moveworks <moveworks.ai>; Unshackled <unshackled.co>; Tesla <tesla.com>; Myst AI <myst.ai>; Activus Capital Partners <activuscapital.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Venture Partner; Research Assistant; Co-Founder; Campus Partner; Venture Capital Fellow; Summer Intern; Private Equity Intern; Software Engineer Intern; Ml Engineer Intern; Engineering Fellow; Founder. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Rishik Lad is a member of the class of 2022, currently serving as the Ml Engineer Intern at Moveworks, a Others company based in San Francisco. During their career, they've contributed to 12 organizations, including Dartmouth College, Resonext Communications, Fishball, and others. They've held various roles, such as Venture Partner, Research Assistant, Co-Founder, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

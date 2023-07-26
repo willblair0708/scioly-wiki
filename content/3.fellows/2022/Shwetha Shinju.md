@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 4
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Shwetha Shinju is a fellow from the class of 2022 who is currently working as a Software Engineer at Infinitus, a Others company based in Pittsburgh. Over the course of their career, they have worked at 4 organizations, including Carnegie Mellon University <cmu.edu>; Avalara <avalara.com>; Amazon Web Services <amazonaws.com>; Infinitus <infinitus.ai>, and held 4 different job titles, such as Software Engineer; Web Developer; Sde Intern; Data Science Intern. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Shwetha Shinju is a member of the class of 2022, currently serving as the Software Engineer at Infinitus, a Others company based in Pittsburgh. During their career, they've contributed to 4 organizations, including Carnegie Mellon University, Avalara, Amazon Web Services, and others. They've held various roles, such as Software Engineer, Web Developer, Sde Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

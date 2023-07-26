@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rumburg Roneil is a fellow from the class of 2013 who is currently working as a Co-Founder And Chief Technology Officer at Audius, a Startup company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including AeroFS <aerofs.com>; Nebula <nebula.com>; Backslash <backslash.io>; KPCB Edge <kpcbedge.com>; Sine Nomine Associates <sinenomine.net>; Audius <audius.co>; Audius <audius.co>, and held 10 different job titles, such as Co-Founder; CEO; Chief Operating Officer; Assistant Systems Administrator; Software Engineering Intern; Engineering Partner; Co Founder; Co-Founder And Chief Technology Officer; Technical Intern; Vice President Of External Relations. They have amassed 10 years of experience and have acquired 23 skills, including Ruby On Rails; Css; Unix; System Administration; C; Web Development; Sql; Javascript; C++; Statistics; Computer Repair; Programming; Linux; Hardware; Python; Ruby; Java; Analysis; Html; Mysql; Git; Software Development; Php. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Rumburg Roneil is a member of the class of 2013, currently serving as the Co-Founder And Chief Technology Officer at Audius, a Startup company based in San Francisco. During their career, they've contributed to 7 organizations, including AeroFS, Nebula, Backslash, and others. They've held various roles, such as Co-Founder, CEO, Chief Operating Officer, and more. Equipped with a repertoire of 23 skills, they are proficient in Ruby On Rails, Css, Unix, System Administration, C, among others.  With 10 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

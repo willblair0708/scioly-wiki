@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Pippa Thomas is a fellow from the class of 2022 who is currently working as a Product Manager at Instacart, a Others company based in Los Angeles. Over the course of their career, they have worked at 10 organizations, including Cornell University <cornell.edu>; iD Tech Camps <idtech.com>; Instacart <instacart.com>; Contrary <contrarycap.com>; Eventene <eventene.com>; Suna Breakfast Inc <sunabreakfast.com>; YWCA Santa Monica <smywca.org>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; The Yogurt Shoppe <aplacetomix.com>, and held 12 different job titles, such as Associate, Strategy And Business Operations; Product, Founding Member; Project Lead, Nexis Research Member; Product Fellow; Server; Venture Partner; Co-Founder; Analyst, Strategy And Business Operations; Software Engineering Lead Instructor; Product Manager; Product Development Intern; Product Design Intern. They have amassed 1 years of experience and have acquired 22 skills, including Leadership; Research; Microsoft Word; Public Speaking; Java; Adobe Creative Suite; Educational Technology; Stata; Ios Development; Python; A/B Testing; Microsoft Excel; Html5; Augmented Reality; Coding Languages; Computer Hardware; Computer Science; Social Media; Css; Sql; Microsoft Office; Microsoft Powerpoint. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Pippa Thomas is a member of the class of 2022, currently serving as the Product Manager at Instacart, a Others company based in Los Angeles. During their career, they've contributed to 10 organizations, including Cornell University, iD Tech Camps, Instacart, and others. They've held various roles, such as Associate, Strategy And Business Operations, Product, Founding Member, Project Lead, Nexis Research Member, and more. Equipped with a repertoire of 22 skills, they are proficient in Leadership, Research, Microsoft Word, Public Speaking, Java, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

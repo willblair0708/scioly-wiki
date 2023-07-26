@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Yanlam Ko is a fellow from the class of 2021 who is currently working as a Software Engineer at Stripe, a Others company based in New York. Over the course of their career, they have worked at 6 organizations, including Stripe <stripe.com>; Cornell University <cornell.edu>; Response <tryresponse.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cornell App Development (Cuappdev) <cuappdev.org>, and held 6 different job titles, such as Course Consultant; Software Engineer Intern; Engineering Fellow; Team Lead; Software Engineer; Software Engineering Intern. They have amassed 2 years of experience and have acquired 16 skills, including Typescript; Origami Studio; Flask; Python; Sql; Object Oriented Programming; Figma; User Interface Design; React.Js; Javascript; Sketch; Java; Xcode; Swift; Web Design; Adobe Photoshop. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Yanlam Ko is a member of the class of 2021, currently serving as the Software Engineer at Stripe, a Others company based in New York. During their career, they've contributed to 6 organizations, including Stripe, Cornell University, Response, and others. They've held various roles, such as Course Consultant, Software Engineer Intern, Engineering Fellow, and more. Equipped with a repertoire of 16 skills, they are proficient in Typescript, Origami Studio, Flask, Python, Sql, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

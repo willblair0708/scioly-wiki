@@ -28,14 +28,11 @@ Number of Past Jobs: 19
 ::badge{type="info"}
 Number of Organizations: 16
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Advait Marathe is a fellow from the class of 2022 who is currently working as a Associate Product Manager Intern at Duolingo, a Others company based in San Diego. Over the course of their career, they have worked at 16 organizations, including SearchForce <searchforce.com>; NVIDIA <nvidia.com>; Duolingo <duolingo.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; ServiceNow Ventures <servicenow.com>; Amazon Web Services <amazonaws.com>; KPCB <kleinerperkins.com>; Kleiner Perkins <kleinerperkins.com>; Safari Kid <kido.school>; Open Scout <openscout.vc>; ClickED - Fotografia <clicked.com>; Product Space <productspace.org>; Data Science Society at Berkeley <dssberkeley.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Missionedu <missioneduk12.org>, and held 19 different job titles, such as Undergraduate Student Researcher; Scout; Fellow + Growth Committee; External Vice President; Student Researcher; Software Engineering Intern; Machine Learning Consultant; Project Manager; Programming Instructor; Software Engineer Intern; Engineering Fellow; Pm; Director Of Consulting; Founder; Fellowship Director; Product And Engineering; Associate Product Manager Intern; Solution Consulting Intern; Co Founder And Advisor. They have amassed 1 years of experience and have acquired 8 skills, including Communication; Public Speaking; Python; Web Design; Microsoft Office; Java; Sql; Community Outreach. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Advait Marathe is a member of the class of 2022, currently serving as the Associate Product Manager Intern at Duolingo, a Others company based in San Diego. During their career, they've contributed to 16 organizations, including SearchForce, NVIDIA, Duolingo, and others. They've held various roles, such as Undergraduate Student Researcher, Scout, Fellow + Growth Committee, and more. Equipped with a repertoire of 8 skills, they are proficient in Communication, Public Speaking, Python, Web Design, Microsoft Office, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

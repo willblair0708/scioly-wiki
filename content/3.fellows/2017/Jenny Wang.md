@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jenny Wang is a fellow from the class of 2017 who is currently working as a nan at nan, a Others company based in San Francisco. Over the course of their career, they have worked at 15 organizations, including Zoom Video Communications <zoom.us>; Rough Draft Ventures <roughdraft.vc>; DoorDash <doordash.com>; Google <google.com>; Kode with Klossy <kodewithklossy.com>; Carbon <carbon3d.com>; Shiffon Co. <shiffonco.com>; Neo <neo.com>; Re Email <re-email.com>; Kleiner Perkins <kleinerperkins.com>; Call for Coders <callforcoders.org>; re—inc <re-website.com>; Stealth Mode Startup Company <appcito.net>; Sequoia Capital India <sequoiacap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Engineering Fellow; Machine Learning Engineer; Board Member; Software Engineering And Kp Fellow; Ambassador For Google Atap Jacquard; Business Advisory Board; Always Learning Twitter.Com And @Jennywang01; Principal Investor; Research And Development Intern; Volunteer And Judge; Volunteer; Scout; Venture Partner; Cofounder And Founding Advisor. They have amassed 6 years of experience and have acquired 17 skills, including Qualitative Research; Leadership; Mathematical Modeling; Matlab; Venture Capital; Teamwork; Statistics; Science; Python; Scientific Writing; Public Speaking; Research; Computer Science; Data Analysis; Java; Entrepreneurship; Teaching. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jenny Wang is a member of the class of 2017, currently serving as the nan at nan, a Others company based in San Francisco. During their career, they've contributed to 15 organizations, including Zoom Video Communications, Rough Draft Ventures, DoorDash, and others. They've held various roles, such as Engineering Fellow, Machine Learning Engineer, Board Member, and more. Equipped with a repertoire of 17 skills, they are proficient in Qualitative Research, Leadership, Mathematical Modeling, Matlab, Venture Capital, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

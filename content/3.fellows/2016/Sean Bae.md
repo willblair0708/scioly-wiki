@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 16
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Sean Bae is a fellow from the class of 2016 who is currently working as a Founder at Stealth Mode Startup Company, a Startup company based in San Francisco. Over the course of their career, they have worked at 16 organizations, including Uber <uber.com>; University of Maryland <umd.edu>; Nextdoor <nextdoor.com>; Notion <notion.so>; Google <google.com>; Samsara <samsara.com>; Wolfram Research <wolfram.com>; Startup Shell <startupshell.org>; Sean Bae <seanbae.com>; KPCB <kleinerperkins.com>; Kleiner Perkins <kleinerperkins.com>; Stealth Mode Startup Company <appcito.net>; The National Security Agency <intelligencecareers.gov>; Meta <meta.com>; Google <goo.gle>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Technical Product Manager Intern; Director; Software Engineering Intern; Researcher; Founder; Software Engineer; Undergraduate Research Assistant; Research Intern; Software Engineer, Infrastructure; Kpcb Engineering Fellow; Research Engineer. They have amassed 7 years of experience and have acquired 24 skills, including Arduino; Java; Computer Science; Mathematica; Project Management; Linux; Prolog; Apache Spark; Mongodb; Ruby; Git; C; Node.Js; Ocaml; Javascript; Latex; Python; Planet; Php; Programming; Mysql; Machine Learning; Physics; Simulations. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Sean Bae is a member of the class of 2016, currently serving as the Founder at Stealth Mode Startup Company, a Startup company based in San Francisco. During their career, they've contributed to 16 organizations, including Uber, University of Maryland, Nextdoor, and others. They've held various roles, such as Technical Product Manager Intern, Director, Software Engineering Intern, and more. Equipped with a repertoire of 24 skills, they are proficient in Arduino, Java, Computer Science, Mathematica, Project Management, among others. Their expertise also encompasses advanced skills. With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Bill DeRose is a fellow from the class of 2013 who is currently working as a Engineering Manager, Machine Learning at PayPal, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including PayPal <paypal.com>; MongoDB <mongodb.com>; Pomona College <pomona.edu>; Bellarmine College Preparatory <bcp.org>; Microsoft <microsoft.com>; Breckenridge Outdoor Education Center <boec.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Graduate Student Researcher; Phd Student + Graduate Student Researcher; Kp Engineering Fellow; Software Engineer; Software Engineer Intern; Oec Staff; Engineering Manager, Machine Learning; Undergraduate Research Assistant; Geometry Teaching Assistant; Staff Machine Learning Engineer. They have amassed 10 years of experience and have acquired 54 skills, including Programming; Sql; Computer Vision; Object Oriented Programming; Optimization; R; Mathematica; Matlab; Git; Apache Spark; Linear Programming; Go; Scala; Scipy; Mathematics; Latex; Research; Mongodb; Keras; Docker; Powershell; Apache Airflow; Functional Programming; Convex Optimization; Data Analysis; Underscore.Js; Stochastic Optimization; Javascript; Python; React.Js; Stochastic Calculus; Postgresql; Numpy; Stochastic Processes; Regression Models; Computer Science; Machine Learning; Bash; C#; Typescript; Stochastic Methods; Backbone.Js; Statistics; Tensorflow; Robotics; Writing; Mysql; Flux; Statistical Modeling; Algorithms; Gulp.Js; Bower; Java; Stochastic Modeling. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Bill DeRose is a member of the class of 2013, currently serving as the Engineering Manager, Machine Learning at PayPal, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including PayPal, MongoDB, Pomona College, and others. They've held various roles, such as Graduate Student Researcher, Phd Student + Graduate Student Researcher, Kp Engineering Fellow, and more. Equipped with a repertoire of 54 skills, they are proficient in Programming, Sql, Computer Vision, Object Oriented Programming, Optimization, among others. Their expertise also encompasses advanced skills. With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

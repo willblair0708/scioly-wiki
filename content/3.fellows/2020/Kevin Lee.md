@@ -28,14 +28,11 @@ Number of Past Jobs: 17
 ::badge{type="info"}
 Number of Organizations: 16
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kevin Lee is a fellow from the class of 2020 who is currently working as a Chief Of Staff And Product Manager at Untapped Capital, a Others company based in Los Angeles. Over the course of their career, they have worked at 16 organizations, including Bessemer Venture Partners <bvp.com>; New Enterprise Associates <nea.com>; Kaiser Permanente <kp.org>; University of Southern California <usc.edu>; Hoover Institution at Stanford University <hoover.org>; DocuSign <docusign.com>; Stanford Consulting Group <stanfordconsulting.net>; Alpha Kappa Psi <akpsi.org>; Grid Solutions <gegridsolutions.com>; Ripcord <ripcord.com>; Kinfolk <kinfolk.com>; Stanford Graduate School of Business <gsb.stanford.edu>; Standford Alumni <stanfordalumni.org>; Untapped Capital <untapped.vc>; Potluck Ventures <potluck.vc>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 17 different job titles, such as Teaching Assistant; Alumni; Li Lab | Medical Research Intern; Bvp | Fellow; Ripcord | Product Manager; Digital Technology Leadership Program | Software Engineering Intern; Chief Of Staff And Product Manager; Investor And Advisor; Stanford Consulting | Management Consultant; Kleiner Perkins | Kp Product Fellow; Nea Next | Venture Capital Fellow + Product And Marketing Intern; Pi Tau Consulting | Management Consultant; Product Manager, Growth; Shih Lab | Neuroscience Research Intern; Engineer 103: Public Speaking | Teaching Assistant; Stanford Gsb | Research Assistant, Venture Capital Initiative; Kaiser Research And Development | Data Analytics Intern. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kevin Lee is a member of the class of 2020, currently serving as the Chief Of Staff And Product Manager at Untapped Capital, a Others company based in Los Angeles. During their career, they've contributed to 16 organizations, including Bessemer Venture Partners, New Enterprise Associates, Kaiser Permanente, and others. They've held various roles, such as Teaching Assistant, Alumni, Li Lab | Medical Research Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

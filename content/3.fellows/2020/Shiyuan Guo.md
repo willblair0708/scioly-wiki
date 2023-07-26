@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Shiyuan Guo is a fellow from the class of 2020 who is currently working as a Quantitative Developer at Citadel Securities, a Others company based in Menlo Park. Over the course of their career, they have worked at 7 organizations, including AT&T <att.com>; Uber <uber.com>; Zoom Video Communications <zoom.us>; IMC Financial Markets <imc.com>; UC Berkeley <berkeley.edu>; Citadel Securities <citadelsecurities.com>; Meta <meta.com>, and held 7 different job titles, such as Software Engineer Intern; Ml Engineer Intern; Quantitative Developer; Product Data Science Intern; Software Engineer Intern And Kp Fellow, Uber Atg; Software Engineer; Undergraduate Research Assistant. They have amassed 3 years of experience and have acquired 5 skills, including Algorithms; Entrepreneurship; Programming; Leadership; Web Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Shiyuan Guo is a member of the class of 2020, currently serving as the Quantitative Developer at Citadel Securities, a Others company based in Menlo Park. During their career, they've contributed to 7 organizations, including AT&T, Uber, Zoom Video Communications, and others. They've held various roles, such as Software Engineer Intern, Ml Engineer Intern, Quantitative Developer, and more. Equipped with a repertoire of 5 skills, they are proficient in Algorithms, Entrepreneurship, Programming, Leadership, Web Development, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

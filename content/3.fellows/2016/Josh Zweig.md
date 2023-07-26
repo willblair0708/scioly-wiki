@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Josh Zweig is a fellow from the class of 2016 who is currently working as a Co-Founder at Zip Security, a Startup company based in New York. Over the course of their career, they have worked at 11 organizations, including Columbia University <columbia.edu>; Area 1 Security <area1security.com>; Zip Security <zipsecurity.es>; Palantir Technologies <palantir.com>; Microsoft <microsoft.com>; Nav Talent <navtalent.com>; Stealth Mode Startup Company <appcito.net>; Stealth Startup; Stealth; Ohm Security; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer; Software Development Intern; Co-Founder; Engineering Fellow; Entrepreneur In Residence; Civil Liberties Engineering Intern; Head Teaching Assistant; Civil Liberties Engineer. They have amassed 7 years of experience and have acquired 14 skills, including C++; Entrepreneurship; Google Apps Scripting Language; Teamwork; Computer Science; Git; Public Speaking; Html; Event Planning; Java; Ruby On Rails; Data Analysis; Eclipse; Thought Leadership. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Josh Zweig is a member of the class of 2016, currently serving as the Co-Founder at Zip Security, a Startup company based in New York. During their career, they've contributed to 11 organizations, including Columbia University, Area 1 Security, Zip Security, and others. They've held various roles, such as Software Engineer, Software Development Intern, Co-Founder, and more. Equipped with a repertoire of 14 skills, they are proficient in C++, Entrepreneurship, Google Apps Scripting Language, Teamwork, Computer Science, among others.  With 7 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

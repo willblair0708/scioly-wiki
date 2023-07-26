@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Chris Munene is a fellow from the class of 2021 who is currently working as a Software Engineering Intern at Meta, a Big Tech company based in nan. Over the course of their career, they have worked at 8 organizations, including Harvard University <harvard.edu>; Harvard Student Agencies <hsa.net>; Twende <twende.app>; DEV: A Harvard Student Agency <hsa.dev>; Meta <meta.com>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Fizz (Yc S21), and held 7 different job titles, such as Frontend Developer; Gym Monitor; Software Engineering Intern; Founding Engineer; College Tutor; Full-Stack Developer; Engineering Fellow. They have amassed 2 years of experience and have acquired 36 skills, including Android Development; Django; Cascading Style Sheets; Graphics; User Experience Design; Flutter; Ruby On Rails; Github; Ruby; Front End Development; Android; React Native; Teamwork; Data Visualization; Full Stack Development; Redux.Js; Jquery; Vue.Js; Adobe Xd; Flask; User Research; C++; Prototyping; Web Design; Web Development; Software Development; User Interface Design; Customer Service; Microsoft Excel; Firebase; Project Management; React.Js; Heroku; Node.Js; User Experience; Javascript. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Chris Munene is a member of the class of 2021, currently serving as the Software Engineering Intern at Meta, a Big Tech company based in nan. During their career, they've contributed to 8 organizations, including Harvard University, Harvard Student Agencies, Twende, and others. They've held various roles, such as Frontend Developer, Gym Monitor, Software Engineering Intern, and more. Equipped with a repertoire of 36 skills, they are proficient in Android Development, Django, Cascading Style Sheets, Graphics, User Experience Design, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

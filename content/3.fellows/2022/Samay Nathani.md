@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Samay Nathani is a fellow from the class of 2022 who is currently working as a Software Engineer at Robinhood, a Others company based in New York. Over the course of their career, they have worked at 7 organizations, including Cisco <cisco.com>; Robinhood <robinhood.com>; Snap <snap.com>; Amazon.com <amazon.es>; CalPoly <calpolyjobs.org>; Block <block.xyz>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineer Intern; Software Engineer; Engineering Fellow; Undergraduate Teaching Assistant; Backend Engineer Intern; Ml Intern; I3 Research Fellow - Funded By The Andrew W. Mellon Foundation; Junior Software Development Engineer. They have amassed 1 years of experience and have acquired 9 skills, including Analytic Problem Solving; Github; Technical Writing; C (Programming Language; Python; Agile Methodologies; Java; Computer Vision; Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Samay Nathani is a member of the class of 2022, currently serving as the Software Engineer at Robinhood, a Others company based in New York. During their career, they've contributed to 7 organizations, including Cisco, Robinhood, Snap, and others. They've held various roles, such as Software Engineer Intern, Software Engineer, Engineering Fellow, and more. Equipped with a repertoire of 9 skills, they are proficient in Analytic Problem Solving, Github, Technical Writing, C (Programming Language, Python, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

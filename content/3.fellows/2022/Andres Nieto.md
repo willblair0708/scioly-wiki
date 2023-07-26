@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Andres Nieto is a fellow from the class of 2022 who is currently working as a Back End Engineer at Waltz Health, a Others company based in Chicago. Over the course of their career, they have worked at 7 organizations, including CTRL <ctrl-tv.com>; University of Chicago <uchicago.edu>; Shelf Engine <shelfengine.com>; U.S. Digital Response <usdigitalresponse.org>; Meta <meta.com>; Waltz Health <waltzhealth.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Data Science Volunteer; Data Science Intern; Back End Engineer; Co-Founder And Product Manager; Product Growth Intern; Teaching Assistant; Experienced Associate; Engineering Fellow. They have amassed 1 years of experience and have acquired 45 skills, including Operations Management; Business Analytics; Data Engineering; Deep Learning; Flask; Leadership; Agile Methodologies; Data Analysis; Teamwork; Python; Market Research; Spanish; Numpy; Pandas; Data Science; Transform; Machine Learning; Business Development; Product Management; Sql; Data Analytics; Tableau; Business Strategy; Statistics; Business Insights; Apache Spark; Neural Networks; Entrepreneurship; Extract; Project Management; Artificial Neural Networks; Go; Amazon Web Services; Critical Thinking; Business Intelligence; Public Speaking; Github; Natural Language Processing; Corporate Strategy; Load; R; Business Operations; Forecasting; Research; Artificial Intelligence. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Andres Nieto is a member of the class of 2022, currently serving as the Back End Engineer at Waltz Health, a Others company based in Chicago. During their career, they've contributed to 7 organizations, including CTRL, University of Chicago, Shelf Engine, and others. They've held various roles, such as Data Science Volunteer, Data Science Intern, Back End Engineer, and more. Equipped with a repertoire of 45 skills, they are proficient in Operations Management, Business Analytics, Data Engineering, Deep Learning, Flask, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

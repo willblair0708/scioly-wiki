@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kevin Li is a fellow from the class of 2022 who is currently working as a Engineering at Applied Intuition, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Stripe <stripe.com>; Kodable <kodable.com>; UC Berkeley <berkeley.edu>; Cruise <getcruise.com>; Waymo <waymo.com>; Applied Intuition <appliedintuition.com>; Blueprint <calblueprint.org>, and held 10 different job titles, such as PhD Candidate; Researcher, Robotic Ai And Learning Lab; Project Developer; Software Developer Intern; Researcher, Autolab; Software Engineer Intern; Project Leader, Rocky Mountain Institute; Head Ta, Cs 189; Engineering; Vice President Of Technology. They have amassed 1 years of experience and have acquired 8 skills, including Cocos2D; Html; Redux; Java; Javascript; Ruby On Rails; Python; React.Js. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kevin Li is a member of the class of 2022, currently serving as the Engineering at Applied Intuition, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including Stripe, Kodable, UC Berkeley, and others. They've held various roles, such as PhD Candidate, Researcher, Robotic Ai And Learning Lab, Project Developer, and more. Equipped with a repertoire of 8 skills, they are proficient in Cocos2D, Html, Redux, Java, Javascript, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

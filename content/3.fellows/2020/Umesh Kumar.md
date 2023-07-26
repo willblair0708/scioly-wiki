@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 17
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Umesh Kumar is a fellow from the class of 2020 who is currently working as a Product Manager : Underwriting at Middesk, a Others company based in New York. Over the course of their career, they have worked at 17 organizations, including Sequoia Capital <sequoiacap.com>; Credit Karma <creditkarma.com>; TD <td.com>; Flexport <flexport.com>; Bayer <bayer.com>; Jumpstart <jumpstart.me>; VO Group <vogroup.com>; Front Row Ventures <frontrow.ventures>; Clearbanc <clearbanc.com>; Middesk <middesk.com>; We Love Toast, Inc. <welovetoast.com>; Amina Health <aminahealth.com>; Webmefy - Shopify plus consultant <webmefy.com>; Nearside <hatchcard.com>; Sequoia Capital India <sequoiacap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pylon <usepylon.com>, and held 15 different job titles, such as Software Engineering Intern; Founder; Investor; Sequoia Scout; Product Manager : Business Checking; Investment Associate; Product Manager : Underwriting; Solutions Engineering Intern; Grants4Apps Accelerator Cohort 2015; Product Manager : Monetization; Kp Product Fellow; Product Manager : Flexport Capital; Advisor; Product Engineering Intern; Product Manager : Analytics. They have amassed 3 years of experience and have acquired 26 skills, including Research; Highly Adaptive; Web Development; Windows; Javascript; Data Analysis; Management; Customer Service; Analysis; Microsoft Excel; Teamwork; C++; Finance; Marketing; Leadership; Time Management; Team Leadership; C#; Project Management; Entrepreneurship; Android; Software Development; Microsoft Office; Critical Thinking; Public Speaking; Java. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Umesh Kumar is a member of the class of 2020, currently serving as the Product Manager : Underwriting at Middesk, a Others company based in New York. During their career, they've contributed to 17 organizations, including Sequoia Capital, Credit Karma, TD, and others. They've held various roles, such as Software Engineering Intern, Founder, Investor, and more. Equipped with a repertoire of 26 skills, they are proficient in Research, Highly Adaptive, Web Development, Windows, Javascript, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

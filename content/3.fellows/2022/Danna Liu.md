@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Danna Liu is a fellow from the class of 2022 who is currently working as a Co-Founder at PoplarML, a Startup company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including PagerDuty <pagerduty.com>; Stripe <stripe.com>; Carleton University <carleton.ca>; Revolution’s Rise of the Rest Seed Fund <revolution.com>; Clear Ventures <clear.ventures>; Contrary <contrarycap.com>; Microsoft <microsoft.com>; Snap <snap.com>; Coinbase <coinbase.com>; VirtualMeet <virtualmeet.com>; PoplarML <poplarml.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Co-Founder; Software Engineer; Contrary Fellow; Engineering Fellow; Backend Software Engineer; Teaching Assistant; Venture Fellow; Applied Research Engineer; Backend Developer; Frontend Developer; Software Engineer And Product Manager. They have amassed 1 years of experience and have acquired 22 skills, including Dart; French; Cooperation; Java; Cascading Style Sheets; React Native; Communication; English; Leadership; Javafx; Javascript; Mobile Application Development; Organization Skills; Git; Html; Object Oriented Programming; Numpy; Interpersonal Skills; Programming; Teamwork; Python; Resiliency. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Danna Liu is a member of the class of 2022, currently serving as the Co-Founder at PoplarML, a Startup company based in San Francisco. During their career, they've contributed to 12 organizations, including PagerDuty, Stripe, Carleton University, and others. They've held various roles, such as Co-Founder, Software Engineer, Contrary Fellow, and more. Equipped with a repertoire of 22 skills, they are proficient in Dart, French, Cooperation, Java, Cascading Style Sheets, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

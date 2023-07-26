@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Brian Zhou is a fellow from the class of 2021 who is currently working as a Incoming Associate Product Manager at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Uber <uber.com>; Postmates <postmates.com>; Associated Students of the University of California <asuc.org>; CollegeVine <collegevine.com>; Cocoweb <cocoweb.com>; KPCB <kleinerperkins.com>; Business Careers in Entertainment Club <berkeleybcec.com>; Product Space <productspace.org>; Salesforce.com <fullsecsolutions.com>; 66 Raw <66raw.com>; SBC <sbcberkeley.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 16 different job titles, such as Deputy Chief Financial Officer; Assistant Elections Auditor; Project Manager; Product Fellow; Undergraduate Representative, Board Of Directors; Incoming Associate Product Manager; Marketing Intern; Associate Product Management Intern; Consultant; Music Committee; Chair, Board Of Directors; Applications And Sat Program Consultant; Vice President Of External Affairs; Spaces Director; Digital Marketing Intern; Product Management Intern. They have amassed 2 years of experience and have acquired 15 skills, including Imagej; E Commerce; Social Media; Sql; Financial Accounting; Event Management; Salesforce.Com; Research; Data Analysis; Python; Microsoft Office; Digital Marketing; Project Management; Microsoft Excel; Adobe Indesign. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Brian Zhou is a member of the class of 2021, currently serving as the Incoming Associate Product Manager at Uber, a Others company based in San Francisco. During their career, they've contributed to 12 organizations, including Uber, Postmates, Associated Students of the University of California, and others. They've held various roles, such as Deputy Chief Financial Officer, Assistant Elections Auditor, Project Manager, and more. Equipped with a repertoire of 15 skills, they are proficient in Imagej, E Commerce, Social Media, Sql, Financial Accounting, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

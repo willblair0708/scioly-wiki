@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Tianyi Xie is a fellow from the class of 2020 who is currently working as a Senior Interaction Designer at Google, a Big Tech company based in Cupertino. Over the course of their career, they have worked at 9 organizations, including CVSHealth <cvshealth.com>; Kent State University <kent.edu>; Google <google.com>; New York University <nyu.edu>; Shiseido <shiseido.com>; C3.ai <c3energy.com>; Nearside <hatchcard.com>; Flourish <flouriship.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Product Head, Founding Member @ Giaran; Experience Design Intern; Visual And User Experience Designer; Design Fellow; Undergrad Intern Â Mobile Experience Design; Kp Design Fellow At Nearside; Senior Product Designer; Creative Artist; Product Designer; User Interface And User Experience Designer; Senior Interaction Designer; Teacher Assistant. They have amassed 3 years of experience and have acquired 18 skills, including Public Speaking; Graphics; Microsoft Office; Indesign; Graphic Design; Adobe Creative Suite; Illustrator; Advertising; Illustration; Art; Photoshop; Creative Direction; Microsoft Excel; Typography; Research; Photography; Microsoft Word; Powerpoint. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Tianyi Xie is a member of the class of 2020, currently serving as the Senior Interaction Designer at Google, a Big Tech company based in Cupertino. During their career, they've contributed to 9 organizations, including CVSHealth, Kent State University, Google, and others. They've held various roles, such as Product Head, Founding Member @ Giaran, Experience Design Intern, Visual And User Experience Designer, and more. Equipped with a repertoire of 18 skills, they are proficient in Public Speaking, Graphics, Microsoft Office, Indesign, Graphic Design, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Varun Arora is a fellow from the class of 2019 who is currently working as a Software Engineer at Party Round, a Others company based in New York. Over the course of their career, they have worked at 14 organizations, including MongoDB <mongodb.com>; Flatiron School <flatironschool.com>; Cadre <cadre.com>; Contrary <contrarycap.com>; Lime <li.me>; VandyHacks <vandyhacks.org>; William Megelich <pinterest.dk>; Kleiner Perkins <kleinerperkins.com>; Party Round <partyround.com>; Meta <meta.com>; Varun <varun.codes>; Kleiner Perkins Caufield & Byers <kpcb.com>; Vandyapps <vandyapps.club>; Pinterest <pinterest.com.au>, and held 12 different job titles, such as Founding Venture Partner; Engineering Fellow; Software Engineering Intern; President; Software Engineer; Liaison; Senior Advisor; Software Engineer Ii; Development Team; Teaching Assistant; Director Of Development; Founding Engineer. They have amassed 4 years of experience and have acquired 18 skills, including Ruby; Python; Node.Js; Java; Html 5; Research; Git; React.Js; Android; F#; Postgresql; Android Development; Ocaml; Public Speaking; Mongodb; Programming; Javascript; C++. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Varun Arora is a member of the class of 2019, currently serving as the Software Engineer at Party Round, a Others company based in New York. During their career, they've contributed to 14 organizations, including MongoDB, Flatiron School, Cadre, and others. They've held various roles, such as Founding Venture Partner, Engineering Fellow, Software Engineering Intern, and more. Equipped with a repertoire of 18 skills, they are proficient in Ruby, Python, Node.Js, Java, Html 5, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

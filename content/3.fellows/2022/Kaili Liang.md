@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kaili Liang is a fellow from the class of 2022 who is currently working as a Co-Founder at Jailed For Melanin, a Startup company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Goldman Sachs <goldmansachs.com>; Slack <slack.com>; Uber <uber.com>; Neurotrack <neurotrack.com>; Tufts University <tufts.edu>; William Megelich <pinterest.dk>; KPCB <kleinerperkins.com>; The Women's Foundation 婦女基金會 <twfhk.org>; Mathnasium <mathnasium.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Jailed For Melanin; Pinterest <pinterest.com.au>, and held 10 different job titles, such as Teaching Assistant; Co-Founder; Analyst; Pinterest Engage Scholar; Software Engineer Intern; Women S Possibilities Summit; Mathematics Instructor; Communication And Events Intern; Engineering Fellow; Uberstar Software Engineer Intern. They have amassed 1 years of experience and have acquired 6 skills, including C++; Python; Black And White Photography; Redux; React.Js; Javascript. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Kaili Liang is a member of the class of 2022, currently serving as the Co-Founder at Jailed For Melanin, a Startup company based in San Francisco. During their career, they've contributed to 12 organizations, including Goldman Sachs, Slack, Uber, and others. They've held various roles, such as Teaching Assistant, Co-Founder, Analyst, and more. Equipped with a repertoire of 6 skills, they are proficient in C++, Python, Black And White Photography, Redux, React.Js, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

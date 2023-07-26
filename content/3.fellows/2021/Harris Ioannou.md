@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Harris Ioannou is a fellow from the class of 2021 who is currently working as a Product Manager at Google, a Big Tech company based in New York. Over the course of their career, they have worked at 15 organizations, including European Commission <europa.eu>; TED <ted.com>; University of Cambridge <cam.ac.uk>; National Technical University of Athens <ntua.gr>; Google <google.com>; Plano Independent School District <pisd.edu>; Columbia School of Business <gsb.columbia.edu>; Open Raven <openraven.com>; Kleiner Perkins <kleinerperkins.com>; Amazon.com <amazon.es>; Public Speaking <publicspeaking.se>; BioAssist S.A. <bioassist.gr>; Codepi <codepi.com>; Google <goo.gle>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 15 different job titles, such as Graduate Teaching Assistant; Guest Speaker; Software And Junior Research Engineer; Engineer And Analyst; Teaching Assistant; Product Manager; Guest And Keynote Speaker; Hangouts On Air Series Host; Co-Founder And Chief Technology Officer; Summer Intern; Founder; Keynote Speaker; Google Science Fair 2013 - Global Finalist; All Things Software And Product; Product Management Fellow. They have amassed 2 years of experience and have acquired 41 skills, including C; Eagle Pcb; English; Computer Vision; C++; Matlab; Python; Embedded Systems; Data Mining And Pattern Recognition; Robotics; Strategic Planning; Sensors; Leadership; Management; Web Applications; Public Speaking; Wearable Systems; Machine Learning; Html 5; Mobile Applications; Programming; Linux; Inventor; Solidworks; Microcontrollers; Research; Business Development; Project Management; 3D Printing; Product Management; Global Shapers Athens Hub Member; Automated Control; Computer Science; Cad; Java; Social Media; Arduino; Uix; Artificial Intelligence; Teamwork; Autocad. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Harris Ioannou is a member of the class of 2021, currently serving as the Product Manager at Google, a Big Tech company based in New York. During their career, they've contributed to 15 organizations, including European Commission, TED, University of Cambridge, and others. They've held various roles, such as Graduate Teaching Assistant, Guest Speaker, Software And Junior Research Engineer, and more. Equipped with a repertoire of 41 skills, they are proficient in C, Eagle Pcb, English, Computer Vision, C++, among others. Their expertise also encompasses advanced skills. With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

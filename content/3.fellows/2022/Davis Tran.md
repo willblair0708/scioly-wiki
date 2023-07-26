@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Davis Tran is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Philadelphia. Over the course of their career, they have worked at 10 organizations, including Workday <workday.com>; Robinhood <robinhood.com>; University of Pennsylvania <upenn.edu>; KPCB <kleinerperkins.com>; Kleiner Perkins <kleinerperkins.com>; Lab USA <lab-usa.us>; VietLEAD <vietlead.org>; menon labs <menonlabs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; The Global Teaching Project <globalteachingproject.com>, and held 14 different job titles, such as Scholar; Research Intern; Software Development Engineer Intern; Data Science Research Intern; Backend Developer; Software Engineering Intern; Resilient Roots Intern; Engineering Complex Networks Teaching Assistant; Computational Researcher; Engineering Fellow; Coding Instructor; Computer Science Teaching Assistant; Software Engineer Intern; Head Cis 110 Teaching Assistant. They have amassed 1 years of experience and have acquired 49 skills, including Algorithms; Web Applications; Matlab; Event Management; Redux.Js; Research; Agile; Python; 3D Computer Aided Design; Programming; Public Speaking; Ruby; Github; Leadership; Arduino; Mysql; Html; Junit; Typescript; Solidworks; Research Projects; Android; Express.Js; Full Stack Development; Microsoft Office; Computer Science; Javascript; Node.Js; Web Development; Bootstrap; Jquery; Ocaml; Css; React.Js; Sql; Agile Methodologies; Databases; Java; Amazon Web Services; Ruby On Rails; Software Development; Django; Creative Problem Solving; Team Leadership; Analytical Skills; Object Oriented Programming; Git; Communication; Data Structures. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Davis Tran is a member of the class of 2022, currently serving as the Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Philadelphia. During their career, they've contributed to 10 organizations, including Workday, Robinhood, University of Pennsylvania, and others. They've held various roles, such as Scholar, Research Intern, Software Development Engineer Intern, and more. Equipped with a repertoire of 49 skills, they are proficient in Algorithms, Web Applications, Matlab, Event Management, Redux.Js, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

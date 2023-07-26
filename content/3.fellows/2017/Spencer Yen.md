@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Spencer Yen is a fellow from the class of 2017 who is currently working as a Software Engineer at Uniswap Labs, a Others company based in Saratoga. Over the course of their career, they have worked at 11 organizations, including FWD.us <fwd.us>; DoorDash <doordash.com>; Dorm Room Fund <dormroomfund.com>; superlabs <superlabs.io>; Everteam <everteam.com>; Nav Talent <navtalent.com>; Snackpass <snackpass.co>; HSHacks <hshacks.com>; Ever <everalbum.com>; Uniswap Labs; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Software Engineering Intern; Investment Partner; Campus Leader; Engineering And Product; Kpcb Engineering Fellow; Co-Director; Incoming Software Engineering Intern; Ios Volunteer; Software Engineer. They have amassed 6 years of experience and have acquired 21 skills, including Html; Web Development; Ios Development; Objective C; Javascript; Graphic Design; Html5; Web Design; Python; Html 5; Software Engineering; Windows; Social Media; Photoshop; Java; Git; Css; Wordpress; Public Speaking; Ios; Customer Service. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Spencer Yen is a member of the class of 2017, currently serving as the Software Engineer at Uniswap Labs, a Others company based in Saratoga. During their career, they've contributed to 11 organizations, including FWD.us, DoorDash, Dorm Room Fund, and others. They've held various roles, such as Software Engineering Intern, Investment Partner, Campus Leader, and more. Equipped with a repertoire of 21 skills, they are proficient in Html, Web Development, Ios Development, Objective C, Javascript, among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Aman Dhesi is a fellow from the class of 2013 who is currently working as a Co-Founder And Chief Technology Officer at Stelo Labs, a Startup company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including IBM <ibm.com>; Square <squareup.com>; Drawbridge <drawbridge.com>; DoorDash <doordash.com>; Afore Capital <afore.vc>; MyselfFit <myselffit.mystrikingly.com>; Microsoft <microsoft.com>; Meta <meta.com>; Stelowallet <stelowallet.com>; Stelolabs <stelolabs.com>; Stelo Labs <blog.stelolabs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Glotify <glotify.com>, and held 11 different job titles, such as Product Manager; Software Engineer And Tech Lead, Machine Learning; Venture Product Partner; Research Intern; Engineering Fellow; Co-Founder And Chief Technology Officer; Angel Investor; Software Engineer, Machine Learning; Data Scientist And Kpcb Engineer Fellow; Product Manager, Square Capital; Founding Pm, Blood Donations. They have amassed 10 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Aman Dhesi is a member of the class of 2013, currently serving as the Co-Founder And Chief Technology Officer at Stelo Labs, a Startup company based in San Francisco. During their career, they've contributed to 13 organizations, including IBM, Square, Drawbridge, and others. They've held various roles, such as Product Manager, Software Engineer And Tech Lead, Machine Learning, Venture Product Partner, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 10 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

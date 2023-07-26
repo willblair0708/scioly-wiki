@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Geoffrey Vedernikoff is a fellow from the class of 2013 who is currently working as a Software Engineer at Google, a Big Tech company based in New York. Over the course of their career, they have worked at 10 organizations, including Chegg <chegg.com>; IFTTT <ifttt.com>; Perceptual Networks <perceptualnet.com>; Watchsend <watchsend.com>; RaiseMe <raise.me>; Google <google.com>; University of Pennsylvania <upenn.edu>; PennApps <pennapps.com>; Penn Labs <pennlabs.org>; Someone you follow <yef.im>, and held 7 different job titles, such as Full Stack Software Engineer; Web Developer; Product Development Intern; Software Engineer; Web Development Intern; Director; Organizer. They have amassed 10 years of experience and have acquired 15 skills, including Git; Flask; Java; Bash; Hadoop; Django; Python; React.Js; Javascript; Android; Backbone.Js; Html; Jquery; Ocaml; Ruby. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Geoffrey Vedernikoff is a member of the class of 2013, currently serving as the Software Engineer at Google, a Big Tech company based in New York. During their career, they've contributed to 10 organizations, including Chegg, IFTTT, Perceptual Networks, and others. They've held various roles, such as Full Stack Software Engineer, Web Developer, Product Development Intern, and more. Equipped with a repertoire of 15 skills, they are proficient in Git, Flask, Java, Bash, Hadoop, among others.  With 10 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

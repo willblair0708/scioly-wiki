@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Blair Kaneshiro is a fellow from the class of 2014 who is currently working as a Research Scholar at Hoover Institution at Stanford University, a Others company based in Stanford. Over the course of their career, they have worked at 5 organizations, including Smule <smule.com>; Shazam <shazam.com>; Hoover Institution at Stanford University <hoover.org>; Standford Alumni <stanfordalumni.org>; Stanford University School Of Medicine, and held 12 different job titles, such as Research Scholar; Education; Stanford University; Course Developer; Graduate Teaching Assistant; Affiliated Researcher; Research Assistant; Music Research Lead; Adjunct Professor; Research And Development Associate; Postdoctoral Scholar; Research Scientist, Otolaryngology. They have amassed 9 years of experience and have acquired 26 skills, including Pattern Recognition; Machine Learning; Acoustics; Music; Statistics; Eeg; Digital Signal Processors; Digital Signal Processing; Algorithms; Research; Matlab; Music Theory; Cognitive Neuroscience; Irb; Proofreading; Sound; Writing And Editing; R; Latex; Human Computer Interaction; Scientific Writing; Human Subjects Research; Event Planning; Experimental Design; Audio Processing; Teaching. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Blair Kaneshiro is a member of the class of 2014, currently serving as the Research Scholar at Hoover Institution at Stanford University, a Others company based in Stanford. During their career, they've contributed to 5 organizations, including Smule, Shazam, Hoover Institution at Stanford University, and others. They've held various roles, such as Research Scholar, Education, Stanford University, and more. Equipped with a repertoire of 26 skills, they are proficient in Pattern Recognition, Machine Learning, Acoustics, Music, Statistics, among others. Their expertise also encompasses advanced skills. With 9 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

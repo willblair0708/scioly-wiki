@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 12
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Molly Mielke is a fellow from the class of 2021 who is currently working as a Founding Partner at Moth Fund, a Others company based in San Francisco. Over the course of their career, they have worked at 12 organizations, including Stripe <stripe.com>; Figma <figma.com>; Notion <notion.so>; Peak Design <peakdesign.com>; Entireworld <theentireworld.com>; Discovery <discovery.com>; The Browser Company <thebrowser.company>; Pogo <joinpogo.com>; Molly Mielke <mollymielke.com>; Mindset Like A Mother <lifestylelogiccoaching.com>; Moth Fund; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Marketing Intern; Marketing; Design Fellow; Founder; Fellow; Product Design Intern; Intern; Product Design And Creative Intern; Freelance Researcher, Writer, And Designer; Founding Partner; Junior Graphic Designer; Graphic Design Intern; Stripe Press Editor; Product Designer. They have amassed 2 years of experience and have acquired 50 skills, including Video Color Grading; Online Social Networking; Adobe Indesign; Competitive Analysis; Image Editing; Time Management; Adobe Photoshop; Short Films; Graphic Design; People Skills; Microsoft Word; Social Media; Production Assistance; Camera/Film Equipment; Illustration; Painting; Logo Design; Storytelling; Photography; Adobe Illustrator; Event Planning; Microsoft Excel; Film Production; Film; Leadership; Video; Media Production; Set Photographer; Electronics; Video Production; Adobe Creative Suite; Research; Movie Posters; Audio Recording; Motion Graphics; Drawing; Organizational Services; Writing; Customer Service; Html; Advertising; Teamwork; Online Store; Typography; Data Analysis; Audio Editing; Microsoft Powerpoint; Studio Recording; Web Content; Written Communication. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Molly Mielke is a member of the class of 2021, currently serving as the Founding Partner at Moth Fund, a Others company based in San Francisco. During their career, they've contributed to 12 organizations, including Stripe, Figma, Notion, and others. They've held various roles, such as Marketing Intern, Marketing, Design Fellow, and more. Equipped with a repertoire of 50 skills, they are proficient in Video Color Grading, Online Social Networking, Adobe Indesign, Competitive Analysis, Image Editing, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

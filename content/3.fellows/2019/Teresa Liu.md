@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Teresa Liu is a fellow from the class of 2019 who is currently working as a Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. Over the course of their career, they have worked at 9 organizations, including Lyft <lyft.com>; Nextdoor <nextdoor.com>; Google <google.com>; Horizons <joinhorizons.com>; Climatebase <climatebase.org>; Stealth Mode Startup Company <appcito.net>; Meta <meta.com>; 776 Foundation <776.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Software Engineering Fellow; Systems Infrastructure Intern; Associate Product Manager Intern; Engineering Fellow; Founder; Software Engineering Intern; Associate Product Manager; Fellow. They have amassed 4 years of experience and have acquired 9 skills, including Javascript; Html/Css; Adobe Illustrator; Leadership; Java; C++; Graphic Design; Music; Web Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Teresa Liu is a member of the class of 2019, currently serving as the Founder at Stealth Mode Startup Company, a Startup company based in Los Angeles. During their career, they've contributed to 9 organizations, including Lyft, Nextdoor, Google, and others. They've held various roles, such as Software Engineering Fellow, Systems Infrastructure Intern, Associate Product Manager Intern, and more. Equipped with a repertoire of 9 skills, they are proficient in Javascript, Html/Css, Adobe Illustrator, Leadership, Java, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

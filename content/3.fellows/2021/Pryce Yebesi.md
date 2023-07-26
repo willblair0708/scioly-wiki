@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Pryce Yebesi is a fellow from the class of 2021 who is currently working as a Co-Founder And Chief Operations Officer at Utopia Labs, a Startup company based in St. Louis. Over the course of their career, they have worked at 10 organizations, including Foragen Technologies Management <foragen.com>; McDonald's <mcdonalds.com>; Washington University in St. Louis <wustl.edu>; Republic <republic.co>; New Stack Ventures <newstack.vc>; Invisibly <invisibly.com>; On Deck <beondeck.com>; Meta <meta.com>; Utopia Labs <utopialabs.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Venture Fellow; Engineering Fellow; Fbu Swe Intern; Product Advisor; Software Engineering Intern; Software Engineer Intern; Special Projects Fellow; Co-Founder And Chief Operations Officer; Catalyst Fellow; Flex Crew Member. They have amassed 2 years of experience and have acquired 6 skills, including Java; Javascript; Computer Science; Python; Matlab; C (Programming Language. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Pryce Yebesi is a member of the class of 2021, currently serving as the Co-Founder And Chief Operations Officer at Utopia Labs, a Startup company based in St. Louis. During their career, they've contributed to 10 organizations, including Foragen Technologies Management, McDonald's, Washington University in St. Louis, and others. They've held various roles, such as Venture Fellow, Engineering Fellow, Fbu Swe Intern, and more. Equipped with a repertoire of 6 skills, they are proficient in Java, Javascript, Computer Science, Python, Matlab, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

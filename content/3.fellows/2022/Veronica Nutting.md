@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Veronica Nutting is a fellow from the class of 2022 who is currently working as a Software Engineer at Stripe, a Others company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Stripe <stripe.com>; Bridgewater Associates <bridgewater.com>; Harvard University <harvard.edu>; The Harvard Lampoon <harvardlampoon.com>; Cs500 <continental-group.co.uk>; Alife Health <alifehealth.com>; Harvard Advanced Leadership Initiative <advancedleadership.harvard.edu>; Lock Haven Express <lockhaven.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Harvard Women In Computer Science <harvardwics.com>, and held 16 different job titles, such as Investment Logic Engineering Intern; Course Assistant; Teaching Fellow - Cs50 For Mbas; Kp Engineering Fellow; Software Engineer; Intern For News, Features And Photography; Argentine Government: Digital Strategy Intern; Art Board, Issue Editor; Advocacy Council, Associate Director Of Gender-Based Discrimination And Harassment; Head Course Assistant; Summer Intern; Teaching Assistant; Data Science And Machine Learning Intern; Research Assistant To Dr Barbara Natterson-Horowitz, Managing Director; Computer Science; Engineering Fellow. They have amassed 1 years of experience and have acquired 1 skills, including Astronomy. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Veronica Nutting is a member of the class of 2022, currently serving as the Software Engineer at Stripe, a Others company based in San Francisco. During their career, they've contributed to 10 organizations, including Stripe, Bridgewater Associates, Harvard University, and others. They've held various roles, such as Investment Logic Engineering Intern, Course Assistant, Teaching Fellow - Cs50 For Mbas, and more. Equipped with a repertoire of 1 skills, they are proficient in Astronomy, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

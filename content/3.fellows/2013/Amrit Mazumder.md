@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 3
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Amrit Mazumder is a fellow from the class of 2013 who is currently working as a Product Designer at Meta, a Big Tech company based in London. Over the course of their career, they have worked at 3 organizations, including Flipboard <flipboard.com>; Rhode Island School of Design <risd.edu>; Meta <meta.com>, and held 5 different job titles, such as Product Design Intern; Product Designer; Creative Director And Co Founder; Kpcb Design Fellow; Summer Intern. They have amassed 10 years of experience and have acquired 15 skills, including Illustrator; Css; Jquery; Graphic Design; Adobe Illustrator Cs5; User Interface Design; Adobe Photoshop Cs5; Photoshop; Advertising; Html; Branding And Identity; Typography; User Experience; Computer Graphics; Brand Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Amrit Mazumder is a member of the class of 2013, currently serving as the Product Designer at Meta, a Big Tech company based in London. During their career, they've contributed to 3 organizations, including Flipboard, Rhode Island School of Design, Meta, and others. They've held various roles, such as Product Design Intern, Product Designer, Creative Director And Co Founder, and more. Equipped with a repertoire of 15 skills, they are proficient in Illustrator, Css, Jquery, Graphic Design, Adobe Illustrator Cs5, among others.  With 10 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

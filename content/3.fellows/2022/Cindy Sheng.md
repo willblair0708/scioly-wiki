@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Cindy Sheng is a fellow from the class of 2022 who is currently working as a Product Design Intern at Zumper, a Others company based in Houston. Over the course of their career, they have worked at 8 organizations, including Zumper <zumper.com>; Rice University <rice.edu>; Amazon Web Services <amazonaws.com>; KPCB <kleinerperkins.com>; Mindy Rice Floral Design <mindyrice.com>; Wave Learning Festival <wavelf.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Eat With Menu <eatwithmenu.com>, and held 7 different job titles, such as Web Design Intern; Product Design Intern; Founder And President; Kp Design Fellow; Rice Coffeehouse Graphics And Marketing Manager; Product Designer; User Experience Design And Research Intern. They have amassed 1 years of experience and have acquired 15 skills, including Adobe Creative Suite; User Experience Design; Balsamiq; Python; Invision; Wireframing; User Interface Design; User Testing; Leadership; Research; Figma; Business Communications; Ux Research; Public Speaking; Design Thinking. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Cindy Sheng is a member of the class of 2022, currently serving as the Product Design Intern at Zumper, a Others company based in Houston. During their career, they've contributed to 8 organizations, including Zumper, Rice University, Amazon Web Services, and others. They've held various roles, such as Web Design Intern, Product Design Intern, Founder And President, and more. Equipped with a repertoire of 15 skills, they are proficient in Adobe Creative Suite, User Experience Design, Balsamiq, Python, Invision, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Tina Teng is a fellow from the class of 2022 who is currently working as a Design Intern at Shopify, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Shopify <shopify.com>; CBRE <cbre.com>; Dorm Room Fund <dormroomfund.com>; UC Berkeley <berkeley.edu>; Wish <wish.com>; PwC <pwc.com>, and held 11 different job titles, such as Undergraduate Student Researcher; Design Consultant - Paypal; Design Consultant - Oasis Labs; Product Design Intern; Business Intelligence Analyst Intern; Head Of Design; Design Consultant - Dapper Labs; Product Design; Design Intern; Digital Cloud And Intelligent Automation Intern; Internal Design Consultant. They have amassed 1 years of experience and have acquired 10 skills, including Marketing; Customer Service; Microsoft Office; Research; Powerpoint; Social Media; Microsoft Excel; Microsoft Word; Public Speaking; Leadership. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Tina Teng is a member of the class of 2022, currently serving as the Design Intern at Shopify, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Shopify, CBRE, Dorm Room Fund, and others. They've held various roles, such as Undergraduate Student Researcher, Design Consultant - Paypal, Design Consultant - Oasis Labs, and more. Equipped with a repertoire of 10 skills, they are proficient in Marketing, Customer Service, Microsoft Office, Research, Powerpoint, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

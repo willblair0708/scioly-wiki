@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ali Altaf is a fellow from the class of 2014 who is currently working as a Group Product Manager at Pinterest, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including First Round <firstround.com>; Shopkick <shopkick.com>; University of Pennsylvania <upenn.edu>; Startup Shell <startupshell.org>; William Megelich <pinterest.dk>; Hack4Impact <hack4impact.org>; Jelly <askjelly.com>; Code for Pakistan <codeforpakistan.org>; Startups <500startups.co.kr>; Salemove <salemove.com>; Pinterest <pinterest.com.au>, and held 9 different job titles, such as Software Engineer; Group Product Manager; Director; Angel Investor; Teaching Assistant, Cis 110; Co-Founder, Co-Director; Teaching Assistant, Cis 399; Angel Track; Software Engineering Intern. They have amassed 9 years of experience and have acquired 20 skills, including Probability Theory; Ruby On Rails; C; Python; Entrepreneurship; Data Analysis; Software Project Management; Scipy; Java; Mapreduce; Node.Js; Flask; Film Actor; Web Applications; Numpy; Programming; Sql; Git; Statistics; Software Development. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ali Altaf is a member of the class of 2014, currently serving as the Group Product Manager at Pinterest, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including First Round, Shopkick, University of Pennsylvania, and others. They've held various roles, such as Software Engineer, Group Product Manager, Director, and more. Equipped with a repertoire of 20 skills, they are proficient in Probability Theory, Ruby On Rails, C, Python, Entrepreneurship, among others.  With 9 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

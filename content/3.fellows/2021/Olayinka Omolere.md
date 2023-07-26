@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Olayinka Omolere is a fellow from the class of 2021 who is currently working as a Founder at EY Seren, a Startup company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Cisco <cisco.com>; Seren <seren.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; Asoko Insight <asokoinsight.com>; Dalberg Global Development Advisors <dalberg.com>; Berkeley SkyDeck Fund <skydeck.vc>; EY Seren <ey-seren.com>; KPCB <kleinerperkins.com>; EY <ey.com>; PAL Pensions <palpensions.com>; Veem <aligncommerce.com>; Founder; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as School; MBA; Research Analyst; Mba Candidate- Class Of 2021; Kleiner Perkins Product Fellow; Founder; Fall 2020 Incubator Cohort; Product Manager Intern; Analyst, $1 Billion Pension Fund; Kleiner Perkins Product Fellow, Founder; Product Manager, Business To Business Fintech; Associate Consultant. They have amassed 2 years of experience and have acquired 19 skills, including Business Analysis; Analysis; Strategic Planning; Research; Analytical Skills; Leadership; Data Analysis; Management; Microsoft Excel; Teamwork; Creative Writing; Finance; Team Leadership; Financial Analysis; Business Strategy; Cre; Project Management; Microsoft Office; Customer Service. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Olayinka Omolere is a member of the class of 2021, currently serving as the Founder at EY Seren, a Startup company based in San Francisco. During their career, they've contributed to 14 organizations, including Cisco, Seren, Haas Business School at University of California Berkeley, and others. They've held various roles, such as School, MBA, Research Analyst, and more. Equipped with a repertoire of 19 skills, they are proficient in Business Analysis, Analysis, Strategic Planning, Research, Analytical Skills, among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

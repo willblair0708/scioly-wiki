@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Julie Liang is a fellow from the class of 2017 who is currently working as a Lead Product Designer at Hinge Capital, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Uber <uber.com>; Punchcut <punchcut.com>; Hinge <hinge.co>; Rhode Island School of Design <risd.edu>; Hinge Capital <hingecapital.com>; Better World by Design <abetterworldbydesign.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Teacher Assistant; 2017 Design Fellow; User Interface And User Experience Design Intern; Product Designer; Student Ambassador; Industrial Design Intern; Lead Product Designer; Product Design Intern; Project Manager, President. They have amassed 6 years of experience and have acquired 22 skills, including Graphic Design; Art; Cad/Cam; Photography; Indesign; Painting; Sketching; Microsoft Office; Photoshop; Design Thinking; Adobe Photoshop; Product Design; Solidworks; Model Making; User Experience; Drawing; Rhino; Adobe Illustrator; Uix; Illustrator; Industrial Design; Adobe Creative Suite. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Julie Liang is a member of the class of 2017, currently serving as the Lead Product Designer at Hinge Capital, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including Uber, Punchcut, Hinge, and others. They've held various roles, such as Teacher Assistant, 2017 Design Fellow, User Interface And User Experience Design Intern, and more. Equipped with a repertoire of 22 skills, they are proficient in Graphic Design, Art, Cad/Cam, Photography, Indesign, among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

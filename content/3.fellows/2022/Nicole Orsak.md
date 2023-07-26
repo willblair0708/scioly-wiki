@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Nicole Orsak is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Uber, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including Twitter <twitter.com>; Uber <uber.com>; Reach Capital Partners <reach-cap.com>; KPCB <kleinerperkins.com>; Standford Alumni <stanfordalumni.org>; SENSA <sensaimpact.com>; Disney Streaming Services <disneystreaming.com>; View <viewglass.com>; Stanford Women in Design <stanfordwomenindesign.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Deutsche Telekom Capital Partners <telekom-capital.com>, and held 11 different job titles, such as President; Product Marketing Intern; Associate Product Manager; Director Of Labs Social Enterprise Seminar | Econ 24 Course Leader; Disney+ Product Management Intern; Teaching Assistant, Hacking For Recovery; Summer Investment Associate; Head Of Incubations; Kleiner Perkins Product Fellow; Lean Launchpad 2020 Cohort; Product Management Intern. They have amassed 1 years of experience and have acquired 23 skills, including Event Planning; Social Entrepreneurship; Management; Teaching; Decision Analysis; C++; Research; Java; Fundraising; Adobe Creative Suite; Microsoft Word; Leadership; Data Analysis; Microsoft Office; Search Engine Optimization; Social Media Marketing; Google Suite; Matlab; Marketing; Venture Capital; Microsoft Excel; Teamwork; Social Media. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Nicole Orsak is a member of the class of 2022, currently serving as the Associate Product Manager at Uber, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including Twitter, Uber, Reach Capital Partners, and others. They've held various roles, such as President, Product Marketing Intern, Associate Product Manager, and more. Equipped with a repertoire of 23 skills, they are proficient in Event Planning, Social Entrepreneurship, Management, Teaching, Decision Analysis, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kimberli Zhong is a fellow from the class of 2016 who is currently working as a Software Engineer at (Startup) Owner Martin Flora, a Others company based in Dublin. Over the course of their career, they have worked at 5 organizations, including Airbnb <airbnb.com>; Affirm <affirm.com>; Google <google.com>; Jane Street Capital <janestreet.com>; (Startup) Owner Martin Flora <idkunim.info>, and held 3 different job titles, such as Software Engineering Intern; Software Engineer; Intern. They have amassed 7 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Kimberli Zhong is a member of the class of 2016, currently serving as the Software Engineer at (Startup) Owner Martin Flora, a Others company based in Dublin. During their career, they've contributed to 5 organizations, including Airbnb, Affirm, Google, and others. They've held various roles, such as Software Engineering Intern, Software Engineer, Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

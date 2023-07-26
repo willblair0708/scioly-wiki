@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Advith Chelikani is a fellow from the class of 2017 who is currently working as a Co-Founder at Pylon Manufacturing, a Startup company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Slack <slack.com>; Nutanix <nutanix.com>; Coursera <coursera.org>; CityScan <cityscan.com>; NASA Jet Propulsion Laboratory <jpl.nasa.gov>; Samsara <samsara.com>; HackTech <gohacktech.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pylon <usepylon.com>; Pylon Manufacturing <pylonhq.com>, and held 6 different job titles, such as Head Organizer; Undergraduate Research Fellow; Kpcb Engineering Fellow; Software Engineering Intern; Software Engineer; Co-Founder. They have amassed 6 years of experience and have acquired 22 skills, including Html5; Hackathons; Javascript; Drupal; Python; Underscore.Js; R; Mysql; Node.Js; Research; Matlab; Jquery; Unity3D; Mathematica; Flask; Java; Css; Ocaml; Bootstrap; Web Development; C++; Backbone.Js. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Advith Chelikani is a member of the class of 2017, currently serving as the Co-Founder at Pylon Manufacturing, a Startup company based in San Francisco. During their career, they've contributed to 10 organizations, including Slack, Nutanix, Coursera, and others. They've held various roles, such as Head Organizer, Undergraduate Research Fellow, Kpcb Engineering Fellow, and more. Equipped with a repertoire of 22 skills, they are proficient in Html5, Hackathons, Javascript, Drupal, Python, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

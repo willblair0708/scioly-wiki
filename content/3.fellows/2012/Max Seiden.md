@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Max Seiden is a fellow from the class of 2012 who is currently working as a Principal Engineer at Sigma Computing, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including One Kings Lane <onekingslane.com>; Platfora <platfora.com>; rapt.fm <rapt.fm>; Michigan Hackers <michiganhackers.org>; University of Michigan <umich.edu>; Sigma Computing <sigmacomputing.com>, and held 7 different job titles, such as Principal Engineer; Co-Founder; President; Lab Assistant; Software Engineer; Software Architecture And Strategy Consultant; Software Intern - Kpcb Fellow. They have amassed 11 years of experience and have acquired 9 skills, including Sql; Rust; C; Qwill; Sigma; Simd; Javascript; Scala; Coffeescript. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Max Seiden is a member of the class of 2012, currently serving as the Principal Engineer at Sigma Computing, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including One Kings Lane, Platfora, rapt.fm, and others. They've held various roles, such as Principal Engineer, Co-Founder, President, and more. Equipped with a repertoire of 9 skills, they are proficient in Sql, Rust, C, Qwill, Sigma, among others.  With 11 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Aidan Pratt is a fellow from the class of 2022 who is currently working as a Swe at Fusen, a Others company based in Atlanta. Over the course of their career, they have worked at 13 organizations, including ATDC <atdc.org>; Atlanta Tech Village <atlantatechvillage.com>; Atlanta Ventures <atlantaventures.com>; Commissiontrac <commissiontrac.com>; FIRST <firstinspires.org>; Boy Scouts of America <scouting.org>; Amazon Web Services <amazonaws.com>; Cherry <withcherry.com>; Startup Exchange <startup.exchange>; Hitsnag <hitsnag.com>; Fusen <fusen.world>; Kleiner Perkins Caufield & Byers <kpcb.com>; Upakka, Llc <upakka.com>, and held 15 different job titles, such as Co-Founder; Vc Analyst Intern; Data Scientist And Analytics Engineer; Investment Relations; Microsoft Scholarship Holder; Eagle Scout; Programmer And Electrical Engineer; Outreach Lead; Member And Scholar; Sx Fellowship Team; Kleiner Perkins Fellow; Chief Executive Officer And Co-Founder; Independent Coder Intern; Aws Activate Scholarship For Startups; Swe. They have amassed 1 years of experience and have acquired 49 skills, including User Experience; Django; Html; Community Outreach; Microsoft Powerpoint; Microsoft Word; Privacy Law; Digital Marketing; Microsoft Excel; Javascript; Longterm Vision; Leadership; Budgeting; Microsoft Office; Data Analysis; Team Leadership; Social Media Marketing; Project Planning; Project Management; Github; Public Speaking; Java; Strategic Planning; Fundraising; Web Design; Software Development; Determination; Idea Machine; Social Media; Cascading Style Sheets; Frc; Disruptive Technologies; First; Data Privacy; Python; Ionic Framework; Scouting; Marketing; Research; Robotics; Educational Outreach; Arduino; Boy Scouts; Team Building; Program Management; User Interface Design; Time Blocking; Heroku; Cooking Ramen At 3Am. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Aidan Pratt is a member of the class of 2022, currently serving as the Swe at Fusen, a Others company based in Atlanta. During their career, they've contributed to 13 organizations, including ATDC, Atlanta Tech Village, Atlanta Ventures, and others. They've held various roles, such as Co-Founder, Vc Analyst Intern, Data Scientist And Analytics Engineer, and more. Equipped with a repertoire of 49 skills, they are proficient in User Experience, Django, Html, Community Outreach, Microsoft Powerpoint, among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

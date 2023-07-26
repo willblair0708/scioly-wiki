@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 2
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jerry Huang is a fellow from the class of 2022 who is currently working as a Software Engineer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 2 organizations, including TikTok <tiktok.com>; Glean <glean.com>, and held 3 different job titles, such as Software Engineer Intern; Teaching Assistant; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jerry Huang is a member of the class of 2022, currently serving as the Software Engineer at Glean, a Others company based in San Francisco. During their career, they've contributed to 2 organizations, including TikTok, Glean, and others. They've held various roles, such as Software Engineer Intern, Teaching Assistant, Software Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Frederick Santiago is a fellow from the class of 2022 who is currently working as a Incoming Software Engineer at Figma, a Others company based in West Palm Beach. Over the course of their career, they have worked at 9 organizations, including Uber <uber.com>; Northrop Grumman <northropgrumman.com>; Society of Hispanic Professional Engineers <shpe.org>; Figma <figma.com>; Google <google.com>; Microsoft <microsoft.com>; Management Leadership for Tomorrow <mlt.org>; SHPE UCF <shpeucf.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Incoming Software Engineer; Software Engineer Intern; External Vice President; Explorer Intern; Career Prep Fellow; Engineering Fellow; Uber Career Prep Fellow; Software Product Sprint Participant; Secretary. They have amassed 1 years of experience and have acquired 33 skills, including Html; Team Leadership; Problem Solving; Performance Improvement; Microsoft Powerpoint; Microsoft Word; Figma; React Native; Communication; Productive; React.Js; Java; Algorithms; Leadership; Microsoft Sql Server; Mobile Application Development; Java Swing; Public Speaking; Unit Testing; Cascading Style Sheets; Team Building; Programming; Object Oriented Programming; Git; Software Development; Data Structures; Sql; Matlab; Javascript; C++; Productivity Improvement; C; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Frederick Santiago is a member of the class of 2022, currently serving as the Incoming Software Engineer at Figma, a Others company based in West Palm Beach. During their career, they've contributed to 9 organizations, including Uber, Northrop Grumman, Society of Hispanic Professional Engineers, and others. They've held various roles, such as Incoming Software Engineer, Software Engineer Intern, External Vice President, and more. Equipped with a repertoire of 33 skills, they are proficient in Html, Team Leadership, Problem Solving, Performance Improvement, Microsoft Powerpoint, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

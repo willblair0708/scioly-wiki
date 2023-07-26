@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Peter Farejowicz is a fellow from the class of 2016 who is currently working as a Software Engineer at Instagram, a Others company based in Redwood City. Over the course of their career, they have worked at 6 organizations, including Spokeo <spokeo.com>; Instagram <instagram.com>; William Megelich <pinterest.dk>; Kleiner Perkins <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 6 different job titles, such as Software Engineer; Software Engineering Intern; Software Engineer, Video Product; Software Engineer, Creation Product; Software Engineer, Shopping Product; Engineering Fellow. They have amassed 7 years of experience and have acquired 72 skills, including Design Consulting; Love; Hearing; Design; React.Js; Hiring; Html; Unix; Business Technology; Silicon Valley; Drawing; Supports; Simulations; Consideration; Culture; Interviews; Eager; Venture Capital; Students; Presentations; Software; Leadership; Qualification; Business Modeling; Economics; Data Analysis; Javascript; Convenience; Partnerships; Product Development; Writing; Code; Angel Investing; Combination; C++; Languages; Start Ups; Communication; Haml; Finance; Project; Organizational Abilities; Mobile Applications; Jquery; Git; Computer Science; Programming; Coffeescript; Deloitte; Efficient; Css; Ruby On Rails; Microsoft Office; Teaching; Ruby; Intellectual; Linux; Sql; Positive Change; Matlab; Analysis; Teamwork; Software Engineering; Brilliant; Energy; Java; Applications; Atmosphere; C; Group Dynamics; New York; Market Research. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Peter Farejowicz is a member of the class of 2016, currently serving as the Software Engineer at Instagram, a Others company based in Redwood City. During their career, they've contributed to 6 organizations, including Spokeo, Instagram, William Megelich, and others. They've held various roles, such as Software Engineer, Software Engineering Intern, Software Engineer, Video Product, and more. Equipped with a repertoire of 72 skills, they are proficient in Design Consulting, Love, Hearing, Design, React.Js, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

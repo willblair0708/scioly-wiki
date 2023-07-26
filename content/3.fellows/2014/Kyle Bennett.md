@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Kyle Bennett is a fellow from the class of 2014 who is currently working as a Product Design Manager at TikTok, a Others company based in Los Angeles. Over the course of their career, they have worked at 8 organizations, including Skyscanner <skyscanner.net>; Flipboard <flipboard.com>; TikTok <tiktok.com>; Google <google.com>; LPK <lpk.com>; Atlantic 57 <atlantic57.com>; Long Dash <longdash.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as UX Lead; Brand And Packaging Design Intern; Founder, Design Lead; Product Design Manager; User Interface And User Experience Design Intern; User Experience Design Lead; Design Fellow; Design Lead; Product Manager + Product Designer. They have amassed 9 years of experience and have acquired 44 skills, including Packaging; Photoshop; Typography; Logo Design; User Centered Design; Business Development; Layout; Graphic Design; User Experience; Video Editing; Marketing; Indesign; Time Management; Html; Adobe Creative Suite; Design Thinking; Healthcare Management; Branding And Identity; Sketching; Python; Social Media Marketing; Web Development; Healthcare Staffing; User Interface Design; Customer Service; Leadership; Creative Direction; Css; Product Design; Adobe Photoshop; Iphone Application Development; User Experience Design; Drawing; Concept Development; Interaction Design; Web Design; Direct Marketing; User Interface; C++ Language; Cinema 4D; Graphics; Illustrator; Audio Post Production; Photography. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Kyle Bennett is a member of the class of 2014, currently serving as the Product Design Manager at TikTok, a Others company based in Los Angeles. During their career, they've contributed to 8 organizations, including Skyscanner, Flipboard, TikTok, and others. They've held various roles, such as UX Lead, Brand And Packaging Design Intern, Founder, Design Lead, and more. Equipped with a repertoire of 44 skills, they are proficient in Packaging, Photoshop, Typography, Logo Design, User Centered Design, among others.  With 9 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

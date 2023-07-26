@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Wen Zhang is a fellow from the class of 2021 who is currently working as a Product Manager at Moveworks, a Others company based in Mountain View. Over the course of their career, they have worked at 10 organizations, including Singapore Press Holdings <sph.com.sg>; Google <google.com>; Civil Aviation Authority of Singapore - (CAAS) <caas.gov.sg>; Pegaxis <pegaxis.com>; GovTech Singapore <tech.gov.sg>; Moveworks <moveworks.ai>; KPCB <kleinerperkins.com>; Lingxi AR <lx-ar.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Soulsmile Club <soulsmile.club>, and held 10 different job titles, such as Founder; Software Engineer Intern; Product Intern; Chinese Journalism Intern; Operations Intern; Software Engineering Intern; Product Manager; Product Operations Manager; Product Fellow; Intern, Futures And Planning Office. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Wen Zhang is a member of the class of 2021, currently serving as the Product Manager at Moveworks, a Others company based in Mountain View. During their career, they've contributed to 10 organizations, including Singapore Press Holdings, Google, Civil Aviation Authority of Singapore - (CAAS), and others. They've held various roles, such as Founder, Software Engineer Intern, Product Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 2 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

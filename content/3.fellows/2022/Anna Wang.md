@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Anna Wang is a fellow from the class of 2022 who is currently working as a Software Engineering Intern at Stripe, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Cisco <cisco.com>; Stripe <stripe.com>; Penn Labs <pennlabs.org>; KPCB <kleinerperkins.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as User Experience Researcher; Designer; Software Engineering Intern; Kp Fellow; Software Engineer Intern. They have amassed 1 years of experience and have acquired 6 skills, including Motion Graphics; Human Computer Interaction; Java; Graphic Design; Adobe Creative Suite; Computer Science. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Anna Wang is a member of the class of 2022, currently serving as the Software Engineering Intern at Stripe, a Others company based in San Francisco. During their career, they've contributed to 5 organizations, including Cisco, Stripe, Penn Labs, and others. They've held various roles, such as User Experience Researcher, Designer, Software Engineering Intern, and more. Equipped with a repertoire of 6 skills, they are proficient in Motion Graphics, Human Computer Interaction, Java, Graphic Design, Adobe Creative Suite, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Linna Yao is a fellow from the class of 2021 who is currently working as a Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Hamden. Over the course of their career, they have worked at 10 organizations, including Zumper <zumper.com>; Yale University <yale.edu>; Design Observer <designobserver.com>; Motion Industries <motionindustries.com>; Design for America <designforamerica.com>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; Ameelio <ameelio.org>; Airfoil <airfoil.studio>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Yale Campus Tour Guide; President; User Experience Design Intern; Web Design Intern; Design Fellow; Curriculum And Outreach Lead; Product Design Intern; User Experience And User Interface Designer; Product Designer. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Linna Yao is a member of the class of 2021, currently serving as the Design Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Hamden. During their career, they've contributed to 10 organizations, including Zumper, Yale University, Design Observer, and others. They've held various roles, such as Yale Campus Tour Guide, President, User Experience Design Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

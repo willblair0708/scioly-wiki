@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Francis Chalissery is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Menlo Park. Over the course of their career, they have worked at 9 organizations, including UC Berkeley <berkeley.edu>; Technology Student Association <tsaweb.org>; Moveworks <moveworks.ai>; KPCB <kleinerperkins.com>; Amazon.com <amazon.es>; HMetrix <hmetrix.com>; Mobile Developers of Berkeley <mobiledevsberkeley.org>; Retool <retool.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Director And Screenwriter; Aerodynamics Engineer; Engineering Fellow; Pa State President; Software Development Engineer Intern; Undergraduate Researcher; Software Engineer Intern; President. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Francis Chalissery is a member of the class of 2022, currently serving as the Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Menlo Park. During their career, they've contributed to 9 organizations, including UC Berkeley, Technology Student Association, Moveworks, and others. They've held various roles, such as Director And Screenwriter, Aerodynamics Engineer, Engineering Fellow, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Harris Beg is a fellow from the class of 2022 who is currently working as a Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Diego. Over the course of their career, they have worked at 7 organizations, including Hoover Institution at Stanford University <hoover.org>; DoorDash <doordash.com>; San Diego Supercomputer Center <sdsc.edu>; HydroSmart Tech <hydrosmarttech.com>; California Institute of Technology <caltech.edu>; Skin Camp Co. <skincamp.co>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Android Developer; Intern Developer At Center For Energy; Founder; Teaching Assistant; Software Engineer; Developer; Engineering Fellow; Software Engineer Intern; Researcher; Undergraduate Research Fellow. They have amassed 1 years of experience and have acquired 34 skills, including Software Development; Jquery; Selenium; Html5; Programming; Beautiful Soup; Leadership; C++; Tensorflow; Microsoft Sql Server; Javascript; Sql; Artificial Intelligence; Python; Computer Hardware; Machine Learning; Web Applications; Mobile Applications; Swift; Web Development; Html; Cascading Style Sheets; Management; Databases; Security; Computer Science; Java; Mysql; Data Analysis; C#; Php; Microsoft Office; Android Development; Project Management. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Harris Beg is a member of the class of 2022, currently serving as the Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in San Diego. During their career, they've contributed to 7 organizations, including Hoover Institution at Stanford University, DoorDash, San Diego Supercomputer Center, and others. They've held various roles, such as Android Developer, Intern Developer At Center For Energy, Founder, and more. Equipped with a repertoire of 34 skills, they are proficient in Software Development, Jquery, Selenium, Html5, Programming, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

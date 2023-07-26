@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Will Papper is a fellow from the class of 2019 who is currently working as a Co-Founder at Syndicate Protocol, a Startup company based in New York. Over the course of their career, they have worked at 15 organizations, including Yelp <yelp.com>; RetailMeNot <retailmenot.com>; Proxy <proxy.com>; MIT Media Lab <media.mit.edu>; Librarian AI <librarian.ai>; Proxy <proxy.nl>; Proxy <proxy.com>; MediMeld <medimeld.com>; Bear Studios LLC <bearstudios.org>; IDEO CoLab Ventures <ideocolab.com>; Standford Alumni <stanfordalumni.org>; Syndicateprotocol <syndicateprotocol.org>; Syndicate <syndicateprotocol.org>; Syndicate Protocol; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Product Manager; Co-Founder And Chief Executive Officer; Co-Founder; Winter + Summer 2018 Fellow; Product Management Intern; Product Management And Software Engineering Intern; Research Intern; Kp Product Fellow; Co-Founder And Director Of Technology. They have amassed 4 years of experience and have acquired 10 skills, including Start Ups; Web Development; Entrepreneurship; Web Design; Java; Product Development; Mobile Application Development; Python; Research; Data Science. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Will Papper is a member of the class of 2019, currently serving as the Co-Founder at Syndicate Protocol, a Startup company based in New York. During their career, they've contributed to 15 organizations, including Yelp, RetailMeNot, Proxy, and others. They've held various roles, such as Product Manager, Co-Founder And Chief Executive Officer, Co-Founder, and more. Equipped with a repertoire of 10 skills, they are proficient in Start Ups, Web Development, Entrepreneurship, Web Design, Java, among others. Their expertise also encompasses advanced skills. With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

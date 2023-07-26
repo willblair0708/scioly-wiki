@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rick Song is a fellow from the class of 2012 who is currently working as a Co-Founder And Chief Executive Officer at Persona, a Startup company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Square <squareup.com>; Withpersona <withpersona.com>; Persona <withpersona.com>; Persona <withpersona.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Co-Founder; CEO; Engineering Manager; Square Capital; Co-Founder & CEO; Co-Founder And Chief Executive Officer; Engineering Manager, Square Capital; Kpcb Engineering Fellow. They have amassed 11 years of experience and have acquired 24 skills, including Cakephp; Mysql; Java; Svn; C; Matlab; Javascript; D3.Js; Python; Php; Trading; Github; Equities; Git; Sql; Vba; Ruby On Rails; Microsoft Sql Server; Options; Objective C; Indesign; Photoshop; Backbone.Js; Jquery. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Rick Song is a member of the class of 2012, currently serving as the Co-Founder And Chief Executive Officer at Persona, a Startup company based in San Francisco. During their career, they've contributed to 5 organizations, including Square, Withpersona, Persona, and others. They've held various roles, such as Co-Founder, CEO, Engineering Manager, and more. Equipped with a repertoire of 24 skills, they are proficient in Cakephp, Mysql, Java, Svn, C, among others.  With 11 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

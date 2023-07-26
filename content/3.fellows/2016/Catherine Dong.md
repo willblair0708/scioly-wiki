@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Catherine Dong is a fellow from the class of 2016 who is currently working as a Ml Engineering Manager at Meta, a Big Tech company based in Irvine. Over the course of their career, they have worked at 8 organizations, including Uber <uber.com>; Tango <tango.me>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; Bloomberg Beta <bloombergbeta.com>; Meta <meta.com>; Stanford University School Of Medicine; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Senior Software Engineer; Teaching Assistant, Cs221: Artificial Intelligence Principles And Techniques; Software Engineering Intern; Machine Learning Engineer; Engineering Fellow; Teaching Assistant, Cs231N: Convolutional Neural Networks For Visual Recognition; Teaching Assistant, Cs124: From Languages To Information; Copy Editor; Research Assistant, Nadeau Lab; Engineering Intern; Section Leader, Cs106A: Programming Methodology; Intern; Ml Engineering Manager; Ranking And Machine Learning Software Engineer. They have amassed 7 years of experience and have acquired 13 skills, including C; Software Engineering; Java; Ruby; C++; Matlab; Social Media; Software Development; Html; Css; Cascading Style Sheets; Data Analysis; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Catherine Dong is a member of the class of 2016, currently serving as the Ml Engineering Manager at Meta, a Big Tech company based in Irvine. During their career, they've contributed to 8 organizations, including Uber, Tango, Hoover Institution at Stanford University, and others. They've held various roles, such as Senior Software Engineer, Teaching Assistant, Cs221: Artificial Intelligence Principles And Techniques, Software Engineering Intern, and more. Equipped with a repertoire of 13 skills, they are proficient in C, Software Engineering, Java, Ruby, C++, among others.  With 7 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

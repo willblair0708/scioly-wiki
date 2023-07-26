@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Michael Ligier is a fellow from the class of 2019 who is currently working as a Content Creator at Maple Leaf Sports & Entertainment, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including New Enterprise Associates <nea.com>; Udemy <udemy.com>; eMarketer <emarketer.com>; Uber <uber.com>; Upstart <upstart.com>; RapidSOS <rapidsos.com>; New York University <nyu.edu>; MasterClass <masterclass.com>; Brandless <brandless.com>; Maple Leaf Sports & Entertainment <mlse.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Product Marketing Intern; Product And User Experience Intern; Associate Product Manager; Product Manager; Product Management Intern; Venture Capital Fellow; Content Creator; Product Growth Intern; Product Fellow; User Experience Design Intern. They have amassed 4 years of experience and have acquired 11 skills, including Design Thinking; Powerpoint; Lean Startup; Finance; Marketing Management; Public Relations; Human Centered Design; Start Ups; Presentations; Public Speaking; Marketing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Michael Ligier is a member of the class of 2019, currently serving as the Content Creator at Maple Leaf Sports & Entertainment, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including New Enterprise Associates, Udemy, eMarketer, and others. They've held various roles, such as Product Marketing Intern, Product And User Experience Intern, Associate Product Manager, and more. Equipped with a repertoire of 11 skills, they are proficient in Design Thinking, Powerpoint, Lean Startup, Finance, Marketing Management, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

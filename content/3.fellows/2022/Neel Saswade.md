@@ -28,14 +28,11 @@ Number of Past Jobs: 15
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Neel Saswade is a fellow from the class of 2022 who is currently working as a Incoming Product Designer at Glean, a Others company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including Adobe Systems <adobe.com>; Logitech <logitech.com>; Intuitive Surgical <intuitivesurgical.com>; UC Santa Cruz <ucsc.edu>; UC Berkeley <berkeley.edu>; FIRST <firstinspires.org>; Microsoft <microsoft.com>; Snap <snap.com>; Phonic <phonic.ai>; Berkeley Innovation <berkeleyinnovation.org>; Glean <glean.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Creative Design Tech <cdtfx.com>, and held 15 different job titles, such as Design Fellow; Product Designer; Vice President Of Special Projects And Mechanical Designer; Incoming Product Designer; Designer; Researcher; Team Coach - First Lego League; Hri Lab Research Assistant | People Helping Robots Study Sponsored By Google; Product Design Consultant; User Interface And User Experience Design And Software Engineering Intern; Kleiner Perkins Design Fellow; Project Mentor; Teaching Assistant For Des Inv 98; Interaction Design Intern; Consultant Project Mentor. They have amassed 1 years of experience and have acquired 49 skills, including Cascading Style Sheets; Sql; Adobe Xd; Sketch; Figma; Design; User Interface Design; C++; Wireframing; React.Js; Human Computer Interaction; Web Design; Adobe Creative Suite; Git; Firebase; Leadership; React Native; Pandas; C; Usability Testing; Graphic Design; Contextual Inquiry; Task Analysis; Adobe Lightroom; Heuristic Evaluation; Node.Js; Adobe Photoshop; Java; Lightroom; User Research; Adobe Indesign; Data Structures; Keras; Ux Research; Machine Learning; Research; User Experience Design; Microsoft Office; Html; Photography; Javascript; Prototyping; Music; User Experience; Html5; Heuristic Analysis; Adobe Illustrator; Deep Learning; Python. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Neel Saswade is a member of the class of 2022, currently serving as the Incoming Product Designer at Glean, a Others company based in San Francisco. During their career, they've contributed to 13 organizations, including Adobe Systems, Logitech, Intuitive Surgical, and others. They've held various roles, such as Design Fellow, Product Designer, Vice President Of Special Projects And Mechanical Designer, and more. Equipped with a repertoire of 49 skills, they are proficient in Cascading Style Sheets, Sql, Adobe Xd, Sketch, Figma, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

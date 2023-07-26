@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 19
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Yuechen Zhao is a fellow from the class of 2014 who is currently working as a Partner at GSR Ventures, a Others company based in San Francisco. Over the course of their career, they have worked at 19 organizations, including GSR Ventures <gsrventures.com>; Recess Mobile <recessmobile.im>; Flipboard <flipboard.com>; Uber <uber.com>; Firework <huohua.in>; Harvard University <harvard.edu>; Google <google.com>; Celential.ai <celential.ai>; Neuron Mobility <neuron.sg>; Microsoft <microsoft.com>; Uniform Teeth <uniformteeth.com>; Akia <akia.com>; Glimpse <tryglimpse.com>; Huddle <doahuddle.com>; Meixin Finance Group <meixinfinance.com>; Paragon Builders Incorporated <paragonbuildersinc.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Neuron Mobility <rideneuron.com>; Fireworks <fireworks.ai>, and held 12 different job titles, such as Product Manager; Chief Executive Officer And Co-Founder; Associate Product Manager; Software Engineering Intern And Kpcb Engineering Fellow; Partner; Product Lead; Teaching Fellow; Investor And Board Observer; Investor; Kp Fellow; Software Engineer Intern; Undergraduate Research Fellow. They have amassed 9 years of experience and have acquired 37 skills, including Html 5; Php; Algorithms; Ocaml; Apache; Css; R; Git; Mongodb; Matlab; Software Development; Microsoft Office; Docker; Computer Repair; Entrepreneurship; Html; Python; Product Management; Java; Sql; Web Development; Postgresql; User Experience; Mysql; Databases; C#; Vue.Js; Unix; Node.Js; Machine Learning; Teaching; C++; Swift; Computer Science; C; Javascript; Data Analysis. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Yuechen Zhao is a member of the class of 2014, currently serving as the Partner at GSR Ventures, a Others company based in San Francisco. During their career, they've contributed to 19 organizations, including GSR Ventures, Recess Mobile, Flipboard, and others. They've held various roles, such as Product Manager, Chief Executive Officer And Co-Founder, Associate Product Manager, and more. Equipped with a repertoire of 37 skills, they are proficient in Html 5, Php, Algorithms, Ocaml, Apache, among others. Their expertise also encompasses advanced skills. With 9 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Anna Lee is a fellow from the class of 2022 who is currently working as a Product Manager Intern at Nuna Incorporated, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Nuna Incorporated <nuna.com>; The Orchard <theorchard.com>; San José Unified School District <sjusd.org>; Standford Alumni <stanfordalumni.org>; Girls Teaching Girls to Code <girlsteachinggirlstocode.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Research Intern; Product Manager Intern; Software Engineer Intern; Partners Team Lead; 2022 Product Fellow; Data Science Intern. They have amassed 1 years of experience and have acquired 13 skills, including Postgresql; Time Management; Korean; Java; Microsoft Office; Python; Databases; Sql; Pandas; Leadership; C++; Machine Learning; R. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Anna Lee is a member of the class of 2022, currently serving as the Product Manager Intern at Nuna Incorporated, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Nuna Incorporated, The Orchard, San José Unified School District, and others. They've held various roles, such as Research Intern, Product Manager Intern, Software Engineer Intern, and more. Equipped with a repertoire of 13 skills, they are proficient in Postgresql, Time Management, Korean, Java, Microsoft Office, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

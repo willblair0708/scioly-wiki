@@ -28,14 +28,11 @@ Number of Past Jobs: 13
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Melanie Chen is a fellow from the class of 2019 who is currently working as a Software Engineer at Plaid, a Others company based in Seattle. Over the course of their career, they have worked at 11 organizations, including IBM <ibm.com>; Airbnb <airbnb.com>; Plaid <plaid.com>; Two Sigma <twosigma.com>; Hitachi Data Systems <hds.com>; MIT Media Lab <media.mit.edu>; Microsoft <microsoft.com>; Five Rings Capital <fiveringscapital.com>; Bellevue Arts Museum <bellevuearts.org>; Mit Csail; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 13 different job titles, such as Kp Engineering Fellow; Urop With Scalable Cooperation; Intelligence And Decision Technologies Intern; Software Engineer Intern; Software Engineer; Intern; Teacher; Instructor; Software Development Intern; Superurop; High School Intern; Software Engineering Intern; Docent. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Melanie Chen is a member of the class of 2019, currently serving as the Software Engineer at Plaid, a Others company based in Seattle. During their career, they've contributed to 11 organizations, including IBM, Airbnb, Plaid, and others. They've held various roles, such as Kp Engineering Fellow, Urop With Scalable Cooperation, Intelligence And Decision Technologies Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

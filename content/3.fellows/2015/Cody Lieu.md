@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Cody Lieu is a fellow from the class of 2015 who is currently working as a Staff Software Engineer, Tech Lead at Coursera, a Others company based in Mountain View. Over the course of their career, they have worked at 5 organizations, including Indiegogo <indiegogo.com>; Duke University <duke.edu>; Guidewire Software <guidewire.com>; Coursera <coursera.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Staff Software Engineer; Tech Lead; Staff Software Engineer, Tech Lead; Software Engineer; Senior Software Engineer, Tech Lead Apprentice; Software Engineer Intern; Software Engineer Ii; 2015 Kpcb Engineering Fellow; Undergraduate Teaching Assistant. They have amassed 8 years of experience and have acquired 22 skills, including C; Ruby On Rails; Heroku; Yeoman; Mongodb; Angularjs; Intellij Idea; Sml; Css; Numerical Analysis; Javascript; Python; Html; Postgresql; Java; Matlab; Twitter Bootstrap; Eclipse; Ruby; Latex; Computer Science; Git. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Cody Lieu is a member of the class of 2015, currently serving as the Staff Software Engineer, Tech Lead at Coursera, a Others company based in Mountain View. During their career, they've contributed to 5 organizations, including Indiegogo, Duke University, Guidewire Software, and others. They've held various roles, such as Staff Software Engineer, Tech Lead, Staff Software Engineer, Tech Lead, and more. Equipped with a repertoire of 22 skills, they are proficient in C, Ruby On Rails, Heroku, Yeoman, Mongodb, among others.  With 8 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

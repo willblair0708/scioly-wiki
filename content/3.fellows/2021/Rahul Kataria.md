@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rahul Kataria is a fellow from the class of 2021 who is currently working as a Software Engineer at Rippling, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Columbia University <columbia.edu>; Bank of America Business <bofaml.com>; Rippling <rippling.com>; Impelsys <ipublishcentral.com>; Microsoft <microsoft.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Software Engineering Intern; Software Engineer; Machine Learning Engineering Intern; Teaching Assistant; Kleiner Perkins Engineering Fellow; Summer Analyst; Research Assistant. They have amassed 2 years of experience and have acquired 10 skills, including Javascript; Research; Java; Product Development; Html; Android Studio; Project Planning; Ios Development; Python; Cascading Style Sheets. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Rahul Kataria is a member of the class of 2021, currently serving as the Software Engineer at Rippling, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Columbia University, Bank of America Business, Rippling, and others. They've held various roles, such as Software Engineering Intern, Software Engineer, Machine Learning Engineering Intern, and more. Equipped with a repertoire of 10 skills, they are proficient in Javascript, Research, Java, Product Development, Html, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

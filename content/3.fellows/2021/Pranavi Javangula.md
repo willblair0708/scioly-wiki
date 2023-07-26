@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Pranavi Javangula is a fellow from the class of 2021 who is currently working as a Product Designer at Quizlet, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including Kiva <kiva.org>; Quizlet <quizlet.com>; Robinhood <robinhood.com>; UC Berkeley <berkeley.edu>; Juni Learning <junilearning.com>; Berkeley Innovation <berkeleyinnovation.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Product Design Intern; External Vice President; Product Designer; Design Researcher; Computer Science Instructor; Associate Product Designer @ Quizlet; Product Design Consultant; Incoming Product Design Systems Intern; Design Research Intern; Kp Design Fellow. They have amassed 2 years of experience and have acquired 19 skills, including Adobe Photoshop; Social Media; Adobe Illustrator; Public Speaking; Teaching; Graphic Design; Adobe Premiere Pro; User Experience; Leadership; Design Thinking; Teamwork; Sketch; Communication; User Research; Writing; Digital Marketing; Design Of Experiments; Research; Computer Science Education. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Pranavi Javangula is a member of the class of 2021, currently serving as the Product Designer at Quizlet, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including Kiva, Quizlet, Robinhood, and others. They've held various roles, such as Product Design Intern, External Vice President, Product Designer, and more. Equipped with a repertoire of 19 skills, they are proficient in Adobe Photoshop, Social Media, Adobe Illustrator, Public Speaking, Teaching, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

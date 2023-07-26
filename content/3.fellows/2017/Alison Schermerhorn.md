@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alison Schermerhorn is a fellow from the class of 2017 who is currently working as a Senior Product Manager at Ridgeline, a Others company based in Los Angeles. Over the course of their career, they have worked at 8 organizations, including Intuit <intuit.com>; Rochester Institute of Technology <rit.edu>; Southwest Airlines <southwest.com>; Area 1 Security <area1security.com>; Ridgeline <ridgelineapps.com>; Wonderspaces <wonderspaces.com>; Mentelocale.it <mentelocale.it>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as 2017 Product Fellow; Product Manager; Management Accounting Tutor; Associate Creative Director - Show Design; Product Management Intern; Web Marketing Intern; Product Management Co-Op; Student Notetaker; Co-Founder And Chief Executive Officer; Senior Product Manager. They have amassed 6 years of experience and have acquired 27 skills, including Visual Storytelling; Leadership; Collaboration; Defining Product Requirements; Competitive Analysis; Customer Research; Time Management; Creative Solutions; Writing; Communication; Product Management; Customer Service; Data Analysis; Public Speaking; Infographics; Social Media; Seo; Critical Thinking; Marketing Strategy; Event Planning; Reporting And Analysis; Photoshop; Presentation Design; Creative Content Creation; Tableau; Prototyping; Agile Project Management. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Alison Schermerhorn is a member of the class of 2017, currently serving as the Senior Product Manager at Ridgeline, a Others company based in Los Angeles. During their career, they've contributed to 8 organizations, including Intuit, Rochester Institute of Technology, Southwest Airlines, and others. They've held various roles, such as 2017 Product Fellow, Product Manager, Management Accounting Tutor, and more. Equipped with a repertoire of 27 skills, they are proficient in Visual Storytelling, Leadership, Collaboration, Defining Product Requirements, Competitive Analysis, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

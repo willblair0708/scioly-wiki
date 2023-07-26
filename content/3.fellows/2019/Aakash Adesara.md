@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 13
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Aakash Adesara is a fellow from the class of 2019 who is currently working as a Co-Founder And Chief Technology Officer at SellScale, a Startup company based in San Francisco. Over the course of their career, they have worked at 13 organizations, including Yelp <yelp.com>; Lyft <lyft.com>; Nextdoor <nextdoor.com>; UC Berkeley <berkeley.edu>; Lightspeed Venture Partners <lsvp.com>; Athelas <athelas.com>; Intrax <intraxinc.com>; Cal Hacks <calhacks.io>; Athelas <getathelas.com>; Cupertino Library Foundation <cupertinolibraryfoundation.org>; SellScale <sellscale.pro>; SellScale <sellscale.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Lead Engineer (Growth); Kp Engineering Fellow; Director; Android Software Engineering Intern; Co-Founder And Chief Technology Officer; Software Engineering Intern; Engineer; Executive Director; Ml And Hci Researcher; Web Development Intern; Lightspeed Venture Fellow; Founding Member Of Teen Advisory Board. They have amassed 4 years of experience and have acquired 27 skills, including Leadership; Management; Computer Science; Jquery; Javascript; Social Media; Android Development; Web Development; Public Speaking; Wordpress; Html; Php; Python; Xml; Css; Programming; Linux; Web Design; Graphic Design; Mobile Devices; Java; Public Relations; Cascading Style Sheets; Software Development; Research; Drupal; Photography. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Aakash Adesara is a member of the class of 2019, currently serving as the Co-Founder And Chief Technology Officer at SellScale, a Startup company based in San Francisco. During their career, they've contributed to 13 organizations, including Yelp, Lyft, Nextdoor, and others. They've held various roles, such as Lead Engineer (Growth), Kp Engineering Fellow, Director, and more. Equipped with a repertoire of 27 skills, they are proficient in Leadership, Management, Computer Science, Jquery, Javascript, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Elaney Cheng is a fellow from the class of 2021 who is currently working as a Software Engineer at Meta, a Big Tech company based in Seattle. Over the course of their career, they have worked at 9 organizations, including Citigroup <citigroup.com>; Wellesley College <wellesley.edu>; Hoover Institution at Stanford University <hoover.org>; Foothill College <foothill.edu>; Threadloom <threadloom.com>; William Megelich <pinterest.dk>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Pinterest <pinterest.com.au>, and held 10 different job titles, such as Product Operations Intern; Citi Early Id Technology Program Participant; Teaching Assistant; Software Engineering Intern; Engage Scholar; Undergraduate Student Researcher - Cred Lab; Software Engineer; Engineering Fellow; Cs 242 Computer Networks Tutor; Cs106A: Code In Place Section Leader. They have amassed 2 years of experience and have acquired 19 skills, including Data Analysis; Html; Javascript; Java; Research; Microsoft Word; Atlas.Ti; React Native; Python; Leadership; Latex; Time Management; Cascading Style Sheets; Team Management; Computer Science; Social Media; Data Structures; Microsoft Office; Customer Service. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Elaney Cheng is a member of the class of 2021, currently serving as the Software Engineer at Meta, a Big Tech company based in Seattle. During their career, they've contributed to 9 organizations, including Citigroup, Wellesley College, Hoover Institution at Stanford University, and others. They've held various roles, such as Product Operations Intern, Citi Early Id Technology Program Participant, Teaching Assistant, and more. Equipped with a repertoire of 19 skills, they are proficient in Data Analysis, Html, Javascript, Java, Research, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

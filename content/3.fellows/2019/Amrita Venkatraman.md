@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Amrita Venkatraman is a fellow from the class of 2019 who is currently working as a Software Engineer Ii at Slack, a Others company based in Sunnyvale. Over the course of their career, they have worked at 8 organizations, including Slack <slack.com>; Looker <looker.com>; Hoover Institution at Stanford University <hoover.org>; StreetCode Academy <streetcodeacademy.org>; Khan Lab School <khanlabschool.org>; AFEC <afutureforeverychild.org>; Stanford University School Of Medicine; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Software Engineer Ii; Core Curriculum Director; Head Of Outreach; Software Engineer Intern; Psych 70: Undergraduate Teaching Assistant; Board Member; 2019 Engineering Fellow; Psych 80: Undergraduate Teaching Assistant; Associate Software Engineer; Cs91: Student Lecturer; User Interface Engineer; Product Lead; Instructor; President. They have amassed 4 years of experience and have acquired 18 skills, including Teamwork; Python; Event Management; Javascript; Sql; Public Speaking; C; Microsoft Office; Swift; C++; Social Media; Ios Development; Android; Java; Html; Front End Development; Microsoft Excel; Microsoft Word. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Amrita Venkatraman is a member of the class of 2019, currently serving as the Software Engineer Ii at Slack, a Others company based in Sunnyvale. During their career, they've contributed to 8 organizations, including Slack, Looker, Hoover Institution at Stanford University, and others. They've held various roles, such as Software Engineer Ii, Core Curriculum Director, Head Of Outreach, and more. Equipped with a repertoire of 18 skills, they are proficient in Teamwork, Python, Event Management, Javascript, Sql, among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

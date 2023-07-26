@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Ethan Duncan He-Li Hellman is a fellow from the class of 2022 who is currently working as a Fellow at Kleiner Perkins Caufield & Byers, a Others company based in New York. Over the course of their career, they have worked at 5 organizations, including KPCB <kleinerperkins.com>; Rebelliondefense <rebelliondefense.com>; Standford Alumni <stanfordalumni.org>; Toucan <toucan.events>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 3 different job titles, such as Fellow; Co-Founder; Software Engineer. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Ethan Duncan He-Li Hellman is a member of the class of 2022, currently serving as the Fellow at Kleiner Perkins Caufield & Byers, a Others company based in New York. During their career, they've contributed to 5 organizations, including KPCB, Rebelliondefense, Standford Alumni, and others. They've held various roles, such as Fellow, Co-Founder, Software Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

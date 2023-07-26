@@ -28,14 +28,11 @@ Number of Past Jobs: 2
 ::badge{type="info"}
 Number of Organizations: 1
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-William Wang is a fellow from the class of 2019 who is currently working as a Founding Engineer at Capture, a Others company based in Los Angeles. Over the course of their career, they have worked at 1 organizations, including Capture <capture.so>, and held 2 different job titles, such as Engineering; Founding Engineer. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+William Wang is a member of the class of 2019, currently serving as the Founding Engineer at Capture, a Others company based in Los Angeles. During their career, they've contributed to 1 organizations, including Capture, and others. They've held various roles, such as Engineering, Founding Engineer, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 4 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

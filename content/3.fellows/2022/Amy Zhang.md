@@ -28,14 +28,11 @@ Number of Past Jobs: 11
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Amy Zhang is a fellow from the class of 2022 who is currently working as a Kleiner Perkins Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Sherborn. Over the course of their career, they have worked at 9 organizations, including Wellington Management <wellington.com>; Stanford Marketing <stanfordmarketing.org>; Boston Children's Hospital <childrenshospital.org>; Girls Who Invest <girlswhoinvest.org>; Neednova <neednova.com>; KPCB <kleinerperkins.com>; Standford Alumni <stanfordalumni.org>; The Farmlink Project <farmlinkproject.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 11 different job titles, such as Biostatistician; Stanford University; Computer Science; Global Risk And Analytics Intern; Accelerator; Summer Intensive Program Scholar; Kleiner Perkins Engineering Fellow; Software Engineer Intern; Neurology Research Intern; Vice President Of Finance; Research Assistant At The Human Trafficking Data Lab. They have amassed 1 years of experience and have acquired 4 skills, including Leadership; Social Media; Public Speaking; Organizational Effectiveness. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Amy Zhang is a member of the class of 2022, currently serving as the Kleiner Perkins Engineering Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Sherborn. During their career, they've contributed to 9 organizations, including Wellington Management, Stanford Marketing, Boston Children's Hospital, and others. They've held various roles, such as Biostatistician, Stanford University, Computer Science, and more. Equipped with a repertoire of 4 skills, they are proficient in Leadership, Social Media, Public Speaking, Organizational Effectiveness, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

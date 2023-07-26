@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Siddharth Pandiya is a fellow from the class of 2019 who is currently working as a Co-Founder And Chief Technology Officer at Kona, a Startup company based in San Francisco. Over the course of their career, they have worked at 10 organizations, including Zumper <zumper.com>; University of California, Los Angeles (UCLA) <ucla.edu>; Logos <logosnews.tech>; UCLA DevX <ucladevx.com>; Product Space <productspace.org>; KONA Cloud <konacloud.io>; ACM at UCLA <acm.cs.ucla.edu>; Kona <heykona.com>; Kpcb Fellows Program <kpcbfellows.com>; Debate For Changes <debate4change.com>, and held 8 different job titles, such as Co-Founder; Co-Founder And Chief Technology Officer; Product Management Fellow; Product Management And Software Engineering Intern; Kleiner Perkins Engineering Fellow; Founder; Technical Co-Founder; Product Manager. They have amassed 4 years of experience and have acquired 13 skills, including Entrepreneurship; Python; Machine Learning; Product Management; Web Development; Start Ups; Leadership; Project Management; Javascript; Software Development; Gnu Octave; C++; Public Speaking. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Siddharth Pandiya is a member of the class of 2019, currently serving as the Co-Founder And Chief Technology Officer at Kona, a Startup company based in San Francisco. During their career, they've contributed to 10 organizations, including Zumper, University of California, Los Angeles (UCLA), Logos, and others. They've held various roles, such as Co-Founder, Co-Founder And Chief Technology Officer, Product Management Fellow, and more. Equipped with a repertoire of 13 skills, they are proficient in Entrepreneurship, Python, Machine Learning, Product Management, Web Development, among others. Their expertise also encompasses advanced skills. With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

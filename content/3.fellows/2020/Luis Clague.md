@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Luis Clague is a fellow from the class of 2020 who is currently working as a Software Engineer at Syndicate Bank, a Others company based in Houston. Over the course of their career, they have worked at 10 organizations, including Slack <slack.com>; Rice University <rice.edu>; Pear VC <pear.vc>; Google <google.com>; Contrary <contrarycap.com>; Unshackled <unshackled.co>; Syndicate Bank <syndicatebank.in>; Syndicate <syndicateprotocol.org>; Nearside <hatchcard.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Fellow; Software Engineer Intern; Engineering Practicum Intern; Pear Garage Fellow; Venture Partner; Unshackled Fellow; Software Engineer; Fullstack Developer. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Luis Clague is a member of the class of 2020, currently serving as the Software Engineer at Syndicate Bank, a Others company based in Houston. During their career, they've contributed to 10 organizations, including Slack, Rice University, Pear VC, and others. They've held various roles, such as Engineering Fellow, Software Engineer Intern, Engineering Practicum Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Bradley Eckert is a fellow from the class of 2013 who is currently working as a Chief Operations Officer, Vice President Engineering at Koko Labs, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Nest Labs <nest.com>; Google <google.com>; Koko <meetkoko.com>; Plause <plause.com>; MIT Solve <solve.mit.edu>; Massachusetts Institute of Technology <mit.edu>; Meta <meta.com>; Koko Labs, and held 8 different job titles, such as Co-Founder; Cofounder, Vice President Engineering; Software Engineer Intern; Chief Operations Officer; Kpcb Engineering Fellow: Systems Integration Engineer; Software Architect; Chief Operations Officer, Vice President Engineering; Intern. They have amassed 10 years of experience and have acquired 24 skills, including Eclipse; Python; Javascript; Google Cloud Platform; Amazon Web Services; Selenium; Networking; Apache Kafka; Docker Swarm; Algorithms; Test Automation; Html; React.Js; Node.Js; Docker; Postgresql; Latex; Css; Linux; Software Engineering; Java; Swift; Programming; Redux. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Bradley Eckert is a member of the class of 2013, currently serving as the Chief Operations Officer, Vice President Engineering at Koko Labs, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Nest Labs, Google, Koko, and others. They've held various roles, such as Co-Founder, Cofounder, Vice President Engineering, Software Engineer Intern, and more. Equipped with a repertoire of 24 skills, they are proficient in Eclipse, Python, Javascript, Google Cloud Platform, Amazon Web Services, among others.  With 10 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

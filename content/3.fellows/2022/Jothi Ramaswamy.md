@@ -28,14 +28,11 @@ Number of Past Jobs: 14
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jothi Ramaswamy is a fellow from the class of 2022 who is currently working as a 2022 Kleiner Perkins Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Mohegan Lake. Over the course of their career, they have worked at 14 organizations, including XO Group, Inc. <xogroupinc.com>; IBM <ibm.com>; MongoDB <mongodb.com>; Acorda Therapeutics <acorda.com>; Duolingo <duolingo.com>; Columbia University <columbia.edu>; Harvard University <harvard.edu>; Pear VC <pear.vc>; Strategic Financial Solutions <stratfs.com>; ThinkSTEAM <thinksteam4girls.org>; Apple <apple.com>; Accelerated <acceleratedusa.net>; MailChimp <campaign-archive.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 14 different job titles, such as Founder; Software Engineer Intern; Campus Ambassador; Summer Intern; Intern - Ios Developer; Venture Fellow; Founder And Executive Director; 2022 Kleiner Perkins Fellow; Swe Intern; Executive Producer And Host; Cs50 Teaching Fellow; Research Intern; Finance Intern; Science Honors Program Student. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Jothi Ramaswamy is a member of the class of 2022, currently serving as the 2022 Kleiner Perkins Fellow at Kleiner Perkins Caufield & Byers, a Others company based in Mohegan Lake. During their career, they've contributed to 14 organizations, including XO Group, Inc., IBM, MongoDB, and others. They've held various roles, such as Founder, Software Engineer Intern, Campus Ambassador, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alexander Lenz is a fellow from the class of 2020 who is currently working as a Incoming Software Engineer at Google, a Big Tech company based in New York. Over the course of their career, they have worked at 6 organizations, including Google <google.com>; Nuna Incorporated <nuna.com>; Blingby <blingby.com>; Amazon Web Services <amazonaws.com>; Crimson Education <crimsoneducation.org>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Incoming Software Engineer; Student Mentor; Managing Director; Co-Founder; Data Science Intern; Software Engineering Intern; Kleiner Perkins Fellow. They have amassed 3 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Alexander Lenz is a member of the class of 2020, currently serving as the Incoming Software Engineer at Google, a Big Tech company based in New York. During their career, they've contributed to 6 organizations, including Google, Nuna Incorporated, Blingby, and others. They've held various roles, such as Incoming Software Engineer, Student Mentor, Managing Director, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

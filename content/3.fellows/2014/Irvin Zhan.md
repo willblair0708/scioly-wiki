@@ -28,14 +28,11 @@ Number of Past Jobs: 6
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Irvin Zhan is a fellow from the class of 2014 who is currently working as a Founder at Atomic, a Startup company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including Atomico <atomico.com>; Indiegogo <indiegogo.com>; Yapp <yapp.us>; Princeton University <princeton.edu>; Vessel <vessel.com>; Atomic <atomic.vc>; Coda <coda.io>; Airkit <airkit.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 6 different job titles, such as Kpcb Engineering Fellow; Engineering Manager; Software Engineer; Software Engineer Intern; Founder; Software Engineering Intern. They have amassed 9 years of experience and have acquired 26 skills, including Jquery; Agile Methodologies; Number Theory; C; Sass; Reactjs; Html; Java; Algorithms; Ember.Js; Pure Mathematics; Javascript; Open Source; Optimization; Android Development; Ios Development; React.Js; Applied Mathematics; Graph Theory; Business Development; Coffeescript; Photoshop; Css; Ruby On Rails; Front End Design; Information Security. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Irvin Zhan is a member of the class of 2014, currently serving as the Founder at Atomic, a Startup company based in San Francisco. During their career, they've contributed to 9 organizations, including Atomico, Indiegogo, Yapp, and others. They've held various roles, such as Kpcb Engineering Fellow, Engineering Manager, Software Engineer, and more. Equipped with a repertoire of 26 skills, they are proficient in Jquery, Agile Methodologies, Number Theory, C, Sass, among others.  With 9 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

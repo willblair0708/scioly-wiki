@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 5
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Nancy Hung is a fellow from the class of 2018 who is currently working as a Software Engineer at Mosaic ML, a Others company based in San Francisco. Over the course of their career, they have worked at 5 organizations, including Stripe <stripe.com>; Nuna Incorporated <nuna.com>; MIT Alumni Association <alum.mit.edu>; Mosaic ML <mosaicml.com>; Window Therapeutics, <windowtx.com>, and held 4 different job titles, such as Postdoctoral Researcher; Undergraduate Researcher; Software Engineer; Software Engineer Ii. They have amassed 5 years of experience and have acquired 13 skills, including Python; Event Planning; Research; Matlab; Html; Public Speaking; Leadership; Java; Teamwork; Microsoft Office; Data Analysis; Powerpoint; Microsoft Excel. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Nancy Hung is a member of the class of 2018, currently serving as the Software Engineer at Mosaic ML, a Others company based in San Francisco. During their career, they've contributed to 5 organizations, including Stripe, Nuna Incorporated, MIT Alumni Association, and others. They've held various roles, such as Postdoctoral Researcher, Undergraduate Researcher, Software Engineer, and more. Equipped with a repertoire of 13 skills, they are proficient in Python, Event Planning, Research, Matlab, Html, among others.  With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

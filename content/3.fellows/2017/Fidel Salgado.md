@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Fidel Salgado is a fellow from the class of 2017 who is currently working as a nan at nan, a Others company based in San Francisco. Over the course of their career, they have worked at 6 organizations, including Intuit <intuit.com>; Stripe <stripe.com>; Brookhaven National Laboratory <bnl.gov>; Hoover Institution at Stanford University <hoover.org>; Canada College <canadacollege.net>; San Francisco State University <sfsu.edu>, and held 8 different job titles, such as Capstone Design Project For Community College Students; Course Assistant; Data Engineer Intern; Undergraduate Research; Software Engineer Intern; Physics Tutor; Software Engineer; Undergrad Research. They have amassed 6 years of experience and have acquired 30 skills, including Teamwork; Git; Https; C++; Spanish; Node.Js; Autocad; Java; Css; Api Development; Amazon Web Services; C; Networking; Html; Public Speaking; Ruby On Rails; Beer; Microsoft Excel; Python; Teaching; Research; Scala; Microsoft Office; Data Analysis; Matlab; Factorytalk View; Microsoft Word; Powerpoint; Unix; Tutoring. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Fidel Salgado is a member of the class of 2017, currently serving as the nan at nan, a Others company based in San Francisco. During their career, they've contributed to 6 organizations, including Intuit, Stripe, Brookhaven National Laboratory, and others. They've held various roles, such as Capstone Design Project For Community College Students, Course Assistant, Data Engineer Intern, and more. Equipped with a repertoire of 30 skills, they are proficient in Teamwork, Git, Https, C++, Spanish, among others.  With 6 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

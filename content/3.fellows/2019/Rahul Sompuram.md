@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Rahul Sompuram is a fellow from the class of 2019 who is currently working as a Investor at Cohere, a Others company based in Boston. Over the course of their career, they have worked at 10 organizations, including Redfin <redfin.com>; Actifio <actifio.com>; University of Pennsylvania <upenn.edu>; Mobile Heartbeat <mobileheartbeat.com>; Massachusetts General Hospital <massgeneral.org>; Betterworks <betterworks.com>; Horizons <joinhorizons.com>; Transform <transformdata.io>; Cohere <cohere.so>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 12 different job titles, such as Services Intern; Product Manager; Software Qa Intern; Software Engineering Intern; Engineering Fellow; Assistant Coach; Software Engineering Fellow; Assistant Teacher And Co-Director Of Alumni Band; Research Intern; Cofounder; Product Manager Ii; Investor. They have amassed 4 years of experience and have acquired 20 skills, including Laboratory Skills; Bamboo; Cascading Style Sheets; React.Js; Android; Ocaml; Java; React Native; Latex; Confluence; Research; Airwatch; Software Quality Assurance; Swift; Python; Javascript; Jira; Html; Microsoft Office; Salesforce.Com. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Rahul Sompuram is a member of the class of 2019, currently serving as the Investor at Cohere, a Others company based in Boston. During their career, they've contributed to 10 organizations, including Redfin, Actifio, University of Pennsylvania, and others. They've held various roles, such as Services Intern, Product Manager, Software Qa Intern, and more. Equipped with a repertoire of 20 skills, they are proficient in Laboratory Skills, Bamboo, Cascading Style Sheets, React.Js, Android, among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

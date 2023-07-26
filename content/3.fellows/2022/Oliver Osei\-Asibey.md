@@ -28,14 +28,11 @@ Number of Past Jobs: 16
 ::badge{type="info"}
 Number of Organizations: 15
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Oliver Osei-Asibey is a fellow from the class of 2022 who is currently working as a Associate Product Manager at Uber, a Others company based in nan. Over the course of their career, they have worked at 15 organizations, including PayPal <paypal.com>; Accenture <accenture.com>; Open Labs <openlabs.com>; Uber <uber.com>; Wharton <wharton.upenn.edu>; Wharton Social Venture Fund <whartonimpactinvestingpartners.com>; Fudan University <fudan.edu.cn>; HS2 <hs2.org.uk>; Elivade <elivade.com>; Connected Mobile <connectedmobile.co>; Ako Capital <akocapital.com>; Future Leaders Foundation <futureleaders.org>; Paravane Ventures <paravaneventures.com>; Kleiner Perkins Caufield & Byers <kpcb.com>; Projectaccess.Co <projectaccess.co>, and held 16 different job titles, such as Investment Associate; Market Research Intern; Product Strategy Case Analyst; Associate Product Manager; Information Technology Summer Intern; Fellow; Marketing Intern; Product Manager, Venmo Cryptocurrency; Growth Intern; Consulting Analyst; Summer Business Analyst And Researcher; Product Fellow; Business And Technology Consulting Analyst; Co-Founder And Campus Director - Pa University Of Pennsylvania; Director Of Us Product; Fisf International Entrepreneurship Competition Participant. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Oliver Osei-Asibey is a member of the class of 2022, currently serving as the Associate Product Manager at Uber, a Others company based in nan. During their career, they've contributed to 15 organizations, including PayPal, Accenture, Open Labs, and others. They've held various roles, such as Investment Associate, Market Research Intern, Product Strategy Case Analyst, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

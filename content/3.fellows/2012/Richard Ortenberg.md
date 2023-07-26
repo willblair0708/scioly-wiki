@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 14
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Richard Ortenberg is a fellow from the class of 2012 who is currently working as a Senior Software Developer at Sentry Insurance Group, a Others company based in San Francisco. Over the course of their career, they have worked at 14 organizations, including Cisco <cisco.com>; wikiHow <wikihow.com>; VideoSurf <videosurf.com>; Asurion <asurion.com>; Nest Labs <nest.com>; Sentry <sentry.io>; KPCB Edge <kpcbedge.com>; Foxpass <foxpass.com>; Sentry Insurance Group <sentry.com>; Books Inc. <booksinc.net>; Kleiner Perkins <kleinerperkins.com>; Amazon.com <amazon.es>; Kleiner Perkins Caufield & Byers <kpcb.com>; Decathlon Sports Club <decathlonsportsclub.com>, and held 10 different job titles, such as Employee #1; Developer In Residence; Senior Software Engineer; Summer Intern; Software Engineering Intern; Intern; Assistant Counselor; Retail Worker; Software Developer; Senior Software Developer. They have amassed 11 years of experience and have acquired 3 skills, including Java; Php; Objective C. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Richard Ortenberg is a member of the class of 2012, currently serving as the Senior Software Developer at Sentry Insurance Group, a Others company based in San Francisco. During their career, they've contributed to 14 organizations, including Cisco, wikiHow, VideoSurf, and others. They've held various roles, such as Employee #1, Developer In Residence, Senior Software Engineer, and more. Equipped with a repertoire of 3 skills, they are proficient in Java, Php, Objective C, among others.  With 11 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

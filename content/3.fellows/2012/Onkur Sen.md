@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Onkur Sen is a fellow from the class of 2012 who is currently working as a Staff Software Engineer at Robinhood, a Others company based in Gilroy. Over the course of their career, they have worked at 7 organizations, including Tripadvisor <tripadvisor.com>; Plum District <plumdistrict.com>; Robinhood <robinhood.com>; Rice University <rice.edu>; Accompany <accompany.com>; Palantir Technologies <palantir.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Software Engineer; Software Engineering Intern; Kpcb Engineering Fellow; Senior Software Engineer; Forward Deployed Engineer Intern; Staff Software Engineer; Photographer; Forward Deployed Engineer; Software Engineer Intern. They have amassed 11 years of experience and have acquired 7 skills, including Latex; Ruby; Java; Software Engineering; Html; Css; Python. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Onkur Sen is a member of the class of 2012, currently serving as the Staff Software Engineer at Robinhood, a Others company based in Gilroy. During their career, they've contributed to 7 organizations, including Tripadvisor, Plum District, Robinhood, and others. They've held various roles, such as Software Engineer, Software Engineering Intern, Kpcb Engineering Fellow, and more. Equipped with a repertoire of 7 skills, they are proficient in Latex, Ruby, Java, Software Engineering, Html, among others.  With 11 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

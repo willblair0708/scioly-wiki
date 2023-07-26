@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Justin Bleuel is a fellow from the class of 2017 who is currently working as a Co-Founder And Chief Executive Officer at Avenue, a Startup company based in New York. Over the course of their career, they have worked at 9 organizations, including Bloomberg <bloomberg.com>; Uber <uber.com>; Tenlegs <tenlegs.com>; Columbia University <columbia.edu>; Google <google.com>; Columbia School of Business <gsb.columbia.edu>; Noposit <noposit.com>; Avenue <avenue.so>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as KPCB Product Fellow; Co-Founder; Intern, Operations; Teaching Assistant; Co-Founder And Chief Executive Officer; Associate Product Manager; Associate Product Manager Intern; Independent Tutor; Software Engineering Intern; Product Fellow. They have amassed 6 years of experience and have acquired 11 skills, including Product Management; Programming; Python; Strategy; Web Development; Leadership; Java; Management; Mentoring; User Experience; Public Speaking. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Justin Bleuel is a member of the class of 2017, currently serving as the Co-Founder And Chief Executive Officer at Avenue, a Startup company based in New York. During their career, they've contributed to 9 organizations, including Bloomberg, Uber, Tenlegs, and others. They've held various roles, such as KPCB Product Fellow, Co-Founder, Intern, Operations, and more. Equipped with a repertoire of 11 skills, they are proficient in Product Management, Programming, Python, Strategy, Web Development, among others.  With 6 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

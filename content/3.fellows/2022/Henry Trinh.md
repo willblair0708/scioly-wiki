@@ -28,14 +28,11 @@ Number of Past Jobs: 5
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Henry Trinh is a fellow from the class of 2022 who is currently working as a Software Engineer at Watershedclimate, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Two Sigma <twosigma.com>; Google <google.com>; Nuro <nuro.ai>; Amazon Web Services <amazonaws.com>; Tesla <tesla.com>; Snap <snap.com>; Watershedclimate <watershedclimate.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 5 different job titles, such as Software Development Engineer Intern; Undergraduate Student Researcher; Software Engineer Intern; Software Engineer; Engineering Fellow. They have amassed 1 years of experience and have acquired 34 skills, including Problem Solving; Front End Development; Web Development; Design; Python; Diversity; Microsoft Excel; Javascript; C (Programming Language; Node.Js; C++; Tutoring; Algorithms; Full Stack Development; Android; Public Speaking; Android Development; Microsoft Powerpoint; Java; Reliability; Gatsbyjs; Teamwork; Continuous Integration; Leadership; React.Js; Html; Git; Spreadsheets; Typescript; Django; Cascading Style Sheets; English; Github; Back End Web Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Henry Trinh is a member of the class of 2022, currently serving as the Software Engineer at Watershedclimate, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including Two Sigma, Google, Nuro, and others. They've held various roles, such as Software Development Engineer Intern, Undergraduate Student Researcher, Software Engineer Intern, and more. Equipped with a repertoire of 34 skills, they are proficient in Problem Solving, Front End Development, Web Development, Design, Python, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

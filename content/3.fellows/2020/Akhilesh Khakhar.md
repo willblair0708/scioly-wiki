@@ -28,14 +28,11 @@ Number of Past Jobs: 3
 ::badge{type="info"}
 Number of Organizations: 3
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Akhilesh Khakhar is a fellow from the class of 2020 who is currently working as a nan at nan, a Others company based in New York. Over the course of their career, they have worked at 3 organizations, including Wharton <wharton.upenn.edu>; Kleiner Perkins <kleinerperkins.com>; Standford Alumni <stanfordalumni.org>, and held 3 different job titles, such as Management; Computer Science; 9C47F1E1340Fca88882B6402A37Be35C30Ade42B. They have amassed 3 years of experience and have acquired 13 skills, including Business Analysis; Business Planning; Public Speaking; Entrepreneurship; Marketing; Marketing Management; Marketing Strategy; Educational Technology; Small Business Development; Leadership; Business Strategy; Social Media Marketing; Business Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Akhilesh Khakhar is a member of the class of 2020, currently serving as the nan at nan, a Others company based in New York. During their career, they've contributed to 3 organizations, including Wharton, Kleiner Perkins, Standford Alumni, and others. They've held various roles, such as Management, Computer Science, 9C47F1E1340Fca88882B6402A37Be35C30Ade42B, and more. Equipped with a repertoire of 13 skills, they are proficient in Business Analysis, Business Planning, Public Speaking, Entrepreneurship, Marketing, among others.  With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

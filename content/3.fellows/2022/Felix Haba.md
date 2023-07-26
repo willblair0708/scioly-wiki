@@ -28,14 +28,11 @@ Number of Past Jobs: 4
 ::badge{type="info"}
 Number of Organizations: 6
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Felix Haba is a fellow from the class of 2022 who is currently working as a Software Engineering Intern at Citadel, a Others company based in Evanston. Over the course of their career, they have worked at 6 organizations, including Nuna Incorporated <nuna.com>; Citadel <citadel.com>; Chimad <chimad.northwestern.edu>; Northwestern University <northwestern.edu>; Amazon.com <amazon.es>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 4 different job titles, such as Undergraduate Research Assistant; Software Engineering Intern; Peer Mentor; Engineering Fellow. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Felix Haba is a member of the class of 2022, currently serving as the Software Engineering Intern at Citadel, a Others company based in Evanston. During their career, they've contributed to 6 organizations, including Nuna Incorporated, Citadel, Chimad, and others. They've held various roles, such as Undergraduate Research Assistant, Software Engineering Intern, Peer Mentor, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

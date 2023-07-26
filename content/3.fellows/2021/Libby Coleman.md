@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Libby Coleman is a fellow from the class of 2021 who is currently working as a Technical Product Manager at Apple, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including Pocket <getpocket.com>; Duolingo <duolingo.com>; DoorDash <doordash.com>; OZY Media <ozy.com>; Breakthrough Collaborative <breakthroughcollaborative.org>; SF Gate <sfgate.com>; Apple <apple.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Special Projects Manager And Reporter And Editor; Product Fellow; Product Manager Mba Intern; Product Manager Intern; Product Manager; Technical Product Manager; Innovation Editor And Special Projects Manager; Writing Teacher. They have amassed 2 years of experience and have acquired 6 skills, including News Writing; Improvisational Comedy; Journalism; Teaching; Editing; Creative Writing. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Libby Coleman is a member of the class of 2021, currently serving as the Technical Product Manager at Apple, a Big Tech company based in San Francisco. During their career, they've contributed to 8 organizations, including Pocket, Duolingo, DoorDash, and others. They've held various roles, such as Special Projects Manager And Reporter And Editor, Product Fellow, Product Manager Mba Intern, and more. Equipped with a repertoire of 6 skills, they are proficient in News Writing, Improvisational Comedy, Journalism, Teaching, Editing, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

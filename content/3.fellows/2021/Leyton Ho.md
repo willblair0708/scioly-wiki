@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 11
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Leyton Ho is a fellow from the class of 2021 who is currently working as a Software Engineering Intern at Vanta, a Others company based in San Francisco. Over the course of their career, they have worked at 11 organizations, including The New York Times <nytimes.com>; Skiff <skiff.com>; Uber <uber.com>; SiFive <sifive.com>; Contrary <contrarycap.com>; Brown University <brown.edu>; Vanta <vanta.com>; Stream <stream.club>; Campanile <campanile-bonn.de>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering Project Manager; Venture Partner; Research And Development Intern; Software Engineer; Software Engineering Intern; Editor In Chief; Engineering Project Manager, Visual Prosthesis Project; Kp Engineering Fellow. They have amassed 2 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Leyton Ho is a member of the class of 2021, currently serving as the Software Engineering Intern at Vanta, a Others company based in San Francisco. During their career, they've contributed to 11 organizations, including The New York Times, Skiff, Uber, and others. They've held various roles, such as Engineering Project Manager, Venture Partner, Research And Development Intern, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

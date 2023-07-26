@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 7
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Linzhi Qi is a fellow from the class of 2020 who is currently working as a Product Engineer at Figma, a Others company based in San Francisco. Over the course of their career, they have worked at 7 organizations, including MetaDesign <metadesign.com>; Figma <figma.com>; University of Pennsylvania <upenn.edu>; M12 - Microsoft's Venture Fund <m12.vc>; Dynamic Perspective GmbH <dynamicperspective.com>; Qlz <qlz.io>; perspect <perspect-gmbh.de>, and held 8 different job titles, such as Brand Strategy Intern; Incoming Software Engineering Intern; Resident Founder, Cohort 5, Microsoft Venture Accelerator Beijing; Teaching Assistant; Product Engineer; Contractor; Founder And Chief Executive Officer; Integration Lead And Software Engineer. They have amassed 3 years of experience and have acquired 21 skills, including Css; Entrepreneurship; Glsl; Python; Javascript; Solicitation; Cascading Style Sheets; C++; Objective C; Ui/Ux; Augmented Reality; C; New Business Development; Media Outreach; Web Development; Start Ups; Iphone Application Development; Business Development; Powerpoint; Computer Vision; Java. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Linzhi Qi is a member of the class of 2020, currently serving as the Product Engineer at Figma, a Others company based in San Francisco. During their career, they've contributed to 7 organizations, including MetaDesign, Figma, University of Pennsylvania, and others. They've held various roles, such as Brand Strategy Intern, Incoming Software Engineering Intern, Resident Founder, Cohort 5, Microsoft Venture Accelerator Beijing, and more. Equipped with a repertoire of 21 skills, they are proficient in Css, Entrepreneurship, Glsl, Python, Javascript, among others.  With 3 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

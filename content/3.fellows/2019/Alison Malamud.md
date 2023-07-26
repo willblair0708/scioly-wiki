@@ -28,14 +28,11 @@ Number of Past Jobs: 10
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Alison Malamud is a fellow from the class of 2019 who is currently working as a Product Design at Google, a Big Tech company based in San Francisco. Over the course of their career, they have worked at 9 organizations, including American Greetings <americangreetings.com>; University of Southern California <usc.edu>; FabFitFun <fabfitfun.com>; Robinhood <robinhood.com>; Google <google.com>; LavaLab USC <usclavalab.org>; Visa <visa.com>; VRSC <uscvr.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 10 different job titles, such as Design Fellow; Co-Founder; Director Of Digital Media; Product Designer; User Experience Design Intern; Design; Product Design; Designer, Microsoft Sponsored Research Lab; Director Of Design; Director Of Communications. They have amassed 4 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and have entrepreneurship experience.
+Alison Malamud is a member of the class of 2019, currently serving as the Product Design at Google, a Big Tech company based in San Francisco. During their career, they've contributed to 9 organizations, including American Greetings, University of Southern California, FabFitFun, and others. They've held various roles, such as Design Fellow, Co-Founder, Director Of Digital Media, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 4 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

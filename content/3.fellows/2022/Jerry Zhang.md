@@ -28,14 +28,11 @@ Number of Past Jobs: 13
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Jerry Zhang is a fellow from the class of 2022 who is currently working as a Vice President Of Program And Technology at Launch, a Others company based in San Francisco. Over the course of their career, they have worked at 8 organizations, including NVIDIA <nvidia.com>; Haas Business School at University of California Berkeley <haas.berkeley.edu>; UC Berkeley <berkeley.edu>; Tesla <tesla.com>; Massachusetts Institute of Technology <mit.edu>; TenaFe <tenafe.com>; Launch <uclaunch.com>; Google <goo.gle>, and held 13 different job titles, such as Researcher; Vice President Of Program And Technology; Lab Assistant - Eecs 16A; Academic Intern - Cs 61Bl; Teaching Assistant - Eecs 16A; Data Science And Machine Learning Researcher; Rtx Product Management Intern; Teacher; Software Engineer Intern; Summer Research Intern; Academic Student Employee - Eecs 16B; Electronic Design Intern; It Operations Intern. They have amassed 1 years of experience and have acquired 13 skills, including Javascript; React.Js; Strategic Planning; Java; Teamwork; Customer Service; Python; Project Management; Microsoft Office; Leadership; Research; Mongodb; Management. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Jerry Zhang is a member of the class of 2022, currently serving as the Vice President Of Program And Technology at Launch, a Others company based in San Francisco. During their career, they've contributed to 8 organizations, including NVIDIA, Haas Business School at University of California Berkeley, UC Berkeley, and others. They've held various roles, such as Researcher, Vice President Of Program And Technology, Lab Assistant - Eecs 16A, and more. Equipped with a repertoire of 13 skills, they are proficient in Javascript, React.Js, Strategic Planning, Java, Teamwork, among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

@@ -28,14 +28,11 @@ Number of Past Jobs: 9
 ::badge{type="info"}
 Number of Organizations: 8
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Uriel Sejas is a fellow from the class of 2022 who is currently working as a Software Engineer Intern at Slack, a Others company based in Baltimore. Over the course of their career, they have worked at 8 organizations, including Goldman Sachs <goldmansachs.com>; Slack <slack.com>; Uber <uber.com>; George Mason University <gmu.edu>; Capital One <capitalone.com>; Amazon Web Services <amazonaws.com>; JPMorgan Chase & Co. <jpmorganchase.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 9 different job titles, such as Sophomore Edge Software Engineering; Associate Product Manager Summit; Software Engineering Summit; Kp Engineering Fellow; Software Engineer Intern; Software Development Engineer Intern; Engineering Essentials; Mason; School of Engineering. They have amassed 1 years of experience and have acquired 1 skills, including nan. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Uriel Sejas is a member of the class of 2022, currently serving as the Software Engineer Intern at Slack, a Others company based in Baltimore. During their career, they've contributed to 8 organizations, including Goldman Sachs, Slack, Uber, and others. They've held various roles, such as Sophomore Edge Software Engineering, Associate Product Manager Summit, Software Engineering Summit, and more. Equipped with a repertoire of 1 skills, they are proficient in , among others.  With 1 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

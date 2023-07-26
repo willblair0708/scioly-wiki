@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Enrique Moran is a fellow from the class of 2022 who is currently working as a Co-Founder at Zeenoh, a Startup company based in Toronto. Over the course of their career, they have worked at 9 organizations, including LinkedIn <linkedin.com>; Zeenoh <zeenoh.com>; Hoover Institution at Stanford University <hoover.org>; Google <google.com>; Microsoft <microsoft.com>; Intecreate Software <intecreate.ca>; Pair Team <pairteam.com>; Zeeno <zeeno.ai>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Building; Software Engineering; Project Management + Software Engineering Intern; Software Engineering Intern; Engineering Fellow; Research Assistant; Co-Founder; Co Founder. They have amassed 1 years of experience and have acquired 25 skills, including Java; Adobe Photoshop; Maple; Science Communication; Adobe Premiere Pro; Python; Adobe Illustrator; Machine Learning; Voice Acting; Finanzas; Project Management; Microsoft Office; Sage; Matlab; Translation; Online Advertising; After Effects; Fintech; Software Engineering; Startups; Desarrollo De Software; Graphic Design; Engineering; Adobe Audition; Cloud Computing. It's also noteworthy that they have advanced skills and have entrepreneurship experience.
+Enrique Moran is a member of the class of 2022, currently serving as the Co-Founder at Zeenoh, a Startup company based in Toronto. During their career, they've contributed to 9 organizations, including LinkedIn, Zeenoh, Hoover Institution at Stanford University, and others. They've held various roles, such as Building, Software Engineering, Project Management + Software Engineering Intern, and more. Equipped with a repertoire of 25 skills, they are proficient in Java, Adobe Photoshop, Maple, Science Communication, Adobe Premiere Pro, among others. Their expertise also encompasses advanced skills. With 1 years of professional experience, they also have a background in entrepreneurship.
 ::
 ::callout{type="info"}
 #summary

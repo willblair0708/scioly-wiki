@@ -28,14 +28,11 @@ Number of Past Jobs: 7
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Chloe Zhang is a fellow from the class of 2020 who is currently working as a Software Engineer at Aptos, a Others company based in Palo Alto. Over the course of their career, they have worked at 9 organizations, including Goldman Sachs <goldmansachs.com>; Robinhood <robinhood.com>; University of Pittsburgh <pitt.edu>; Google <google.com>; 8VC <8vc.com>; Aptos <aptos.com>; Bayer <bayer.com>; Contrary <contrarycap.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 7 different job titles, such as Fellow; Software Engineer; Nlp Research Assistant; Technology Summer Analyst; Mentoring And Teaching, Office Of Undergraduate Research; Software Engineer Intern; Engineering Fellow. They have amassed 3 years of experience and have acquired 16 skills, including Teamwork; Data Analysis; Natural Language Processing; English; Machine Learning; Javascript; Matlab; Software Development; Python; C#; Algorithms; Chinese; Java; C; Data Analytics; Programming. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Chloe Zhang is a member of the class of 2020, currently serving as the Software Engineer at Aptos, a Others company based in Palo Alto. During their career, they've contributed to 9 organizations, including Goldman Sachs, Robinhood, University of Pittsburgh, and others. They've held various roles, such as Fellow, Software Engineer, Nlp Research Assistant, and more. Equipped with a repertoire of 16 skills, they are proficient in Teamwork, Data Analysis, Natural Language Processing, English, Machine Learning, among others. Their expertise also encompasses advanced skills. With 3 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

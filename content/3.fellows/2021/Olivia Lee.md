@@ -28,14 +28,11 @@ Number of Past Jobs: 12
 ::badge{type="info"}
 Number of Organizations: 10
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Olivia Lee is a fellow from the class of 2021 who is currently working as a Software Engineer at Brex, a Others company based in Fullerton. Over the course of their career, they have worked at 10 organizations, including HBO <hbo.com>; Uber <uber.com>; UC Berkeley <berkeley.edu>; Brex <brex.com>; Amazon.com <amazon.es>; Pi Sigma Epsilon <berkeleypse.org>; Let's Eat! <letseat.company>; ZC Consulting <zc-consulting.org>; Kleiner Perkins Caufield & Byers <kpcb.com>; Cod.Ed Education Corp <coded.academy>, and held 12 different job titles, such as Swe Career Prep Fellow; Director Of Design; Software Development Engineer Intern; User Interface And User Experience Design Intern; Technical Program Manager Intern; Engineering Fellow; Computer Lab Assistant; Budget Analyst - Committee On Student Fees And Services; Director Of Technology And Web Development; Project Analyst; Ask Coding Instructor; Software Engineer. They have amassed 2 years of experience and have acquired 19 skills, including User Experience; Javascript; Microsoft Word; Product Design; Adobe Photoshop; User Interface Design; Microsoft Excel; User Centered Design; Journalism; Ui; Java; Html5; Indesign; Python; Customer Service; Team Leadership; Microsoft Powerpoint; Css; Product Development. It's also noteworthy that they have a strong set of skills and do not have entrepreneurship experience.
+Olivia Lee is a member of the class of 2021, currently serving as the Software Engineer at Brex, a Others company based in Fullerton. During their career, they've contributed to 10 organizations, including HBO, Uber, UC Berkeley, and others. They've held various roles, such as Swe Career Prep Fellow, Director Of Design, Software Development Engineer Intern, and more. Equipped with a repertoire of 19 skills, they are proficient in User Experience, Javascript, Microsoft Word, Product Design, Adobe Photoshop, among others.  With 2 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary

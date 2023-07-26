@@ -28,14 +28,11 @@ Number of Past Jobs: 8
 ::badge{type="info"}
 Number of Organizations: 9
 ::
-::badge{type="info"}
-Advanced Skills: Yes
-::
 ::callout{type="info"}
 #summary
 Summary
 #content
-Mahalaxmi Elango is a fellow from the class of 2018 who is currently working as a Software Engineer at Meta, a Big Tech company based in Cambridge. Over the course of their career, they have worked at 9 organizations, including OfferUp <offerup.com>; Mango Health <mangohealth.com>; Fred Hutch <fredhutch.org>; Hoover Institution at Stanford University <hoover.org>; Microsoft <microsoft.com>; MIT Solve <solve.mit.edu>; Massachusetts Institute of Technology <mit.edu>; Meta <meta.com>; Kleiner Perkins Caufield & Byers <kpcb.com>, and held 8 different job titles, such as Engineering; Research Intern; Backend Intern; Engineering Fellow; President; Summer Intern; Software Engineer; Software Engineering Intern. They have amassed 5 years of experience and have acquired 8 skills, including Research; Machine Learning; Cancer Research; Big Data; Robot Programming; Python; Clinical Research; Robotics. It's also noteworthy that they have advanced skills and do not have entrepreneurship experience.
+Mahalaxmi Elango is a member of the class of 2018, currently serving as the Software Engineer at Meta, a Big Tech company based in Cambridge. During their career, they've contributed to 9 organizations, including OfferUp, Mango Health, Fred Hutch, and others. They've held various roles, such as Engineering, Research Intern, Backend Intern, and more. Equipped with a repertoire of 8 skills, they are proficient in Research, Machine Learning, Cancer Research, Big Data, Robot Programming, among others. Their expertise also encompasses advanced skills. With 5 years of professional experience, they have primarily been involved in established organizations.
 ::
 ::callout{type="info"}
 #summary
