@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/KP.png" alt="Kleiner Perkins Fellows" class="logo" />
+    <img src="/Logo_Odyssey.png" alt="Science Olympiad" class="logo" />
   </div>
 </template>
 
@@ -10,7 +10,7 @@ css({
     height: 'inherit',
   },
   '.logo': {
-    width: '400px', /* Adjust the width as per your preference */
+    width: '45px', /* Adjust the width as per your preference */
     height: 'auto', /* Maintain the aspect ratio */
   },
 });
